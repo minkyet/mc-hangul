@@ -1,0 +1,18 @@
+{
+  "pack": {
+    "pack_format": 71,
+    "supported_formats": {
+      "min_inclusive": 48,
+      "max_inclusive": 71
+    },
+    "description": [
+      {
+        "text": "mc-hangul\n",
+        "color": "green"
+      },
+      { "text": "한글 유틸리티 데이터팩\n", "color": "gold", "bold": false },
+      { "text": "1.0.0 for 1.21.*\n", "color": "white", "bold": false },
+      { "text": "by durumi", "color": "white", "bold": false }
+    ]
+  }
+}
