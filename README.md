@@ -2,7 +2,7 @@
 
 ![thumbnail](pack.png)
 
-mc-hangul은 한글 유틸리티 데이터팩입니다. 조사 붙이기, 자모 분리 / 결합 등의 API 함수가 제공됩니다.
+mc-hangul은 마인크래프트 한글 유틸리티 데이터팩입니다. 조사 붙이기, 자모 분리 / 결합 등의 API 함수가 제공됩니다.
 
 mc-hangul은 [es-hangul](https://es-hangul.slash.page/)의 로직을 기반으로 작성되었으며, 마인크래프트 데이터팩에 맞게 인터페이스 및 로직을 조정했습니다.
 
@@ -21,7 +21,7 @@ API로 제공되는 함수들을 사용하면 `storage hangul: out`에 결과가
 
 각 함수들의 사용법은 [API 문서](API_DOC.md)를 참고해주세요.
 
-```js
+```mcfunction
 /function hangul:josa {str:"햄스터", josa:"이/가"}
 /data get storage hangul: out   # "햄스터가"
 ```
