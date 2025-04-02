@@ -10,9 +10,10 @@
         "text": "mc-hangul\n",
         "color": "green"
       },
-      { "text": "한글 유틸리티 데이터팩\n", "color": "gold", "bold": false },
-      { "text": "1.0.0 for 1.21.*\n", "color": "white", "bold": false },
-      { "text": "by durumi", "color": "white", "bold": false }
+      { "text": "한글 유틸리티 데이터팩\n", "color": "gold" },
+      { "text": "1.0.0 for 1.21-1.21.5\n", "color": "white" },
+      { "text": "by durumi\n", "color": "white" },
+      { "text": "https://github.com/minkyet/mc-hangul", "color": "blue" }
     ]
   }
 }
