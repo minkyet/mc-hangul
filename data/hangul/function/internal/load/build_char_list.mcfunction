@@ -4,11151 +4,11151 @@
 #
 # @within hangul:internal/load
 
-data modify storage hangul:const char set value []
-
-data modify storage hangul:const char append value "가"
-data modify storage hangul:const char append value "각"
-data modify storage hangul:const char append value "갂"
-data modify storage hangul:const char append value "갃"
-data modify storage hangul:const char append value "간"
-data modify storage hangul:const char append value "갅"
-data modify storage hangul:const char append value "갆"
-data modify storage hangul:const char append value "갇"
-data modify storage hangul:const char append value "갈"
-data modify storage hangul:const char append value "갉"
-data modify storage hangul:const char append value "갊"
-data modify storage hangul:const char append value "갋"
-data modify storage hangul:const char append value "갌"
-data modify storage hangul:const char append value "갍"
-data modify storage hangul:const char append value "갎"
-data modify storage hangul:const char append value "갏"
-data modify storage hangul:const char append value "감"
-data modify storage hangul:const char append value "갑"
-data modify storage hangul:const char append value "값"
-data modify storage hangul:const char append value "갓"
-data modify storage hangul:const char append value "갔"
-data modify storage hangul:const char append value "강"
-data modify storage hangul:const char append value "갖"
-data modify storage hangul:const char append value "갗"
-data modify storage hangul:const char append value "갘"
-data modify storage hangul:const char append value "같"
-data modify storage hangul:const char append value "갚"
-data modify storage hangul:const char append value "갛"
-data modify storage hangul:const char append value "개"
-data modify storage hangul:const char append value "객"
-data modify storage hangul:const char append value "갞"
-data modify storage hangul:const char append value "갟"
-data modify storage hangul:const char append value "갠"
-data modify storage hangul:const char append value "갡"
-data modify storage hangul:const char append value "갢"
-data modify storage hangul:const char append value "갣"
-data modify storage hangul:const char append value "갤"
-data modify storage hangul:const char append value "갥"
-data modify storage hangul:const char append value "갦"
-data modify storage hangul:const char append value "갧"
-data modify storage hangul:const char append value "갨"
-data modify storage hangul:const char append value "갩"
-data modify storage hangul:const char append value "갪"
-data modify storage hangul:const char append value "갫"
-data modify storage hangul:const char append value "갬"
-data modify storage hangul:const char append value "갭"
-data modify storage hangul:const char append value "갮"
-data modify storage hangul:const char append value "갯"
-data modify storage hangul:const char append value "갰"
-data modify storage hangul:const char append value "갱"
-data modify storage hangul:const char append value "갲"
-data modify storage hangul:const char append value "갳"
-data modify storage hangul:const char append value "갴"
-data modify storage hangul:const char append value "갵"
-data modify storage hangul:const char append value "갶"
-data modify storage hangul:const char append value "갷"
-data modify storage hangul:const char append value "갸"
-data modify storage hangul:const char append value "갹"
-data modify storage hangul:const char append value "갺"
-data modify storage hangul:const char append value "갻"
-data modify storage hangul:const char append value "갼"
-data modify storage hangul:const char append value "갽"
-data modify storage hangul:const char append value "갾"
-data modify storage hangul:const char append value "갿"
-data modify storage hangul:const char append value "걀"
-data modify storage hangul:const char append value "걁"
-data modify storage hangul:const char append value "걂"
-data modify storage hangul:const char append value "걃"
-data modify storage hangul:const char append value "걄"
-data modify storage hangul:const char append value "걅"
-data modify storage hangul:const char append value "걆"
-data modify storage hangul:const char append value "걇"
-data modify storage hangul:const char append value "걈"
-data modify storage hangul:const char append value "걉"
-data modify storage hangul:const char append value "걊"
-data modify storage hangul:const char append value "걋"
-data modify storage hangul:const char append value "걌"
-data modify storage hangul:const char append value "걍"
-data modify storage hangul:const char append value "걎"
-data modify storage hangul:const char append value "걏"
-data modify storage hangul:const char append value "걐"
-data modify storage hangul:const char append value "걑"
-data modify storage hangul:const char append value "걒"
-data modify storage hangul:const char append value "걓"
-data modify storage hangul:const char append value "걔"
-data modify storage hangul:const char append value "걕"
-data modify storage hangul:const char append value "걖"
-data modify storage hangul:const char append value "걗"
-data modify storage hangul:const char append value "걘"
-data modify storage hangul:const char append value "걙"
-data modify storage hangul:const char append value "걚"
-data modify storage hangul:const char append value "걛"
-data modify storage hangul:const char append value "걜"
-data modify storage hangul:const char append value "걝"
-data modify storage hangul:const char append value "걞"
-data modify storage hangul:const char append value "걟"
-data modify storage hangul:const char append value "걠"
-data modify storage hangul:const char append value "걡"
-data modify storage hangul:const char append value "걢"
-data modify storage hangul:const char append value "걣"
-data modify storage hangul:const char append value "걤"
-data modify storage hangul:const char append value "걥"
-data modify storage hangul:const char append value "걦"
-data modify storage hangul:const char append value "걧"
-data modify storage hangul:const char append value "걨"
-data modify storage hangul:const char append value "걩"
-data modify storage hangul:const char append value "걪"
-data modify storage hangul:const char append value "걫"
-data modify storage hangul:const char append value "걬"
-data modify storage hangul:const char append value "걭"
-data modify storage hangul:const char append value "걮"
-data modify storage hangul:const char append value "걯"
-data modify storage hangul:const char append value "거"
-data modify storage hangul:const char append value "걱"
-data modify storage hangul:const char append value "걲"
-data modify storage hangul:const char append value "걳"
-data modify storage hangul:const char append value "건"
-data modify storage hangul:const char append value "걵"
-data modify storage hangul:const char append value "걶"
-data modify storage hangul:const char append value "걷"
-data modify storage hangul:const char append value "걸"
-data modify storage hangul:const char append value "걹"
-data modify storage hangul:const char append value "걺"
-data modify storage hangul:const char append value "걻"
-data modify storage hangul:const char append value "걼"
-data modify storage hangul:const char append value "걽"
-data modify storage hangul:const char append value "걾"
-data modify storage hangul:const char append value "걿"
-data modify storage hangul:const char append value "검"
-data modify storage hangul:const char append value "겁"
-data modify storage hangul:const char append value "겂"
-data modify storage hangul:const char append value "것"
-data modify storage hangul:const char append value "겄"
-data modify storage hangul:const char append value "겅"
-data modify storage hangul:const char append value "겆"
-data modify storage hangul:const char append value "겇"
-data modify storage hangul:const char append value "겈"
-data modify storage hangul:const char append value "겉"
-data modify storage hangul:const char append value "겊"
-data modify storage hangul:const char append value "겋"
-data modify storage hangul:const char append value "게"
-data modify storage hangul:const char append value "겍"
-data modify storage hangul:const char append value "겎"
-data modify storage hangul:const char append value "겏"
-data modify storage hangul:const char append value "겐"
-data modify storage hangul:const char append value "겑"
-data modify storage hangul:const char append value "겒"
-data modify storage hangul:const char append value "겓"
-data modify storage hangul:const char append value "겔"
-data modify storage hangul:const char append value "겕"
-data modify storage hangul:const char append value "겖"
-data modify storage hangul:const char append value "겗"
-data modify storage hangul:const char append value "겘"
-data modify storage hangul:const char append value "겙"
-data modify storage hangul:const char append value "겚"
-data modify storage hangul:const char append value "겛"
-data modify storage hangul:const char append value "겜"
-data modify storage hangul:const char append value "겝"
-data modify storage hangul:const char append value "겞"
-data modify storage hangul:const char append value "겟"
-data modify storage hangul:const char append value "겠"
-data modify storage hangul:const char append value "겡"
-data modify storage hangul:const char append value "겢"
-data modify storage hangul:const char append value "겣"
-data modify storage hangul:const char append value "겤"
-data modify storage hangul:const char append value "겥"
-data modify storage hangul:const char append value "겦"
-data modify storage hangul:const char append value "겧"
-data modify storage hangul:const char append value "겨"
-data modify storage hangul:const char append value "격"
-data modify storage hangul:const char append value "겪"
-data modify storage hangul:const char append value "겫"
-data modify storage hangul:const char append value "견"
-data modify storage hangul:const char append value "겭"
-data modify storage hangul:const char append value "겮"
-data modify storage hangul:const char append value "겯"
-data modify storage hangul:const char append value "결"
-data modify storage hangul:const char append value "겱"
-data modify storage hangul:const char append value "겲"
-data modify storage hangul:const char append value "겳"
-data modify storage hangul:const char append value "겴"
-data modify storage hangul:const char append value "겵"
-data modify storage hangul:const char append value "겶"
-data modify storage hangul:const char append value "겷"
-data modify storage hangul:const char append value "겸"
-data modify storage hangul:const char append value "겹"
-data modify storage hangul:const char append value "겺"
-data modify storage hangul:const char append value "겻"
-data modify storage hangul:const char append value "겼"
-data modify storage hangul:const char append value "경"
-data modify storage hangul:const char append value "겾"
-data modify storage hangul:const char append value "겿"
-data modify storage hangul:const char append value "곀"
-data modify storage hangul:const char append value "곁"
-data modify storage hangul:const char append value "곂"
-data modify storage hangul:const char append value "곃"
-data modify storage hangul:const char append value "계"
-data modify storage hangul:const char append value "곅"
-data modify storage hangul:const char append value "곆"
-data modify storage hangul:const char append value "곇"
-data modify storage hangul:const char append value "곈"
-data modify storage hangul:const char append value "곉"
-data modify storage hangul:const char append value "곊"
-data modify storage hangul:const char append value "곋"
-data modify storage hangul:const char append value "곌"
-data modify storage hangul:const char append value "곍"
-data modify storage hangul:const char append value "곎"
-data modify storage hangul:const char append value "곏"
-data modify storage hangul:const char append value "곐"
-data modify storage hangul:const char append value "곑"
-data modify storage hangul:const char append value "곒"
-data modify storage hangul:const char append value "곓"
-data modify storage hangul:const char append value "곔"
-data modify storage hangul:const char append value "곕"
-data modify storage hangul:const char append value "곖"
-data modify storage hangul:const char append value "곗"
-data modify storage hangul:const char append value "곘"
-data modify storage hangul:const char append value "곙"
-data modify storage hangul:const char append value "곚"
-data modify storage hangul:const char append value "곛"
-data modify storage hangul:const char append value "곜"
-data modify storage hangul:const char append value "곝"
-data modify storage hangul:const char append value "곞"
-data modify storage hangul:const char append value "곟"
-data modify storage hangul:const char append value "고"
-data modify storage hangul:const char append value "곡"
-data modify storage hangul:const char append value "곢"
-data modify storage hangul:const char append value "곣"
-data modify storage hangul:const char append value "곤"
-data modify storage hangul:const char append value "곥"
-data modify storage hangul:const char append value "곦"
-data modify storage hangul:const char append value "곧"
-data modify storage hangul:const char append value "골"
-data modify storage hangul:const char append value "곩"
-data modify storage hangul:const char append value "곪"
-data modify storage hangul:const char append value "곫"
-data modify storage hangul:const char append value "곬"
-data modify storage hangul:const char append value "곭"
-data modify storage hangul:const char append value "곮"
-data modify storage hangul:const char append value "곯"
-data modify storage hangul:const char append value "곰"
-data modify storage hangul:const char append value "곱"
-data modify storage hangul:const char append value "곲"
-data modify storage hangul:const char append value "곳"
-data modify storage hangul:const char append value "곴"
-data modify storage hangul:const char append value "공"
-data modify storage hangul:const char append value "곶"
-data modify storage hangul:const char append value "곷"
-data modify storage hangul:const char append value "곸"
-data modify storage hangul:const char append value "곹"
-data modify storage hangul:const char append value "곺"
-data modify storage hangul:const char append value "곻"
-data modify storage hangul:const char append value "과"
-data modify storage hangul:const char append value "곽"
-data modify storage hangul:const char append value "곾"
-data modify storage hangul:const char append value "곿"
-data modify storage hangul:const char append value "관"
-data modify storage hangul:const char append value "괁"
-data modify storage hangul:const char append value "괂"
-data modify storage hangul:const char append value "괃"
-data modify storage hangul:const char append value "괄"
-data modify storage hangul:const char append value "괅"
-data modify storage hangul:const char append value "괆"
-data modify storage hangul:const char append value "괇"
-data modify storage hangul:const char append value "괈"
-data modify storage hangul:const char append value "괉"
-data modify storage hangul:const char append value "괊"
-data modify storage hangul:const char append value "괋"
-data modify storage hangul:const char append value "괌"
-data modify storage hangul:const char append value "괍"
-data modify storage hangul:const char append value "괎"
-data modify storage hangul:const char append value "괏"
-data modify storage hangul:const char append value "괐"
-data modify storage hangul:const char append value "광"
-data modify storage hangul:const char append value "괒"
-data modify storage hangul:const char append value "괓"
-data modify storage hangul:const char append value "괔"
-data modify storage hangul:const char append value "괕"
-data modify storage hangul:const char append value "괖"
-data modify storage hangul:const char append value "괗"
-data modify storage hangul:const char append value "괘"
-data modify storage hangul:const char append value "괙"
-data modify storage hangul:const char append value "괚"
-data modify storage hangul:const char append value "괛"
-data modify storage hangul:const char append value "괜"
-data modify storage hangul:const char append value "괝"
-data modify storage hangul:const char append value "괞"
-data modify storage hangul:const char append value "괟"
-data modify storage hangul:const char append value "괠"
-data modify storage hangul:const char append value "괡"
-data modify storage hangul:const char append value "괢"
-data modify storage hangul:const char append value "괣"
-data modify storage hangul:const char append value "괤"
-data modify storage hangul:const char append value "괥"
-data modify storage hangul:const char append value "괦"
-data modify storage hangul:const char append value "괧"
-data modify storage hangul:const char append value "괨"
-data modify storage hangul:const char append value "괩"
-data modify storage hangul:const char append value "괪"
-data modify storage hangul:const char append value "괫"
-data modify storage hangul:const char append value "괬"
-data modify storage hangul:const char append value "괭"
-data modify storage hangul:const char append value "괮"
-data modify storage hangul:const char append value "괯"
-data modify storage hangul:const char append value "괰"
-data modify storage hangul:const char append value "괱"
-data modify storage hangul:const char append value "괲"
-data modify storage hangul:const char append value "괳"
-data modify storage hangul:const char append value "괴"
-data modify storage hangul:const char append value "괵"
-data modify storage hangul:const char append value "괶"
-data modify storage hangul:const char append value "괷"
-data modify storage hangul:const char append value "괸"
-data modify storage hangul:const char append value "괹"
-data modify storage hangul:const char append value "괺"
-data modify storage hangul:const char append value "괻"
-data modify storage hangul:const char append value "괼"
-data modify storage hangul:const char append value "괽"
-data modify storage hangul:const char append value "괾"
-data modify storage hangul:const char append value "괿"
-data modify storage hangul:const char append value "굀"
-data modify storage hangul:const char append value "굁"
-data modify storage hangul:const char append value "굂"
-data modify storage hangul:const char append value "굃"
-data modify storage hangul:const char append value "굄"
-data modify storage hangul:const char append value "굅"
-data modify storage hangul:const char append value "굆"
-data modify storage hangul:const char append value "굇"
-data modify storage hangul:const char append value "굈"
-data modify storage hangul:const char append value "굉"
-data modify storage hangul:const char append value "굊"
-data modify storage hangul:const char append value "굋"
-data modify storage hangul:const char append value "굌"
-data modify storage hangul:const char append value "굍"
-data modify storage hangul:const char append value "굎"
-data modify storage hangul:const char append value "굏"
-data modify storage hangul:const char append value "교"
-data modify storage hangul:const char append value "굑"
-data modify storage hangul:const char append value "굒"
-data modify storage hangul:const char append value "굓"
-data modify storage hangul:const char append value "굔"
-data modify storage hangul:const char append value "굕"
-data modify storage hangul:const char append value "굖"
-data modify storage hangul:const char append value "굗"
-data modify storage hangul:const char append value "굘"
-data modify storage hangul:const char append value "굙"
-data modify storage hangul:const char append value "굚"
-data modify storage hangul:const char append value "굛"
-data modify storage hangul:const char append value "굜"
-data modify storage hangul:const char append value "굝"
-data modify storage hangul:const char append value "굞"
-data modify storage hangul:const char append value "굟"
-data modify storage hangul:const char append value "굠"
-data modify storage hangul:const char append value "굡"
-data modify storage hangul:const char append value "굢"
-data modify storage hangul:const char append value "굣"
-data modify storage hangul:const char append value "굤"
-data modify storage hangul:const char append value "굥"
-data modify storage hangul:const char append value "굦"
-data modify storage hangul:const char append value "굧"
-data modify storage hangul:const char append value "굨"
-data modify storage hangul:const char append value "굩"
-data modify storage hangul:const char append value "굪"
-data modify storage hangul:const char append value "굫"
-data modify storage hangul:const char append value "구"
-data modify storage hangul:const char append value "국"
-data modify storage hangul:const char append value "굮"
-data modify storage hangul:const char append value "굯"
-data modify storage hangul:const char append value "군"
-data modify storage hangul:const char append value "굱"
-data modify storage hangul:const char append value "굲"
-data modify storage hangul:const char append value "굳"
-data modify storage hangul:const char append value "굴"
-data modify storage hangul:const char append value "굵"
-data modify storage hangul:const char append value "굶"
-data modify storage hangul:const char append value "굷"
-data modify storage hangul:const char append value "굸"
-data modify storage hangul:const char append value "굹"
-data modify storage hangul:const char append value "굺"
-data modify storage hangul:const char append value "굻"
-data modify storage hangul:const char append value "굼"
-data modify storage hangul:const char append value "굽"
-data modify storage hangul:const char append value "굾"
-data modify storage hangul:const char append value "굿"
-data modify storage hangul:const char append value "궀"
-data modify storage hangul:const char append value "궁"
-data modify storage hangul:const char append value "궂"
-data modify storage hangul:const char append value "궃"
-data modify storage hangul:const char append value "궄"
-data modify storage hangul:const char append value "궅"
-data modify storage hangul:const char append value "궆"
-data modify storage hangul:const char append value "궇"
-data modify storage hangul:const char append value "궈"
-data modify storage hangul:const char append value "궉"
-data modify storage hangul:const char append value "궊"
-data modify storage hangul:const char append value "궋"
-data modify storage hangul:const char append value "권"
-data modify storage hangul:const char append value "궍"
-data modify storage hangul:const char append value "궎"
-data modify storage hangul:const char append value "궏"
-data modify storage hangul:const char append value "궐"
-data modify storage hangul:const char append value "궑"
-data modify storage hangul:const char append value "궒"
-data modify storage hangul:const char append value "궓"
-data modify storage hangul:const char append value "궔"
-data modify storage hangul:const char append value "궕"
-data modify storage hangul:const char append value "궖"
-data modify storage hangul:const char append value "궗"
-data modify storage hangul:const char append value "궘"
-data modify storage hangul:const char append value "궙"
-data modify storage hangul:const char append value "궚"
-data modify storage hangul:const char append value "궛"
-data modify storage hangul:const char append value "궜"
-data modify storage hangul:const char append value "궝"
-data modify storage hangul:const char append value "궞"
-data modify storage hangul:const char append value "궟"
-data modify storage hangul:const char append value "궠"
-data modify storage hangul:const char append value "궡"
-data modify storage hangul:const char append value "궢"
-data modify storage hangul:const char append value "궣"
-data modify storage hangul:const char append value "궤"
-data modify storage hangul:const char append value "궥"
-data modify storage hangul:const char append value "궦"
-data modify storage hangul:const char append value "궧"
-data modify storage hangul:const char append value "궨"
-data modify storage hangul:const char append value "궩"
-data modify storage hangul:const char append value "궪"
-data modify storage hangul:const char append value "궫"
-data modify storage hangul:const char append value "궬"
-data modify storage hangul:const char append value "궭"
-data modify storage hangul:const char append value "궮"
-data modify storage hangul:const char append value "궯"
-data modify storage hangul:const char append value "궰"
-data modify storage hangul:const char append value "궱"
-data modify storage hangul:const char append value "궲"
-data modify storage hangul:const char append value "궳"
-data modify storage hangul:const char append value "궴"
-data modify storage hangul:const char append value "궵"
-data modify storage hangul:const char append value "궶"
-data modify storage hangul:const char append value "궷"
-data modify storage hangul:const char append value "궸"
-data modify storage hangul:const char append value "궹"
-data modify storage hangul:const char append value "궺"
-data modify storage hangul:const char append value "궻"
-data modify storage hangul:const char append value "궼"
-data modify storage hangul:const char append value "궽"
-data modify storage hangul:const char append value "궾"
-data modify storage hangul:const char append value "궿"
-data modify storage hangul:const char append value "귀"
-data modify storage hangul:const char append value "귁"
-data modify storage hangul:const char append value "귂"
-data modify storage hangul:const char append value "귃"
-data modify storage hangul:const char append value "귄"
-data modify storage hangul:const char append value "귅"
-data modify storage hangul:const char append value "귆"
-data modify storage hangul:const char append value "귇"
-data modify storage hangul:const char append value "귈"
-data modify storage hangul:const char append value "귉"
-data modify storage hangul:const char append value "귊"
-data modify storage hangul:const char append value "귋"
-data modify storage hangul:const char append value "귌"
-data modify storage hangul:const char append value "귍"
-data modify storage hangul:const char append value "귎"
-data modify storage hangul:const char append value "귏"
-data modify storage hangul:const char append value "귐"
-data modify storage hangul:const char append value "귑"
-data modify storage hangul:const char append value "귒"
-data modify storage hangul:const char append value "귓"
-data modify storage hangul:const char append value "귔"
-data modify storage hangul:const char append value "귕"
-data modify storage hangul:const char append value "귖"
-data modify storage hangul:const char append value "귗"
-data modify storage hangul:const char append value "귘"
-data modify storage hangul:const char append value "귙"
-data modify storage hangul:const char append value "귚"
-data modify storage hangul:const char append value "귛"
-data modify storage hangul:const char append value "규"
-data modify storage hangul:const char append value "귝"
-data modify storage hangul:const char append value "귞"
-data modify storage hangul:const char append value "귟"
-data modify storage hangul:const char append value "균"
-data modify storage hangul:const char append value "귡"
-data modify storage hangul:const char append value "귢"
-data modify storage hangul:const char append value "귣"
-data modify storage hangul:const char append value "귤"
-data modify storage hangul:const char append value "귥"
-data modify storage hangul:const char append value "귦"
-data modify storage hangul:const char append value "귧"
-data modify storage hangul:const char append value "귨"
-data modify storage hangul:const char append value "귩"
-data modify storage hangul:const char append value "귪"
-data modify storage hangul:const char append value "귫"
-data modify storage hangul:const char append value "귬"
-data modify storage hangul:const char append value "귭"
-data modify storage hangul:const char append value "귮"
-data modify storage hangul:const char append value "귯"
-data modify storage hangul:const char append value "귰"
-data modify storage hangul:const char append value "귱"
-data modify storage hangul:const char append value "귲"
-data modify storage hangul:const char append value "귳"
-data modify storage hangul:const char append value "귴"
-data modify storage hangul:const char append value "귵"
-data modify storage hangul:const char append value "귶"
-data modify storage hangul:const char append value "귷"
-data modify storage hangul:const char append value "그"
-data modify storage hangul:const char append value "극"
-data modify storage hangul:const char append value "귺"
-data modify storage hangul:const char append value "귻"
-data modify storage hangul:const char append value "근"
-data modify storage hangul:const char append value "귽"
-data modify storage hangul:const char append value "귾"
-data modify storage hangul:const char append value "귿"
-data modify storage hangul:const char append value "글"
-data modify storage hangul:const char append value "긁"
-data modify storage hangul:const char append value "긂"
-data modify storage hangul:const char append value "긃"
-data modify storage hangul:const char append value "긄"
-data modify storage hangul:const char append value "긅"
-data modify storage hangul:const char append value "긆"
-data modify storage hangul:const char append value "긇"
-data modify storage hangul:const char append value "금"
-data modify storage hangul:const char append value "급"
-data modify storage hangul:const char append value "긊"
-data modify storage hangul:const char append value "긋"
-data modify storage hangul:const char append value "긌"
-data modify storage hangul:const char append value "긍"
-data modify storage hangul:const char append value "긎"
-data modify storage hangul:const char append value "긏"
-data modify storage hangul:const char append value "긐"
-data modify storage hangul:const char append value "긑"
-data modify storage hangul:const char append value "긒"
-data modify storage hangul:const char append value "긓"
-data modify storage hangul:const char append value "긔"
-data modify storage hangul:const char append value "긕"
-data modify storage hangul:const char append value "긖"
-data modify storage hangul:const char append value "긗"
-data modify storage hangul:const char append value "긘"
-data modify storage hangul:const char append value "긙"
-data modify storage hangul:const char append value "긚"
-data modify storage hangul:const char append value "긛"
-data modify storage hangul:const char append value "긜"
-data modify storage hangul:const char append value "긝"
-data modify storage hangul:const char append value "긞"
-data modify storage hangul:const char append value "긟"
-data modify storage hangul:const char append value "긠"
-data modify storage hangul:const char append value "긡"
-data modify storage hangul:const char append value "긢"
-data modify storage hangul:const char append value "긣"
-data modify storage hangul:const char append value "긤"
-data modify storage hangul:const char append value "긥"
-data modify storage hangul:const char append value "긦"
-data modify storage hangul:const char append value "긧"
-data modify storage hangul:const char append value "긨"
-data modify storage hangul:const char append value "긩"
-data modify storage hangul:const char append value "긪"
-data modify storage hangul:const char append value "긫"
-data modify storage hangul:const char append value "긬"
-data modify storage hangul:const char append value "긭"
-data modify storage hangul:const char append value "긮"
-data modify storage hangul:const char append value "긯"
-data modify storage hangul:const char append value "기"
-data modify storage hangul:const char append value "긱"
-data modify storage hangul:const char append value "긲"
-data modify storage hangul:const char append value "긳"
-data modify storage hangul:const char append value "긴"
-data modify storage hangul:const char append value "긵"
-data modify storage hangul:const char append value "긶"
-data modify storage hangul:const char append value "긷"
-data modify storage hangul:const char append value "길"
-data modify storage hangul:const char append value "긹"
-data modify storage hangul:const char append value "긺"
-data modify storage hangul:const char append value "긻"
-data modify storage hangul:const char append value "긼"
-data modify storage hangul:const char append value "긽"
-data modify storage hangul:const char append value "긾"
-data modify storage hangul:const char append value "긿"
-data modify storage hangul:const char append value "김"
-data modify storage hangul:const char append value "깁"
-data modify storage hangul:const char append value "깂"
-data modify storage hangul:const char append value "깃"
-data modify storage hangul:const char append value "깄"
-data modify storage hangul:const char append value "깅"
-data modify storage hangul:const char append value "깆"
-data modify storage hangul:const char append value "깇"
-data modify storage hangul:const char append value "깈"
-data modify storage hangul:const char append value "깉"
-data modify storage hangul:const char append value "깊"
-data modify storage hangul:const char append value "깋"
-data modify storage hangul:const char append value "까"
-data modify storage hangul:const char append value "깍"
-data modify storage hangul:const char append value "깎"
-data modify storage hangul:const char append value "깏"
-data modify storage hangul:const char append value "깐"
-data modify storage hangul:const char append value "깑"
-data modify storage hangul:const char append value "깒"
-data modify storage hangul:const char append value "깓"
-data modify storage hangul:const char append value "깔"
-data modify storage hangul:const char append value "깕"
-data modify storage hangul:const char append value "깖"
-data modify storage hangul:const char append value "깗"
-data modify storage hangul:const char append value "깘"
-data modify storage hangul:const char append value "깙"
-data modify storage hangul:const char append value "깚"
-data modify storage hangul:const char append value "깛"
-data modify storage hangul:const char append value "깜"
-data modify storage hangul:const char append value "깝"
-data modify storage hangul:const char append value "깞"
-data modify storage hangul:const char append value "깟"
-data modify storage hangul:const char append value "깠"
-data modify storage hangul:const char append value "깡"
-data modify storage hangul:const char append value "깢"
-data modify storage hangul:const char append value "깣"
-data modify storage hangul:const char append value "깤"
-data modify storage hangul:const char append value "깥"
-data modify storage hangul:const char append value "깦"
-data modify storage hangul:const char append value "깧"
-data modify storage hangul:const char append value "깨"
-data modify storage hangul:const char append value "깩"
-data modify storage hangul:const char append value "깪"
-data modify storage hangul:const char append value "깫"
-data modify storage hangul:const char append value "깬"
-data modify storage hangul:const char append value "깭"
-data modify storage hangul:const char append value "깮"
-data modify storage hangul:const char append value "깯"
-data modify storage hangul:const char append value "깰"
-data modify storage hangul:const char append value "깱"
-data modify storage hangul:const char append value "깲"
-data modify storage hangul:const char append value "깳"
-data modify storage hangul:const char append value "깴"
-data modify storage hangul:const char append value "깵"
-data modify storage hangul:const char append value "깶"
-data modify storage hangul:const char append value "깷"
-data modify storage hangul:const char append value "깸"
-data modify storage hangul:const char append value "깹"
-data modify storage hangul:const char append value "깺"
-data modify storage hangul:const char append value "깻"
-data modify storage hangul:const char append value "깼"
-data modify storage hangul:const char append value "깽"
-data modify storage hangul:const char append value "깾"
-data modify storage hangul:const char append value "깿"
-data modify storage hangul:const char append value "꺀"
-data modify storage hangul:const char append value "꺁"
-data modify storage hangul:const char append value "꺂"
-data modify storage hangul:const char append value "꺃"
-data modify storage hangul:const char append value "꺄"
-data modify storage hangul:const char append value "꺅"
-data modify storage hangul:const char append value "꺆"
-data modify storage hangul:const char append value "꺇"
-data modify storage hangul:const char append value "꺈"
-data modify storage hangul:const char append value "꺉"
-data modify storage hangul:const char append value "꺊"
-data modify storage hangul:const char append value "꺋"
-data modify storage hangul:const char append value "꺌"
-data modify storage hangul:const char append value "꺍"
-data modify storage hangul:const char append value "꺎"
-data modify storage hangul:const char append value "꺏"
-data modify storage hangul:const char append value "꺐"
-data modify storage hangul:const char append value "꺑"
-data modify storage hangul:const char append value "꺒"
-data modify storage hangul:const char append value "꺓"
-data modify storage hangul:const char append value "꺔"
-data modify storage hangul:const char append value "꺕"
-data modify storage hangul:const char append value "꺖"
-data modify storage hangul:const char append value "꺗"
-data modify storage hangul:const char append value "꺘"
-data modify storage hangul:const char append value "꺙"
-data modify storage hangul:const char append value "꺚"
-data modify storage hangul:const char append value "꺛"
-data modify storage hangul:const char append value "꺜"
-data modify storage hangul:const char append value "꺝"
-data modify storage hangul:const char append value "꺞"
-data modify storage hangul:const char append value "꺟"
-data modify storage hangul:const char append value "꺠"
-data modify storage hangul:const char append value "꺡"
-data modify storage hangul:const char append value "꺢"
-data modify storage hangul:const char append value "꺣"
-data modify storage hangul:const char append value "꺤"
-data modify storage hangul:const char append value "꺥"
-data modify storage hangul:const char append value "꺦"
-data modify storage hangul:const char append value "꺧"
-data modify storage hangul:const char append value "꺨"
-data modify storage hangul:const char append value "꺩"
-data modify storage hangul:const char append value "꺪"
-data modify storage hangul:const char append value "꺫"
-data modify storage hangul:const char append value "꺬"
-data modify storage hangul:const char append value "꺭"
-data modify storage hangul:const char append value "꺮"
-data modify storage hangul:const char append value "꺯"
-data modify storage hangul:const char append value "꺰"
-data modify storage hangul:const char append value "꺱"
-data modify storage hangul:const char append value "꺲"
-data modify storage hangul:const char append value "꺳"
-data modify storage hangul:const char append value "꺴"
-data modify storage hangul:const char append value "꺵"
-data modify storage hangul:const char append value "꺶"
-data modify storage hangul:const char append value "꺷"
-data modify storage hangul:const char append value "꺸"
-data modify storage hangul:const char append value "꺹"
-data modify storage hangul:const char append value "꺺"
-data modify storage hangul:const char append value "꺻"
-data modify storage hangul:const char append value "꺼"
-data modify storage hangul:const char append value "꺽"
-data modify storage hangul:const char append value "꺾"
-data modify storage hangul:const char append value "꺿"
-data modify storage hangul:const char append value "껀"
-data modify storage hangul:const char append value "껁"
-data modify storage hangul:const char append value "껂"
-data modify storage hangul:const char append value "껃"
-data modify storage hangul:const char append value "껄"
-data modify storage hangul:const char append value "껅"
-data modify storage hangul:const char append value "껆"
-data modify storage hangul:const char append value "껇"
-data modify storage hangul:const char append value "껈"
-data modify storage hangul:const char append value "껉"
-data modify storage hangul:const char append value "껊"
-data modify storage hangul:const char append value "껋"
-data modify storage hangul:const char append value "껌"
-data modify storage hangul:const char append value "껍"
-data modify storage hangul:const char append value "껎"
-data modify storage hangul:const char append value "껏"
-data modify storage hangul:const char append value "껐"
-data modify storage hangul:const char append value "껑"
-data modify storage hangul:const char append value "껒"
-data modify storage hangul:const char append value "껓"
-data modify storage hangul:const char append value "껔"
-data modify storage hangul:const char append value "껕"
-data modify storage hangul:const char append value "껖"
-data modify storage hangul:const char append value "껗"
-data modify storage hangul:const char append value "께"
-data modify storage hangul:const char append value "껙"
-data modify storage hangul:const char append value "껚"
-data modify storage hangul:const char append value "껛"
-data modify storage hangul:const char append value "껜"
-data modify storage hangul:const char append value "껝"
-data modify storage hangul:const char append value "껞"
-data modify storage hangul:const char append value "껟"
-data modify storage hangul:const char append value "껠"
-data modify storage hangul:const char append value "껡"
-data modify storage hangul:const char append value "껢"
-data modify storage hangul:const char append value "껣"
-data modify storage hangul:const char append value "껤"
-data modify storage hangul:const char append value "껥"
-data modify storage hangul:const char append value "껦"
-data modify storage hangul:const char append value "껧"
-data modify storage hangul:const char append value "껨"
-data modify storage hangul:const char append value "껩"
-data modify storage hangul:const char append value "껪"
-data modify storage hangul:const char append value "껫"
-data modify storage hangul:const char append value "껬"
-data modify storage hangul:const char append value "껭"
-data modify storage hangul:const char append value "껮"
-data modify storage hangul:const char append value "껯"
-data modify storage hangul:const char append value "껰"
-data modify storage hangul:const char append value "껱"
-data modify storage hangul:const char append value "껲"
-data modify storage hangul:const char append value "껳"
-data modify storage hangul:const char append value "껴"
-data modify storage hangul:const char append value "껵"
-data modify storage hangul:const char append value "껶"
-data modify storage hangul:const char append value "껷"
-data modify storage hangul:const char append value "껸"
-data modify storage hangul:const char append value "껹"
-data modify storage hangul:const char append value "껺"
-data modify storage hangul:const char append value "껻"
-data modify storage hangul:const char append value "껼"
-data modify storage hangul:const char append value "껽"
-data modify storage hangul:const char append value "껾"
-data modify storage hangul:const char append value "껿"
-data modify storage hangul:const char append value "꼀"
-data modify storage hangul:const char append value "꼁"
-data modify storage hangul:const char append value "꼂"
-data modify storage hangul:const char append value "꼃"
-data modify storage hangul:const char append value "꼄"
-data modify storage hangul:const char append value "꼅"
-data modify storage hangul:const char append value "꼆"
-data modify storage hangul:const char append value "꼇"
-data modify storage hangul:const char append value "꼈"
-data modify storage hangul:const char append value "꼉"
-data modify storage hangul:const char append value "꼊"
-data modify storage hangul:const char append value "꼋"
-data modify storage hangul:const char append value "꼌"
-data modify storage hangul:const char append value "꼍"
-data modify storage hangul:const char append value "꼎"
-data modify storage hangul:const char append value "꼏"
-data modify storage hangul:const char append value "꼐"
-data modify storage hangul:const char append value "꼑"
-data modify storage hangul:const char append value "꼒"
-data modify storage hangul:const char append value "꼓"
-data modify storage hangul:const char append value "꼔"
-data modify storage hangul:const char append value "꼕"
-data modify storage hangul:const char append value "꼖"
-data modify storage hangul:const char append value "꼗"
-data modify storage hangul:const char append value "꼘"
-data modify storage hangul:const char append value "꼙"
-data modify storage hangul:const char append value "꼚"
-data modify storage hangul:const char append value "꼛"
-data modify storage hangul:const char append value "꼜"
-data modify storage hangul:const char append value "꼝"
-data modify storage hangul:const char append value "꼞"
-data modify storage hangul:const char append value "꼟"
-data modify storage hangul:const char append value "꼠"
-data modify storage hangul:const char append value "꼡"
-data modify storage hangul:const char append value "꼢"
-data modify storage hangul:const char append value "꼣"
-data modify storage hangul:const char append value "꼤"
-data modify storage hangul:const char append value "꼥"
-data modify storage hangul:const char append value "꼦"
-data modify storage hangul:const char append value "꼧"
-data modify storage hangul:const char append value "꼨"
-data modify storage hangul:const char append value "꼩"
-data modify storage hangul:const char append value "꼪"
-data modify storage hangul:const char append value "꼫"
-data modify storage hangul:const char append value "꼬"
-data modify storage hangul:const char append value "꼭"
-data modify storage hangul:const char append value "꼮"
-data modify storage hangul:const char append value "꼯"
-data modify storage hangul:const char append value "꼰"
-data modify storage hangul:const char append value "꼱"
-data modify storage hangul:const char append value "꼲"
-data modify storage hangul:const char append value "꼳"
-data modify storage hangul:const char append value "꼴"
-data modify storage hangul:const char append value "꼵"
-data modify storage hangul:const char append value "꼶"
-data modify storage hangul:const char append value "꼷"
-data modify storage hangul:const char append value "꼸"
-data modify storage hangul:const char append value "꼹"
-data modify storage hangul:const char append value "꼺"
-data modify storage hangul:const char append value "꼻"
-data modify storage hangul:const char append value "꼼"
-data modify storage hangul:const char append value "꼽"
-data modify storage hangul:const char append value "꼾"
-data modify storage hangul:const char append value "꼿"
-data modify storage hangul:const char append value "꽀"
-data modify storage hangul:const char append value "꽁"
-data modify storage hangul:const char append value "꽂"
-data modify storage hangul:const char append value "꽃"
-data modify storage hangul:const char append value "꽄"
-data modify storage hangul:const char append value "꽅"
-data modify storage hangul:const char append value "꽆"
-data modify storage hangul:const char append value "꽇"
-data modify storage hangul:const char append value "꽈"
-data modify storage hangul:const char append value "꽉"
-data modify storage hangul:const char append value "꽊"
-data modify storage hangul:const char append value "꽋"
-data modify storage hangul:const char append value "꽌"
-data modify storage hangul:const char append value "꽍"
-data modify storage hangul:const char append value "꽎"
-data modify storage hangul:const char append value "꽏"
-data modify storage hangul:const char append value "꽐"
-data modify storage hangul:const char append value "꽑"
-data modify storage hangul:const char append value "꽒"
-data modify storage hangul:const char append value "꽓"
-data modify storage hangul:const char append value "꽔"
-data modify storage hangul:const char append value "꽕"
-data modify storage hangul:const char append value "꽖"
-data modify storage hangul:const char append value "꽗"
-data modify storage hangul:const char append value "꽘"
-data modify storage hangul:const char append value "꽙"
-data modify storage hangul:const char append value "꽚"
-data modify storage hangul:const char append value "꽛"
-data modify storage hangul:const char append value "꽜"
-data modify storage hangul:const char append value "꽝"
-data modify storage hangul:const char append value "꽞"
-data modify storage hangul:const char append value "꽟"
-data modify storage hangul:const char append value "꽠"
-data modify storage hangul:const char append value "꽡"
-data modify storage hangul:const char append value "꽢"
-data modify storage hangul:const char append value "꽣"
-data modify storage hangul:const char append value "꽤"
-data modify storage hangul:const char append value "꽥"
-data modify storage hangul:const char append value "꽦"
-data modify storage hangul:const char append value "꽧"
-data modify storage hangul:const char append value "꽨"
-data modify storage hangul:const char append value "꽩"
-data modify storage hangul:const char append value "꽪"
-data modify storage hangul:const char append value "꽫"
-data modify storage hangul:const char append value "꽬"
-data modify storage hangul:const char append value "꽭"
-data modify storage hangul:const char append value "꽮"
-data modify storage hangul:const char append value "꽯"
-data modify storage hangul:const char append value "꽰"
-data modify storage hangul:const char append value "꽱"
-data modify storage hangul:const char append value "꽲"
-data modify storage hangul:const char append value "꽳"
-data modify storage hangul:const char append value "꽴"
-data modify storage hangul:const char append value "꽵"
-data modify storage hangul:const char append value "꽶"
-data modify storage hangul:const char append value "꽷"
-data modify storage hangul:const char append value "꽸"
-data modify storage hangul:const char append value "꽹"
-data modify storage hangul:const char append value "꽺"
-data modify storage hangul:const char append value "꽻"
-data modify storage hangul:const char append value "꽼"
-data modify storage hangul:const char append value "꽽"
-data modify storage hangul:const char append value "꽾"
-data modify storage hangul:const char append value "꽿"
-data modify storage hangul:const char append value "꾀"
-data modify storage hangul:const char append value "꾁"
-data modify storage hangul:const char append value "꾂"
-data modify storage hangul:const char append value "꾃"
-data modify storage hangul:const char append value "꾄"
-data modify storage hangul:const char append value "꾅"
-data modify storage hangul:const char append value "꾆"
-data modify storage hangul:const char append value "꾇"
-data modify storage hangul:const char append value "꾈"
-data modify storage hangul:const char append value "꾉"
-data modify storage hangul:const char append value "꾊"
-data modify storage hangul:const char append value "꾋"
-data modify storage hangul:const char append value "꾌"
-data modify storage hangul:const char append value "꾍"
-data modify storage hangul:const char append value "꾎"
-data modify storage hangul:const char append value "꾏"
-data modify storage hangul:const char append value "꾐"
-data modify storage hangul:const char append value "꾑"
-data modify storage hangul:const char append value "꾒"
-data modify storage hangul:const char append value "꾓"
-data modify storage hangul:const char append value "꾔"
-data modify storage hangul:const char append value "꾕"
-data modify storage hangul:const char append value "꾖"
-data modify storage hangul:const char append value "꾗"
-data modify storage hangul:const char append value "꾘"
-data modify storage hangul:const char append value "꾙"
-data modify storage hangul:const char append value "꾚"
-data modify storage hangul:const char append value "꾛"
-data modify storage hangul:const char append value "꾜"
-data modify storage hangul:const char append value "꾝"
-data modify storage hangul:const char append value "꾞"
-data modify storage hangul:const char append value "꾟"
-data modify storage hangul:const char append value "꾠"
-data modify storage hangul:const char append value "꾡"
-data modify storage hangul:const char append value "꾢"
-data modify storage hangul:const char append value "꾣"
-data modify storage hangul:const char append value "꾤"
-data modify storage hangul:const char append value "꾥"
-data modify storage hangul:const char append value "꾦"
-data modify storage hangul:const char append value "꾧"
-data modify storage hangul:const char append value "꾨"
-data modify storage hangul:const char append value "꾩"
-data modify storage hangul:const char append value "꾪"
-data modify storage hangul:const char append value "꾫"
-data modify storage hangul:const char append value "꾬"
-data modify storage hangul:const char append value "꾭"
-data modify storage hangul:const char append value "꾮"
-data modify storage hangul:const char append value "꾯"
-data modify storage hangul:const char append value "꾰"
-data modify storage hangul:const char append value "꾱"
-data modify storage hangul:const char append value "꾲"
-data modify storage hangul:const char append value "꾳"
-data modify storage hangul:const char append value "꾴"
-data modify storage hangul:const char append value "꾵"
-data modify storage hangul:const char append value "꾶"
-data modify storage hangul:const char append value "꾷"
-data modify storage hangul:const char append value "꾸"
-data modify storage hangul:const char append value "꾹"
-data modify storage hangul:const char append value "꾺"
-data modify storage hangul:const char append value "꾻"
-data modify storage hangul:const char append value "꾼"
-data modify storage hangul:const char append value "꾽"
-data modify storage hangul:const char append value "꾾"
-data modify storage hangul:const char append value "꾿"
-data modify storage hangul:const char append value "꿀"
-data modify storage hangul:const char append value "꿁"
-data modify storage hangul:const char append value "꿂"
-data modify storage hangul:const char append value "꿃"
-data modify storage hangul:const char append value "꿄"
-data modify storage hangul:const char append value "꿅"
-data modify storage hangul:const char append value "꿆"
-data modify storage hangul:const char append value "꿇"
-data modify storage hangul:const char append value "꿈"
-data modify storage hangul:const char append value "꿉"
-data modify storage hangul:const char append value "꿊"
-data modify storage hangul:const char append value "꿋"
-data modify storage hangul:const char append value "꿌"
-data modify storage hangul:const char append value "꿍"
-data modify storage hangul:const char append value "꿎"
-data modify storage hangul:const char append value "꿏"
-data modify storage hangul:const char append value "꿐"
-data modify storage hangul:const char append value "꿑"
-data modify storage hangul:const char append value "꿒"
-data modify storage hangul:const char append value "꿓"
-data modify storage hangul:const char append value "꿔"
-data modify storage hangul:const char append value "꿕"
-data modify storage hangul:const char append value "꿖"
-data modify storage hangul:const char append value "꿗"
-data modify storage hangul:const char append value "꿘"
-data modify storage hangul:const char append value "꿙"
-data modify storage hangul:const char append value "꿚"
-data modify storage hangul:const char append value "꿛"
-data modify storage hangul:const char append value "꿜"
-data modify storage hangul:const char append value "꿝"
-data modify storage hangul:const char append value "꿞"
-data modify storage hangul:const char append value "꿟"
-data modify storage hangul:const char append value "꿠"
-data modify storage hangul:const char append value "꿡"
-data modify storage hangul:const char append value "꿢"
-data modify storage hangul:const char append value "꿣"
-data modify storage hangul:const char append value "꿤"
-data modify storage hangul:const char append value "꿥"
-data modify storage hangul:const char append value "꿦"
-data modify storage hangul:const char append value "꿧"
-data modify storage hangul:const char append value "꿨"
-data modify storage hangul:const char append value "꿩"
-data modify storage hangul:const char append value "꿪"
-data modify storage hangul:const char append value "꿫"
-data modify storage hangul:const char append value "꿬"
-data modify storage hangul:const char append value "꿭"
-data modify storage hangul:const char append value "꿮"
-data modify storage hangul:const char append value "꿯"
-data modify storage hangul:const char append value "꿰"
-data modify storage hangul:const char append value "꿱"
-data modify storage hangul:const char append value "꿲"
-data modify storage hangul:const char append value "꿳"
-data modify storage hangul:const char append value "꿴"
-data modify storage hangul:const char append value "꿵"
-data modify storage hangul:const char append value "꿶"
-data modify storage hangul:const char append value "꿷"
-data modify storage hangul:const char append value "꿸"
-data modify storage hangul:const char append value "꿹"
-data modify storage hangul:const char append value "꿺"
-data modify storage hangul:const char append value "꿻"
-data modify storage hangul:const char append value "꿼"
-data modify storage hangul:const char append value "꿽"
-data modify storage hangul:const char append value "꿾"
-data modify storage hangul:const char append value "꿿"
-data modify storage hangul:const char append value "뀀"
-data modify storage hangul:const char append value "뀁"
-data modify storage hangul:const char append value "뀂"
-data modify storage hangul:const char append value "뀃"
-data modify storage hangul:const char append value "뀄"
-data modify storage hangul:const char append value "뀅"
-data modify storage hangul:const char append value "뀆"
-data modify storage hangul:const char append value "뀇"
-data modify storage hangul:const char append value "뀈"
-data modify storage hangul:const char append value "뀉"
-data modify storage hangul:const char append value "뀊"
-data modify storage hangul:const char append value "뀋"
-data modify storage hangul:const char append value "뀌"
-data modify storage hangul:const char append value "뀍"
-data modify storage hangul:const char append value "뀎"
-data modify storage hangul:const char append value "뀏"
-data modify storage hangul:const char append value "뀐"
-data modify storage hangul:const char append value "뀑"
-data modify storage hangul:const char append value "뀒"
-data modify storage hangul:const char append value "뀓"
-data modify storage hangul:const char append value "뀔"
-data modify storage hangul:const char append value "뀕"
-data modify storage hangul:const char append value "뀖"
-data modify storage hangul:const char append value "뀗"
-data modify storage hangul:const char append value "뀘"
-data modify storage hangul:const char append value "뀙"
-data modify storage hangul:const char append value "뀚"
-data modify storage hangul:const char append value "뀛"
-data modify storage hangul:const char append value "뀜"
-data modify storage hangul:const char append value "뀝"
-data modify storage hangul:const char append value "뀞"
-data modify storage hangul:const char append value "뀟"
-data modify storage hangul:const char append value "뀠"
-data modify storage hangul:const char append value "뀡"
-data modify storage hangul:const char append value "뀢"
-data modify storage hangul:const char append value "뀣"
-data modify storage hangul:const char append value "뀤"
-data modify storage hangul:const char append value "뀥"
-data modify storage hangul:const char append value "뀦"
-data modify storage hangul:const char append value "뀧"
-data modify storage hangul:const char append value "뀨"
-data modify storage hangul:const char append value "뀩"
-data modify storage hangul:const char append value "뀪"
-data modify storage hangul:const char append value "뀫"
-data modify storage hangul:const char append value "뀬"
-data modify storage hangul:const char append value "뀭"
-data modify storage hangul:const char append value "뀮"
-data modify storage hangul:const char append value "뀯"
-data modify storage hangul:const char append value "뀰"
-data modify storage hangul:const char append value "뀱"
-data modify storage hangul:const char append value "뀲"
-data modify storage hangul:const char append value "뀳"
-data modify storage hangul:const char append value "뀴"
-data modify storage hangul:const char append value "뀵"
-data modify storage hangul:const char append value "뀶"
-data modify storage hangul:const char append value "뀷"
-data modify storage hangul:const char append value "뀸"
-data modify storage hangul:const char append value "뀹"
-data modify storage hangul:const char append value "뀺"
-data modify storage hangul:const char append value "뀻"
-data modify storage hangul:const char append value "뀼"
-data modify storage hangul:const char append value "뀽"
-data modify storage hangul:const char append value "뀾"
-data modify storage hangul:const char append value "뀿"
-data modify storage hangul:const char append value "끀"
-data modify storage hangul:const char append value "끁"
-data modify storage hangul:const char append value "끂"
-data modify storage hangul:const char append value "끃"
-data modify storage hangul:const char append value "끄"
-data modify storage hangul:const char append value "끅"
-data modify storage hangul:const char append value "끆"
-data modify storage hangul:const char append value "끇"
-data modify storage hangul:const char append value "끈"
-data modify storage hangul:const char append value "끉"
-data modify storage hangul:const char append value "끊"
-data modify storage hangul:const char append value "끋"
-data modify storage hangul:const char append value "끌"
-data modify storage hangul:const char append value "끍"
-data modify storage hangul:const char append value "끎"
-data modify storage hangul:const char append value "끏"
-data modify storage hangul:const char append value "끐"
-data modify storage hangul:const char append value "끑"
-data modify storage hangul:const char append value "끒"
-data modify storage hangul:const char append value "끓"
-data modify storage hangul:const char append value "끔"
-data modify storage hangul:const char append value "끕"
-data modify storage hangul:const char append value "끖"
-data modify storage hangul:const char append value "끗"
-data modify storage hangul:const char append value "끘"
-data modify storage hangul:const char append value "끙"
-data modify storage hangul:const char append value "끚"
-data modify storage hangul:const char append value "끛"
-data modify storage hangul:const char append value "끜"
-data modify storage hangul:const char append value "끝"
-data modify storage hangul:const char append value "끞"
-data modify storage hangul:const char append value "끟"
-data modify storage hangul:const char append value "끠"
-data modify storage hangul:const char append value "끡"
-data modify storage hangul:const char append value "끢"
-data modify storage hangul:const char append value "끣"
-data modify storage hangul:const char append value "끤"
-data modify storage hangul:const char append value "끥"
-data modify storage hangul:const char append value "끦"
-data modify storage hangul:const char append value "끧"
-data modify storage hangul:const char append value "끨"
-data modify storage hangul:const char append value "끩"
-data modify storage hangul:const char append value "끪"
-data modify storage hangul:const char append value "끫"
-data modify storage hangul:const char append value "끬"
-data modify storage hangul:const char append value "끭"
-data modify storage hangul:const char append value "끮"
-data modify storage hangul:const char append value "끯"
-data modify storage hangul:const char append value "끰"
-data modify storage hangul:const char append value "끱"
-data modify storage hangul:const char append value "끲"
-data modify storage hangul:const char append value "끳"
-data modify storage hangul:const char append value "끴"
-data modify storage hangul:const char append value "끵"
-data modify storage hangul:const char append value "끶"
-data modify storage hangul:const char append value "끷"
-data modify storage hangul:const char append value "끸"
-data modify storage hangul:const char append value "끹"
-data modify storage hangul:const char append value "끺"
-data modify storage hangul:const char append value "끻"
-data modify storage hangul:const char append value "끼"
-data modify storage hangul:const char append value "끽"
-data modify storage hangul:const char append value "끾"
-data modify storage hangul:const char append value "끿"
-data modify storage hangul:const char append value "낀"
-data modify storage hangul:const char append value "낁"
-data modify storage hangul:const char append value "낂"
-data modify storage hangul:const char append value "낃"
-data modify storage hangul:const char append value "낄"
-data modify storage hangul:const char append value "낅"
-data modify storage hangul:const char append value "낆"
-data modify storage hangul:const char append value "낇"
-data modify storage hangul:const char append value "낈"
-data modify storage hangul:const char append value "낉"
-data modify storage hangul:const char append value "낊"
-data modify storage hangul:const char append value "낋"
-data modify storage hangul:const char append value "낌"
-data modify storage hangul:const char append value "낍"
-data modify storage hangul:const char append value "낎"
-data modify storage hangul:const char append value "낏"
-data modify storage hangul:const char append value "낐"
-data modify storage hangul:const char append value "낑"
-data modify storage hangul:const char append value "낒"
-data modify storage hangul:const char append value "낓"
-data modify storage hangul:const char append value "낔"
-data modify storage hangul:const char append value "낕"
-data modify storage hangul:const char append value "낖"
-data modify storage hangul:const char append value "낗"
-data modify storage hangul:const char append value "나"
-data modify storage hangul:const char append value "낙"
-data modify storage hangul:const char append value "낚"
-data modify storage hangul:const char append value "낛"
-data modify storage hangul:const char append value "난"
-data modify storage hangul:const char append value "낝"
-data modify storage hangul:const char append value "낞"
-data modify storage hangul:const char append value "낟"
-data modify storage hangul:const char append value "날"
-data modify storage hangul:const char append value "낡"
-data modify storage hangul:const char append value "낢"
-data modify storage hangul:const char append value "낣"
-data modify storage hangul:const char append value "낤"
-data modify storage hangul:const char append value "낥"
-data modify storage hangul:const char append value "낦"
-data modify storage hangul:const char append value "낧"
-data modify storage hangul:const char append value "남"
-data modify storage hangul:const char append value "납"
-data modify storage hangul:const char append value "낪"
-data modify storage hangul:const char append value "낫"
-data modify storage hangul:const char append value "났"
-data modify storage hangul:const char append value "낭"
-data modify storage hangul:const char append value "낮"
-data modify storage hangul:const char append value "낯"
-data modify storage hangul:const char append value "낰"
-data modify storage hangul:const char append value "낱"
-data modify storage hangul:const char append value "낲"
-data modify storage hangul:const char append value "낳"
-data modify storage hangul:const char append value "내"
-data modify storage hangul:const char append value "낵"
-data modify storage hangul:const char append value "낶"
-data modify storage hangul:const char append value "낷"
-data modify storage hangul:const char append value "낸"
-data modify storage hangul:const char append value "낹"
-data modify storage hangul:const char append value "낺"
-data modify storage hangul:const char append value "낻"
-data modify storage hangul:const char append value "낼"
-data modify storage hangul:const char append value "낽"
-data modify storage hangul:const char append value "낾"
-data modify storage hangul:const char append value "낿"
-data modify storage hangul:const char append value "냀"
-data modify storage hangul:const char append value "냁"
-data modify storage hangul:const char append value "냂"
-data modify storage hangul:const char append value "냃"
-data modify storage hangul:const char append value "냄"
-data modify storage hangul:const char append value "냅"
-data modify storage hangul:const char append value "냆"
-data modify storage hangul:const char append value "냇"
-data modify storage hangul:const char append value "냈"
-data modify storage hangul:const char append value "냉"
-data modify storage hangul:const char append value "냊"
-data modify storage hangul:const char append value "냋"
-data modify storage hangul:const char append value "냌"
-data modify storage hangul:const char append value "냍"
-data modify storage hangul:const char append value "냎"
-data modify storage hangul:const char append value "냏"
-data modify storage hangul:const char append value "냐"
-data modify storage hangul:const char append value "냑"
-data modify storage hangul:const char append value "냒"
-data modify storage hangul:const char append value "냓"
-data modify storage hangul:const char append value "냔"
-data modify storage hangul:const char append value "냕"
-data modify storage hangul:const char append value "냖"
-data modify storage hangul:const char append value "냗"
-data modify storage hangul:const char append value "냘"
-data modify storage hangul:const char append value "냙"
-data modify storage hangul:const char append value "냚"
-data modify storage hangul:const char append value "냛"
-data modify storage hangul:const char append value "냜"
-data modify storage hangul:const char append value "냝"
-data modify storage hangul:const char append value "냞"
-data modify storage hangul:const char append value "냟"
-data modify storage hangul:const char append value "냠"
-data modify storage hangul:const char append value "냡"
-data modify storage hangul:const char append value "냢"
-data modify storage hangul:const char append value "냣"
-data modify storage hangul:const char append value "냤"
-data modify storage hangul:const char append value "냥"
-data modify storage hangul:const char append value "냦"
-data modify storage hangul:const char append value "냧"
-data modify storage hangul:const char append value "냨"
-data modify storage hangul:const char append value "냩"
-data modify storage hangul:const char append value "냪"
-data modify storage hangul:const char append value "냫"
-data modify storage hangul:const char append value "냬"
-data modify storage hangul:const char append value "냭"
-data modify storage hangul:const char append value "냮"
-data modify storage hangul:const char append value "냯"
-data modify storage hangul:const char append value "냰"
-data modify storage hangul:const char append value "냱"
-data modify storage hangul:const char append value "냲"
-data modify storage hangul:const char append value "냳"
-data modify storage hangul:const char append value "냴"
-data modify storage hangul:const char append value "냵"
-data modify storage hangul:const char append value "냶"
-data modify storage hangul:const char append value "냷"
-data modify storage hangul:const char append value "냸"
-data modify storage hangul:const char append value "냹"
-data modify storage hangul:const char append value "냺"
-data modify storage hangul:const char append value "냻"
-data modify storage hangul:const char append value "냼"
-data modify storage hangul:const char append value "냽"
-data modify storage hangul:const char append value "냾"
-data modify storage hangul:const char append value "냿"
-data modify storage hangul:const char append value "넀"
-data modify storage hangul:const char append value "넁"
-data modify storage hangul:const char append value "넂"
-data modify storage hangul:const char append value "넃"
-data modify storage hangul:const char append value "넄"
-data modify storage hangul:const char append value "넅"
-data modify storage hangul:const char append value "넆"
-data modify storage hangul:const char append value "넇"
-data modify storage hangul:const char append value "너"
-data modify storage hangul:const char append value "넉"
-data modify storage hangul:const char append value "넊"
-data modify storage hangul:const char append value "넋"
-data modify storage hangul:const char append value "넌"
-data modify storage hangul:const char append value "넍"
-data modify storage hangul:const char append value "넎"
-data modify storage hangul:const char append value "넏"
-data modify storage hangul:const char append value "널"
-data modify storage hangul:const char append value "넑"
-data modify storage hangul:const char append value "넒"
-data modify storage hangul:const char append value "넓"
-data modify storage hangul:const char append value "넔"
-data modify storage hangul:const char append value "넕"
-data modify storage hangul:const char append value "넖"
-data modify storage hangul:const char append value "넗"
-data modify storage hangul:const char append value "넘"
-data modify storage hangul:const char append value "넙"
-data modify storage hangul:const char append value "넚"
-data modify storage hangul:const char append value "넛"
-data modify storage hangul:const char append value "넜"
-data modify storage hangul:const char append value "넝"
-data modify storage hangul:const char append value "넞"
-data modify storage hangul:const char append value "넟"
-data modify storage hangul:const char append value "넠"
-data modify storage hangul:const char append value "넡"
-data modify storage hangul:const char append value "넢"
-data modify storage hangul:const char append value "넣"
-data modify storage hangul:const char append value "네"
-data modify storage hangul:const char append value "넥"
-data modify storage hangul:const char append value "넦"
-data modify storage hangul:const char append value "넧"
-data modify storage hangul:const char append value "넨"
-data modify storage hangul:const char append value "넩"
-data modify storage hangul:const char append value "넪"
-data modify storage hangul:const char append value "넫"
-data modify storage hangul:const char append value "넬"
-data modify storage hangul:const char append value "넭"
-data modify storage hangul:const char append value "넮"
-data modify storage hangul:const char append value "넯"
-data modify storage hangul:const char append value "넰"
-data modify storage hangul:const char append value "넱"
-data modify storage hangul:const char append value "넲"
-data modify storage hangul:const char append value "넳"
-data modify storage hangul:const char append value "넴"
-data modify storage hangul:const char append value "넵"
-data modify storage hangul:const char append value "넶"
-data modify storage hangul:const char append value "넷"
-data modify storage hangul:const char append value "넸"
-data modify storage hangul:const char append value "넹"
-data modify storage hangul:const char append value "넺"
-data modify storage hangul:const char append value "넻"
-data modify storage hangul:const char append value "넼"
-data modify storage hangul:const char append value "넽"
-data modify storage hangul:const char append value "넾"
-data modify storage hangul:const char append value "넿"
-data modify storage hangul:const char append value "녀"
-data modify storage hangul:const char append value "녁"
-data modify storage hangul:const char append value "녂"
-data modify storage hangul:const char append value "녃"
-data modify storage hangul:const char append value "년"
-data modify storage hangul:const char append value "녅"
-data modify storage hangul:const char append value "녆"
-data modify storage hangul:const char append value "녇"
-data modify storage hangul:const char append value "녈"
-data modify storage hangul:const char append value "녉"
-data modify storage hangul:const char append value "녊"
-data modify storage hangul:const char append value "녋"
-data modify storage hangul:const char append value "녌"
-data modify storage hangul:const char append value "녍"
-data modify storage hangul:const char append value "녎"
-data modify storage hangul:const char append value "녏"
-data modify storage hangul:const char append value "념"
-data modify storage hangul:const char append value "녑"
-data modify storage hangul:const char append value "녒"
-data modify storage hangul:const char append value "녓"
-data modify storage hangul:const char append value "녔"
-data modify storage hangul:const char append value "녕"
-data modify storage hangul:const char append value "녖"
-data modify storage hangul:const char append value "녗"
-data modify storage hangul:const char append value "녘"
-data modify storage hangul:const char append value "녙"
-data modify storage hangul:const char append value "녚"
-data modify storage hangul:const char append value "녛"
-data modify storage hangul:const char append value "녜"
-data modify storage hangul:const char append value "녝"
-data modify storage hangul:const char append value "녞"
-data modify storage hangul:const char append value "녟"
-data modify storage hangul:const char append value "녠"
-data modify storage hangul:const char append value "녡"
-data modify storage hangul:const char append value "녢"
-data modify storage hangul:const char append value "녣"
-data modify storage hangul:const char append value "녤"
-data modify storage hangul:const char append value "녥"
-data modify storage hangul:const char append value "녦"
-data modify storage hangul:const char append value "녧"
-data modify storage hangul:const char append value "녨"
-data modify storage hangul:const char append value "녩"
-data modify storage hangul:const char append value "녪"
-data modify storage hangul:const char append value "녫"
-data modify storage hangul:const char append value "녬"
-data modify storage hangul:const char append value "녭"
-data modify storage hangul:const char append value "녮"
-data modify storage hangul:const char append value "녯"
-data modify storage hangul:const char append value "녰"
-data modify storage hangul:const char append value "녱"
-data modify storage hangul:const char append value "녲"
-data modify storage hangul:const char append value "녳"
-data modify storage hangul:const char append value "녴"
-data modify storage hangul:const char append value "녵"
-data modify storage hangul:const char append value "녶"
-data modify storage hangul:const char append value "녷"
-data modify storage hangul:const char append value "노"
-data modify storage hangul:const char append value "녹"
-data modify storage hangul:const char append value "녺"
-data modify storage hangul:const char append value "녻"
-data modify storage hangul:const char append value "논"
-data modify storage hangul:const char append value "녽"
-data modify storage hangul:const char append value "녾"
-data modify storage hangul:const char append value "녿"
-data modify storage hangul:const char append value "놀"
-data modify storage hangul:const char append value "놁"
-data modify storage hangul:const char append value "놂"
-data modify storage hangul:const char append value "놃"
-data modify storage hangul:const char append value "놄"
-data modify storage hangul:const char append value "놅"
-data modify storage hangul:const char append value "놆"
-data modify storage hangul:const char append value "놇"
-data modify storage hangul:const char append value "놈"
-data modify storage hangul:const char append value "놉"
-data modify storage hangul:const char append value "놊"
-data modify storage hangul:const char append value "놋"
-data modify storage hangul:const char append value "놌"
-data modify storage hangul:const char append value "농"
-data modify storage hangul:const char append value "놎"
-data modify storage hangul:const char append value "놏"
-data modify storage hangul:const char append value "놐"
-data modify storage hangul:const char append value "놑"
-data modify storage hangul:const char append value "높"
-data modify storage hangul:const char append value "놓"
-data modify storage hangul:const char append value "놔"
-data modify storage hangul:const char append value "놕"
-data modify storage hangul:const char append value "놖"
-data modify storage hangul:const char append value "놗"
-data modify storage hangul:const char append value "놘"
-data modify storage hangul:const char append value "놙"
-data modify storage hangul:const char append value "놚"
-data modify storage hangul:const char append value "놛"
-data modify storage hangul:const char append value "놜"
-data modify storage hangul:const char append value "놝"
-data modify storage hangul:const char append value "놞"
-data modify storage hangul:const char append value "놟"
-data modify storage hangul:const char append value "놠"
-data modify storage hangul:const char append value "놡"
-data modify storage hangul:const char append value "놢"
-data modify storage hangul:const char append value "놣"
-data modify storage hangul:const char append value "놤"
-data modify storage hangul:const char append value "놥"
-data modify storage hangul:const char append value "놦"
-data modify storage hangul:const char append value "놧"
-data modify storage hangul:const char append value "놨"
-data modify storage hangul:const char append value "놩"
-data modify storage hangul:const char append value "놪"
-data modify storage hangul:const char append value "놫"
-data modify storage hangul:const char append value "놬"
-data modify storage hangul:const char append value "놭"
-data modify storage hangul:const char append value "놮"
-data modify storage hangul:const char append value "놯"
-data modify storage hangul:const char append value "놰"
-data modify storage hangul:const char append value "놱"
-data modify storage hangul:const char append value "놲"
-data modify storage hangul:const char append value "놳"
-data modify storage hangul:const char append value "놴"
-data modify storage hangul:const char append value "놵"
-data modify storage hangul:const char append value "놶"
-data modify storage hangul:const char append value "놷"
-data modify storage hangul:const char append value "놸"
-data modify storage hangul:const char append value "놹"
-data modify storage hangul:const char append value "놺"
-data modify storage hangul:const char append value "놻"
-data modify storage hangul:const char append value "놼"
-data modify storage hangul:const char append value "놽"
-data modify storage hangul:const char append value "놾"
-data modify storage hangul:const char append value "놿"
-data modify storage hangul:const char append value "뇀"
-data modify storage hangul:const char append value "뇁"
-data modify storage hangul:const char append value "뇂"
-data modify storage hangul:const char append value "뇃"
-data modify storage hangul:const char append value "뇄"
-data modify storage hangul:const char append value "뇅"
-data modify storage hangul:const char append value "뇆"
-data modify storage hangul:const char append value "뇇"
-data modify storage hangul:const char append value "뇈"
-data modify storage hangul:const char append value "뇉"
-data modify storage hangul:const char append value "뇊"
-data modify storage hangul:const char append value "뇋"
-data modify storage hangul:const char append value "뇌"
-data modify storage hangul:const char append value "뇍"
-data modify storage hangul:const char append value "뇎"
-data modify storage hangul:const char append value "뇏"
-data modify storage hangul:const char append value "뇐"
-data modify storage hangul:const char append value "뇑"
-data modify storage hangul:const char append value "뇒"
-data modify storage hangul:const char append value "뇓"
-data modify storage hangul:const char append value "뇔"
-data modify storage hangul:const char append value "뇕"
-data modify storage hangul:const char append value "뇖"
-data modify storage hangul:const char append value "뇗"
-data modify storage hangul:const char append value "뇘"
-data modify storage hangul:const char append value "뇙"
-data modify storage hangul:const char append value "뇚"
-data modify storage hangul:const char append value "뇛"
-data modify storage hangul:const char append value "뇜"
-data modify storage hangul:const char append value "뇝"
-data modify storage hangul:const char append value "뇞"
-data modify storage hangul:const char append value "뇟"
-data modify storage hangul:const char append value "뇠"
-data modify storage hangul:const char append value "뇡"
-data modify storage hangul:const char append value "뇢"
-data modify storage hangul:const char append value "뇣"
-data modify storage hangul:const char append value "뇤"
-data modify storage hangul:const char append value "뇥"
-data modify storage hangul:const char append value "뇦"
-data modify storage hangul:const char append value "뇧"
-data modify storage hangul:const char append value "뇨"
-data modify storage hangul:const char append value "뇩"
-data modify storage hangul:const char append value "뇪"
-data modify storage hangul:const char append value "뇫"
-data modify storage hangul:const char append value "뇬"
-data modify storage hangul:const char append value "뇭"
-data modify storage hangul:const char append value "뇮"
-data modify storage hangul:const char append value "뇯"
-data modify storage hangul:const char append value "뇰"
-data modify storage hangul:const char append value "뇱"
-data modify storage hangul:const char append value "뇲"
-data modify storage hangul:const char append value "뇳"
-data modify storage hangul:const char append value "뇴"
-data modify storage hangul:const char append value "뇵"
-data modify storage hangul:const char append value "뇶"
-data modify storage hangul:const char append value "뇷"
-data modify storage hangul:const char append value "뇸"
-data modify storage hangul:const char append value "뇹"
-data modify storage hangul:const char append value "뇺"
-data modify storage hangul:const char append value "뇻"
-data modify storage hangul:const char append value "뇼"
-data modify storage hangul:const char append value "뇽"
-data modify storage hangul:const char append value "뇾"
-data modify storage hangul:const char append value "뇿"
-data modify storage hangul:const char append value "눀"
-data modify storage hangul:const char append value "눁"
-data modify storage hangul:const char append value "눂"
-data modify storage hangul:const char append value "눃"
-data modify storage hangul:const char append value "누"
-data modify storage hangul:const char append value "눅"
-data modify storage hangul:const char append value "눆"
-data modify storage hangul:const char append value "눇"
-data modify storage hangul:const char append value "눈"
-data modify storage hangul:const char append value "눉"
-data modify storage hangul:const char append value "눊"
-data modify storage hangul:const char append value "눋"
-data modify storage hangul:const char append value "눌"
-data modify storage hangul:const char append value "눍"
-data modify storage hangul:const char append value "눎"
-data modify storage hangul:const char append value "눏"
-data modify storage hangul:const char append value "눐"
-data modify storage hangul:const char append value "눑"
-data modify storage hangul:const char append value "눒"
-data modify storage hangul:const char append value "눓"
-data modify storage hangul:const char append value "눔"
-data modify storage hangul:const char append value "눕"
-data modify storage hangul:const char append value "눖"
-data modify storage hangul:const char append value "눗"
-data modify storage hangul:const char append value "눘"
-data modify storage hangul:const char append value "눙"
-data modify storage hangul:const char append value "눚"
-data modify storage hangul:const char append value "눛"
-data modify storage hangul:const char append value "눜"
-data modify storage hangul:const char append value "눝"
-data modify storage hangul:const char append value "눞"
-data modify storage hangul:const char append value "눟"
-data modify storage hangul:const char append value "눠"
-data modify storage hangul:const char append value "눡"
-data modify storage hangul:const char append value "눢"
-data modify storage hangul:const char append value "눣"
-data modify storage hangul:const char append value "눤"
-data modify storage hangul:const char append value "눥"
-data modify storage hangul:const char append value "눦"
-data modify storage hangul:const char append value "눧"
-data modify storage hangul:const char append value "눨"
-data modify storage hangul:const char append value "눩"
-data modify storage hangul:const char append value "눪"
-data modify storage hangul:const char append value "눫"
-data modify storage hangul:const char append value "눬"
-data modify storage hangul:const char append value "눭"
-data modify storage hangul:const char append value "눮"
-data modify storage hangul:const char append value "눯"
-data modify storage hangul:const char append value "눰"
-data modify storage hangul:const char append value "눱"
-data modify storage hangul:const char append value "눲"
-data modify storage hangul:const char append value "눳"
-data modify storage hangul:const char append value "눴"
-data modify storage hangul:const char append value "눵"
-data modify storage hangul:const char append value "눶"
-data modify storage hangul:const char append value "눷"
-data modify storage hangul:const char append value "눸"
-data modify storage hangul:const char append value "눹"
-data modify storage hangul:const char append value "눺"
-data modify storage hangul:const char append value "눻"
-data modify storage hangul:const char append value "눼"
-data modify storage hangul:const char append value "눽"
-data modify storage hangul:const char append value "눾"
-data modify storage hangul:const char append value "눿"
-data modify storage hangul:const char append value "뉀"
-data modify storage hangul:const char append value "뉁"
-data modify storage hangul:const char append value "뉂"
-data modify storage hangul:const char append value "뉃"
-data modify storage hangul:const char append value "뉄"
-data modify storage hangul:const char append value "뉅"
-data modify storage hangul:const char append value "뉆"
-data modify storage hangul:const char append value "뉇"
-data modify storage hangul:const char append value "뉈"
-data modify storage hangul:const char append value "뉉"
-data modify storage hangul:const char append value "뉊"
-data modify storage hangul:const char append value "뉋"
-data modify storage hangul:const char append value "뉌"
-data modify storage hangul:const char append value "뉍"
-data modify storage hangul:const char append value "뉎"
-data modify storage hangul:const char append value "뉏"
-data modify storage hangul:const char append value "뉐"
-data modify storage hangul:const char append value "뉑"
-data modify storage hangul:const char append value "뉒"
-data modify storage hangul:const char append value "뉓"
-data modify storage hangul:const char append value "뉔"
-data modify storage hangul:const char append value "뉕"
-data modify storage hangul:const char append value "뉖"
-data modify storage hangul:const char append value "뉗"
-data modify storage hangul:const char append value "뉘"
-data modify storage hangul:const char append value "뉙"
-data modify storage hangul:const char append value "뉚"
-data modify storage hangul:const char append value "뉛"
-data modify storage hangul:const char append value "뉜"
-data modify storage hangul:const char append value "뉝"
-data modify storage hangul:const char append value "뉞"
-data modify storage hangul:const char append value "뉟"
-data modify storage hangul:const char append value "뉠"
-data modify storage hangul:const char append value "뉡"
-data modify storage hangul:const char append value "뉢"
-data modify storage hangul:const char append value "뉣"
-data modify storage hangul:const char append value "뉤"
-data modify storage hangul:const char append value "뉥"
-data modify storage hangul:const char append value "뉦"
-data modify storage hangul:const char append value "뉧"
-data modify storage hangul:const char append value "뉨"
-data modify storage hangul:const char append value "뉩"
-data modify storage hangul:const char append value "뉪"
-data modify storage hangul:const char append value "뉫"
-data modify storage hangul:const char append value "뉬"
-data modify storage hangul:const char append value "뉭"
-data modify storage hangul:const char append value "뉮"
-data modify storage hangul:const char append value "뉯"
-data modify storage hangul:const char append value "뉰"
-data modify storage hangul:const char append value "뉱"
-data modify storage hangul:const char append value "뉲"
-data modify storage hangul:const char append value "뉳"
-data modify storage hangul:const char append value "뉴"
-data modify storage hangul:const char append value "뉵"
-data modify storage hangul:const char append value "뉶"
-data modify storage hangul:const char append value "뉷"
-data modify storage hangul:const char append value "뉸"
-data modify storage hangul:const char append value "뉹"
-data modify storage hangul:const char append value "뉺"
-data modify storage hangul:const char append value "뉻"
-data modify storage hangul:const char append value "뉼"
-data modify storage hangul:const char append value "뉽"
-data modify storage hangul:const char append value "뉾"
-data modify storage hangul:const char append value "뉿"
-data modify storage hangul:const char append value "늀"
-data modify storage hangul:const char append value "늁"
-data modify storage hangul:const char append value "늂"
-data modify storage hangul:const char append value "늃"
-data modify storage hangul:const char append value "늄"
-data modify storage hangul:const char append value "늅"
-data modify storage hangul:const char append value "늆"
-data modify storage hangul:const char append value "늇"
-data modify storage hangul:const char append value "늈"
-data modify storage hangul:const char append value "늉"
-data modify storage hangul:const char append value "늊"
-data modify storage hangul:const char append value "늋"
-data modify storage hangul:const char append value "늌"
-data modify storage hangul:const char append value "늍"
-data modify storage hangul:const char append value "늎"
-data modify storage hangul:const char append value "늏"
-data modify storage hangul:const char append value "느"
-data modify storage hangul:const char append value "늑"
-data modify storage hangul:const char append value "늒"
-data modify storage hangul:const char append value "늓"
-data modify storage hangul:const char append value "는"
-data modify storage hangul:const char append value "늕"
-data modify storage hangul:const char append value "늖"
-data modify storage hangul:const char append value "늗"
-data modify storage hangul:const char append value "늘"
-data modify storage hangul:const char append value "늙"
-data modify storage hangul:const char append value "늚"
-data modify storage hangul:const char append value "늛"
-data modify storage hangul:const char append value "늜"
-data modify storage hangul:const char append value "늝"
-data modify storage hangul:const char append value "늞"
-data modify storage hangul:const char append value "늟"
-data modify storage hangul:const char append value "늠"
-data modify storage hangul:const char append value "늡"
-data modify storage hangul:const char append value "늢"
-data modify storage hangul:const char append value "늣"
-data modify storage hangul:const char append value "늤"
-data modify storage hangul:const char append value "능"
-data modify storage hangul:const char append value "늦"
-data modify storage hangul:const char append value "늧"
-data modify storage hangul:const char append value "늨"
-data modify storage hangul:const char append value "늩"
-data modify storage hangul:const char append value "늪"
-data modify storage hangul:const char append value "늫"
-data modify storage hangul:const char append value "늬"
-data modify storage hangul:const char append value "늭"
-data modify storage hangul:const char append value "늮"
-data modify storage hangul:const char append value "늯"
-data modify storage hangul:const char append value "늰"
-data modify storage hangul:const char append value "늱"
-data modify storage hangul:const char append value "늲"
-data modify storage hangul:const char append value "늳"
-data modify storage hangul:const char append value "늴"
-data modify storage hangul:const char append value "늵"
-data modify storage hangul:const char append value "늶"
-data modify storage hangul:const char append value "늷"
-data modify storage hangul:const char append value "늸"
-data modify storage hangul:const char append value "늹"
-data modify storage hangul:const char append value "늺"
-data modify storage hangul:const char append value "늻"
-data modify storage hangul:const char append value "늼"
-data modify storage hangul:const char append value "늽"
-data modify storage hangul:const char append value "늾"
-data modify storage hangul:const char append value "늿"
-data modify storage hangul:const char append value "닀"
-data modify storage hangul:const char append value "닁"
-data modify storage hangul:const char append value "닂"
-data modify storage hangul:const char append value "닃"
-data modify storage hangul:const char append value "닄"
-data modify storage hangul:const char append value "닅"
-data modify storage hangul:const char append value "닆"
-data modify storage hangul:const char append value "닇"
-data modify storage hangul:const char append value "니"
-data modify storage hangul:const char append value "닉"
-data modify storage hangul:const char append value "닊"
-data modify storage hangul:const char append value "닋"
-data modify storage hangul:const char append value "닌"
-data modify storage hangul:const char append value "닍"
-data modify storage hangul:const char append value "닎"
-data modify storage hangul:const char append value "닏"
-data modify storage hangul:const char append value "닐"
-data modify storage hangul:const char append value "닑"
-data modify storage hangul:const char append value "닒"
-data modify storage hangul:const char append value "닓"
-data modify storage hangul:const char append value "닔"
-data modify storage hangul:const char append value "닕"
-data modify storage hangul:const char append value "닖"
-data modify storage hangul:const char append value "닗"
-data modify storage hangul:const char append value "님"
-data modify storage hangul:const char append value "닙"
-data modify storage hangul:const char append value "닚"
-data modify storage hangul:const char append value "닛"
-data modify storage hangul:const char append value "닜"
-data modify storage hangul:const char append value "닝"
-data modify storage hangul:const char append value "닞"
-data modify storage hangul:const char append value "닟"
-data modify storage hangul:const char append value "닠"
-data modify storage hangul:const char append value "닡"
-data modify storage hangul:const char append value "닢"
-data modify storage hangul:const char append value "닣"
-data modify storage hangul:const char append value "다"
-data modify storage hangul:const char append value "닥"
-data modify storage hangul:const char append value "닦"
-data modify storage hangul:const char append value "닧"
-data modify storage hangul:const char append value "단"
-data modify storage hangul:const char append value "닩"
-data modify storage hangul:const char append value "닪"
-data modify storage hangul:const char append value "닫"
-data modify storage hangul:const char append value "달"
-data modify storage hangul:const char append value "닭"
-data modify storage hangul:const char append value "닮"
-data modify storage hangul:const char append value "닯"
-data modify storage hangul:const char append value "닰"
-data modify storage hangul:const char append value "닱"
-data modify storage hangul:const char append value "닲"
-data modify storage hangul:const char append value "닳"
-data modify storage hangul:const char append value "담"
-data modify storage hangul:const char append value "답"
-data modify storage hangul:const char append value "닶"
-data modify storage hangul:const char append value "닷"
-data modify storage hangul:const char append value "닸"
-data modify storage hangul:const char append value "당"
-data modify storage hangul:const char append value "닺"
-data modify storage hangul:const char append value "닻"
-data modify storage hangul:const char append value "닼"
-data modify storage hangul:const char append value "닽"
-data modify storage hangul:const char append value "닾"
-data modify storage hangul:const char append value "닿"
-data modify storage hangul:const char append value "대"
-data modify storage hangul:const char append value "댁"
-data modify storage hangul:const char append value "댂"
-data modify storage hangul:const char append value "댃"
-data modify storage hangul:const char append value "댄"
-data modify storage hangul:const char append value "댅"
-data modify storage hangul:const char append value "댆"
-data modify storage hangul:const char append value "댇"
-data modify storage hangul:const char append value "댈"
-data modify storage hangul:const char append value "댉"
-data modify storage hangul:const char append value "댊"
-data modify storage hangul:const char append value "댋"
-data modify storage hangul:const char append value "댌"
-data modify storage hangul:const char append value "댍"
-data modify storage hangul:const char append value "댎"
-data modify storage hangul:const char append value "댏"
-data modify storage hangul:const char append value "댐"
-data modify storage hangul:const char append value "댑"
-data modify storage hangul:const char append value "댒"
-data modify storage hangul:const char append value "댓"
-data modify storage hangul:const char append value "댔"
-data modify storage hangul:const char append value "댕"
-data modify storage hangul:const char append value "댖"
-data modify storage hangul:const char append value "댗"
-data modify storage hangul:const char append value "댘"
-data modify storage hangul:const char append value "댙"
-data modify storage hangul:const char append value "댚"
-data modify storage hangul:const char append value "댛"
-data modify storage hangul:const char append value "댜"
-data modify storage hangul:const char append value "댝"
-data modify storage hangul:const char append value "댞"
-data modify storage hangul:const char append value "댟"
-data modify storage hangul:const char append value "댠"
-data modify storage hangul:const char append value "댡"
-data modify storage hangul:const char append value "댢"
-data modify storage hangul:const char append value "댣"
-data modify storage hangul:const char append value "댤"
-data modify storage hangul:const char append value "댥"
-data modify storage hangul:const char append value "댦"
-data modify storage hangul:const char append value "댧"
-data modify storage hangul:const char append value "댨"
-data modify storage hangul:const char append value "댩"
-data modify storage hangul:const char append value "댪"
-data modify storage hangul:const char append value "댫"
-data modify storage hangul:const char append value "댬"
-data modify storage hangul:const char append value "댭"
-data modify storage hangul:const char append value "댮"
-data modify storage hangul:const char append value "댯"
-data modify storage hangul:const char append value "댰"
-data modify storage hangul:const char append value "댱"
-data modify storage hangul:const char append value "댲"
-data modify storage hangul:const char append value "댳"
-data modify storage hangul:const char append value "댴"
-data modify storage hangul:const char append value "댵"
-data modify storage hangul:const char append value "댶"
-data modify storage hangul:const char append value "댷"
-data modify storage hangul:const char append value "댸"
-data modify storage hangul:const char append value "댹"
-data modify storage hangul:const char append value "댺"
-data modify storage hangul:const char append value "댻"
-data modify storage hangul:const char append value "댼"
-data modify storage hangul:const char append value "댽"
-data modify storage hangul:const char append value "댾"
-data modify storage hangul:const char append value "댿"
-data modify storage hangul:const char append value "덀"
-data modify storage hangul:const char append value "덁"
-data modify storage hangul:const char append value "덂"
-data modify storage hangul:const char append value "덃"
-data modify storage hangul:const char append value "덄"
-data modify storage hangul:const char append value "덅"
-data modify storage hangul:const char append value "덆"
-data modify storage hangul:const char append value "덇"
-data modify storage hangul:const char append value "덈"
-data modify storage hangul:const char append value "덉"
-data modify storage hangul:const char append value "덊"
-data modify storage hangul:const char append value "덋"
-data modify storage hangul:const char append value "덌"
-data modify storage hangul:const char append value "덍"
-data modify storage hangul:const char append value "덎"
-data modify storage hangul:const char append value "덏"
-data modify storage hangul:const char append value "덐"
-data modify storage hangul:const char append value "덑"
-data modify storage hangul:const char append value "덒"
-data modify storage hangul:const char append value "덓"
-data modify storage hangul:const char append value "더"
-data modify storage hangul:const char append value "덕"
-data modify storage hangul:const char append value "덖"
-data modify storage hangul:const char append value "덗"
-data modify storage hangul:const char append value "던"
-data modify storage hangul:const char append value "덙"
-data modify storage hangul:const char append value "덚"
-data modify storage hangul:const char append value "덛"
-data modify storage hangul:const char append value "덜"
-data modify storage hangul:const char append value "덝"
-data modify storage hangul:const char append value "덞"
-data modify storage hangul:const char append value "덟"
-data modify storage hangul:const char append value "덠"
-data modify storage hangul:const char append value "덡"
-data modify storage hangul:const char append value "덢"
-data modify storage hangul:const char append value "덣"
-data modify storage hangul:const char append value "덤"
-data modify storage hangul:const char append value "덥"
-data modify storage hangul:const char append value "덦"
-data modify storage hangul:const char append value "덧"
-data modify storage hangul:const char append value "덨"
-data modify storage hangul:const char append value "덩"
-data modify storage hangul:const char append value "덪"
-data modify storage hangul:const char append value "덫"
-data modify storage hangul:const char append value "덬"
-data modify storage hangul:const char append value "덭"
-data modify storage hangul:const char append value "덮"
-data modify storage hangul:const char append value "덯"
-data modify storage hangul:const char append value "데"
-data modify storage hangul:const char append value "덱"
-data modify storage hangul:const char append value "덲"
-data modify storage hangul:const char append value "덳"
-data modify storage hangul:const char append value "덴"
-data modify storage hangul:const char append value "덵"
-data modify storage hangul:const char append value "덶"
-data modify storage hangul:const char append value "덷"
-data modify storage hangul:const char append value "델"
-data modify storage hangul:const char append value "덹"
-data modify storage hangul:const char append value "덺"
-data modify storage hangul:const char append value "덻"
-data modify storage hangul:const char append value "덼"
-data modify storage hangul:const char append value "덽"
-data modify storage hangul:const char append value "덾"
-data modify storage hangul:const char append value "덿"
-data modify storage hangul:const char append value "뎀"
-data modify storage hangul:const char append value "뎁"
-data modify storage hangul:const char append value "뎂"
-data modify storage hangul:const char append value "뎃"
-data modify storage hangul:const char append value "뎄"
-data modify storage hangul:const char append value "뎅"
-data modify storage hangul:const char append value "뎆"
-data modify storage hangul:const char append value "뎇"
-data modify storage hangul:const char append value "뎈"
-data modify storage hangul:const char append value "뎉"
-data modify storage hangul:const char append value "뎊"
-data modify storage hangul:const char append value "뎋"
-data modify storage hangul:const char append value "뎌"
-data modify storage hangul:const char append value "뎍"
-data modify storage hangul:const char append value "뎎"
-data modify storage hangul:const char append value "뎏"
-data modify storage hangul:const char append value "뎐"
-data modify storage hangul:const char append value "뎑"
-data modify storage hangul:const char append value "뎒"
-data modify storage hangul:const char append value "뎓"
-data modify storage hangul:const char append value "뎔"
-data modify storage hangul:const char append value "뎕"
-data modify storage hangul:const char append value "뎖"
-data modify storage hangul:const char append value "뎗"
-data modify storage hangul:const char append value "뎘"
-data modify storage hangul:const char append value "뎙"
-data modify storage hangul:const char append value "뎚"
-data modify storage hangul:const char append value "뎛"
-data modify storage hangul:const char append value "뎜"
-data modify storage hangul:const char append value "뎝"
-data modify storage hangul:const char append value "뎞"
-data modify storage hangul:const char append value "뎟"
-data modify storage hangul:const char append value "뎠"
-data modify storage hangul:const char append value "뎡"
-data modify storage hangul:const char append value "뎢"
-data modify storage hangul:const char append value "뎣"
-data modify storage hangul:const char append value "뎤"
-data modify storage hangul:const char append value "뎥"
-data modify storage hangul:const char append value "뎦"
-data modify storage hangul:const char append value "뎧"
-data modify storage hangul:const char append value "뎨"
-data modify storage hangul:const char append value "뎩"
-data modify storage hangul:const char append value "뎪"
-data modify storage hangul:const char append value "뎫"
-data modify storage hangul:const char append value "뎬"
-data modify storage hangul:const char append value "뎭"
-data modify storage hangul:const char append value "뎮"
-data modify storage hangul:const char append value "뎯"
-data modify storage hangul:const char append value "뎰"
-data modify storage hangul:const char append value "뎱"
-data modify storage hangul:const char append value "뎲"
-data modify storage hangul:const char append value "뎳"
-data modify storage hangul:const char append value "뎴"
-data modify storage hangul:const char append value "뎵"
-data modify storage hangul:const char append value "뎶"
-data modify storage hangul:const char append value "뎷"
-data modify storage hangul:const char append value "뎸"
-data modify storage hangul:const char append value "뎹"
-data modify storage hangul:const char append value "뎺"
-data modify storage hangul:const char append value "뎻"
-data modify storage hangul:const char append value "뎼"
-data modify storage hangul:const char append value "뎽"
-data modify storage hangul:const char append value "뎾"
-data modify storage hangul:const char append value "뎿"
-data modify storage hangul:const char append value "돀"
-data modify storage hangul:const char append value "돁"
-data modify storage hangul:const char append value "돂"
-data modify storage hangul:const char append value "돃"
-data modify storage hangul:const char append value "도"
-data modify storage hangul:const char append value "독"
-data modify storage hangul:const char append value "돆"
-data modify storage hangul:const char append value "돇"
-data modify storage hangul:const char append value "돈"
-data modify storage hangul:const char append value "돉"
-data modify storage hangul:const char append value "돊"
-data modify storage hangul:const char append value "돋"
-data modify storage hangul:const char append value "돌"
-data modify storage hangul:const char append value "돍"
-data modify storage hangul:const char append value "돎"
-data modify storage hangul:const char append value "돏"
-data modify storage hangul:const char append value "돐"
-data modify storage hangul:const char append value "돑"
-data modify storage hangul:const char append value "돒"
-data modify storage hangul:const char append value "돓"
-data modify storage hangul:const char append value "돔"
-data modify storage hangul:const char append value "돕"
-data modify storage hangul:const char append value "돖"
-data modify storage hangul:const char append value "돗"
-data modify storage hangul:const char append value "돘"
-data modify storage hangul:const char append value "동"
-data modify storage hangul:const char append value "돚"
-data modify storage hangul:const char append value "돛"
-data modify storage hangul:const char append value "돜"
-data modify storage hangul:const char append value "돝"
-data modify storage hangul:const char append value "돞"
-data modify storage hangul:const char append value "돟"
-data modify storage hangul:const char append value "돠"
-data modify storage hangul:const char append value "돡"
-data modify storage hangul:const char append value "돢"
-data modify storage hangul:const char append value "돣"
-data modify storage hangul:const char append value "돤"
-data modify storage hangul:const char append value "돥"
-data modify storage hangul:const char append value "돦"
-data modify storage hangul:const char append value "돧"
-data modify storage hangul:const char append value "돨"
-data modify storage hangul:const char append value "돩"
-data modify storage hangul:const char append value "돪"
-data modify storage hangul:const char append value "돫"
-data modify storage hangul:const char append value "돬"
-data modify storage hangul:const char append value "돭"
-data modify storage hangul:const char append value "돮"
-data modify storage hangul:const char append value "돯"
-data modify storage hangul:const char append value "돰"
-data modify storage hangul:const char append value "돱"
-data modify storage hangul:const char append value "돲"
-data modify storage hangul:const char append value "돳"
-data modify storage hangul:const char append value "돴"
-data modify storage hangul:const char append value "돵"
-data modify storage hangul:const char append value "돶"
-data modify storage hangul:const char append value "돷"
-data modify storage hangul:const char append value "돸"
-data modify storage hangul:const char append value "돹"
-data modify storage hangul:const char append value "돺"
-data modify storage hangul:const char append value "돻"
-data modify storage hangul:const char append value "돼"
-data modify storage hangul:const char append value "돽"
-data modify storage hangul:const char append value "돾"
-data modify storage hangul:const char append value "돿"
-data modify storage hangul:const char append value "됀"
-data modify storage hangul:const char append value "됁"
-data modify storage hangul:const char append value "됂"
-data modify storage hangul:const char append value "됃"
-data modify storage hangul:const char append value "됄"
-data modify storage hangul:const char append value "됅"
-data modify storage hangul:const char append value "됆"
-data modify storage hangul:const char append value "됇"
-data modify storage hangul:const char append value "됈"
-data modify storage hangul:const char append value "됉"
-data modify storage hangul:const char append value "됊"
-data modify storage hangul:const char append value "됋"
-data modify storage hangul:const char append value "됌"
-data modify storage hangul:const char append value "됍"
-data modify storage hangul:const char append value "됎"
-data modify storage hangul:const char append value "됏"
-data modify storage hangul:const char append value "됐"
-data modify storage hangul:const char append value "됑"
-data modify storage hangul:const char append value "됒"
-data modify storage hangul:const char append value "됓"
-data modify storage hangul:const char append value "됔"
-data modify storage hangul:const char append value "됕"
-data modify storage hangul:const char append value "됖"
-data modify storage hangul:const char append value "됗"
-data modify storage hangul:const char append value "되"
-data modify storage hangul:const char append value "됙"
-data modify storage hangul:const char append value "됚"
-data modify storage hangul:const char append value "됛"
-data modify storage hangul:const char append value "된"
-data modify storage hangul:const char append value "됝"
-data modify storage hangul:const char append value "됞"
-data modify storage hangul:const char append value "됟"
-data modify storage hangul:const char append value "될"
-data modify storage hangul:const char append value "됡"
-data modify storage hangul:const char append value "됢"
-data modify storage hangul:const char append value "됣"
-data modify storage hangul:const char append value "됤"
-data modify storage hangul:const char append value "됥"
-data modify storage hangul:const char append value "됦"
-data modify storage hangul:const char append value "됧"
-data modify storage hangul:const char append value "됨"
-data modify storage hangul:const char append value "됩"
-data modify storage hangul:const char append value "됪"
-data modify storage hangul:const char append value "됫"
-data modify storage hangul:const char append value "됬"
-data modify storage hangul:const char append value "됭"
-data modify storage hangul:const char append value "됮"
-data modify storage hangul:const char append value "됯"
-data modify storage hangul:const char append value "됰"
-data modify storage hangul:const char append value "됱"
-data modify storage hangul:const char append value "됲"
-data modify storage hangul:const char append value "됳"
-data modify storage hangul:const char append value "됴"
-data modify storage hangul:const char append value "됵"
-data modify storage hangul:const char append value "됶"
-data modify storage hangul:const char append value "됷"
-data modify storage hangul:const char append value "됸"
-data modify storage hangul:const char append value "됹"
-data modify storage hangul:const char append value "됺"
-data modify storage hangul:const char append value "됻"
-data modify storage hangul:const char append value "됼"
-data modify storage hangul:const char append value "됽"
-data modify storage hangul:const char append value "됾"
-data modify storage hangul:const char append value "됿"
-data modify storage hangul:const char append value "둀"
-data modify storage hangul:const char append value "둁"
-data modify storage hangul:const char append value "둂"
-data modify storage hangul:const char append value "둃"
-data modify storage hangul:const char append value "둄"
-data modify storage hangul:const char append value "둅"
-data modify storage hangul:const char append value "둆"
-data modify storage hangul:const char append value "둇"
-data modify storage hangul:const char append value "둈"
-data modify storage hangul:const char append value "둉"
-data modify storage hangul:const char append value "둊"
-data modify storage hangul:const char append value "둋"
-data modify storage hangul:const char append value "둌"
-data modify storage hangul:const char append value "둍"
-data modify storage hangul:const char append value "둎"
-data modify storage hangul:const char append value "둏"
-data modify storage hangul:const char append value "두"
-data modify storage hangul:const char append value "둑"
-data modify storage hangul:const char append value "둒"
-data modify storage hangul:const char append value "둓"
-data modify storage hangul:const char append value "둔"
-data modify storage hangul:const char append value "둕"
-data modify storage hangul:const char append value "둖"
-data modify storage hangul:const char append value "둗"
-data modify storage hangul:const char append value "둘"
-data modify storage hangul:const char append value "둙"
-data modify storage hangul:const char append value "둚"
-data modify storage hangul:const char append value "둛"
-data modify storage hangul:const char append value "둜"
-data modify storage hangul:const char append value "둝"
-data modify storage hangul:const char append value "둞"
-data modify storage hangul:const char append value "둟"
-data modify storage hangul:const char append value "둠"
-data modify storage hangul:const char append value "둡"
-data modify storage hangul:const char append value "둢"
-data modify storage hangul:const char append value "둣"
-data modify storage hangul:const char append value "둤"
-data modify storage hangul:const char append value "둥"
-data modify storage hangul:const char append value "둦"
-data modify storage hangul:const char append value "둧"
-data modify storage hangul:const char append value "둨"
-data modify storage hangul:const char append value "둩"
-data modify storage hangul:const char append value "둪"
-data modify storage hangul:const char append value "둫"
-data modify storage hangul:const char append value "둬"
-data modify storage hangul:const char append value "둭"
-data modify storage hangul:const char append value "둮"
-data modify storage hangul:const char append value "둯"
-data modify storage hangul:const char append value "둰"
-data modify storage hangul:const char append value "둱"
-data modify storage hangul:const char append value "둲"
-data modify storage hangul:const char append value "둳"
-data modify storage hangul:const char append value "둴"
-data modify storage hangul:const char append value "둵"
-data modify storage hangul:const char append value "둶"
-data modify storage hangul:const char append value "둷"
-data modify storage hangul:const char append value "둸"
-data modify storage hangul:const char append value "둹"
-data modify storage hangul:const char append value "둺"
-data modify storage hangul:const char append value "둻"
-data modify storage hangul:const char append value "둼"
-data modify storage hangul:const char append value "둽"
-data modify storage hangul:const char append value "둾"
-data modify storage hangul:const char append value "둿"
-data modify storage hangul:const char append value "뒀"
-data modify storage hangul:const char append value "뒁"
-data modify storage hangul:const char append value "뒂"
-data modify storage hangul:const char append value "뒃"
-data modify storage hangul:const char append value "뒄"
-data modify storage hangul:const char append value "뒅"
-data modify storage hangul:const char append value "뒆"
-data modify storage hangul:const char append value "뒇"
-data modify storage hangul:const char append value "뒈"
-data modify storage hangul:const char append value "뒉"
-data modify storage hangul:const char append value "뒊"
-data modify storage hangul:const char append value "뒋"
-data modify storage hangul:const char append value "뒌"
-data modify storage hangul:const char append value "뒍"
-data modify storage hangul:const char append value "뒎"
-data modify storage hangul:const char append value "뒏"
-data modify storage hangul:const char append value "뒐"
-data modify storage hangul:const char append value "뒑"
-data modify storage hangul:const char append value "뒒"
-data modify storage hangul:const char append value "뒓"
-data modify storage hangul:const char append value "뒔"
-data modify storage hangul:const char append value "뒕"
-data modify storage hangul:const char append value "뒖"
-data modify storage hangul:const char append value "뒗"
-data modify storage hangul:const char append value "뒘"
-data modify storage hangul:const char append value "뒙"
-data modify storage hangul:const char append value "뒚"
-data modify storage hangul:const char append value "뒛"
-data modify storage hangul:const char append value "뒜"
-data modify storage hangul:const char append value "뒝"
-data modify storage hangul:const char append value "뒞"
-data modify storage hangul:const char append value "뒟"
-data modify storage hangul:const char append value "뒠"
-data modify storage hangul:const char append value "뒡"
-data modify storage hangul:const char append value "뒢"
-data modify storage hangul:const char append value "뒣"
-data modify storage hangul:const char append value "뒤"
-data modify storage hangul:const char append value "뒥"
-data modify storage hangul:const char append value "뒦"
-data modify storage hangul:const char append value "뒧"
-data modify storage hangul:const char append value "뒨"
-data modify storage hangul:const char append value "뒩"
-data modify storage hangul:const char append value "뒪"
-data modify storage hangul:const char append value "뒫"
-data modify storage hangul:const char append value "뒬"
-data modify storage hangul:const char append value "뒭"
-data modify storage hangul:const char append value "뒮"
-data modify storage hangul:const char append value "뒯"
-data modify storage hangul:const char append value "뒰"
-data modify storage hangul:const char append value "뒱"
-data modify storage hangul:const char append value "뒲"
-data modify storage hangul:const char append value "뒳"
-data modify storage hangul:const char append value "뒴"
-data modify storage hangul:const char append value "뒵"
-data modify storage hangul:const char append value "뒶"
-data modify storage hangul:const char append value "뒷"
-data modify storage hangul:const char append value "뒸"
-data modify storage hangul:const char append value "뒹"
-data modify storage hangul:const char append value "뒺"
-data modify storage hangul:const char append value "뒻"
-data modify storage hangul:const char append value "뒼"
-data modify storage hangul:const char append value "뒽"
-data modify storage hangul:const char append value "뒾"
-data modify storage hangul:const char append value "뒿"
-data modify storage hangul:const char append value "듀"
-data modify storage hangul:const char append value "듁"
-data modify storage hangul:const char append value "듂"
-data modify storage hangul:const char append value "듃"
-data modify storage hangul:const char append value "듄"
-data modify storage hangul:const char append value "듅"
-data modify storage hangul:const char append value "듆"
-data modify storage hangul:const char append value "듇"
-data modify storage hangul:const char append value "듈"
-data modify storage hangul:const char append value "듉"
-data modify storage hangul:const char append value "듊"
-data modify storage hangul:const char append value "듋"
-data modify storage hangul:const char append value "듌"
-data modify storage hangul:const char append value "듍"
-data modify storage hangul:const char append value "듎"
-data modify storage hangul:const char append value "듏"
-data modify storage hangul:const char append value "듐"
-data modify storage hangul:const char append value "듑"
-data modify storage hangul:const char append value "듒"
-data modify storage hangul:const char append value "듓"
-data modify storage hangul:const char append value "듔"
-data modify storage hangul:const char append value "듕"
-data modify storage hangul:const char append value "듖"
-data modify storage hangul:const char append value "듗"
-data modify storage hangul:const char append value "듘"
-data modify storage hangul:const char append value "듙"
-data modify storage hangul:const char append value "듚"
-data modify storage hangul:const char append value "듛"
-data modify storage hangul:const char append value "드"
-data modify storage hangul:const char append value "득"
-data modify storage hangul:const char append value "듞"
-data modify storage hangul:const char append value "듟"
-data modify storage hangul:const char append value "든"
-data modify storage hangul:const char append value "듡"
-data modify storage hangul:const char append value "듢"
-data modify storage hangul:const char append value "듣"
-data modify storage hangul:const char append value "들"
-data modify storage hangul:const char append value "듥"
-data modify storage hangul:const char append value "듦"
-data modify storage hangul:const char append value "듧"
-data modify storage hangul:const char append value "듨"
-data modify storage hangul:const char append value "듩"
-data modify storage hangul:const char append value "듪"
-data modify storage hangul:const char append value "듫"
-data modify storage hangul:const char append value "듬"
-data modify storage hangul:const char append value "듭"
-data modify storage hangul:const char append value "듮"
-data modify storage hangul:const char append value "듯"
-data modify storage hangul:const char append value "듰"
-data modify storage hangul:const char append value "등"
-data modify storage hangul:const char append value "듲"
-data modify storage hangul:const char append value "듳"
-data modify storage hangul:const char append value "듴"
-data modify storage hangul:const char append value "듵"
-data modify storage hangul:const char append value "듶"
-data modify storage hangul:const char append value "듷"
-data modify storage hangul:const char append value "듸"
-data modify storage hangul:const char append value "듹"
-data modify storage hangul:const char append value "듺"
-data modify storage hangul:const char append value "듻"
-data modify storage hangul:const char append value "듼"
-data modify storage hangul:const char append value "듽"
-data modify storage hangul:const char append value "듾"
-data modify storage hangul:const char append value "듿"
-data modify storage hangul:const char append value "딀"
-data modify storage hangul:const char append value "딁"
-data modify storage hangul:const char append value "딂"
-data modify storage hangul:const char append value "딃"
-data modify storage hangul:const char append value "딄"
-data modify storage hangul:const char append value "딅"
-data modify storage hangul:const char append value "딆"
-data modify storage hangul:const char append value "딇"
-data modify storage hangul:const char append value "딈"
-data modify storage hangul:const char append value "딉"
-data modify storage hangul:const char append value "딊"
-data modify storage hangul:const char append value "딋"
-data modify storage hangul:const char append value "딌"
-data modify storage hangul:const char append value "딍"
-data modify storage hangul:const char append value "딎"
-data modify storage hangul:const char append value "딏"
-data modify storage hangul:const char append value "딐"
-data modify storage hangul:const char append value "딑"
-data modify storage hangul:const char append value "딒"
-data modify storage hangul:const char append value "딓"
-data modify storage hangul:const char append value "디"
-data modify storage hangul:const char append value "딕"
-data modify storage hangul:const char append value "딖"
-data modify storage hangul:const char append value "딗"
-data modify storage hangul:const char append value "딘"
-data modify storage hangul:const char append value "딙"
-data modify storage hangul:const char append value "딚"
-data modify storage hangul:const char append value "딛"
-data modify storage hangul:const char append value "딜"
-data modify storage hangul:const char append value "딝"
-data modify storage hangul:const char append value "딞"
-data modify storage hangul:const char append value "딟"
-data modify storage hangul:const char append value "딠"
-data modify storage hangul:const char append value "딡"
-data modify storage hangul:const char append value "딢"
-data modify storage hangul:const char append value "딣"
-data modify storage hangul:const char append value "딤"
-data modify storage hangul:const char append value "딥"
-data modify storage hangul:const char append value "딦"
-data modify storage hangul:const char append value "딧"
-data modify storage hangul:const char append value "딨"
-data modify storage hangul:const char append value "딩"
-data modify storage hangul:const char append value "딪"
-data modify storage hangul:const char append value "딫"
-data modify storage hangul:const char append value "딬"
-data modify storage hangul:const char append value "딭"
-data modify storage hangul:const char append value "딮"
-data modify storage hangul:const char append value "딯"
-data modify storage hangul:const char append value "따"
-data modify storage hangul:const char append value "딱"
-data modify storage hangul:const char append value "딲"
-data modify storage hangul:const char append value "딳"
-data modify storage hangul:const char append value "딴"
-data modify storage hangul:const char append value "딵"
-data modify storage hangul:const char append value "딶"
-data modify storage hangul:const char append value "딷"
-data modify storage hangul:const char append value "딸"
-data modify storage hangul:const char append value "딹"
-data modify storage hangul:const char append value "딺"
-data modify storage hangul:const char append value "딻"
-data modify storage hangul:const char append value "딼"
-data modify storage hangul:const char append value "딽"
-data modify storage hangul:const char append value "딾"
-data modify storage hangul:const char append value "딿"
-data modify storage hangul:const char append value "땀"
-data modify storage hangul:const char append value "땁"
-data modify storage hangul:const char append value "땂"
-data modify storage hangul:const char append value "땃"
-data modify storage hangul:const char append value "땄"
-data modify storage hangul:const char append value "땅"
-data modify storage hangul:const char append value "땆"
-data modify storage hangul:const char append value "땇"
-data modify storage hangul:const char append value "땈"
-data modify storage hangul:const char append value "땉"
-data modify storage hangul:const char append value "땊"
-data modify storage hangul:const char append value "땋"
-data modify storage hangul:const char append value "때"
-data modify storage hangul:const char append value "땍"
-data modify storage hangul:const char append value "땎"
-data modify storage hangul:const char append value "땏"
-data modify storage hangul:const char append value "땐"
-data modify storage hangul:const char append value "땑"
-data modify storage hangul:const char append value "땒"
-data modify storage hangul:const char append value "땓"
-data modify storage hangul:const char append value "땔"
-data modify storage hangul:const char append value "땕"
-data modify storage hangul:const char append value "땖"
-data modify storage hangul:const char append value "땗"
-data modify storage hangul:const char append value "땘"
-data modify storage hangul:const char append value "땙"
-data modify storage hangul:const char append value "땚"
-data modify storage hangul:const char append value "땛"
-data modify storage hangul:const char append value "땜"
-data modify storage hangul:const char append value "땝"
-data modify storage hangul:const char append value "땞"
-data modify storage hangul:const char append value "땟"
-data modify storage hangul:const char append value "땠"
-data modify storage hangul:const char append value "땡"
-data modify storage hangul:const char append value "땢"
-data modify storage hangul:const char append value "땣"
-data modify storage hangul:const char append value "땤"
-data modify storage hangul:const char append value "땥"
-data modify storage hangul:const char append value "땦"
-data modify storage hangul:const char append value "땧"
-data modify storage hangul:const char append value "땨"
-data modify storage hangul:const char append value "땩"
-data modify storage hangul:const char append value "땪"
-data modify storage hangul:const char append value "땫"
-data modify storage hangul:const char append value "땬"
-data modify storage hangul:const char append value "땭"
-data modify storage hangul:const char append value "땮"
-data modify storage hangul:const char append value "땯"
-data modify storage hangul:const char append value "땰"
-data modify storage hangul:const char append value "땱"
-data modify storage hangul:const char append value "땲"
-data modify storage hangul:const char append value "땳"
-data modify storage hangul:const char append value "땴"
-data modify storage hangul:const char append value "땵"
-data modify storage hangul:const char append value "땶"
-data modify storage hangul:const char append value "땷"
-data modify storage hangul:const char append value "땸"
-data modify storage hangul:const char append value "땹"
-data modify storage hangul:const char append value "땺"
-data modify storage hangul:const char append value "땻"
-data modify storage hangul:const char append value "땼"
-data modify storage hangul:const char append value "땽"
-data modify storage hangul:const char append value "땾"
-data modify storage hangul:const char append value "땿"
-data modify storage hangul:const char append value "떀"
-data modify storage hangul:const char append value "떁"
-data modify storage hangul:const char append value "떂"
-data modify storage hangul:const char append value "떃"
-data modify storage hangul:const char append value "떄"
-data modify storage hangul:const char append value "떅"
-data modify storage hangul:const char append value "떆"
-data modify storage hangul:const char append value "떇"
-data modify storage hangul:const char append value "떈"
-data modify storage hangul:const char append value "떉"
-data modify storage hangul:const char append value "떊"
-data modify storage hangul:const char append value "떋"
-data modify storage hangul:const char append value "떌"
-data modify storage hangul:const char append value "떍"
-data modify storage hangul:const char append value "떎"
-data modify storage hangul:const char append value "떏"
-data modify storage hangul:const char append value "떐"
-data modify storage hangul:const char append value "떑"
-data modify storage hangul:const char append value "떒"
-data modify storage hangul:const char append value "떓"
-data modify storage hangul:const char append value "떔"
-data modify storage hangul:const char append value "떕"
-data modify storage hangul:const char append value "떖"
-data modify storage hangul:const char append value "떗"
-data modify storage hangul:const char append value "떘"
-data modify storage hangul:const char append value "떙"
-data modify storage hangul:const char append value "떚"
-data modify storage hangul:const char append value "떛"
-data modify storage hangul:const char append value "떜"
-data modify storage hangul:const char append value "떝"
-data modify storage hangul:const char append value "떞"
-data modify storage hangul:const char append value "떟"
-data modify storage hangul:const char append value "떠"
-data modify storage hangul:const char append value "떡"
-data modify storage hangul:const char append value "떢"
-data modify storage hangul:const char append value "떣"
-data modify storage hangul:const char append value "떤"
-data modify storage hangul:const char append value "떥"
-data modify storage hangul:const char append value "떦"
-data modify storage hangul:const char append value "떧"
-data modify storage hangul:const char append value "떨"
-data modify storage hangul:const char append value "떩"
-data modify storage hangul:const char append value "떪"
-data modify storage hangul:const char append value "떫"
-data modify storage hangul:const char append value "떬"
-data modify storage hangul:const char append value "떭"
-data modify storage hangul:const char append value "떮"
-data modify storage hangul:const char append value "떯"
-data modify storage hangul:const char append value "떰"
-data modify storage hangul:const char append value "떱"
-data modify storage hangul:const char append value "떲"
-data modify storage hangul:const char append value "떳"
-data modify storage hangul:const char append value "떴"
-data modify storage hangul:const char append value "떵"
-data modify storage hangul:const char append value "떶"
-data modify storage hangul:const char append value "떷"
-data modify storage hangul:const char append value "떸"
-data modify storage hangul:const char append value "떹"
-data modify storage hangul:const char append value "떺"
-data modify storage hangul:const char append value "떻"
-data modify storage hangul:const char append value "떼"
-data modify storage hangul:const char append value "떽"
-data modify storage hangul:const char append value "떾"
-data modify storage hangul:const char append value "떿"
-data modify storage hangul:const char append value "뗀"
-data modify storage hangul:const char append value "뗁"
-data modify storage hangul:const char append value "뗂"
-data modify storage hangul:const char append value "뗃"
-data modify storage hangul:const char append value "뗄"
-data modify storage hangul:const char append value "뗅"
-data modify storage hangul:const char append value "뗆"
-data modify storage hangul:const char append value "뗇"
-data modify storage hangul:const char append value "뗈"
-data modify storage hangul:const char append value "뗉"
-data modify storage hangul:const char append value "뗊"
-data modify storage hangul:const char append value "뗋"
-data modify storage hangul:const char append value "뗌"
-data modify storage hangul:const char append value "뗍"
-data modify storage hangul:const char append value "뗎"
-data modify storage hangul:const char append value "뗏"
-data modify storage hangul:const char append value "뗐"
-data modify storage hangul:const char append value "뗑"
-data modify storage hangul:const char append value "뗒"
-data modify storage hangul:const char append value "뗓"
-data modify storage hangul:const char append value "뗔"
-data modify storage hangul:const char append value "뗕"
-data modify storage hangul:const char append value "뗖"
-data modify storage hangul:const char append value "뗗"
-data modify storage hangul:const char append value "뗘"
-data modify storage hangul:const char append value "뗙"
-data modify storage hangul:const char append value "뗚"
-data modify storage hangul:const char append value "뗛"
-data modify storage hangul:const char append value "뗜"
-data modify storage hangul:const char append value "뗝"
-data modify storage hangul:const char append value "뗞"
-data modify storage hangul:const char append value "뗟"
-data modify storage hangul:const char append value "뗠"
-data modify storage hangul:const char append value "뗡"
-data modify storage hangul:const char append value "뗢"
-data modify storage hangul:const char append value "뗣"
-data modify storage hangul:const char append value "뗤"
-data modify storage hangul:const char append value "뗥"
-data modify storage hangul:const char append value "뗦"
-data modify storage hangul:const char append value "뗧"
-data modify storage hangul:const char append value "뗨"
-data modify storage hangul:const char append value "뗩"
-data modify storage hangul:const char append value "뗪"
-data modify storage hangul:const char append value "뗫"
-data modify storage hangul:const char append value "뗬"
-data modify storage hangul:const char append value "뗭"
-data modify storage hangul:const char append value "뗮"
-data modify storage hangul:const char append value "뗯"
-data modify storage hangul:const char append value "뗰"
-data modify storage hangul:const char append value "뗱"
-data modify storage hangul:const char append value "뗲"
-data modify storage hangul:const char append value "뗳"
-data modify storage hangul:const char append value "뗴"
-data modify storage hangul:const char append value "뗵"
-data modify storage hangul:const char append value "뗶"
-data modify storage hangul:const char append value "뗷"
-data modify storage hangul:const char append value "뗸"
-data modify storage hangul:const char append value "뗹"
-data modify storage hangul:const char append value "뗺"
-data modify storage hangul:const char append value "뗻"
-data modify storage hangul:const char append value "뗼"
-data modify storage hangul:const char append value "뗽"
-data modify storage hangul:const char append value "뗾"
-data modify storage hangul:const char append value "뗿"
-data modify storage hangul:const char append value "똀"
-data modify storage hangul:const char append value "똁"
-data modify storage hangul:const char append value "똂"
-data modify storage hangul:const char append value "똃"
-data modify storage hangul:const char append value "똄"
-data modify storage hangul:const char append value "똅"
-data modify storage hangul:const char append value "똆"
-data modify storage hangul:const char append value "똇"
-data modify storage hangul:const char append value "똈"
-data modify storage hangul:const char append value "똉"
-data modify storage hangul:const char append value "똊"
-data modify storage hangul:const char append value "똋"
-data modify storage hangul:const char append value "똌"
-data modify storage hangul:const char append value "똍"
-data modify storage hangul:const char append value "똎"
-data modify storage hangul:const char append value "똏"
-data modify storage hangul:const char append value "또"
-data modify storage hangul:const char append value "똑"
-data modify storage hangul:const char append value "똒"
-data modify storage hangul:const char append value "똓"
-data modify storage hangul:const char append value "똔"
-data modify storage hangul:const char append value "똕"
-data modify storage hangul:const char append value "똖"
-data modify storage hangul:const char append value "똗"
-data modify storage hangul:const char append value "똘"
-data modify storage hangul:const char append value "똙"
-data modify storage hangul:const char append value "똚"
-data modify storage hangul:const char append value "똛"
-data modify storage hangul:const char append value "똜"
-data modify storage hangul:const char append value "똝"
-data modify storage hangul:const char append value "똞"
-data modify storage hangul:const char append value "똟"
-data modify storage hangul:const char append value "똠"
-data modify storage hangul:const char append value "똡"
-data modify storage hangul:const char append value "똢"
-data modify storage hangul:const char append value "똣"
-data modify storage hangul:const char append value "똤"
-data modify storage hangul:const char append value "똥"
-data modify storage hangul:const char append value "똦"
-data modify storage hangul:const char append value "똧"
-data modify storage hangul:const char append value "똨"
-data modify storage hangul:const char append value "똩"
-data modify storage hangul:const char append value "똪"
-data modify storage hangul:const char append value "똫"
-data modify storage hangul:const char append value "똬"
-data modify storage hangul:const char append value "똭"
-data modify storage hangul:const char append value "똮"
-data modify storage hangul:const char append value "똯"
-data modify storage hangul:const char append value "똰"
-data modify storage hangul:const char append value "똱"
-data modify storage hangul:const char append value "똲"
-data modify storage hangul:const char append value "똳"
-data modify storage hangul:const char append value "똴"
-data modify storage hangul:const char append value "똵"
-data modify storage hangul:const char append value "똶"
-data modify storage hangul:const char append value "똷"
-data modify storage hangul:const char append value "똸"
-data modify storage hangul:const char append value "똹"
-data modify storage hangul:const char append value "똺"
-data modify storage hangul:const char append value "똻"
-data modify storage hangul:const char append value "똼"
-data modify storage hangul:const char append value "똽"
-data modify storage hangul:const char append value "똾"
-data modify storage hangul:const char append value "똿"
-data modify storage hangul:const char append value "뙀"
-data modify storage hangul:const char append value "뙁"
-data modify storage hangul:const char append value "뙂"
-data modify storage hangul:const char append value "뙃"
-data modify storage hangul:const char append value "뙄"
-data modify storage hangul:const char append value "뙅"
-data modify storage hangul:const char append value "뙆"
-data modify storage hangul:const char append value "뙇"
-data modify storage hangul:const char append value "뙈"
-data modify storage hangul:const char append value "뙉"
-data modify storage hangul:const char append value "뙊"
-data modify storage hangul:const char append value "뙋"
-data modify storage hangul:const char append value "뙌"
-data modify storage hangul:const char append value "뙍"
-data modify storage hangul:const char append value "뙎"
-data modify storage hangul:const char append value "뙏"
-data modify storage hangul:const char append value "뙐"
-data modify storage hangul:const char append value "뙑"
-data modify storage hangul:const char append value "뙒"
-data modify storage hangul:const char append value "뙓"
-data modify storage hangul:const char append value "뙔"
-data modify storage hangul:const char append value "뙕"
-data modify storage hangul:const char append value "뙖"
-data modify storage hangul:const char append value "뙗"
-data modify storage hangul:const char append value "뙘"
-data modify storage hangul:const char append value "뙙"
-data modify storage hangul:const char append value "뙚"
-data modify storage hangul:const char append value "뙛"
-data modify storage hangul:const char append value "뙜"
-data modify storage hangul:const char append value "뙝"
-data modify storage hangul:const char append value "뙞"
-data modify storage hangul:const char append value "뙟"
-data modify storage hangul:const char append value "뙠"
-data modify storage hangul:const char append value "뙡"
-data modify storage hangul:const char append value "뙢"
-data modify storage hangul:const char append value "뙣"
-data modify storage hangul:const char append value "뙤"
-data modify storage hangul:const char append value "뙥"
-data modify storage hangul:const char append value "뙦"
-data modify storage hangul:const char append value "뙧"
-data modify storage hangul:const char append value "뙨"
-data modify storage hangul:const char append value "뙩"
-data modify storage hangul:const char append value "뙪"
-data modify storage hangul:const char append value "뙫"
-data modify storage hangul:const char append value "뙬"
-data modify storage hangul:const char append value "뙭"
-data modify storage hangul:const char append value "뙮"
-data modify storage hangul:const char append value "뙯"
-data modify storage hangul:const char append value "뙰"
-data modify storage hangul:const char append value "뙱"
-data modify storage hangul:const char append value "뙲"
-data modify storage hangul:const char append value "뙳"
-data modify storage hangul:const char append value "뙴"
-data modify storage hangul:const char append value "뙵"
-data modify storage hangul:const char append value "뙶"
-data modify storage hangul:const char append value "뙷"
-data modify storage hangul:const char append value "뙸"
-data modify storage hangul:const char append value "뙹"
-data modify storage hangul:const char append value "뙺"
-data modify storage hangul:const char append value "뙻"
-data modify storage hangul:const char append value "뙼"
-data modify storage hangul:const char append value "뙽"
-data modify storage hangul:const char append value "뙾"
-data modify storage hangul:const char append value "뙿"
-data modify storage hangul:const char append value "뚀"
-data modify storage hangul:const char append value "뚁"
-data modify storage hangul:const char append value "뚂"
-data modify storage hangul:const char append value "뚃"
-data modify storage hangul:const char append value "뚄"
-data modify storage hangul:const char append value "뚅"
-data modify storage hangul:const char append value "뚆"
-data modify storage hangul:const char append value "뚇"
-data modify storage hangul:const char append value "뚈"
-data modify storage hangul:const char append value "뚉"
-data modify storage hangul:const char append value "뚊"
-data modify storage hangul:const char append value "뚋"
-data modify storage hangul:const char append value "뚌"
-data modify storage hangul:const char append value "뚍"
-data modify storage hangul:const char append value "뚎"
-data modify storage hangul:const char append value "뚏"
-data modify storage hangul:const char append value "뚐"
-data modify storage hangul:const char append value "뚑"
-data modify storage hangul:const char append value "뚒"
-data modify storage hangul:const char append value "뚓"
-data modify storage hangul:const char append value "뚔"
-data modify storage hangul:const char append value "뚕"
-data modify storage hangul:const char append value "뚖"
-data modify storage hangul:const char append value "뚗"
-data modify storage hangul:const char append value "뚘"
-data modify storage hangul:const char append value "뚙"
-data modify storage hangul:const char append value "뚚"
-data modify storage hangul:const char append value "뚛"
-data modify storage hangul:const char append value "뚜"
-data modify storage hangul:const char append value "뚝"
-data modify storage hangul:const char append value "뚞"
-data modify storage hangul:const char append value "뚟"
-data modify storage hangul:const char append value "뚠"
-data modify storage hangul:const char append value "뚡"
-data modify storage hangul:const char append value "뚢"
-data modify storage hangul:const char append value "뚣"
-data modify storage hangul:const char append value "뚤"
-data modify storage hangul:const char append value "뚥"
-data modify storage hangul:const char append value "뚦"
-data modify storage hangul:const char append value "뚧"
-data modify storage hangul:const char append value "뚨"
-data modify storage hangul:const char append value "뚩"
-data modify storage hangul:const char append value "뚪"
-data modify storage hangul:const char append value "뚫"
-data modify storage hangul:const char append value "뚬"
-data modify storage hangul:const char append value "뚭"
-data modify storage hangul:const char append value "뚮"
-data modify storage hangul:const char append value "뚯"
-data modify storage hangul:const char append value "뚰"
-data modify storage hangul:const char append value "뚱"
-data modify storage hangul:const char append value "뚲"
-data modify storage hangul:const char append value "뚳"
-data modify storage hangul:const char append value "뚴"
-data modify storage hangul:const char append value "뚵"
-data modify storage hangul:const char append value "뚶"
-data modify storage hangul:const char append value "뚷"
-data modify storage hangul:const char append value "뚸"
-data modify storage hangul:const char append value "뚹"
-data modify storage hangul:const char append value "뚺"
-data modify storage hangul:const char append value "뚻"
-data modify storage hangul:const char append value "뚼"
-data modify storage hangul:const char append value "뚽"
-data modify storage hangul:const char append value "뚾"
-data modify storage hangul:const char append value "뚿"
-data modify storage hangul:const char append value "뛀"
-data modify storage hangul:const char append value "뛁"
-data modify storage hangul:const char append value "뛂"
-data modify storage hangul:const char append value "뛃"
-data modify storage hangul:const char append value "뛄"
-data modify storage hangul:const char append value "뛅"
-data modify storage hangul:const char append value "뛆"
-data modify storage hangul:const char append value "뛇"
-data modify storage hangul:const char append value "뛈"
-data modify storage hangul:const char append value "뛉"
-data modify storage hangul:const char append value "뛊"
-data modify storage hangul:const char append value "뛋"
-data modify storage hangul:const char append value "뛌"
-data modify storage hangul:const char append value "뛍"
-data modify storage hangul:const char append value "뛎"
-data modify storage hangul:const char append value "뛏"
-data modify storage hangul:const char append value "뛐"
-data modify storage hangul:const char append value "뛑"
-data modify storage hangul:const char append value "뛒"
-data modify storage hangul:const char append value "뛓"
-data modify storage hangul:const char append value "뛔"
-data modify storage hangul:const char append value "뛕"
-data modify storage hangul:const char append value "뛖"
-data modify storage hangul:const char append value "뛗"
-data modify storage hangul:const char append value "뛘"
-data modify storage hangul:const char append value "뛙"
-data modify storage hangul:const char append value "뛚"
-data modify storage hangul:const char append value "뛛"
-data modify storage hangul:const char append value "뛜"
-data modify storage hangul:const char append value "뛝"
-data modify storage hangul:const char append value "뛞"
-data modify storage hangul:const char append value "뛟"
-data modify storage hangul:const char append value "뛠"
-data modify storage hangul:const char append value "뛡"
-data modify storage hangul:const char append value "뛢"
-data modify storage hangul:const char append value "뛣"
-data modify storage hangul:const char append value "뛤"
-data modify storage hangul:const char append value "뛥"
-data modify storage hangul:const char append value "뛦"
-data modify storage hangul:const char append value "뛧"
-data modify storage hangul:const char append value "뛨"
-data modify storage hangul:const char append value "뛩"
-data modify storage hangul:const char append value "뛪"
-data modify storage hangul:const char append value "뛫"
-data modify storage hangul:const char append value "뛬"
-data modify storage hangul:const char append value "뛭"
-data modify storage hangul:const char append value "뛮"
-data modify storage hangul:const char append value "뛯"
-data modify storage hangul:const char append value "뛰"
-data modify storage hangul:const char append value "뛱"
-data modify storage hangul:const char append value "뛲"
-data modify storage hangul:const char append value "뛳"
-data modify storage hangul:const char append value "뛴"
-data modify storage hangul:const char append value "뛵"
-data modify storage hangul:const char append value "뛶"
-data modify storage hangul:const char append value "뛷"
-data modify storage hangul:const char append value "뛸"
-data modify storage hangul:const char append value "뛹"
-data modify storage hangul:const char append value "뛺"
-data modify storage hangul:const char append value "뛻"
-data modify storage hangul:const char append value "뛼"
-data modify storage hangul:const char append value "뛽"
-data modify storage hangul:const char append value "뛾"
-data modify storage hangul:const char append value "뛿"
-data modify storage hangul:const char append value "뜀"
-data modify storage hangul:const char append value "뜁"
-data modify storage hangul:const char append value "뜂"
-data modify storage hangul:const char append value "뜃"
-data modify storage hangul:const char append value "뜄"
-data modify storage hangul:const char append value "뜅"
-data modify storage hangul:const char append value "뜆"
-data modify storage hangul:const char append value "뜇"
-data modify storage hangul:const char append value "뜈"
-data modify storage hangul:const char append value "뜉"
-data modify storage hangul:const char append value "뜊"
-data modify storage hangul:const char append value "뜋"
-data modify storage hangul:const char append value "뜌"
-data modify storage hangul:const char append value "뜍"
-data modify storage hangul:const char append value "뜎"
-data modify storage hangul:const char append value "뜏"
-data modify storage hangul:const char append value "뜐"
-data modify storage hangul:const char append value "뜑"
-data modify storage hangul:const char append value "뜒"
-data modify storage hangul:const char append value "뜓"
-data modify storage hangul:const char append value "뜔"
-data modify storage hangul:const char append value "뜕"
-data modify storage hangul:const char append value "뜖"
-data modify storage hangul:const char append value "뜗"
-data modify storage hangul:const char append value "뜘"
-data modify storage hangul:const char append value "뜙"
-data modify storage hangul:const char append value "뜚"
-data modify storage hangul:const char append value "뜛"
-data modify storage hangul:const char append value "뜜"
-data modify storage hangul:const char append value "뜝"
-data modify storage hangul:const char append value "뜞"
-data modify storage hangul:const char append value "뜟"
-data modify storage hangul:const char append value "뜠"
-data modify storage hangul:const char append value "뜡"
-data modify storage hangul:const char append value "뜢"
-data modify storage hangul:const char append value "뜣"
-data modify storage hangul:const char append value "뜤"
-data modify storage hangul:const char append value "뜥"
-data modify storage hangul:const char append value "뜦"
-data modify storage hangul:const char append value "뜧"
-data modify storage hangul:const char append value "뜨"
-data modify storage hangul:const char append value "뜩"
-data modify storage hangul:const char append value "뜪"
-data modify storage hangul:const char append value "뜫"
-data modify storage hangul:const char append value "뜬"
-data modify storage hangul:const char append value "뜭"
-data modify storage hangul:const char append value "뜮"
-data modify storage hangul:const char append value "뜯"
-data modify storage hangul:const char append value "뜰"
-data modify storage hangul:const char append value "뜱"
-data modify storage hangul:const char append value "뜲"
-data modify storage hangul:const char append value "뜳"
-data modify storage hangul:const char append value "뜴"
-data modify storage hangul:const char append value "뜵"
-data modify storage hangul:const char append value "뜶"
-data modify storage hangul:const char append value "뜷"
-data modify storage hangul:const char append value "뜸"
-data modify storage hangul:const char append value "뜹"
-data modify storage hangul:const char append value "뜺"
-data modify storage hangul:const char append value "뜻"
-data modify storage hangul:const char append value "뜼"
-data modify storage hangul:const char append value "뜽"
-data modify storage hangul:const char append value "뜾"
-data modify storage hangul:const char append value "뜿"
-data modify storage hangul:const char append value "띀"
-data modify storage hangul:const char append value "띁"
-data modify storage hangul:const char append value "띂"
-data modify storage hangul:const char append value "띃"
-data modify storage hangul:const char append value "띄"
-data modify storage hangul:const char append value "띅"
-data modify storage hangul:const char append value "띆"
-data modify storage hangul:const char append value "띇"
-data modify storage hangul:const char append value "띈"
-data modify storage hangul:const char append value "띉"
-data modify storage hangul:const char append value "띊"
-data modify storage hangul:const char append value "띋"
-data modify storage hangul:const char append value "띌"
-data modify storage hangul:const char append value "띍"
-data modify storage hangul:const char append value "띎"
-data modify storage hangul:const char append value "띏"
-data modify storage hangul:const char append value "띐"
-data modify storage hangul:const char append value "띑"
-data modify storage hangul:const char append value "띒"
-data modify storage hangul:const char append value "띓"
-data modify storage hangul:const char append value "띔"
-data modify storage hangul:const char append value "띕"
-data modify storage hangul:const char append value "띖"
-data modify storage hangul:const char append value "띗"
-data modify storage hangul:const char append value "띘"
-data modify storage hangul:const char append value "띙"
-data modify storage hangul:const char append value "띚"
-data modify storage hangul:const char append value "띛"
-data modify storage hangul:const char append value "띜"
-data modify storage hangul:const char append value "띝"
-data modify storage hangul:const char append value "띞"
-data modify storage hangul:const char append value "띟"
-data modify storage hangul:const char append value "띠"
-data modify storage hangul:const char append value "띡"
-data modify storage hangul:const char append value "띢"
-data modify storage hangul:const char append value "띣"
-data modify storage hangul:const char append value "띤"
-data modify storage hangul:const char append value "띥"
-data modify storage hangul:const char append value "띦"
-data modify storage hangul:const char append value "띧"
-data modify storage hangul:const char append value "띨"
-data modify storage hangul:const char append value "띩"
-data modify storage hangul:const char append value "띪"
-data modify storage hangul:const char append value "띫"
-data modify storage hangul:const char append value "띬"
-data modify storage hangul:const char append value "띭"
-data modify storage hangul:const char append value "띮"
-data modify storage hangul:const char append value "띯"
-data modify storage hangul:const char append value "띰"
-data modify storage hangul:const char append value "띱"
-data modify storage hangul:const char append value "띲"
-data modify storage hangul:const char append value "띳"
-data modify storage hangul:const char append value "띴"
-data modify storage hangul:const char append value "띵"
-data modify storage hangul:const char append value "띶"
-data modify storage hangul:const char append value "띷"
-data modify storage hangul:const char append value "띸"
-data modify storage hangul:const char append value "띹"
-data modify storage hangul:const char append value "띺"
-data modify storage hangul:const char append value "띻"
-data modify storage hangul:const char append value "라"
-data modify storage hangul:const char append value "락"
-data modify storage hangul:const char append value "띾"
-data modify storage hangul:const char append value "띿"
-data modify storage hangul:const char append value "란"
-data modify storage hangul:const char append value "랁"
-data modify storage hangul:const char append value "랂"
-data modify storage hangul:const char append value "랃"
-data modify storage hangul:const char append value "랄"
-data modify storage hangul:const char append value "랅"
-data modify storage hangul:const char append value "랆"
-data modify storage hangul:const char append value "랇"
-data modify storage hangul:const char append value "랈"
-data modify storage hangul:const char append value "랉"
-data modify storage hangul:const char append value "랊"
-data modify storage hangul:const char append value "랋"
-data modify storage hangul:const char append value "람"
-data modify storage hangul:const char append value "랍"
-data modify storage hangul:const char append value "랎"
-data modify storage hangul:const char append value "랏"
-data modify storage hangul:const char append value "랐"
-data modify storage hangul:const char append value "랑"
-data modify storage hangul:const char append value "랒"
-data modify storage hangul:const char append value "랓"
-data modify storage hangul:const char append value "랔"
-data modify storage hangul:const char append value "랕"
-data modify storage hangul:const char append value "랖"
-data modify storage hangul:const char append value "랗"
-data modify storage hangul:const char append value "래"
-data modify storage hangul:const char append value "랙"
-data modify storage hangul:const char append value "랚"
-data modify storage hangul:const char append value "랛"
-data modify storage hangul:const char append value "랜"
-data modify storage hangul:const char append value "랝"
-data modify storage hangul:const char append value "랞"
-data modify storage hangul:const char append value "랟"
-data modify storage hangul:const char append value "랠"
-data modify storage hangul:const char append value "랡"
-data modify storage hangul:const char append value "랢"
-data modify storage hangul:const char append value "랣"
-data modify storage hangul:const char append value "랤"
-data modify storage hangul:const char append value "랥"
-data modify storage hangul:const char append value "랦"
-data modify storage hangul:const char append value "랧"
-data modify storage hangul:const char append value "램"
-data modify storage hangul:const char append value "랩"
-data modify storage hangul:const char append value "랪"
-data modify storage hangul:const char append value "랫"
-data modify storage hangul:const char append value "랬"
-data modify storage hangul:const char append value "랭"
-data modify storage hangul:const char append value "랮"
-data modify storage hangul:const char append value "랯"
-data modify storage hangul:const char append value "랰"
-data modify storage hangul:const char append value "랱"
-data modify storage hangul:const char append value "랲"
-data modify storage hangul:const char append value "랳"
-data modify storage hangul:const char append value "랴"
-data modify storage hangul:const char append value "략"
-data modify storage hangul:const char append value "랶"
-data modify storage hangul:const char append value "랷"
-data modify storage hangul:const char append value "랸"
-data modify storage hangul:const char append value "랹"
-data modify storage hangul:const char append value "랺"
-data modify storage hangul:const char append value "랻"
-data modify storage hangul:const char append value "랼"
-data modify storage hangul:const char append value "랽"
-data modify storage hangul:const char append value "랾"
-data modify storage hangul:const char append value "랿"
-data modify storage hangul:const char append value "럀"
-data modify storage hangul:const char append value "럁"
-data modify storage hangul:const char append value "럂"
-data modify storage hangul:const char append value "럃"
-data modify storage hangul:const char append value "럄"
-data modify storage hangul:const char append value "럅"
-data modify storage hangul:const char append value "럆"
-data modify storage hangul:const char append value "럇"
-data modify storage hangul:const char append value "럈"
-data modify storage hangul:const char append value "량"
-data modify storage hangul:const char append value "럊"
-data modify storage hangul:const char append value "럋"
-data modify storage hangul:const char append value "럌"
-data modify storage hangul:const char append value "럍"
-data modify storage hangul:const char append value "럎"
-data modify storage hangul:const char append value "럏"
-data modify storage hangul:const char append value "럐"
-data modify storage hangul:const char append value "럑"
-data modify storage hangul:const char append value "럒"
-data modify storage hangul:const char append value "럓"
-data modify storage hangul:const char append value "럔"
-data modify storage hangul:const char append value "럕"
-data modify storage hangul:const char append value "럖"
-data modify storage hangul:const char append value "럗"
-data modify storage hangul:const char append value "럘"
-data modify storage hangul:const char append value "럙"
-data modify storage hangul:const char append value "럚"
-data modify storage hangul:const char append value "럛"
-data modify storage hangul:const char append value "럜"
-data modify storage hangul:const char append value "럝"
-data modify storage hangul:const char append value "럞"
-data modify storage hangul:const char append value "럟"
-data modify storage hangul:const char append value "럠"
-data modify storage hangul:const char append value "럡"
-data modify storage hangul:const char append value "럢"
-data modify storage hangul:const char append value "럣"
-data modify storage hangul:const char append value "럤"
-data modify storage hangul:const char append value "럥"
-data modify storage hangul:const char append value "럦"
-data modify storage hangul:const char append value "럧"
-data modify storage hangul:const char append value "럨"
-data modify storage hangul:const char append value "럩"
-data modify storage hangul:const char append value "럪"
-data modify storage hangul:const char append value "럫"
-data modify storage hangul:const char append value "러"
-data modify storage hangul:const char append value "럭"
-data modify storage hangul:const char append value "럮"
-data modify storage hangul:const char append value "럯"
-data modify storage hangul:const char append value "런"
-data modify storage hangul:const char append value "럱"
-data modify storage hangul:const char append value "럲"
-data modify storage hangul:const char append value "럳"
-data modify storage hangul:const char append value "럴"
-data modify storage hangul:const char append value "럵"
-data modify storage hangul:const char append value "럶"
-data modify storage hangul:const char append value "럷"
-data modify storage hangul:const char append value "럸"
-data modify storage hangul:const char append value "럹"
-data modify storage hangul:const char append value "럺"
-data modify storage hangul:const char append value "럻"
-data modify storage hangul:const char append value "럼"
-data modify storage hangul:const char append value "럽"
-data modify storage hangul:const char append value "럾"
-data modify storage hangul:const char append value "럿"
-data modify storage hangul:const char append value "렀"
-data modify storage hangul:const char append value "렁"
-data modify storage hangul:const char append value "렂"
-data modify storage hangul:const char append value "렃"
-data modify storage hangul:const char append value "렄"
-data modify storage hangul:const char append value "렅"
-data modify storage hangul:const char append value "렆"
-data modify storage hangul:const char append value "렇"
-data modify storage hangul:const char append value "레"
-data modify storage hangul:const char append value "렉"
-data modify storage hangul:const char append value "렊"
-data modify storage hangul:const char append value "렋"
-data modify storage hangul:const char append value "렌"
-data modify storage hangul:const char append value "렍"
-data modify storage hangul:const char append value "렎"
-data modify storage hangul:const char append value "렏"
-data modify storage hangul:const char append value "렐"
-data modify storage hangul:const char append value "렑"
-data modify storage hangul:const char append value "렒"
-data modify storage hangul:const char append value "렓"
-data modify storage hangul:const char append value "렔"
-data modify storage hangul:const char append value "렕"
-data modify storage hangul:const char append value "렖"
-data modify storage hangul:const char append value "렗"
-data modify storage hangul:const char append value "렘"
-data modify storage hangul:const char append value "렙"
-data modify storage hangul:const char append value "렚"
-data modify storage hangul:const char append value "렛"
-data modify storage hangul:const char append value "렜"
-data modify storage hangul:const char append value "렝"
-data modify storage hangul:const char append value "렞"
-data modify storage hangul:const char append value "렟"
-data modify storage hangul:const char append value "렠"
-data modify storage hangul:const char append value "렡"
-data modify storage hangul:const char append value "렢"
-data modify storage hangul:const char append value "렣"
-data modify storage hangul:const char append value "려"
-data modify storage hangul:const char append value "력"
-data modify storage hangul:const char append value "렦"
-data modify storage hangul:const char append value "렧"
-data modify storage hangul:const char append value "련"
-data modify storage hangul:const char append value "렩"
-data modify storage hangul:const char append value "렪"
-data modify storage hangul:const char append value "렫"
-data modify storage hangul:const char append value "렬"
-data modify storage hangul:const char append value "렭"
-data modify storage hangul:const char append value "렮"
-data modify storage hangul:const char append value "렯"
-data modify storage hangul:const char append value "렰"
-data modify storage hangul:const char append value "렱"
-data modify storage hangul:const char append value "렲"
-data modify storage hangul:const char append value "렳"
-data modify storage hangul:const char append value "렴"
-data modify storage hangul:const char append value "렵"
-data modify storage hangul:const char append value "렶"
-data modify storage hangul:const char append value "렷"
-data modify storage hangul:const char append value "렸"
-data modify storage hangul:const char append value "령"
-data modify storage hangul:const char append value "렺"
-data modify storage hangul:const char append value "렻"
-data modify storage hangul:const char append value "렼"
-data modify storage hangul:const char append value "렽"
-data modify storage hangul:const char append value "렾"
-data modify storage hangul:const char append value "렿"
-data modify storage hangul:const char append value "례"
-data modify storage hangul:const char append value "롁"
-data modify storage hangul:const char append value "롂"
-data modify storage hangul:const char append value "롃"
-data modify storage hangul:const char append value "롄"
-data modify storage hangul:const char append value "롅"
-data modify storage hangul:const char append value "롆"
-data modify storage hangul:const char append value "롇"
-data modify storage hangul:const char append value "롈"
-data modify storage hangul:const char append value "롉"
-data modify storage hangul:const char append value "롊"
-data modify storage hangul:const char append value "롋"
-data modify storage hangul:const char append value "롌"
-data modify storage hangul:const char append value "롍"
-data modify storage hangul:const char append value "롎"
-data modify storage hangul:const char append value "롏"
-data modify storage hangul:const char append value "롐"
-data modify storage hangul:const char append value "롑"
-data modify storage hangul:const char append value "롒"
-data modify storage hangul:const char append value "롓"
-data modify storage hangul:const char append value "롔"
-data modify storage hangul:const char append value "롕"
-data modify storage hangul:const char append value "롖"
-data modify storage hangul:const char append value "롗"
-data modify storage hangul:const char append value "롘"
-data modify storage hangul:const char append value "롙"
-data modify storage hangul:const char append value "롚"
-data modify storage hangul:const char append value "롛"
-data modify storage hangul:const char append value "로"
-data modify storage hangul:const char append value "록"
-data modify storage hangul:const char append value "롞"
-data modify storage hangul:const char append value "롟"
-data modify storage hangul:const char append value "론"
-data modify storage hangul:const char append value "롡"
-data modify storage hangul:const char append value "롢"
-data modify storage hangul:const char append value "롣"
-data modify storage hangul:const char append value "롤"
-data modify storage hangul:const char append value "롥"
-data modify storage hangul:const char append value "롦"
-data modify storage hangul:const char append value "롧"
-data modify storage hangul:const char append value "롨"
-data modify storage hangul:const char append value "롩"
-data modify storage hangul:const char append value "롪"
-data modify storage hangul:const char append value "롫"
-data modify storage hangul:const char append value "롬"
-data modify storage hangul:const char append value "롭"
-data modify storage hangul:const char append value "롮"
-data modify storage hangul:const char append value "롯"
-data modify storage hangul:const char append value "롰"
-data modify storage hangul:const char append value "롱"
-data modify storage hangul:const char append value "롲"
-data modify storage hangul:const char append value "롳"
-data modify storage hangul:const char append value "롴"
-data modify storage hangul:const char append value "롵"
-data modify storage hangul:const char append value "롶"
-data modify storage hangul:const char append value "롷"
-data modify storage hangul:const char append value "롸"
-data modify storage hangul:const char append value "롹"
-data modify storage hangul:const char append value "롺"
-data modify storage hangul:const char append value "롻"
-data modify storage hangul:const char append value "롼"
-data modify storage hangul:const char append value "롽"
-data modify storage hangul:const char append value "롾"
-data modify storage hangul:const char append value "롿"
-data modify storage hangul:const char append value "뢀"
-data modify storage hangul:const char append value "뢁"
-data modify storage hangul:const char append value "뢂"
-data modify storage hangul:const char append value "뢃"
-data modify storage hangul:const char append value "뢄"
-data modify storage hangul:const char append value "뢅"
-data modify storage hangul:const char append value "뢆"
-data modify storage hangul:const char append value "뢇"
-data modify storage hangul:const char append value "뢈"
-data modify storage hangul:const char append value "뢉"
-data modify storage hangul:const char append value "뢊"
-data modify storage hangul:const char append value "뢋"
-data modify storage hangul:const char append value "뢌"
-data modify storage hangul:const char append value "뢍"
-data modify storage hangul:const char append value "뢎"
-data modify storage hangul:const char append value "뢏"
-data modify storage hangul:const char append value "뢐"
-data modify storage hangul:const char append value "뢑"
-data modify storage hangul:const char append value "뢒"
-data modify storage hangul:const char append value "뢓"
-data modify storage hangul:const char append value "뢔"
-data modify storage hangul:const char append value "뢕"
-data modify storage hangul:const char append value "뢖"
-data modify storage hangul:const char append value "뢗"
-data modify storage hangul:const char append value "뢘"
-data modify storage hangul:const char append value "뢙"
-data modify storage hangul:const char append value "뢚"
-data modify storage hangul:const char append value "뢛"
-data modify storage hangul:const char append value "뢜"
-data modify storage hangul:const char append value "뢝"
-data modify storage hangul:const char append value "뢞"
-data modify storage hangul:const char append value "뢟"
-data modify storage hangul:const char append value "뢠"
-data modify storage hangul:const char append value "뢡"
-data modify storage hangul:const char append value "뢢"
-data modify storage hangul:const char append value "뢣"
-data modify storage hangul:const char append value "뢤"
-data modify storage hangul:const char append value "뢥"
-data modify storage hangul:const char append value "뢦"
-data modify storage hangul:const char append value "뢧"
-data modify storage hangul:const char append value "뢨"
-data modify storage hangul:const char append value "뢩"
-data modify storage hangul:const char append value "뢪"
-data modify storage hangul:const char append value "뢫"
-data modify storage hangul:const char append value "뢬"
-data modify storage hangul:const char append value "뢭"
-data modify storage hangul:const char append value "뢮"
-data modify storage hangul:const char append value "뢯"
-data modify storage hangul:const char append value "뢰"
-data modify storage hangul:const char append value "뢱"
-data modify storage hangul:const char append value "뢲"
-data modify storage hangul:const char append value "뢳"
-data modify storage hangul:const char append value "뢴"
-data modify storage hangul:const char append value "뢵"
-data modify storage hangul:const char append value "뢶"
-data modify storage hangul:const char append value "뢷"
-data modify storage hangul:const char append value "뢸"
-data modify storage hangul:const char append value "뢹"
-data modify storage hangul:const char append value "뢺"
-data modify storage hangul:const char append value "뢻"
-data modify storage hangul:const char append value "뢼"
-data modify storage hangul:const char append value "뢽"
-data modify storage hangul:const char append value "뢾"
-data modify storage hangul:const char append value "뢿"
-data modify storage hangul:const char append value "룀"
-data modify storage hangul:const char append value "룁"
-data modify storage hangul:const char append value "룂"
-data modify storage hangul:const char append value "룃"
-data modify storage hangul:const char append value "룄"
-data modify storage hangul:const char append value "룅"
-data modify storage hangul:const char append value "룆"
-data modify storage hangul:const char append value "룇"
-data modify storage hangul:const char append value "룈"
-data modify storage hangul:const char append value "룉"
-data modify storage hangul:const char append value "룊"
-data modify storage hangul:const char append value "룋"
-data modify storage hangul:const char append value "료"
-data modify storage hangul:const char append value "룍"
-data modify storage hangul:const char append value "룎"
-data modify storage hangul:const char append value "룏"
-data modify storage hangul:const char append value "룐"
-data modify storage hangul:const char append value "룑"
-data modify storage hangul:const char append value "룒"
-data modify storage hangul:const char append value "룓"
-data modify storage hangul:const char append value "룔"
-data modify storage hangul:const char append value "룕"
-data modify storage hangul:const char append value "룖"
-data modify storage hangul:const char append value "룗"
-data modify storage hangul:const char append value "룘"
-data modify storage hangul:const char append value "룙"
-data modify storage hangul:const char append value "룚"
-data modify storage hangul:const char append value "룛"
-data modify storage hangul:const char append value "룜"
-data modify storage hangul:const char append value "룝"
-data modify storage hangul:const char append value "룞"
-data modify storage hangul:const char append value "룟"
-data modify storage hangul:const char append value "룠"
-data modify storage hangul:const char append value "룡"
-data modify storage hangul:const char append value "룢"
-data modify storage hangul:const char append value "룣"
-data modify storage hangul:const char append value "룤"
-data modify storage hangul:const char append value "룥"
-data modify storage hangul:const char append value "룦"
-data modify storage hangul:const char append value "룧"
-data modify storage hangul:const char append value "루"
-data modify storage hangul:const char append value "룩"
-data modify storage hangul:const char append value "룪"
-data modify storage hangul:const char append value "룫"
-data modify storage hangul:const char append value "룬"
-data modify storage hangul:const char append value "룭"
-data modify storage hangul:const char append value "룮"
-data modify storage hangul:const char append value "룯"
-data modify storage hangul:const char append value "룰"
-data modify storage hangul:const char append value "룱"
-data modify storage hangul:const char append value "룲"
-data modify storage hangul:const char append value "룳"
-data modify storage hangul:const char append value "룴"
-data modify storage hangul:const char append value "룵"
-data modify storage hangul:const char append value "룶"
-data modify storage hangul:const char append value "룷"
-data modify storage hangul:const char append value "룸"
-data modify storage hangul:const char append value "룹"
-data modify storage hangul:const char append value "룺"
-data modify storage hangul:const char append value "룻"
-data modify storage hangul:const char append value "룼"
-data modify storage hangul:const char append value "룽"
-data modify storage hangul:const char append value "룾"
-data modify storage hangul:const char append value "룿"
-data modify storage hangul:const char append value "뤀"
-data modify storage hangul:const char append value "뤁"
-data modify storage hangul:const char append value "뤂"
-data modify storage hangul:const char append value "뤃"
-data modify storage hangul:const char append value "뤄"
-data modify storage hangul:const char append value "뤅"
-data modify storage hangul:const char append value "뤆"
-data modify storage hangul:const char append value "뤇"
-data modify storage hangul:const char append value "뤈"
-data modify storage hangul:const char append value "뤉"
-data modify storage hangul:const char append value "뤊"
-data modify storage hangul:const char append value "뤋"
-data modify storage hangul:const char append value "뤌"
-data modify storage hangul:const char append value "뤍"
-data modify storage hangul:const char append value "뤎"
-data modify storage hangul:const char append value "뤏"
-data modify storage hangul:const char append value "뤐"
-data modify storage hangul:const char append value "뤑"
-data modify storage hangul:const char append value "뤒"
-data modify storage hangul:const char append value "뤓"
-data modify storage hangul:const char append value "뤔"
-data modify storage hangul:const char append value "뤕"
-data modify storage hangul:const char append value "뤖"
-data modify storage hangul:const char append value "뤗"
-data modify storage hangul:const char append value "뤘"
-data modify storage hangul:const char append value "뤙"
-data modify storage hangul:const char append value "뤚"
-data modify storage hangul:const char append value "뤛"
-data modify storage hangul:const char append value "뤜"
-data modify storage hangul:const char append value "뤝"
-data modify storage hangul:const char append value "뤞"
-data modify storage hangul:const char append value "뤟"
-data modify storage hangul:const char append value "뤠"
-data modify storage hangul:const char append value "뤡"
-data modify storage hangul:const char append value "뤢"
-data modify storage hangul:const char append value "뤣"
-data modify storage hangul:const char append value "뤤"
-data modify storage hangul:const char append value "뤥"
-data modify storage hangul:const char append value "뤦"
-data modify storage hangul:const char append value "뤧"
-data modify storage hangul:const char append value "뤨"
-data modify storage hangul:const char append value "뤩"
-data modify storage hangul:const char append value "뤪"
-data modify storage hangul:const char append value "뤫"
-data modify storage hangul:const char append value "뤬"
-data modify storage hangul:const char append value "뤭"
-data modify storage hangul:const char append value "뤮"
-data modify storage hangul:const char append value "뤯"
-data modify storage hangul:const char append value "뤰"
-data modify storage hangul:const char append value "뤱"
-data modify storage hangul:const char append value "뤲"
-data modify storage hangul:const char append value "뤳"
-data modify storage hangul:const char append value "뤴"
-data modify storage hangul:const char append value "뤵"
-data modify storage hangul:const char append value "뤶"
-data modify storage hangul:const char append value "뤷"
-data modify storage hangul:const char append value "뤸"
-data modify storage hangul:const char append value "뤹"
-data modify storage hangul:const char append value "뤺"
-data modify storage hangul:const char append value "뤻"
-data modify storage hangul:const char append value "뤼"
-data modify storage hangul:const char append value "뤽"
-data modify storage hangul:const char append value "뤾"
-data modify storage hangul:const char append value "뤿"
-data modify storage hangul:const char append value "륀"
-data modify storage hangul:const char append value "륁"
-data modify storage hangul:const char append value "륂"
-data modify storage hangul:const char append value "륃"
-data modify storage hangul:const char append value "륄"
-data modify storage hangul:const char append value "륅"
-data modify storage hangul:const char append value "륆"
-data modify storage hangul:const char append value "륇"
-data modify storage hangul:const char append value "륈"
-data modify storage hangul:const char append value "륉"
-data modify storage hangul:const char append value "륊"
-data modify storage hangul:const char append value "륋"
-data modify storage hangul:const char append value "륌"
-data modify storage hangul:const char append value "륍"
-data modify storage hangul:const char append value "륎"
-data modify storage hangul:const char append value "륏"
-data modify storage hangul:const char append value "륐"
-data modify storage hangul:const char append value "륑"
-data modify storage hangul:const char append value "륒"
-data modify storage hangul:const char append value "륓"
-data modify storage hangul:const char append value "륔"
-data modify storage hangul:const char append value "륕"
-data modify storage hangul:const char append value "륖"
-data modify storage hangul:const char append value "륗"
-data modify storage hangul:const char append value "류"
-data modify storage hangul:const char append value "륙"
-data modify storage hangul:const char append value "륚"
-data modify storage hangul:const char append value "륛"
-data modify storage hangul:const char append value "륜"
-data modify storage hangul:const char append value "륝"
-data modify storage hangul:const char append value "륞"
-data modify storage hangul:const char append value "륟"
-data modify storage hangul:const char append value "률"
-data modify storage hangul:const char append value "륡"
-data modify storage hangul:const char append value "륢"
-data modify storage hangul:const char append value "륣"
-data modify storage hangul:const char append value "륤"
-data modify storage hangul:const char append value "륥"
-data modify storage hangul:const char append value "륦"
-data modify storage hangul:const char append value "륧"
-data modify storage hangul:const char append value "륨"
-data modify storage hangul:const char append value "륩"
-data modify storage hangul:const char append value "륪"
-data modify storage hangul:const char append value "륫"
-data modify storage hangul:const char append value "륬"
-data modify storage hangul:const char append value "륭"
-data modify storage hangul:const char append value "륮"
-data modify storage hangul:const char append value "륯"
-data modify storage hangul:const char append value "륰"
-data modify storage hangul:const char append value "륱"
-data modify storage hangul:const char append value "륲"
-data modify storage hangul:const char append value "륳"
-data modify storage hangul:const char append value "르"
-data modify storage hangul:const char append value "륵"
-data modify storage hangul:const char append value "륶"
-data modify storage hangul:const char append value "륷"
-data modify storage hangul:const char append value "른"
-data modify storage hangul:const char append value "륹"
-data modify storage hangul:const char append value "륺"
-data modify storage hangul:const char append value "륻"
-data modify storage hangul:const char append value "를"
-data modify storage hangul:const char append value "륽"
-data modify storage hangul:const char append value "륾"
-data modify storage hangul:const char append value "륿"
-data modify storage hangul:const char append value "릀"
-data modify storage hangul:const char append value "릁"
-data modify storage hangul:const char append value "릂"
-data modify storage hangul:const char append value "릃"
-data modify storage hangul:const char append value "름"
-data modify storage hangul:const char append value "릅"
-data modify storage hangul:const char append value "릆"
-data modify storage hangul:const char append value "릇"
-data modify storage hangul:const char append value "릈"
-data modify storage hangul:const char append value "릉"
-data modify storage hangul:const char append value "릊"
-data modify storage hangul:const char append value "릋"
-data modify storage hangul:const char append value "릌"
-data modify storage hangul:const char append value "릍"
-data modify storage hangul:const char append value "릎"
-data modify storage hangul:const char append value "릏"
-data modify storage hangul:const char append value "릐"
-data modify storage hangul:const char append value "릑"
-data modify storage hangul:const char append value "릒"
-data modify storage hangul:const char append value "릓"
-data modify storage hangul:const char append value "릔"
-data modify storage hangul:const char append value "릕"
-data modify storage hangul:const char append value "릖"
-data modify storage hangul:const char append value "릗"
-data modify storage hangul:const char append value "릘"
-data modify storage hangul:const char append value "릙"
-data modify storage hangul:const char append value "릚"
-data modify storage hangul:const char append value "릛"
-data modify storage hangul:const char append value "릜"
-data modify storage hangul:const char append value "릝"
-data modify storage hangul:const char append value "릞"
-data modify storage hangul:const char append value "릟"
-data modify storage hangul:const char append value "릠"
-data modify storage hangul:const char append value "릡"
-data modify storage hangul:const char append value "릢"
-data modify storage hangul:const char append value "릣"
-data modify storage hangul:const char append value "릤"
-data modify storage hangul:const char append value "릥"
-data modify storage hangul:const char append value "릦"
-data modify storage hangul:const char append value "릧"
-data modify storage hangul:const char append value "릨"
-data modify storage hangul:const char append value "릩"
-data modify storage hangul:const char append value "릪"
-data modify storage hangul:const char append value "릫"
-data modify storage hangul:const char append value "리"
-data modify storage hangul:const char append value "릭"
-data modify storage hangul:const char append value "릮"
-data modify storage hangul:const char append value "릯"
-data modify storage hangul:const char append value "린"
-data modify storage hangul:const char append value "릱"
-data modify storage hangul:const char append value "릲"
-data modify storage hangul:const char append value "릳"
-data modify storage hangul:const char append value "릴"
-data modify storage hangul:const char append value "릵"
-data modify storage hangul:const char append value "릶"
-data modify storage hangul:const char append value "릷"
-data modify storage hangul:const char append value "릸"
-data modify storage hangul:const char append value "릹"
-data modify storage hangul:const char append value "릺"
-data modify storage hangul:const char append value "릻"
-data modify storage hangul:const char append value "림"
-data modify storage hangul:const char append value "립"
-data modify storage hangul:const char append value "릾"
-data modify storage hangul:const char append value "릿"
-data modify storage hangul:const char append value "맀"
-data modify storage hangul:const char append value "링"
-data modify storage hangul:const char append value "맂"
-data modify storage hangul:const char append value "맃"
-data modify storage hangul:const char append value "맄"
-data modify storage hangul:const char append value "맅"
-data modify storage hangul:const char append value "맆"
-data modify storage hangul:const char append value "맇"
-data modify storage hangul:const char append value "마"
-data modify storage hangul:const char append value "막"
-data modify storage hangul:const char append value "맊"
-data modify storage hangul:const char append value "맋"
-data modify storage hangul:const char append value "만"
-data modify storage hangul:const char append value "맍"
-data modify storage hangul:const char append value "많"
-data modify storage hangul:const char append value "맏"
-data modify storage hangul:const char append value "말"
-data modify storage hangul:const char append value "맑"
-data modify storage hangul:const char append value "맒"
-data modify storage hangul:const char append value "맓"
-data modify storage hangul:const char append value "맔"
-data modify storage hangul:const char append value "맕"
-data modify storage hangul:const char append value "맖"
-data modify storage hangul:const char append value "맗"
-data modify storage hangul:const char append value "맘"
-data modify storage hangul:const char append value "맙"
-data modify storage hangul:const char append value "맚"
-data modify storage hangul:const char append value "맛"
-data modify storage hangul:const char append value "맜"
-data modify storage hangul:const char append value "망"
-data modify storage hangul:const char append value "맞"
-data modify storage hangul:const char append value "맟"
-data modify storage hangul:const char append value "맠"
-data modify storage hangul:const char append value "맡"
-data modify storage hangul:const char append value "맢"
-data modify storage hangul:const char append value "맣"
-data modify storage hangul:const char append value "매"
-data modify storage hangul:const char append value "맥"
-data modify storage hangul:const char append value "맦"
-data modify storage hangul:const char append value "맧"
-data modify storage hangul:const char append value "맨"
-data modify storage hangul:const char append value "맩"
-data modify storage hangul:const char append value "맪"
-data modify storage hangul:const char append value "맫"
-data modify storage hangul:const char append value "맬"
-data modify storage hangul:const char append value "맭"
-data modify storage hangul:const char append value "맮"
-data modify storage hangul:const char append value "맯"
-data modify storage hangul:const char append value "맰"
-data modify storage hangul:const char append value "맱"
-data modify storage hangul:const char append value "맲"
-data modify storage hangul:const char append value "맳"
-data modify storage hangul:const char append value "맴"
-data modify storage hangul:const char append value "맵"
-data modify storage hangul:const char append value "맶"
-data modify storage hangul:const char append value "맷"
-data modify storage hangul:const char append value "맸"
-data modify storage hangul:const char append value "맹"
-data modify storage hangul:const char append value "맺"
-data modify storage hangul:const char append value "맻"
-data modify storage hangul:const char append value "맼"
-data modify storage hangul:const char append value "맽"
-data modify storage hangul:const char append value "맾"
-data modify storage hangul:const char append value "맿"
-data modify storage hangul:const char append value "먀"
-data modify storage hangul:const char append value "먁"
-data modify storage hangul:const char append value "먂"
-data modify storage hangul:const char append value "먃"
-data modify storage hangul:const char append value "먄"
-data modify storage hangul:const char append value "먅"
-data modify storage hangul:const char append value "먆"
-data modify storage hangul:const char append value "먇"
-data modify storage hangul:const char append value "먈"
-data modify storage hangul:const char append value "먉"
-data modify storage hangul:const char append value "먊"
-data modify storage hangul:const char append value "먋"
-data modify storage hangul:const char append value "먌"
-data modify storage hangul:const char append value "먍"
-data modify storage hangul:const char append value "먎"
-data modify storage hangul:const char append value "먏"
-data modify storage hangul:const char append value "먐"
-data modify storage hangul:const char append value "먑"
-data modify storage hangul:const char append value "먒"
-data modify storage hangul:const char append value "먓"
-data modify storage hangul:const char append value "먔"
-data modify storage hangul:const char append value "먕"
-data modify storage hangul:const char append value "먖"
-data modify storage hangul:const char append value "먗"
-data modify storage hangul:const char append value "먘"
-data modify storage hangul:const char append value "먙"
-data modify storage hangul:const char append value "먚"
-data modify storage hangul:const char append value "먛"
-data modify storage hangul:const char append value "먜"
-data modify storage hangul:const char append value "먝"
-data modify storage hangul:const char append value "먞"
-data modify storage hangul:const char append value "먟"
-data modify storage hangul:const char append value "먠"
-data modify storage hangul:const char append value "먡"
-data modify storage hangul:const char append value "먢"
-data modify storage hangul:const char append value "먣"
-data modify storage hangul:const char append value "먤"
-data modify storage hangul:const char append value "먥"
-data modify storage hangul:const char append value "먦"
-data modify storage hangul:const char append value "먧"
-data modify storage hangul:const char append value "먨"
-data modify storage hangul:const char append value "먩"
-data modify storage hangul:const char append value "먪"
-data modify storage hangul:const char append value "먫"
-data modify storage hangul:const char append value "먬"
-data modify storage hangul:const char append value "먭"
-data modify storage hangul:const char append value "먮"
-data modify storage hangul:const char append value "먯"
-data modify storage hangul:const char append value "먰"
-data modify storage hangul:const char append value "먱"
-data modify storage hangul:const char append value "먲"
-data modify storage hangul:const char append value "먳"
-data modify storage hangul:const char append value "먴"
-data modify storage hangul:const char append value "먵"
-data modify storage hangul:const char append value "먶"
-data modify storage hangul:const char append value "먷"
-data modify storage hangul:const char append value "머"
-data modify storage hangul:const char append value "먹"
-data modify storage hangul:const char append value "먺"
-data modify storage hangul:const char append value "먻"
-data modify storage hangul:const char append value "먼"
-data modify storage hangul:const char append value "먽"
-data modify storage hangul:const char append value "먾"
-data modify storage hangul:const char append value "먿"
-data modify storage hangul:const char append value "멀"
-data modify storage hangul:const char append value "멁"
-data modify storage hangul:const char append value "멂"
-data modify storage hangul:const char append value "멃"
-data modify storage hangul:const char append value "멄"
-data modify storage hangul:const char append value "멅"
-data modify storage hangul:const char append value "멆"
-data modify storage hangul:const char append value "멇"
-data modify storage hangul:const char append value "멈"
-data modify storage hangul:const char append value "멉"
-data modify storage hangul:const char append value "멊"
-data modify storage hangul:const char append value "멋"
-data modify storage hangul:const char append value "멌"
-data modify storage hangul:const char append value "멍"
-data modify storage hangul:const char append value "멎"
-data modify storage hangul:const char append value "멏"
-data modify storage hangul:const char append value "멐"
-data modify storage hangul:const char append value "멑"
-data modify storage hangul:const char append value "멒"
-data modify storage hangul:const char append value "멓"
-data modify storage hangul:const char append value "메"
-data modify storage hangul:const char append value "멕"
-data modify storage hangul:const char append value "멖"
-data modify storage hangul:const char append value "멗"
-data modify storage hangul:const char append value "멘"
-data modify storage hangul:const char append value "멙"
-data modify storage hangul:const char append value "멚"
-data modify storage hangul:const char append value "멛"
-data modify storage hangul:const char append value "멜"
-data modify storage hangul:const char append value "멝"
-data modify storage hangul:const char append value "멞"
-data modify storage hangul:const char append value "멟"
-data modify storage hangul:const char append value "멠"
-data modify storage hangul:const char append value "멡"
-data modify storage hangul:const char append value "멢"
-data modify storage hangul:const char append value "멣"
-data modify storage hangul:const char append value "멤"
-data modify storage hangul:const char append value "멥"
-data modify storage hangul:const char append value "멦"
-data modify storage hangul:const char append value "멧"
-data modify storage hangul:const char append value "멨"
-data modify storage hangul:const char append value "멩"
-data modify storage hangul:const char append value "멪"
-data modify storage hangul:const char append value "멫"
-data modify storage hangul:const char append value "멬"
-data modify storage hangul:const char append value "멭"
-data modify storage hangul:const char append value "멮"
-data modify storage hangul:const char append value "멯"
-data modify storage hangul:const char append value "며"
-data modify storage hangul:const char append value "멱"
-data modify storage hangul:const char append value "멲"
-data modify storage hangul:const char append value "멳"
-data modify storage hangul:const char append value "면"
-data modify storage hangul:const char append value "멵"
-data modify storage hangul:const char append value "멶"
-data modify storage hangul:const char append value "멷"
-data modify storage hangul:const char append value "멸"
-data modify storage hangul:const char append value "멹"
-data modify storage hangul:const char append value "멺"
-data modify storage hangul:const char append value "멻"
-data modify storage hangul:const char append value "멼"
-data modify storage hangul:const char append value "멽"
-data modify storage hangul:const char append value "멾"
-data modify storage hangul:const char append value "멿"
-data modify storage hangul:const char append value "몀"
-data modify storage hangul:const char append value "몁"
-data modify storage hangul:const char append value "몂"
-data modify storage hangul:const char append value "몃"
-data modify storage hangul:const char append value "몄"
-data modify storage hangul:const char append value "명"
-data modify storage hangul:const char append value "몆"
-data modify storage hangul:const char append value "몇"
-data modify storage hangul:const char append value "몈"
-data modify storage hangul:const char append value "몉"
-data modify storage hangul:const char append value "몊"
-data modify storage hangul:const char append value "몋"
-data modify storage hangul:const char append value "몌"
-data modify storage hangul:const char append value "몍"
-data modify storage hangul:const char append value "몎"
-data modify storage hangul:const char append value "몏"
-data modify storage hangul:const char append value "몐"
-data modify storage hangul:const char append value "몑"
-data modify storage hangul:const char append value "몒"
-data modify storage hangul:const char append value "몓"
-data modify storage hangul:const char append value "몔"
-data modify storage hangul:const char append value "몕"
-data modify storage hangul:const char append value "몖"
-data modify storage hangul:const char append value "몗"
-data modify storage hangul:const char append value "몘"
-data modify storage hangul:const char append value "몙"
-data modify storage hangul:const char append value "몚"
-data modify storage hangul:const char append value "몛"
-data modify storage hangul:const char append value "몜"
-data modify storage hangul:const char append value "몝"
-data modify storage hangul:const char append value "몞"
-data modify storage hangul:const char append value "몟"
-data modify storage hangul:const char append value "몠"
-data modify storage hangul:const char append value "몡"
-data modify storage hangul:const char append value "몢"
-data modify storage hangul:const char append value "몣"
-data modify storage hangul:const char append value "몤"
-data modify storage hangul:const char append value "몥"
-data modify storage hangul:const char append value "몦"
-data modify storage hangul:const char append value "몧"
-data modify storage hangul:const char append value "모"
-data modify storage hangul:const char append value "목"
-data modify storage hangul:const char append value "몪"
-data modify storage hangul:const char append value "몫"
-data modify storage hangul:const char append value "몬"
-data modify storage hangul:const char append value "몭"
-data modify storage hangul:const char append value "몮"
-data modify storage hangul:const char append value "몯"
-data modify storage hangul:const char append value "몰"
-data modify storage hangul:const char append value "몱"
-data modify storage hangul:const char append value "몲"
-data modify storage hangul:const char append value "몳"
-data modify storage hangul:const char append value "몴"
-data modify storage hangul:const char append value "몵"
-data modify storage hangul:const char append value "몶"
-data modify storage hangul:const char append value "몷"
-data modify storage hangul:const char append value "몸"
-data modify storage hangul:const char append value "몹"
-data modify storage hangul:const char append value "몺"
-data modify storage hangul:const char append value "못"
-data modify storage hangul:const char append value "몼"
-data modify storage hangul:const char append value "몽"
-data modify storage hangul:const char append value "몾"
-data modify storage hangul:const char append value "몿"
-data modify storage hangul:const char append value "뫀"
-data modify storage hangul:const char append value "뫁"
-data modify storage hangul:const char append value "뫂"
-data modify storage hangul:const char append value "뫃"
-data modify storage hangul:const char append value "뫄"
-data modify storage hangul:const char append value "뫅"
-data modify storage hangul:const char append value "뫆"
-data modify storage hangul:const char append value "뫇"
-data modify storage hangul:const char append value "뫈"
-data modify storage hangul:const char append value "뫉"
-data modify storage hangul:const char append value "뫊"
-data modify storage hangul:const char append value "뫋"
-data modify storage hangul:const char append value "뫌"
-data modify storage hangul:const char append value "뫍"
-data modify storage hangul:const char append value "뫎"
-data modify storage hangul:const char append value "뫏"
-data modify storage hangul:const char append value "뫐"
-data modify storage hangul:const char append value "뫑"
-data modify storage hangul:const char append value "뫒"
-data modify storage hangul:const char append value "뫓"
-data modify storage hangul:const char append value "뫔"
-data modify storage hangul:const char append value "뫕"
-data modify storage hangul:const char append value "뫖"
-data modify storage hangul:const char append value "뫗"
-data modify storage hangul:const char append value "뫘"
-data modify storage hangul:const char append value "뫙"
-data modify storage hangul:const char append value "뫚"
-data modify storage hangul:const char append value "뫛"
-data modify storage hangul:const char append value "뫜"
-data modify storage hangul:const char append value "뫝"
-data modify storage hangul:const char append value "뫞"
-data modify storage hangul:const char append value "뫟"
-data modify storage hangul:const char append value "뫠"
-data modify storage hangul:const char append value "뫡"
-data modify storage hangul:const char append value "뫢"
-data modify storage hangul:const char append value "뫣"
-data modify storage hangul:const char append value "뫤"
-data modify storage hangul:const char append value "뫥"
-data modify storage hangul:const char append value "뫦"
-data modify storage hangul:const char append value "뫧"
-data modify storage hangul:const char append value "뫨"
-data modify storage hangul:const char append value "뫩"
-data modify storage hangul:const char append value "뫪"
-data modify storage hangul:const char append value "뫫"
-data modify storage hangul:const char append value "뫬"
-data modify storage hangul:const char append value "뫭"
-data modify storage hangul:const char append value "뫮"
-data modify storage hangul:const char append value "뫯"
-data modify storage hangul:const char append value "뫰"
-data modify storage hangul:const char append value "뫱"
-data modify storage hangul:const char append value "뫲"
-data modify storage hangul:const char append value "뫳"
-data modify storage hangul:const char append value "뫴"
-data modify storage hangul:const char append value "뫵"
-data modify storage hangul:const char append value "뫶"
-data modify storage hangul:const char append value "뫷"
-data modify storage hangul:const char append value "뫸"
-data modify storage hangul:const char append value "뫹"
-data modify storage hangul:const char append value "뫺"
-data modify storage hangul:const char append value "뫻"
-data modify storage hangul:const char append value "뫼"
-data modify storage hangul:const char append value "뫽"
-data modify storage hangul:const char append value "뫾"
-data modify storage hangul:const char append value "뫿"
-data modify storage hangul:const char append value "묀"
-data modify storage hangul:const char append value "묁"
-data modify storage hangul:const char append value "묂"
-data modify storage hangul:const char append value "묃"
-data modify storage hangul:const char append value "묄"
-data modify storage hangul:const char append value "묅"
-data modify storage hangul:const char append value "묆"
-data modify storage hangul:const char append value "묇"
-data modify storage hangul:const char append value "묈"
-data modify storage hangul:const char append value "묉"
-data modify storage hangul:const char append value "묊"
-data modify storage hangul:const char append value "묋"
-data modify storage hangul:const char append value "묌"
-data modify storage hangul:const char append value "묍"
-data modify storage hangul:const char append value "묎"
-data modify storage hangul:const char append value "묏"
-data modify storage hangul:const char append value "묐"
-data modify storage hangul:const char append value "묑"
-data modify storage hangul:const char append value "묒"
-data modify storage hangul:const char append value "묓"
-data modify storage hangul:const char append value "묔"
-data modify storage hangul:const char append value "묕"
-data modify storage hangul:const char append value "묖"
-data modify storage hangul:const char append value "묗"
-data modify storage hangul:const char append value "묘"
-data modify storage hangul:const char append value "묙"
-data modify storage hangul:const char append value "묚"
-data modify storage hangul:const char append value "묛"
-data modify storage hangul:const char append value "묜"
-data modify storage hangul:const char append value "묝"
-data modify storage hangul:const char append value "묞"
-data modify storage hangul:const char append value "묟"
-data modify storage hangul:const char append value "묠"
-data modify storage hangul:const char append value "묡"
-data modify storage hangul:const char append value "묢"
-data modify storage hangul:const char append value "묣"
-data modify storage hangul:const char append value "묤"
-data modify storage hangul:const char append value "묥"
-data modify storage hangul:const char append value "묦"
-data modify storage hangul:const char append value "묧"
-data modify storage hangul:const char append value "묨"
-data modify storage hangul:const char append value "묩"
-data modify storage hangul:const char append value "묪"
-data modify storage hangul:const char append value "묫"
-data modify storage hangul:const char append value "묬"
-data modify storage hangul:const char append value "묭"
-data modify storage hangul:const char append value "묮"
-data modify storage hangul:const char append value "묯"
-data modify storage hangul:const char append value "묰"
-data modify storage hangul:const char append value "묱"
-data modify storage hangul:const char append value "묲"
-data modify storage hangul:const char append value "묳"
-data modify storage hangul:const char append value "무"
-data modify storage hangul:const char append value "묵"
-data modify storage hangul:const char append value "묶"
-data modify storage hangul:const char append value "묷"
-data modify storage hangul:const char append value "문"
-data modify storage hangul:const char append value "묹"
-data modify storage hangul:const char append value "묺"
-data modify storage hangul:const char append value "묻"
-data modify storage hangul:const char append value "물"
-data modify storage hangul:const char append value "묽"
-data modify storage hangul:const char append value "묾"
-data modify storage hangul:const char append value "묿"
-data modify storage hangul:const char append value "뭀"
-data modify storage hangul:const char append value "뭁"
-data modify storage hangul:const char append value "뭂"
-data modify storage hangul:const char append value "뭃"
-data modify storage hangul:const char append value "뭄"
-data modify storage hangul:const char append value "뭅"
-data modify storage hangul:const char append value "뭆"
-data modify storage hangul:const char append value "뭇"
-data modify storage hangul:const char append value "뭈"
-data modify storage hangul:const char append value "뭉"
-data modify storage hangul:const char append value "뭊"
-data modify storage hangul:const char append value "뭋"
-data modify storage hangul:const char append value "뭌"
-data modify storage hangul:const char append value "뭍"
-data modify storage hangul:const char append value "뭎"
-data modify storage hangul:const char append value "뭏"
-data modify storage hangul:const char append value "뭐"
-data modify storage hangul:const char append value "뭑"
-data modify storage hangul:const char append value "뭒"
-data modify storage hangul:const char append value "뭓"
-data modify storage hangul:const char append value "뭔"
-data modify storage hangul:const char append value "뭕"
-data modify storage hangul:const char append value "뭖"
-data modify storage hangul:const char append value "뭗"
-data modify storage hangul:const char append value "뭘"
-data modify storage hangul:const char append value "뭙"
-data modify storage hangul:const char append value "뭚"
-data modify storage hangul:const char append value "뭛"
-data modify storage hangul:const char append value "뭜"
-data modify storage hangul:const char append value "뭝"
-data modify storage hangul:const char append value "뭞"
-data modify storage hangul:const char append value "뭟"
-data modify storage hangul:const char append value "뭠"
-data modify storage hangul:const char append value "뭡"
-data modify storage hangul:const char append value "뭢"
-data modify storage hangul:const char append value "뭣"
-data modify storage hangul:const char append value "뭤"
-data modify storage hangul:const char append value "뭥"
-data modify storage hangul:const char append value "뭦"
-data modify storage hangul:const char append value "뭧"
-data modify storage hangul:const char append value "뭨"
-data modify storage hangul:const char append value "뭩"
-data modify storage hangul:const char append value "뭪"
-data modify storage hangul:const char append value "뭫"
-data modify storage hangul:const char append value "뭬"
-data modify storage hangul:const char append value "뭭"
-data modify storage hangul:const char append value "뭮"
-data modify storage hangul:const char append value "뭯"
-data modify storage hangul:const char append value "뭰"
-data modify storage hangul:const char append value "뭱"
-data modify storage hangul:const char append value "뭲"
-data modify storage hangul:const char append value "뭳"
-data modify storage hangul:const char append value "뭴"
-data modify storage hangul:const char append value "뭵"
-data modify storage hangul:const char append value "뭶"
-data modify storage hangul:const char append value "뭷"
-data modify storage hangul:const char append value "뭸"
-data modify storage hangul:const char append value "뭹"
-data modify storage hangul:const char append value "뭺"
-data modify storage hangul:const char append value "뭻"
-data modify storage hangul:const char append value "뭼"
-data modify storage hangul:const char append value "뭽"
-data modify storage hangul:const char append value "뭾"
-data modify storage hangul:const char append value "뭿"
-data modify storage hangul:const char append value "뮀"
-data modify storage hangul:const char append value "뮁"
-data modify storage hangul:const char append value "뮂"
-data modify storage hangul:const char append value "뮃"
-data modify storage hangul:const char append value "뮄"
-data modify storage hangul:const char append value "뮅"
-data modify storage hangul:const char append value "뮆"
-data modify storage hangul:const char append value "뮇"
-data modify storage hangul:const char append value "뮈"
-data modify storage hangul:const char append value "뮉"
-data modify storage hangul:const char append value "뮊"
-data modify storage hangul:const char append value "뮋"
-data modify storage hangul:const char append value "뮌"
-data modify storage hangul:const char append value "뮍"
-data modify storage hangul:const char append value "뮎"
-data modify storage hangul:const char append value "뮏"
-data modify storage hangul:const char append value "뮐"
-data modify storage hangul:const char append value "뮑"
-data modify storage hangul:const char append value "뮒"
-data modify storage hangul:const char append value "뮓"
-data modify storage hangul:const char append value "뮔"
-data modify storage hangul:const char append value "뮕"
-data modify storage hangul:const char append value "뮖"
-data modify storage hangul:const char append value "뮗"
-data modify storage hangul:const char append value "뮘"
-data modify storage hangul:const char append value "뮙"
-data modify storage hangul:const char append value "뮚"
-data modify storage hangul:const char append value "뮛"
-data modify storage hangul:const char append value "뮜"
-data modify storage hangul:const char append value "뮝"
-data modify storage hangul:const char append value "뮞"
-data modify storage hangul:const char append value "뮟"
-data modify storage hangul:const char append value "뮠"
-data modify storage hangul:const char append value "뮡"
-data modify storage hangul:const char append value "뮢"
-data modify storage hangul:const char append value "뮣"
-data modify storage hangul:const char append value "뮤"
-data modify storage hangul:const char append value "뮥"
-data modify storage hangul:const char append value "뮦"
-data modify storage hangul:const char append value "뮧"
-data modify storage hangul:const char append value "뮨"
-data modify storage hangul:const char append value "뮩"
-data modify storage hangul:const char append value "뮪"
-data modify storage hangul:const char append value "뮫"
-data modify storage hangul:const char append value "뮬"
-data modify storage hangul:const char append value "뮭"
-data modify storage hangul:const char append value "뮮"
-data modify storage hangul:const char append value "뮯"
-data modify storage hangul:const char append value "뮰"
-data modify storage hangul:const char append value "뮱"
-data modify storage hangul:const char append value "뮲"
-data modify storage hangul:const char append value "뮳"
-data modify storage hangul:const char append value "뮴"
-data modify storage hangul:const char append value "뮵"
-data modify storage hangul:const char append value "뮶"
-data modify storage hangul:const char append value "뮷"
-data modify storage hangul:const char append value "뮸"
-data modify storage hangul:const char append value "뮹"
-data modify storage hangul:const char append value "뮺"
-data modify storage hangul:const char append value "뮻"
-data modify storage hangul:const char append value "뮼"
-data modify storage hangul:const char append value "뮽"
-data modify storage hangul:const char append value "뮾"
-data modify storage hangul:const char append value "뮿"
-data modify storage hangul:const char append value "므"
-data modify storage hangul:const char append value "믁"
-data modify storage hangul:const char append value "믂"
-data modify storage hangul:const char append value "믃"
-data modify storage hangul:const char append value "믄"
-data modify storage hangul:const char append value "믅"
-data modify storage hangul:const char append value "믆"
-data modify storage hangul:const char append value "믇"
-data modify storage hangul:const char append value "믈"
-data modify storage hangul:const char append value "믉"
-data modify storage hangul:const char append value "믊"
-data modify storage hangul:const char append value "믋"
-data modify storage hangul:const char append value "믌"
-data modify storage hangul:const char append value "믍"
-data modify storage hangul:const char append value "믎"
-data modify storage hangul:const char append value "믏"
-data modify storage hangul:const char append value "믐"
-data modify storage hangul:const char append value "믑"
-data modify storage hangul:const char append value "믒"
-data modify storage hangul:const char append value "믓"
-data modify storage hangul:const char append value "믔"
-data modify storage hangul:const char append value "믕"
-data modify storage hangul:const char append value "믖"
-data modify storage hangul:const char append value "믗"
-data modify storage hangul:const char append value "믘"
-data modify storage hangul:const char append value "믙"
-data modify storage hangul:const char append value "믚"
-data modify storage hangul:const char append value "믛"
-data modify storage hangul:const char append value "믜"
-data modify storage hangul:const char append value "믝"
-data modify storage hangul:const char append value "믞"
-data modify storage hangul:const char append value "믟"
-data modify storage hangul:const char append value "믠"
-data modify storage hangul:const char append value "믡"
-data modify storage hangul:const char append value "믢"
-data modify storage hangul:const char append value "믣"
-data modify storage hangul:const char append value "믤"
-data modify storage hangul:const char append value "믥"
-data modify storage hangul:const char append value "믦"
-data modify storage hangul:const char append value "믧"
-data modify storage hangul:const char append value "믨"
-data modify storage hangul:const char append value "믩"
-data modify storage hangul:const char append value "믪"
-data modify storage hangul:const char append value "믫"
-data modify storage hangul:const char append value "믬"
-data modify storage hangul:const char append value "믭"
-data modify storage hangul:const char append value "믮"
-data modify storage hangul:const char append value "믯"
-data modify storage hangul:const char append value "믰"
-data modify storage hangul:const char append value "믱"
-data modify storage hangul:const char append value "믲"
-data modify storage hangul:const char append value "믳"
-data modify storage hangul:const char append value "믴"
-data modify storage hangul:const char append value "믵"
-data modify storage hangul:const char append value "믶"
-data modify storage hangul:const char append value "믷"
-data modify storage hangul:const char append value "미"
-data modify storage hangul:const char append value "믹"
-data modify storage hangul:const char append value "믺"
-data modify storage hangul:const char append value "믻"
-data modify storage hangul:const char append value "민"
-data modify storage hangul:const char append value "믽"
-data modify storage hangul:const char append value "믾"
-data modify storage hangul:const char append value "믿"
-data modify storage hangul:const char append value "밀"
-data modify storage hangul:const char append value "밁"
-data modify storage hangul:const char append value "밂"
-data modify storage hangul:const char append value "밃"
-data modify storage hangul:const char append value "밄"
-data modify storage hangul:const char append value "밅"
-data modify storage hangul:const char append value "밆"
-data modify storage hangul:const char append value "밇"
-data modify storage hangul:const char append value "밈"
-data modify storage hangul:const char append value "밉"
-data modify storage hangul:const char append value "밊"
-data modify storage hangul:const char append value "밋"
-data modify storage hangul:const char append value "밌"
-data modify storage hangul:const char append value "밍"
-data modify storage hangul:const char append value "밎"
-data modify storage hangul:const char append value "및"
-data modify storage hangul:const char append value "밐"
-data modify storage hangul:const char append value "밑"
-data modify storage hangul:const char append value "밒"
-data modify storage hangul:const char append value "밓"
-data modify storage hangul:const char append value "바"
-data modify storage hangul:const char append value "박"
-data modify storage hangul:const char append value "밖"
-data modify storage hangul:const char append value "밗"
-data modify storage hangul:const char append value "반"
-data modify storage hangul:const char append value "밙"
-data modify storage hangul:const char append value "밚"
-data modify storage hangul:const char append value "받"
-data modify storage hangul:const char append value "발"
-data modify storage hangul:const char append value "밝"
-data modify storage hangul:const char append value "밞"
-data modify storage hangul:const char append value "밟"
-data modify storage hangul:const char append value "밠"
-data modify storage hangul:const char append value "밡"
-data modify storage hangul:const char append value "밢"
-data modify storage hangul:const char append value "밣"
-data modify storage hangul:const char append value "밤"
-data modify storage hangul:const char append value "밥"
-data modify storage hangul:const char append value "밦"
-data modify storage hangul:const char append value "밧"
-data modify storage hangul:const char append value "밨"
-data modify storage hangul:const char append value "방"
-data modify storage hangul:const char append value "밪"
-data modify storage hangul:const char append value "밫"
-data modify storage hangul:const char append value "밬"
-data modify storage hangul:const char append value "밭"
-data modify storage hangul:const char append value "밮"
-data modify storage hangul:const char append value "밯"
-data modify storage hangul:const char append value "배"
-data modify storage hangul:const char append value "백"
-data modify storage hangul:const char append value "밲"
-data modify storage hangul:const char append value "밳"
-data modify storage hangul:const char append value "밴"
-data modify storage hangul:const char append value "밵"
-data modify storage hangul:const char append value "밶"
-data modify storage hangul:const char append value "밷"
-data modify storage hangul:const char append value "밸"
-data modify storage hangul:const char append value "밹"
-data modify storage hangul:const char append value "밺"
-data modify storage hangul:const char append value "밻"
-data modify storage hangul:const char append value "밼"
-data modify storage hangul:const char append value "밽"
-data modify storage hangul:const char append value "밾"
-data modify storage hangul:const char append value "밿"
-data modify storage hangul:const char append value "뱀"
-data modify storage hangul:const char append value "뱁"
-data modify storage hangul:const char append value "뱂"
-data modify storage hangul:const char append value "뱃"
-data modify storage hangul:const char append value "뱄"
-data modify storage hangul:const char append value "뱅"
-data modify storage hangul:const char append value "뱆"
-data modify storage hangul:const char append value "뱇"
-data modify storage hangul:const char append value "뱈"
-data modify storage hangul:const char append value "뱉"
-data modify storage hangul:const char append value "뱊"
-data modify storage hangul:const char append value "뱋"
-data modify storage hangul:const char append value "뱌"
-data modify storage hangul:const char append value "뱍"
-data modify storage hangul:const char append value "뱎"
-data modify storage hangul:const char append value "뱏"
-data modify storage hangul:const char append value "뱐"
-data modify storage hangul:const char append value "뱑"
-data modify storage hangul:const char append value "뱒"
-data modify storage hangul:const char append value "뱓"
-data modify storage hangul:const char append value "뱔"
-data modify storage hangul:const char append value "뱕"
-data modify storage hangul:const char append value "뱖"
-data modify storage hangul:const char append value "뱗"
-data modify storage hangul:const char append value "뱘"
-data modify storage hangul:const char append value "뱙"
-data modify storage hangul:const char append value "뱚"
-data modify storage hangul:const char append value "뱛"
-data modify storage hangul:const char append value "뱜"
-data modify storage hangul:const char append value "뱝"
-data modify storage hangul:const char append value "뱞"
-data modify storage hangul:const char append value "뱟"
-data modify storage hangul:const char append value "뱠"
-data modify storage hangul:const char append value "뱡"
-data modify storage hangul:const char append value "뱢"
-data modify storage hangul:const char append value "뱣"
-data modify storage hangul:const char append value "뱤"
-data modify storage hangul:const char append value "뱥"
-data modify storage hangul:const char append value "뱦"
-data modify storage hangul:const char append value "뱧"
-data modify storage hangul:const char append value "뱨"
-data modify storage hangul:const char append value "뱩"
-data modify storage hangul:const char append value "뱪"
-data modify storage hangul:const char append value "뱫"
-data modify storage hangul:const char append value "뱬"
-data modify storage hangul:const char append value "뱭"
-data modify storage hangul:const char append value "뱮"
-data modify storage hangul:const char append value "뱯"
-data modify storage hangul:const char append value "뱰"
-data modify storage hangul:const char append value "뱱"
-data modify storage hangul:const char append value "뱲"
-data modify storage hangul:const char append value "뱳"
-data modify storage hangul:const char append value "뱴"
-data modify storage hangul:const char append value "뱵"
-data modify storage hangul:const char append value "뱶"
-data modify storage hangul:const char append value "뱷"
-data modify storage hangul:const char append value "뱸"
-data modify storage hangul:const char append value "뱹"
-data modify storage hangul:const char append value "뱺"
-data modify storage hangul:const char append value "뱻"
-data modify storage hangul:const char append value "뱼"
-data modify storage hangul:const char append value "뱽"
-data modify storage hangul:const char append value "뱾"
-data modify storage hangul:const char append value "뱿"
-data modify storage hangul:const char append value "벀"
-data modify storage hangul:const char append value "벁"
-data modify storage hangul:const char append value "벂"
-data modify storage hangul:const char append value "벃"
-data modify storage hangul:const char append value "버"
-data modify storage hangul:const char append value "벅"
-data modify storage hangul:const char append value "벆"
-data modify storage hangul:const char append value "벇"
-data modify storage hangul:const char append value "번"
-data modify storage hangul:const char append value "벉"
-data modify storage hangul:const char append value "벊"
-data modify storage hangul:const char append value "벋"
-data modify storage hangul:const char append value "벌"
-data modify storage hangul:const char append value "벍"
-data modify storage hangul:const char append value "벎"
-data modify storage hangul:const char append value "벏"
-data modify storage hangul:const char append value "벐"
-data modify storage hangul:const char append value "벑"
-data modify storage hangul:const char append value "벒"
-data modify storage hangul:const char append value "벓"
-data modify storage hangul:const char append value "범"
-data modify storage hangul:const char append value "법"
-data modify storage hangul:const char append value "벖"
-data modify storage hangul:const char append value "벗"
-data modify storage hangul:const char append value "벘"
-data modify storage hangul:const char append value "벙"
-data modify storage hangul:const char append value "벚"
-data modify storage hangul:const char append value "벛"
-data modify storage hangul:const char append value "벜"
-data modify storage hangul:const char append value "벝"
-data modify storage hangul:const char append value "벞"
-data modify storage hangul:const char append value "벟"
-data modify storage hangul:const char append value "베"
-data modify storage hangul:const char append value "벡"
-data modify storage hangul:const char append value "벢"
-data modify storage hangul:const char append value "벣"
-data modify storage hangul:const char append value "벤"
-data modify storage hangul:const char append value "벥"
-data modify storage hangul:const char append value "벦"
-data modify storage hangul:const char append value "벧"
-data modify storage hangul:const char append value "벨"
-data modify storage hangul:const char append value "벩"
-data modify storage hangul:const char append value "벪"
-data modify storage hangul:const char append value "벫"
-data modify storage hangul:const char append value "벬"
-data modify storage hangul:const char append value "벭"
-data modify storage hangul:const char append value "벮"
-data modify storage hangul:const char append value "벯"
-data modify storage hangul:const char append value "벰"
-data modify storage hangul:const char append value "벱"
-data modify storage hangul:const char append value "벲"
-data modify storage hangul:const char append value "벳"
-data modify storage hangul:const char append value "벴"
-data modify storage hangul:const char append value "벵"
-data modify storage hangul:const char append value "벶"
-data modify storage hangul:const char append value "벷"
-data modify storage hangul:const char append value "벸"
-data modify storage hangul:const char append value "벹"
-data modify storage hangul:const char append value "벺"
-data modify storage hangul:const char append value "벻"
-data modify storage hangul:const char append value "벼"
-data modify storage hangul:const char append value "벽"
-data modify storage hangul:const char append value "벾"
-data modify storage hangul:const char append value "벿"
-data modify storage hangul:const char append value "변"
-data modify storage hangul:const char append value "볁"
-data modify storage hangul:const char append value "볂"
-data modify storage hangul:const char append value "볃"
-data modify storage hangul:const char append value "별"
-data modify storage hangul:const char append value "볅"
-data modify storage hangul:const char append value "볆"
-data modify storage hangul:const char append value "볇"
-data modify storage hangul:const char append value "볈"
-data modify storage hangul:const char append value "볉"
-data modify storage hangul:const char append value "볊"
-data modify storage hangul:const char append value "볋"
-data modify storage hangul:const char append value "볌"
-data modify storage hangul:const char append value "볍"
-data modify storage hangul:const char append value "볎"
-data modify storage hangul:const char append value "볏"
-data modify storage hangul:const char append value "볐"
-data modify storage hangul:const char append value "병"
-data modify storage hangul:const char append value "볒"
-data modify storage hangul:const char append value "볓"
-data modify storage hangul:const char append value "볔"
-data modify storage hangul:const char append value "볕"
-data modify storage hangul:const char append value "볖"
-data modify storage hangul:const char append value "볗"
-data modify storage hangul:const char append value "볘"
-data modify storage hangul:const char append value "볙"
-data modify storage hangul:const char append value "볚"
-data modify storage hangul:const char append value "볛"
-data modify storage hangul:const char append value "볜"
-data modify storage hangul:const char append value "볝"
-data modify storage hangul:const char append value "볞"
-data modify storage hangul:const char append value "볟"
-data modify storage hangul:const char append value "볠"
-data modify storage hangul:const char append value "볡"
-data modify storage hangul:const char append value "볢"
-data modify storage hangul:const char append value "볣"
-data modify storage hangul:const char append value "볤"
-data modify storage hangul:const char append value "볥"
-data modify storage hangul:const char append value "볦"
-data modify storage hangul:const char append value "볧"
-data modify storage hangul:const char append value "볨"
-data modify storage hangul:const char append value "볩"
-data modify storage hangul:const char append value "볪"
-data modify storage hangul:const char append value "볫"
-data modify storage hangul:const char append value "볬"
-data modify storage hangul:const char append value "볭"
-data modify storage hangul:const char append value "볮"
-data modify storage hangul:const char append value "볯"
-data modify storage hangul:const char append value "볰"
-data modify storage hangul:const char append value "볱"
-data modify storage hangul:const char append value "볲"
-data modify storage hangul:const char append value "볳"
-data modify storage hangul:const char append value "보"
-data modify storage hangul:const char append value "복"
-data modify storage hangul:const char append value "볶"
-data modify storage hangul:const char append value "볷"
-data modify storage hangul:const char append value "본"
-data modify storage hangul:const char append value "볹"
-data modify storage hangul:const char append value "볺"
-data modify storage hangul:const char append value "볻"
-data modify storage hangul:const char append value "볼"
-data modify storage hangul:const char append value "볽"
-data modify storage hangul:const char append value "볾"
-data modify storage hangul:const char append value "볿"
-data modify storage hangul:const char append value "봀"
-data modify storage hangul:const char append value "봁"
-data modify storage hangul:const char append value "봂"
-data modify storage hangul:const char append value "봃"
-data modify storage hangul:const char append value "봄"
-data modify storage hangul:const char append value "봅"
-data modify storage hangul:const char append value "봆"
-data modify storage hangul:const char append value "봇"
-data modify storage hangul:const char append value "봈"
-data modify storage hangul:const char append value "봉"
-data modify storage hangul:const char append value "봊"
-data modify storage hangul:const char append value "봋"
-data modify storage hangul:const char append value "봌"
-data modify storage hangul:const char append value "봍"
-data modify storage hangul:const char append value "봎"
-data modify storage hangul:const char append value "봏"
-data modify storage hangul:const char append value "봐"
-data modify storage hangul:const char append value "봑"
-data modify storage hangul:const char append value "봒"
-data modify storage hangul:const char append value "봓"
-data modify storage hangul:const char append value "봔"
-data modify storage hangul:const char append value "봕"
-data modify storage hangul:const char append value "봖"
-data modify storage hangul:const char append value "봗"
-data modify storage hangul:const char append value "봘"
-data modify storage hangul:const char append value "봙"
-data modify storage hangul:const char append value "봚"
-data modify storage hangul:const char append value "봛"
-data modify storage hangul:const char append value "봜"
-data modify storage hangul:const char append value "봝"
-data modify storage hangul:const char append value "봞"
-data modify storage hangul:const char append value "봟"
-data modify storage hangul:const char append value "봠"
-data modify storage hangul:const char append value "봡"
-data modify storage hangul:const char append value "봢"
-data modify storage hangul:const char append value "봣"
-data modify storage hangul:const char append value "봤"
-data modify storage hangul:const char append value "봥"
-data modify storage hangul:const char append value "봦"
-data modify storage hangul:const char append value "봧"
-data modify storage hangul:const char append value "봨"
-data modify storage hangul:const char append value "봩"
-data modify storage hangul:const char append value "봪"
-data modify storage hangul:const char append value "봫"
-data modify storage hangul:const char append value "봬"
-data modify storage hangul:const char append value "봭"
-data modify storage hangul:const char append value "봮"
-data modify storage hangul:const char append value "봯"
-data modify storage hangul:const char append value "봰"
-data modify storage hangul:const char append value "봱"
-data modify storage hangul:const char append value "봲"
-data modify storage hangul:const char append value "봳"
-data modify storage hangul:const char append value "봴"
-data modify storage hangul:const char append value "봵"
-data modify storage hangul:const char append value "봶"
-data modify storage hangul:const char append value "봷"
-data modify storage hangul:const char append value "봸"
-data modify storage hangul:const char append value "봹"
-data modify storage hangul:const char append value "봺"
-data modify storage hangul:const char append value "봻"
-data modify storage hangul:const char append value "봼"
-data modify storage hangul:const char append value "봽"
-data modify storage hangul:const char append value "봾"
-data modify storage hangul:const char append value "봿"
-data modify storage hangul:const char append value "뵀"
-data modify storage hangul:const char append value "뵁"
-data modify storage hangul:const char append value "뵂"
-data modify storage hangul:const char append value "뵃"
-data modify storage hangul:const char append value "뵄"
-data modify storage hangul:const char append value "뵅"
-data modify storage hangul:const char append value "뵆"
-data modify storage hangul:const char append value "뵇"
-data modify storage hangul:const char append value "뵈"
-data modify storage hangul:const char append value "뵉"
-data modify storage hangul:const char append value "뵊"
-data modify storage hangul:const char append value "뵋"
-data modify storage hangul:const char append value "뵌"
-data modify storage hangul:const char append value "뵍"
-data modify storage hangul:const char append value "뵎"
-data modify storage hangul:const char append value "뵏"
-data modify storage hangul:const char append value "뵐"
-data modify storage hangul:const char append value "뵑"
-data modify storage hangul:const char append value "뵒"
-data modify storage hangul:const char append value "뵓"
-data modify storage hangul:const char append value "뵔"
-data modify storage hangul:const char append value "뵕"
-data modify storage hangul:const char append value "뵖"
-data modify storage hangul:const char append value "뵗"
-data modify storage hangul:const char append value "뵘"
-data modify storage hangul:const char append value "뵙"
-data modify storage hangul:const char append value "뵚"
-data modify storage hangul:const char append value "뵛"
-data modify storage hangul:const char append value "뵜"
-data modify storage hangul:const char append value "뵝"
-data modify storage hangul:const char append value "뵞"
-data modify storage hangul:const char append value "뵟"
-data modify storage hangul:const char append value "뵠"
-data modify storage hangul:const char append value "뵡"
-data modify storage hangul:const char append value "뵢"
-data modify storage hangul:const char append value "뵣"
-data modify storage hangul:const char append value "뵤"
-data modify storage hangul:const char append value "뵥"
-data modify storage hangul:const char append value "뵦"
-data modify storage hangul:const char append value "뵧"
-data modify storage hangul:const char append value "뵨"
-data modify storage hangul:const char append value "뵩"
-data modify storage hangul:const char append value "뵪"
-data modify storage hangul:const char append value "뵫"
-data modify storage hangul:const char append value "뵬"
-data modify storage hangul:const char append value "뵭"
-data modify storage hangul:const char append value "뵮"
-data modify storage hangul:const char append value "뵯"
-data modify storage hangul:const char append value "뵰"
-data modify storage hangul:const char append value "뵱"
-data modify storage hangul:const char append value "뵲"
-data modify storage hangul:const char append value "뵳"
-data modify storage hangul:const char append value "뵴"
-data modify storage hangul:const char append value "뵵"
-data modify storage hangul:const char append value "뵶"
-data modify storage hangul:const char append value "뵷"
-data modify storage hangul:const char append value "뵸"
-data modify storage hangul:const char append value "뵹"
-data modify storage hangul:const char append value "뵺"
-data modify storage hangul:const char append value "뵻"
-data modify storage hangul:const char append value "뵼"
-data modify storage hangul:const char append value "뵽"
-data modify storage hangul:const char append value "뵾"
-data modify storage hangul:const char append value "뵿"
-data modify storage hangul:const char append value "부"
-data modify storage hangul:const char append value "북"
-data modify storage hangul:const char append value "붂"
-data modify storage hangul:const char append value "붃"
-data modify storage hangul:const char append value "분"
-data modify storage hangul:const char append value "붅"
-data modify storage hangul:const char append value "붆"
-data modify storage hangul:const char append value "붇"
-data modify storage hangul:const char append value "불"
-data modify storage hangul:const char append value "붉"
-data modify storage hangul:const char append value "붊"
-data modify storage hangul:const char append value "붋"
-data modify storage hangul:const char append value "붌"
-data modify storage hangul:const char append value "붍"
-data modify storage hangul:const char append value "붎"
-data modify storage hangul:const char append value "붏"
-data modify storage hangul:const char append value "붐"
-data modify storage hangul:const char append value "붑"
-data modify storage hangul:const char append value "붒"
-data modify storage hangul:const char append value "붓"
-data modify storage hangul:const char append value "붔"
-data modify storage hangul:const char append value "붕"
-data modify storage hangul:const char append value "붖"
-data modify storage hangul:const char append value "붗"
-data modify storage hangul:const char append value "붘"
-data modify storage hangul:const char append value "붙"
-data modify storage hangul:const char append value "붚"
-data modify storage hangul:const char append value "붛"
-data modify storage hangul:const char append value "붜"
-data modify storage hangul:const char append value "붝"
-data modify storage hangul:const char append value "붞"
-data modify storage hangul:const char append value "붟"
-data modify storage hangul:const char append value "붠"
-data modify storage hangul:const char append value "붡"
-data modify storage hangul:const char append value "붢"
-data modify storage hangul:const char append value "붣"
-data modify storage hangul:const char append value "붤"
-data modify storage hangul:const char append value "붥"
-data modify storage hangul:const char append value "붦"
-data modify storage hangul:const char append value "붧"
-data modify storage hangul:const char append value "붨"
-data modify storage hangul:const char append value "붩"
-data modify storage hangul:const char append value "붪"
-data modify storage hangul:const char append value "붫"
-data modify storage hangul:const char append value "붬"
-data modify storage hangul:const char append value "붭"
-data modify storage hangul:const char append value "붮"
-data modify storage hangul:const char append value "붯"
-data modify storage hangul:const char append value "붰"
-data modify storage hangul:const char append value "붱"
-data modify storage hangul:const char append value "붲"
-data modify storage hangul:const char append value "붳"
-data modify storage hangul:const char append value "붴"
-data modify storage hangul:const char append value "붵"
-data modify storage hangul:const char append value "붶"
-data modify storage hangul:const char append value "붷"
-data modify storage hangul:const char append value "붸"
-data modify storage hangul:const char append value "붹"
-data modify storage hangul:const char append value "붺"
-data modify storage hangul:const char append value "붻"
-data modify storage hangul:const char append value "붼"
-data modify storage hangul:const char append value "붽"
-data modify storage hangul:const char append value "붾"
-data modify storage hangul:const char append value "붿"
-data modify storage hangul:const char append value "뷀"
-data modify storage hangul:const char append value "뷁"
-data modify storage hangul:const char append value "뷂"
-data modify storage hangul:const char append value "뷃"
-data modify storage hangul:const char append value "뷄"
-data modify storage hangul:const char append value "뷅"
-data modify storage hangul:const char append value "뷆"
-data modify storage hangul:const char append value "뷇"
-data modify storage hangul:const char append value "뷈"
-data modify storage hangul:const char append value "뷉"
-data modify storage hangul:const char append value "뷊"
-data modify storage hangul:const char append value "뷋"
-data modify storage hangul:const char append value "뷌"
-data modify storage hangul:const char append value "뷍"
-data modify storage hangul:const char append value "뷎"
-data modify storage hangul:const char append value "뷏"
-data modify storage hangul:const char append value "뷐"
-data modify storage hangul:const char append value "뷑"
-data modify storage hangul:const char append value "뷒"
-data modify storage hangul:const char append value "뷓"
-data modify storage hangul:const char append value "뷔"
-data modify storage hangul:const char append value "뷕"
-data modify storage hangul:const char append value "뷖"
-data modify storage hangul:const char append value "뷗"
-data modify storage hangul:const char append value "뷘"
-data modify storage hangul:const char append value "뷙"
-data modify storage hangul:const char append value "뷚"
-data modify storage hangul:const char append value "뷛"
-data modify storage hangul:const char append value "뷜"
-data modify storage hangul:const char append value "뷝"
-data modify storage hangul:const char append value "뷞"
-data modify storage hangul:const char append value "뷟"
-data modify storage hangul:const char append value "뷠"
-data modify storage hangul:const char append value "뷡"
-data modify storage hangul:const char append value "뷢"
-data modify storage hangul:const char append value "뷣"
-data modify storage hangul:const char append value "뷤"
-data modify storage hangul:const char append value "뷥"
-data modify storage hangul:const char append value "뷦"
-data modify storage hangul:const char append value "뷧"
-data modify storage hangul:const char append value "뷨"
-data modify storage hangul:const char append value "뷩"
-data modify storage hangul:const char append value "뷪"
-data modify storage hangul:const char append value "뷫"
-data modify storage hangul:const char append value "뷬"
-data modify storage hangul:const char append value "뷭"
-data modify storage hangul:const char append value "뷮"
-data modify storage hangul:const char append value "뷯"
-data modify storage hangul:const char append value "뷰"
-data modify storage hangul:const char append value "뷱"
-data modify storage hangul:const char append value "뷲"
-data modify storage hangul:const char append value "뷳"
-data modify storage hangul:const char append value "뷴"
-data modify storage hangul:const char append value "뷵"
-data modify storage hangul:const char append value "뷶"
-data modify storage hangul:const char append value "뷷"
-data modify storage hangul:const char append value "뷸"
-data modify storage hangul:const char append value "뷹"
-data modify storage hangul:const char append value "뷺"
-data modify storage hangul:const char append value "뷻"
-data modify storage hangul:const char append value "뷼"
-data modify storage hangul:const char append value "뷽"
-data modify storage hangul:const char append value "뷾"
-data modify storage hangul:const char append value "뷿"
-data modify storage hangul:const char append value "븀"
-data modify storage hangul:const char append value "븁"
-data modify storage hangul:const char append value "븂"
-data modify storage hangul:const char append value "븃"
-data modify storage hangul:const char append value "븄"
-data modify storage hangul:const char append value "븅"
-data modify storage hangul:const char append value "븆"
-data modify storage hangul:const char append value "븇"
-data modify storage hangul:const char append value "븈"
-data modify storage hangul:const char append value "븉"
-data modify storage hangul:const char append value "븊"
-data modify storage hangul:const char append value "븋"
-data modify storage hangul:const char append value "브"
-data modify storage hangul:const char append value "븍"
-data modify storage hangul:const char append value "븎"
-data modify storage hangul:const char append value "븏"
-data modify storage hangul:const char append value "븐"
-data modify storage hangul:const char append value "븑"
-data modify storage hangul:const char append value "븒"
-data modify storage hangul:const char append value "븓"
-data modify storage hangul:const char append value "블"
-data modify storage hangul:const char append value "븕"
-data modify storage hangul:const char append value "븖"
-data modify storage hangul:const char append value "븗"
-data modify storage hangul:const char append value "븘"
-data modify storage hangul:const char append value "븙"
-data modify storage hangul:const char append value "븚"
-data modify storage hangul:const char append value "븛"
-data modify storage hangul:const char append value "븜"
-data modify storage hangul:const char append value "븝"
-data modify storage hangul:const char append value "븞"
-data modify storage hangul:const char append value "븟"
-data modify storage hangul:const char append value "븠"
-data modify storage hangul:const char append value "븡"
-data modify storage hangul:const char append value "븢"
-data modify storage hangul:const char append value "븣"
-data modify storage hangul:const char append value "븤"
-data modify storage hangul:const char append value "븥"
-data modify storage hangul:const char append value "븦"
-data modify storage hangul:const char append value "븧"
-data modify storage hangul:const char append value "븨"
-data modify storage hangul:const char append value "븩"
-data modify storage hangul:const char append value "븪"
-data modify storage hangul:const char append value "븫"
-data modify storage hangul:const char append value "븬"
-data modify storage hangul:const char append value "븭"
-data modify storage hangul:const char append value "븮"
-data modify storage hangul:const char append value "븯"
-data modify storage hangul:const char append value "븰"
-data modify storage hangul:const char append value "븱"
-data modify storage hangul:const char append value "븲"
-data modify storage hangul:const char append value "븳"
-data modify storage hangul:const char append value "븴"
-data modify storage hangul:const char append value "븵"
-data modify storage hangul:const char append value "븶"
-data modify storage hangul:const char append value "븷"
-data modify storage hangul:const char append value "븸"
-data modify storage hangul:const char append value "븹"
-data modify storage hangul:const char append value "븺"
-data modify storage hangul:const char append value "븻"
-data modify storage hangul:const char append value "븼"
-data modify storage hangul:const char append value "븽"
-data modify storage hangul:const char append value "븾"
-data modify storage hangul:const char append value "븿"
-data modify storage hangul:const char append value "빀"
-data modify storage hangul:const char append value "빁"
-data modify storage hangul:const char append value "빂"
-data modify storage hangul:const char append value "빃"
-data modify storage hangul:const char append value "비"
-data modify storage hangul:const char append value "빅"
-data modify storage hangul:const char append value "빆"
-data modify storage hangul:const char append value "빇"
-data modify storage hangul:const char append value "빈"
-data modify storage hangul:const char append value "빉"
-data modify storage hangul:const char append value "빊"
-data modify storage hangul:const char append value "빋"
-data modify storage hangul:const char append value "빌"
-data modify storage hangul:const char append value "빍"
-data modify storage hangul:const char append value "빎"
-data modify storage hangul:const char append value "빏"
-data modify storage hangul:const char append value "빐"
-data modify storage hangul:const char append value "빑"
-data modify storage hangul:const char append value "빒"
-data modify storage hangul:const char append value "빓"
-data modify storage hangul:const char append value "빔"
-data modify storage hangul:const char append value "빕"
-data modify storage hangul:const char append value "빖"
-data modify storage hangul:const char append value "빗"
-data modify storage hangul:const char append value "빘"
-data modify storage hangul:const char append value "빙"
-data modify storage hangul:const char append value "빚"
-data modify storage hangul:const char append value "빛"
-data modify storage hangul:const char append value "빜"
-data modify storage hangul:const char append value "빝"
-data modify storage hangul:const char append value "빞"
-data modify storage hangul:const char append value "빟"
-data modify storage hangul:const char append value "빠"
-data modify storage hangul:const char append value "빡"
-data modify storage hangul:const char append value "빢"
-data modify storage hangul:const char append value "빣"
-data modify storage hangul:const char append value "빤"
-data modify storage hangul:const char append value "빥"
-data modify storage hangul:const char append value "빦"
-data modify storage hangul:const char append value "빧"
-data modify storage hangul:const char append value "빨"
-data modify storage hangul:const char append value "빩"
-data modify storage hangul:const char append value "빪"
-data modify storage hangul:const char append value "빫"
-data modify storage hangul:const char append value "빬"
-data modify storage hangul:const char append value "빭"
-data modify storage hangul:const char append value "빮"
-data modify storage hangul:const char append value "빯"
-data modify storage hangul:const char append value "빰"
-data modify storage hangul:const char append value "빱"
-data modify storage hangul:const char append value "빲"
-data modify storage hangul:const char append value "빳"
-data modify storage hangul:const char append value "빴"
-data modify storage hangul:const char append value "빵"
-data modify storage hangul:const char append value "빶"
-data modify storage hangul:const char append value "빷"
-data modify storage hangul:const char append value "빸"
-data modify storage hangul:const char append value "빹"
-data modify storage hangul:const char append value "빺"
-data modify storage hangul:const char append value "빻"
-data modify storage hangul:const char append value "빼"
-data modify storage hangul:const char append value "빽"
-data modify storage hangul:const char append value "빾"
-data modify storage hangul:const char append value "빿"
-data modify storage hangul:const char append value "뺀"
-data modify storage hangul:const char append value "뺁"
-data modify storage hangul:const char append value "뺂"
-data modify storage hangul:const char append value "뺃"
-data modify storage hangul:const char append value "뺄"
-data modify storage hangul:const char append value "뺅"
-data modify storage hangul:const char append value "뺆"
-data modify storage hangul:const char append value "뺇"
-data modify storage hangul:const char append value "뺈"
-data modify storage hangul:const char append value "뺉"
-data modify storage hangul:const char append value "뺊"
-data modify storage hangul:const char append value "뺋"
-data modify storage hangul:const char append value "뺌"
-data modify storage hangul:const char append value "뺍"
-data modify storage hangul:const char append value "뺎"
-data modify storage hangul:const char append value "뺏"
-data modify storage hangul:const char append value "뺐"
-data modify storage hangul:const char append value "뺑"
-data modify storage hangul:const char append value "뺒"
-data modify storage hangul:const char append value "뺓"
-data modify storage hangul:const char append value "뺔"
-data modify storage hangul:const char append value "뺕"
-data modify storage hangul:const char append value "뺖"
-data modify storage hangul:const char append value "뺗"
-data modify storage hangul:const char append value "뺘"
-data modify storage hangul:const char append value "뺙"
-data modify storage hangul:const char append value "뺚"
-data modify storage hangul:const char append value "뺛"
-data modify storage hangul:const char append value "뺜"
-data modify storage hangul:const char append value "뺝"
-data modify storage hangul:const char append value "뺞"
-data modify storage hangul:const char append value "뺟"
-data modify storage hangul:const char append value "뺠"
-data modify storage hangul:const char append value "뺡"
-data modify storage hangul:const char append value "뺢"
-data modify storage hangul:const char append value "뺣"
-data modify storage hangul:const char append value "뺤"
-data modify storage hangul:const char append value "뺥"
-data modify storage hangul:const char append value "뺦"
-data modify storage hangul:const char append value "뺧"
-data modify storage hangul:const char append value "뺨"
-data modify storage hangul:const char append value "뺩"
-data modify storage hangul:const char append value "뺪"
-data modify storage hangul:const char append value "뺫"
-data modify storage hangul:const char append value "뺬"
-data modify storage hangul:const char append value "뺭"
-data modify storage hangul:const char append value "뺮"
-data modify storage hangul:const char append value "뺯"
-data modify storage hangul:const char append value "뺰"
-data modify storage hangul:const char append value "뺱"
-data modify storage hangul:const char append value "뺲"
-data modify storage hangul:const char append value "뺳"
-data modify storage hangul:const char append value "뺴"
-data modify storage hangul:const char append value "뺵"
-data modify storage hangul:const char append value "뺶"
-data modify storage hangul:const char append value "뺷"
-data modify storage hangul:const char append value "뺸"
-data modify storage hangul:const char append value "뺹"
-data modify storage hangul:const char append value "뺺"
-data modify storage hangul:const char append value "뺻"
-data modify storage hangul:const char append value "뺼"
-data modify storage hangul:const char append value "뺽"
-data modify storage hangul:const char append value "뺾"
-data modify storage hangul:const char append value "뺿"
-data modify storage hangul:const char append value "뻀"
-data modify storage hangul:const char append value "뻁"
-data modify storage hangul:const char append value "뻂"
-data modify storage hangul:const char append value "뻃"
-data modify storage hangul:const char append value "뻄"
-data modify storage hangul:const char append value "뻅"
-data modify storage hangul:const char append value "뻆"
-data modify storage hangul:const char append value "뻇"
-data modify storage hangul:const char append value "뻈"
-data modify storage hangul:const char append value "뻉"
-data modify storage hangul:const char append value "뻊"
-data modify storage hangul:const char append value "뻋"
-data modify storage hangul:const char append value "뻌"
-data modify storage hangul:const char append value "뻍"
-data modify storage hangul:const char append value "뻎"
-data modify storage hangul:const char append value "뻏"
-data modify storage hangul:const char append value "뻐"
-data modify storage hangul:const char append value "뻑"
-data modify storage hangul:const char append value "뻒"
-data modify storage hangul:const char append value "뻓"
-data modify storage hangul:const char append value "뻔"
-data modify storage hangul:const char append value "뻕"
-data modify storage hangul:const char append value "뻖"
-data modify storage hangul:const char append value "뻗"
-data modify storage hangul:const char append value "뻘"
-data modify storage hangul:const char append value "뻙"
-data modify storage hangul:const char append value "뻚"
-data modify storage hangul:const char append value "뻛"
-data modify storage hangul:const char append value "뻜"
-data modify storage hangul:const char append value "뻝"
-data modify storage hangul:const char append value "뻞"
-data modify storage hangul:const char append value "뻟"
-data modify storage hangul:const char append value "뻠"
-data modify storage hangul:const char append value "뻡"
-data modify storage hangul:const char append value "뻢"
-data modify storage hangul:const char append value "뻣"
-data modify storage hangul:const char append value "뻤"
-data modify storage hangul:const char append value "뻥"
-data modify storage hangul:const char append value "뻦"
-data modify storage hangul:const char append value "뻧"
-data modify storage hangul:const char append value "뻨"
-data modify storage hangul:const char append value "뻩"
-data modify storage hangul:const char append value "뻪"
-data modify storage hangul:const char append value "뻫"
-data modify storage hangul:const char append value "뻬"
-data modify storage hangul:const char append value "뻭"
-data modify storage hangul:const char append value "뻮"
-data modify storage hangul:const char append value "뻯"
-data modify storage hangul:const char append value "뻰"
-data modify storage hangul:const char append value "뻱"
-data modify storage hangul:const char append value "뻲"
-data modify storage hangul:const char append value "뻳"
-data modify storage hangul:const char append value "뻴"
-data modify storage hangul:const char append value "뻵"
-data modify storage hangul:const char append value "뻶"
-data modify storage hangul:const char append value "뻷"
-data modify storage hangul:const char append value "뻸"
-data modify storage hangul:const char append value "뻹"
-data modify storage hangul:const char append value "뻺"
-data modify storage hangul:const char append value "뻻"
-data modify storage hangul:const char append value "뻼"
-data modify storage hangul:const char append value "뻽"
-data modify storage hangul:const char append value "뻾"
-data modify storage hangul:const char append value "뻿"
-data modify storage hangul:const char append value "뼀"
-data modify storage hangul:const char append value "뼁"
-data modify storage hangul:const char append value "뼂"
-data modify storage hangul:const char append value "뼃"
-data modify storage hangul:const char append value "뼄"
-data modify storage hangul:const char append value "뼅"
-data modify storage hangul:const char append value "뼆"
-data modify storage hangul:const char append value "뼇"
-data modify storage hangul:const char append value "뼈"
-data modify storage hangul:const char append value "뼉"
-data modify storage hangul:const char append value "뼊"
-data modify storage hangul:const char append value "뼋"
-data modify storage hangul:const char append value "뼌"
-data modify storage hangul:const char append value "뼍"
-data modify storage hangul:const char append value "뼎"
-data modify storage hangul:const char append value "뼏"
-data modify storage hangul:const char append value "뼐"
-data modify storage hangul:const char append value "뼑"
-data modify storage hangul:const char append value "뼒"
-data modify storage hangul:const char append value "뼓"
-data modify storage hangul:const char append value "뼔"
-data modify storage hangul:const char append value "뼕"
-data modify storage hangul:const char append value "뼖"
-data modify storage hangul:const char append value "뼗"
-data modify storage hangul:const char append value "뼘"
-data modify storage hangul:const char append value "뼙"
-data modify storage hangul:const char append value "뼚"
-data modify storage hangul:const char append value "뼛"
-data modify storage hangul:const char append value "뼜"
-data modify storage hangul:const char append value "뼝"
-data modify storage hangul:const char append value "뼞"
-data modify storage hangul:const char append value "뼟"
-data modify storage hangul:const char append value "뼠"
-data modify storage hangul:const char append value "뼡"
-data modify storage hangul:const char append value "뼢"
-data modify storage hangul:const char append value "뼣"
-data modify storage hangul:const char append value "뼤"
-data modify storage hangul:const char append value "뼥"
-data modify storage hangul:const char append value "뼦"
-data modify storage hangul:const char append value "뼧"
-data modify storage hangul:const char append value "뼨"
-data modify storage hangul:const char append value "뼩"
-data modify storage hangul:const char append value "뼪"
-data modify storage hangul:const char append value "뼫"
-data modify storage hangul:const char append value "뼬"
-data modify storage hangul:const char append value "뼭"
-data modify storage hangul:const char append value "뼮"
-data modify storage hangul:const char append value "뼯"
-data modify storage hangul:const char append value "뼰"
-data modify storage hangul:const char append value "뼱"
-data modify storage hangul:const char append value "뼲"
-data modify storage hangul:const char append value "뼳"
-data modify storage hangul:const char append value "뼴"
-data modify storage hangul:const char append value "뼵"
-data modify storage hangul:const char append value "뼶"
-data modify storage hangul:const char append value "뼷"
-data modify storage hangul:const char append value "뼸"
-data modify storage hangul:const char append value "뼹"
-data modify storage hangul:const char append value "뼺"
-data modify storage hangul:const char append value "뼻"
-data modify storage hangul:const char append value "뼼"
-data modify storage hangul:const char append value "뼽"
-data modify storage hangul:const char append value "뼾"
-data modify storage hangul:const char append value "뼿"
-data modify storage hangul:const char append value "뽀"
-data modify storage hangul:const char append value "뽁"
-data modify storage hangul:const char append value "뽂"
-data modify storage hangul:const char append value "뽃"
-data modify storage hangul:const char append value "뽄"
-data modify storage hangul:const char append value "뽅"
-data modify storage hangul:const char append value "뽆"
-data modify storage hangul:const char append value "뽇"
-data modify storage hangul:const char append value "뽈"
-data modify storage hangul:const char append value "뽉"
-data modify storage hangul:const char append value "뽊"
-data modify storage hangul:const char append value "뽋"
-data modify storage hangul:const char append value "뽌"
-data modify storage hangul:const char append value "뽍"
-data modify storage hangul:const char append value "뽎"
-data modify storage hangul:const char append value "뽏"
-data modify storage hangul:const char append value "뽐"
-data modify storage hangul:const char append value "뽑"
-data modify storage hangul:const char append value "뽒"
-data modify storage hangul:const char append value "뽓"
-data modify storage hangul:const char append value "뽔"
-data modify storage hangul:const char append value "뽕"
-data modify storage hangul:const char append value "뽖"
-data modify storage hangul:const char append value "뽗"
-data modify storage hangul:const char append value "뽘"
-data modify storage hangul:const char append value "뽙"
-data modify storage hangul:const char append value "뽚"
-data modify storage hangul:const char append value "뽛"
-data modify storage hangul:const char append value "뽜"
-data modify storage hangul:const char append value "뽝"
-data modify storage hangul:const char append value "뽞"
-data modify storage hangul:const char append value "뽟"
-data modify storage hangul:const char append value "뽠"
-data modify storage hangul:const char append value "뽡"
-data modify storage hangul:const char append value "뽢"
-data modify storage hangul:const char append value "뽣"
-data modify storage hangul:const char append value "뽤"
-data modify storage hangul:const char append value "뽥"
-data modify storage hangul:const char append value "뽦"
-data modify storage hangul:const char append value "뽧"
-data modify storage hangul:const char append value "뽨"
-data modify storage hangul:const char append value "뽩"
-data modify storage hangul:const char append value "뽪"
-data modify storage hangul:const char append value "뽫"
-data modify storage hangul:const char append value "뽬"
-data modify storage hangul:const char append value "뽭"
-data modify storage hangul:const char append value "뽮"
-data modify storage hangul:const char append value "뽯"
-data modify storage hangul:const char append value "뽰"
-data modify storage hangul:const char append value "뽱"
-data modify storage hangul:const char append value "뽲"
-data modify storage hangul:const char append value "뽳"
-data modify storage hangul:const char append value "뽴"
-data modify storage hangul:const char append value "뽵"
-data modify storage hangul:const char append value "뽶"
-data modify storage hangul:const char append value "뽷"
-data modify storage hangul:const char append value "뽸"
-data modify storage hangul:const char append value "뽹"
-data modify storage hangul:const char append value "뽺"
-data modify storage hangul:const char append value "뽻"
-data modify storage hangul:const char append value "뽼"
-data modify storage hangul:const char append value "뽽"
-data modify storage hangul:const char append value "뽾"
-data modify storage hangul:const char append value "뽿"
-data modify storage hangul:const char append value "뾀"
-data modify storage hangul:const char append value "뾁"
-data modify storage hangul:const char append value "뾂"
-data modify storage hangul:const char append value "뾃"
-data modify storage hangul:const char append value "뾄"
-data modify storage hangul:const char append value "뾅"
-data modify storage hangul:const char append value "뾆"
-data modify storage hangul:const char append value "뾇"
-data modify storage hangul:const char append value "뾈"
-data modify storage hangul:const char append value "뾉"
-data modify storage hangul:const char append value "뾊"
-data modify storage hangul:const char append value "뾋"
-data modify storage hangul:const char append value "뾌"
-data modify storage hangul:const char append value "뾍"
-data modify storage hangul:const char append value "뾎"
-data modify storage hangul:const char append value "뾏"
-data modify storage hangul:const char append value "뾐"
-data modify storage hangul:const char append value "뾑"
-data modify storage hangul:const char append value "뾒"
-data modify storage hangul:const char append value "뾓"
-data modify storage hangul:const char append value "뾔"
-data modify storage hangul:const char append value "뾕"
-data modify storage hangul:const char append value "뾖"
-data modify storage hangul:const char append value "뾗"
-data modify storage hangul:const char append value "뾘"
-data modify storage hangul:const char append value "뾙"
-data modify storage hangul:const char append value "뾚"
-data modify storage hangul:const char append value "뾛"
-data modify storage hangul:const char append value "뾜"
-data modify storage hangul:const char append value "뾝"
-data modify storage hangul:const char append value "뾞"
-data modify storage hangul:const char append value "뾟"
-data modify storage hangul:const char append value "뾠"
-data modify storage hangul:const char append value "뾡"
-data modify storage hangul:const char append value "뾢"
-data modify storage hangul:const char append value "뾣"
-data modify storage hangul:const char append value "뾤"
-data modify storage hangul:const char append value "뾥"
-data modify storage hangul:const char append value "뾦"
-data modify storage hangul:const char append value "뾧"
-data modify storage hangul:const char append value "뾨"
-data modify storage hangul:const char append value "뾩"
-data modify storage hangul:const char append value "뾪"
-data modify storage hangul:const char append value "뾫"
-data modify storage hangul:const char append value "뾬"
-data modify storage hangul:const char append value "뾭"
-data modify storage hangul:const char append value "뾮"
-data modify storage hangul:const char append value "뾯"
-data modify storage hangul:const char append value "뾰"
-data modify storage hangul:const char append value "뾱"
-data modify storage hangul:const char append value "뾲"
-data modify storage hangul:const char append value "뾳"
-data modify storage hangul:const char append value "뾴"
-data modify storage hangul:const char append value "뾵"
-data modify storage hangul:const char append value "뾶"
-data modify storage hangul:const char append value "뾷"
-data modify storage hangul:const char append value "뾸"
-data modify storage hangul:const char append value "뾹"
-data modify storage hangul:const char append value "뾺"
-data modify storage hangul:const char append value "뾻"
-data modify storage hangul:const char append value "뾼"
-data modify storage hangul:const char append value "뾽"
-data modify storage hangul:const char append value "뾾"
-data modify storage hangul:const char append value "뾿"
-data modify storage hangul:const char append value "뿀"
-data modify storage hangul:const char append value "뿁"
-data modify storage hangul:const char append value "뿂"
-data modify storage hangul:const char append value "뿃"
-data modify storage hangul:const char append value "뿄"
-data modify storage hangul:const char append value "뿅"
-data modify storage hangul:const char append value "뿆"
-data modify storage hangul:const char append value "뿇"
-data modify storage hangul:const char append value "뿈"
-data modify storage hangul:const char append value "뿉"
-data modify storage hangul:const char append value "뿊"
-data modify storage hangul:const char append value "뿋"
-data modify storage hangul:const char append value "뿌"
-data modify storage hangul:const char append value "뿍"
-data modify storage hangul:const char append value "뿎"
-data modify storage hangul:const char append value "뿏"
-data modify storage hangul:const char append value "뿐"
-data modify storage hangul:const char append value "뿑"
-data modify storage hangul:const char append value "뿒"
-data modify storage hangul:const char append value "뿓"
-data modify storage hangul:const char append value "뿔"
-data modify storage hangul:const char append value "뿕"
-data modify storage hangul:const char append value "뿖"
-data modify storage hangul:const char append value "뿗"
-data modify storage hangul:const char append value "뿘"
-data modify storage hangul:const char append value "뿙"
-data modify storage hangul:const char append value "뿚"
-data modify storage hangul:const char append value "뿛"
-data modify storage hangul:const char append value "뿜"
-data modify storage hangul:const char append value "뿝"
-data modify storage hangul:const char append value "뿞"
-data modify storage hangul:const char append value "뿟"
-data modify storage hangul:const char append value "뿠"
-data modify storage hangul:const char append value "뿡"
-data modify storage hangul:const char append value "뿢"
-data modify storage hangul:const char append value "뿣"
-data modify storage hangul:const char append value "뿤"
-data modify storage hangul:const char append value "뿥"
-data modify storage hangul:const char append value "뿦"
-data modify storage hangul:const char append value "뿧"
-data modify storage hangul:const char append value "뿨"
-data modify storage hangul:const char append value "뿩"
-data modify storage hangul:const char append value "뿪"
-data modify storage hangul:const char append value "뿫"
-data modify storage hangul:const char append value "뿬"
-data modify storage hangul:const char append value "뿭"
-data modify storage hangul:const char append value "뿮"
-data modify storage hangul:const char append value "뿯"
-data modify storage hangul:const char append value "뿰"
-data modify storage hangul:const char append value "뿱"
-data modify storage hangul:const char append value "뿲"
-data modify storage hangul:const char append value "뿳"
-data modify storage hangul:const char append value "뿴"
-data modify storage hangul:const char append value "뿵"
-data modify storage hangul:const char append value "뿶"
-data modify storage hangul:const char append value "뿷"
-data modify storage hangul:const char append value "뿸"
-data modify storage hangul:const char append value "뿹"
-data modify storage hangul:const char append value "뿺"
-data modify storage hangul:const char append value "뿻"
-data modify storage hangul:const char append value "뿼"
-data modify storage hangul:const char append value "뿽"
-data modify storage hangul:const char append value "뿾"
-data modify storage hangul:const char append value "뿿"
-data modify storage hangul:const char append value "쀀"
-data modify storage hangul:const char append value "쀁"
-data modify storage hangul:const char append value "쀂"
-data modify storage hangul:const char append value "쀃"
-data modify storage hangul:const char append value "쀄"
-data modify storage hangul:const char append value "쀅"
-data modify storage hangul:const char append value "쀆"
-data modify storage hangul:const char append value "쀇"
-data modify storage hangul:const char append value "쀈"
-data modify storage hangul:const char append value "쀉"
-data modify storage hangul:const char append value "쀊"
-data modify storage hangul:const char append value "쀋"
-data modify storage hangul:const char append value "쀌"
-data modify storage hangul:const char append value "쀍"
-data modify storage hangul:const char append value "쀎"
-data modify storage hangul:const char append value "쀏"
-data modify storage hangul:const char append value "쀐"
-data modify storage hangul:const char append value "쀑"
-data modify storage hangul:const char append value "쀒"
-data modify storage hangul:const char append value "쀓"
-data modify storage hangul:const char append value "쀔"
-data modify storage hangul:const char append value "쀕"
-data modify storage hangul:const char append value "쀖"
-data modify storage hangul:const char append value "쀗"
-data modify storage hangul:const char append value "쀘"
-data modify storage hangul:const char append value "쀙"
-data modify storage hangul:const char append value "쀚"
-data modify storage hangul:const char append value "쀛"
-data modify storage hangul:const char append value "쀜"
-data modify storage hangul:const char append value "쀝"
-data modify storage hangul:const char append value "쀞"
-data modify storage hangul:const char append value "쀟"
-data modify storage hangul:const char append value "쀠"
-data modify storage hangul:const char append value "쀡"
-data modify storage hangul:const char append value "쀢"
-data modify storage hangul:const char append value "쀣"
-data modify storage hangul:const char append value "쀤"
-data modify storage hangul:const char append value "쀥"
-data modify storage hangul:const char append value "쀦"
-data modify storage hangul:const char append value "쀧"
-data modify storage hangul:const char append value "쀨"
-data modify storage hangul:const char append value "쀩"
-data modify storage hangul:const char append value "쀪"
-data modify storage hangul:const char append value "쀫"
-data modify storage hangul:const char append value "쀬"
-data modify storage hangul:const char append value "쀭"
-data modify storage hangul:const char append value "쀮"
-data modify storage hangul:const char append value "쀯"
-data modify storage hangul:const char append value "쀰"
-data modify storage hangul:const char append value "쀱"
-data modify storage hangul:const char append value "쀲"
-data modify storage hangul:const char append value "쀳"
-data modify storage hangul:const char append value "쀴"
-data modify storage hangul:const char append value "쀵"
-data modify storage hangul:const char append value "쀶"
-data modify storage hangul:const char append value "쀷"
-data modify storage hangul:const char append value "쀸"
-data modify storage hangul:const char append value "쀹"
-data modify storage hangul:const char append value "쀺"
-data modify storage hangul:const char append value "쀻"
-data modify storage hangul:const char append value "쀼"
-data modify storage hangul:const char append value "쀽"
-data modify storage hangul:const char append value "쀾"
-data modify storage hangul:const char append value "쀿"
-data modify storage hangul:const char append value "쁀"
-data modify storage hangul:const char append value "쁁"
-data modify storage hangul:const char append value "쁂"
-data modify storage hangul:const char append value "쁃"
-data modify storage hangul:const char append value "쁄"
-data modify storage hangul:const char append value "쁅"
-data modify storage hangul:const char append value "쁆"
-data modify storage hangul:const char append value "쁇"
-data modify storage hangul:const char append value "쁈"
-data modify storage hangul:const char append value "쁉"
-data modify storage hangul:const char append value "쁊"
-data modify storage hangul:const char append value "쁋"
-data modify storage hangul:const char append value "쁌"
-data modify storage hangul:const char append value "쁍"
-data modify storage hangul:const char append value "쁎"
-data modify storage hangul:const char append value "쁏"
-data modify storage hangul:const char append value "쁐"
-data modify storage hangul:const char append value "쁑"
-data modify storage hangul:const char append value "쁒"
-data modify storage hangul:const char append value "쁓"
-data modify storage hangul:const char append value "쁔"
-data modify storage hangul:const char append value "쁕"
-data modify storage hangul:const char append value "쁖"
-data modify storage hangul:const char append value "쁗"
-data modify storage hangul:const char append value "쁘"
-data modify storage hangul:const char append value "쁙"
-data modify storage hangul:const char append value "쁚"
-data modify storage hangul:const char append value "쁛"
-data modify storage hangul:const char append value "쁜"
-data modify storage hangul:const char append value "쁝"
-data modify storage hangul:const char append value "쁞"
-data modify storage hangul:const char append value "쁟"
-data modify storage hangul:const char append value "쁠"
-data modify storage hangul:const char append value "쁡"
-data modify storage hangul:const char append value "쁢"
-data modify storage hangul:const char append value "쁣"
-data modify storage hangul:const char append value "쁤"
-data modify storage hangul:const char append value "쁥"
-data modify storage hangul:const char append value "쁦"
-data modify storage hangul:const char append value "쁧"
-data modify storage hangul:const char append value "쁨"
-data modify storage hangul:const char append value "쁩"
-data modify storage hangul:const char append value "쁪"
-data modify storage hangul:const char append value "쁫"
-data modify storage hangul:const char append value "쁬"
-data modify storage hangul:const char append value "쁭"
-data modify storage hangul:const char append value "쁮"
-data modify storage hangul:const char append value "쁯"
-data modify storage hangul:const char append value "쁰"
-data modify storage hangul:const char append value "쁱"
-data modify storage hangul:const char append value "쁲"
-data modify storage hangul:const char append value "쁳"
-data modify storage hangul:const char append value "쁴"
-data modify storage hangul:const char append value "쁵"
-data modify storage hangul:const char append value "쁶"
-data modify storage hangul:const char append value "쁷"
-data modify storage hangul:const char append value "쁸"
-data modify storage hangul:const char append value "쁹"
-data modify storage hangul:const char append value "쁺"
-data modify storage hangul:const char append value "쁻"
-data modify storage hangul:const char append value "쁼"
-data modify storage hangul:const char append value "쁽"
-data modify storage hangul:const char append value "쁾"
-data modify storage hangul:const char append value "쁿"
-data modify storage hangul:const char append value "삀"
-data modify storage hangul:const char append value "삁"
-data modify storage hangul:const char append value "삂"
-data modify storage hangul:const char append value "삃"
-data modify storage hangul:const char append value "삄"
-data modify storage hangul:const char append value "삅"
-data modify storage hangul:const char append value "삆"
-data modify storage hangul:const char append value "삇"
-data modify storage hangul:const char append value "삈"
-data modify storage hangul:const char append value "삉"
-data modify storage hangul:const char append value "삊"
-data modify storage hangul:const char append value "삋"
-data modify storage hangul:const char append value "삌"
-data modify storage hangul:const char append value "삍"
-data modify storage hangul:const char append value "삎"
-data modify storage hangul:const char append value "삏"
-data modify storage hangul:const char append value "삐"
-data modify storage hangul:const char append value "삑"
-data modify storage hangul:const char append value "삒"
-data modify storage hangul:const char append value "삓"
-data modify storage hangul:const char append value "삔"
-data modify storage hangul:const char append value "삕"
-data modify storage hangul:const char append value "삖"
-data modify storage hangul:const char append value "삗"
-data modify storage hangul:const char append value "삘"
-data modify storage hangul:const char append value "삙"
-data modify storage hangul:const char append value "삚"
-data modify storage hangul:const char append value "삛"
-data modify storage hangul:const char append value "삜"
-data modify storage hangul:const char append value "삝"
-data modify storage hangul:const char append value "삞"
-data modify storage hangul:const char append value "삟"
-data modify storage hangul:const char append value "삠"
-data modify storage hangul:const char append value "삡"
-data modify storage hangul:const char append value "삢"
-data modify storage hangul:const char append value "삣"
-data modify storage hangul:const char append value "삤"
-data modify storage hangul:const char append value "삥"
-data modify storage hangul:const char append value "삦"
-data modify storage hangul:const char append value "삧"
-data modify storage hangul:const char append value "삨"
-data modify storage hangul:const char append value "삩"
-data modify storage hangul:const char append value "삪"
-data modify storage hangul:const char append value "삫"
-data modify storage hangul:const char append value "사"
-data modify storage hangul:const char append value "삭"
-data modify storage hangul:const char append value "삮"
-data modify storage hangul:const char append value "삯"
-data modify storage hangul:const char append value "산"
-data modify storage hangul:const char append value "삱"
-data modify storage hangul:const char append value "삲"
-data modify storage hangul:const char append value "삳"
-data modify storage hangul:const char append value "살"
-data modify storage hangul:const char append value "삵"
-data modify storage hangul:const char append value "삶"
-data modify storage hangul:const char append value "삷"
-data modify storage hangul:const char append value "삸"
-data modify storage hangul:const char append value "삹"
-data modify storage hangul:const char append value "삺"
-data modify storage hangul:const char append value "삻"
-data modify storage hangul:const char append value "삼"
-data modify storage hangul:const char append value "삽"
-data modify storage hangul:const char append value "삾"
-data modify storage hangul:const char append value "삿"
-data modify storage hangul:const char append value "샀"
-data modify storage hangul:const char append value "상"
-data modify storage hangul:const char append value "샂"
-data modify storage hangul:const char append value "샃"
-data modify storage hangul:const char append value "샄"
-data modify storage hangul:const char append value "샅"
-data modify storage hangul:const char append value "샆"
-data modify storage hangul:const char append value "샇"
-data modify storage hangul:const char append value "새"
-data modify storage hangul:const char append value "색"
-data modify storage hangul:const char append value "샊"
-data modify storage hangul:const char append value "샋"
-data modify storage hangul:const char append value "샌"
-data modify storage hangul:const char append value "샍"
-data modify storage hangul:const char append value "샎"
-data modify storage hangul:const char append value "샏"
-data modify storage hangul:const char append value "샐"
-data modify storage hangul:const char append value "샑"
-data modify storage hangul:const char append value "샒"
-data modify storage hangul:const char append value "샓"
-data modify storage hangul:const char append value "샔"
-data modify storage hangul:const char append value "샕"
-data modify storage hangul:const char append value "샖"
-data modify storage hangul:const char append value "샗"
-data modify storage hangul:const char append value "샘"
-data modify storage hangul:const char append value "샙"
-data modify storage hangul:const char append value "샚"
-data modify storage hangul:const char append value "샛"
-data modify storage hangul:const char append value "샜"
-data modify storage hangul:const char append value "생"
-data modify storage hangul:const char append value "샞"
-data modify storage hangul:const char append value "샟"
-data modify storage hangul:const char append value "샠"
-data modify storage hangul:const char append value "샡"
-data modify storage hangul:const char append value "샢"
-data modify storage hangul:const char append value "샣"
-data modify storage hangul:const char append value "샤"
-data modify storage hangul:const char append value "샥"
-data modify storage hangul:const char append value "샦"
-data modify storage hangul:const char append value "샧"
-data modify storage hangul:const char append value "샨"
-data modify storage hangul:const char append value "샩"
-data modify storage hangul:const char append value "샪"
-data modify storage hangul:const char append value "샫"
-data modify storage hangul:const char append value "샬"
-data modify storage hangul:const char append value "샭"
-data modify storage hangul:const char append value "샮"
-data modify storage hangul:const char append value "샯"
-data modify storage hangul:const char append value "샰"
-data modify storage hangul:const char append value "샱"
-data modify storage hangul:const char append value "샲"
-data modify storage hangul:const char append value "샳"
-data modify storage hangul:const char append value "샴"
-data modify storage hangul:const char append value "샵"
-data modify storage hangul:const char append value "샶"
-data modify storage hangul:const char append value "샷"
-data modify storage hangul:const char append value "샸"
-data modify storage hangul:const char append value "샹"
-data modify storage hangul:const char append value "샺"
-data modify storage hangul:const char append value "샻"
-data modify storage hangul:const char append value "샼"
-data modify storage hangul:const char append value "샽"
-data modify storage hangul:const char append value "샾"
-data modify storage hangul:const char append value "샿"
-data modify storage hangul:const char append value "섀"
-data modify storage hangul:const char append value "섁"
-data modify storage hangul:const char append value "섂"
-data modify storage hangul:const char append value "섃"
-data modify storage hangul:const char append value "섄"
-data modify storage hangul:const char append value "섅"
-data modify storage hangul:const char append value "섆"
-data modify storage hangul:const char append value "섇"
-data modify storage hangul:const char append value "섈"
-data modify storage hangul:const char append value "섉"
-data modify storage hangul:const char append value "섊"
-data modify storage hangul:const char append value "섋"
-data modify storage hangul:const char append value "섌"
-data modify storage hangul:const char append value "섍"
-data modify storage hangul:const char append value "섎"
-data modify storage hangul:const char append value "섏"
-data modify storage hangul:const char append value "섐"
-data modify storage hangul:const char append value "섑"
-data modify storage hangul:const char append value "섒"
-data modify storage hangul:const char append value "섓"
-data modify storage hangul:const char append value "섔"
-data modify storage hangul:const char append value "섕"
-data modify storage hangul:const char append value "섖"
-data modify storage hangul:const char append value "섗"
-data modify storage hangul:const char append value "섘"
-data modify storage hangul:const char append value "섙"
-data modify storage hangul:const char append value "섚"
-data modify storage hangul:const char append value "섛"
-data modify storage hangul:const char append value "서"
-data modify storage hangul:const char append value "석"
-data modify storage hangul:const char append value "섞"
-data modify storage hangul:const char append value "섟"
-data modify storage hangul:const char append value "선"
-data modify storage hangul:const char append value "섡"
-data modify storage hangul:const char append value "섢"
-data modify storage hangul:const char append value "섣"
-data modify storage hangul:const char append value "설"
-data modify storage hangul:const char append value "섥"
-data modify storage hangul:const char append value "섦"
-data modify storage hangul:const char append value "섧"
-data modify storage hangul:const char append value "섨"
-data modify storage hangul:const char append value "섩"
-data modify storage hangul:const char append value "섪"
-data modify storage hangul:const char append value "섫"
-data modify storage hangul:const char append value "섬"
-data modify storage hangul:const char append value "섭"
-data modify storage hangul:const char append value "섮"
-data modify storage hangul:const char append value "섯"
-data modify storage hangul:const char append value "섰"
-data modify storage hangul:const char append value "성"
-data modify storage hangul:const char append value "섲"
-data modify storage hangul:const char append value "섳"
-data modify storage hangul:const char append value "섴"
-data modify storage hangul:const char append value "섵"
-data modify storage hangul:const char append value "섶"
-data modify storage hangul:const char append value "섷"
-data modify storage hangul:const char append value "세"
-data modify storage hangul:const char append value "섹"
-data modify storage hangul:const char append value "섺"
-data modify storage hangul:const char append value "섻"
-data modify storage hangul:const char append value "센"
-data modify storage hangul:const char append value "섽"
-data modify storage hangul:const char append value "섾"
-data modify storage hangul:const char append value "섿"
-data modify storage hangul:const char append value "셀"
-data modify storage hangul:const char append value "셁"
-data modify storage hangul:const char append value "셂"
-data modify storage hangul:const char append value "셃"
-data modify storage hangul:const char append value "셄"
-data modify storage hangul:const char append value "셅"
-data modify storage hangul:const char append value "셆"
-data modify storage hangul:const char append value "셇"
-data modify storage hangul:const char append value "셈"
-data modify storage hangul:const char append value "셉"
-data modify storage hangul:const char append value "셊"
-data modify storage hangul:const char append value "셋"
-data modify storage hangul:const char append value "셌"
-data modify storage hangul:const char append value "셍"
-data modify storage hangul:const char append value "셎"
-data modify storage hangul:const char append value "셏"
-data modify storage hangul:const char append value "셐"
-data modify storage hangul:const char append value "셑"
-data modify storage hangul:const char append value "셒"
-data modify storage hangul:const char append value "셓"
-data modify storage hangul:const char append value "셔"
-data modify storage hangul:const char append value "셕"
-data modify storage hangul:const char append value "셖"
-data modify storage hangul:const char append value "셗"
-data modify storage hangul:const char append value "션"
-data modify storage hangul:const char append value "셙"
-data modify storage hangul:const char append value "셚"
-data modify storage hangul:const char append value "셛"
-data modify storage hangul:const char append value "셜"
-data modify storage hangul:const char append value "셝"
-data modify storage hangul:const char append value "셞"
-data modify storage hangul:const char append value "셟"
-data modify storage hangul:const char append value "셠"
-data modify storage hangul:const char append value "셡"
-data modify storage hangul:const char append value "셢"
-data modify storage hangul:const char append value "셣"
-data modify storage hangul:const char append value "셤"
-data modify storage hangul:const char append value "셥"
-data modify storage hangul:const char append value "셦"
-data modify storage hangul:const char append value "셧"
-data modify storage hangul:const char append value "셨"
-data modify storage hangul:const char append value "셩"
-data modify storage hangul:const char append value "셪"
-data modify storage hangul:const char append value "셫"
-data modify storage hangul:const char append value "셬"
-data modify storage hangul:const char append value "셭"
-data modify storage hangul:const char append value "셮"
-data modify storage hangul:const char append value "셯"
-data modify storage hangul:const char append value "셰"
-data modify storage hangul:const char append value "셱"
-data modify storage hangul:const char append value "셲"
-data modify storage hangul:const char append value "셳"
-data modify storage hangul:const char append value "셴"
-data modify storage hangul:const char append value "셵"
-data modify storage hangul:const char append value "셶"
-data modify storage hangul:const char append value "셷"
-data modify storage hangul:const char append value "셸"
-data modify storage hangul:const char append value "셹"
-data modify storage hangul:const char append value "셺"
-data modify storage hangul:const char append value "셻"
-data modify storage hangul:const char append value "셼"
-data modify storage hangul:const char append value "셽"
-data modify storage hangul:const char append value "셾"
-data modify storage hangul:const char append value "셿"
-data modify storage hangul:const char append value "솀"
-data modify storage hangul:const char append value "솁"
-data modify storage hangul:const char append value "솂"
-data modify storage hangul:const char append value "솃"
-data modify storage hangul:const char append value "솄"
-data modify storage hangul:const char append value "솅"
-data modify storage hangul:const char append value "솆"
-data modify storage hangul:const char append value "솇"
-data modify storage hangul:const char append value "솈"
-data modify storage hangul:const char append value "솉"
-data modify storage hangul:const char append value "솊"
-data modify storage hangul:const char append value "솋"
-data modify storage hangul:const char append value "소"
-data modify storage hangul:const char append value "속"
-data modify storage hangul:const char append value "솎"
-data modify storage hangul:const char append value "솏"
-data modify storage hangul:const char append value "손"
-data modify storage hangul:const char append value "솑"
-data modify storage hangul:const char append value "솒"
-data modify storage hangul:const char append value "솓"
-data modify storage hangul:const char append value "솔"
-data modify storage hangul:const char append value "솕"
-data modify storage hangul:const char append value "솖"
-data modify storage hangul:const char append value "솗"
-data modify storage hangul:const char append value "솘"
-data modify storage hangul:const char append value "솙"
-data modify storage hangul:const char append value "솚"
-data modify storage hangul:const char append value "솛"
-data modify storage hangul:const char append value "솜"
-data modify storage hangul:const char append value "솝"
-data modify storage hangul:const char append value "솞"
-data modify storage hangul:const char append value "솟"
-data modify storage hangul:const char append value "솠"
-data modify storage hangul:const char append value "송"
-data modify storage hangul:const char append value "솢"
-data modify storage hangul:const char append value "솣"
-data modify storage hangul:const char append value "솤"
-data modify storage hangul:const char append value "솥"
-data modify storage hangul:const char append value "솦"
-data modify storage hangul:const char append value "솧"
-data modify storage hangul:const char append value "솨"
-data modify storage hangul:const char append value "솩"
-data modify storage hangul:const char append value "솪"
-data modify storage hangul:const char append value "솫"
-data modify storage hangul:const char append value "솬"
-data modify storage hangul:const char append value "솭"
-data modify storage hangul:const char append value "솮"
-data modify storage hangul:const char append value "솯"
-data modify storage hangul:const char append value "솰"
-data modify storage hangul:const char append value "솱"
-data modify storage hangul:const char append value "솲"
-data modify storage hangul:const char append value "솳"
-data modify storage hangul:const char append value "솴"
-data modify storage hangul:const char append value "솵"
-data modify storage hangul:const char append value "솶"
-data modify storage hangul:const char append value "솷"
-data modify storage hangul:const char append value "솸"
-data modify storage hangul:const char append value "솹"
-data modify storage hangul:const char append value "솺"
-data modify storage hangul:const char append value "솻"
-data modify storage hangul:const char append value "솼"
-data modify storage hangul:const char append value "솽"
-data modify storage hangul:const char append value "솾"
-data modify storage hangul:const char append value "솿"
-data modify storage hangul:const char append value "쇀"
-data modify storage hangul:const char append value "쇁"
-data modify storage hangul:const char append value "쇂"
-data modify storage hangul:const char append value "쇃"
-data modify storage hangul:const char append value "쇄"
-data modify storage hangul:const char append value "쇅"
-data modify storage hangul:const char append value "쇆"
-data modify storage hangul:const char append value "쇇"
-data modify storage hangul:const char append value "쇈"
-data modify storage hangul:const char append value "쇉"
-data modify storage hangul:const char append value "쇊"
-data modify storage hangul:const char append value "쇋"
-data modify storage hangul:const char append value "쇌"
-data modify storage hangul:const char append value "쇍"
-data modify storage hangul:const char append value "쇎"
-data modify storage hangul:const char append value "쇏"
-data modify storage hangul:const char append value "쇐"
-data modify storage hangul:const char append value "쇑"
-data modify storage hangul:const char append value "쇒"
-data modify storage hangul:const char append value "쇓"
-data modify storage hangul:const char append value "쇔"
-data modify storage hangul:const char append value "쇕"
-data modify storage hangul:const char append value "쇖"
-data modify storage hangul:const char append value "쇗"
-data modify storage hangul:const char append value "쇘"
-data modify storage hangul:const char append value "쇙"
-data modify storage hangul:const char append value "쇚"
-data modify storage hangul:const char append value "쇛"
-data modify storage hangul:const char append value "쇜"
-data modify storage hangul:const char append value "쇝"
-data modify storage hangul:const char append value "쇞"
-data modify storage hangul:const char append value "쇟"
-data modify storage hangul:const char append value "쇠"
-data modify storage hangul:const char append value "쇡"
-data modify storage hangul:const char append value "쇢"
-data modify storage hangul:const char append value "쇣"
-data modify storage hangul:const char append value "쇤"
-data modify storage hangul:const char append value "쇥"
-data modify storage hangul:const char append value "쇦"
-data modify storage hangul:const char append value "쇧"
-data modify storage hangul:const char append value "쇨"
-data modify storage hangul:const char append value "쇩"
-data modify storage hangul:const char append value "쇪"
-data modify storage hangul:const char append value "쇫"
-data modify storage hangul:const char append value "쇬"
-data modify storage hangul:const char append value "쇭"
-data modify storage hangul:const char append value "쇮"
-data modify storage hangul:const char append value "쇯"
-data modify storage hangul:const char append value "쇰"
-data modify storage hangul:const char append value "쇱"
-data modify storage hangul:const char append value "쇲"
-data modify storage hangul:const char append value "쇳"
-data modify storage hangul:const char append value "쇴"
-data modify storage hangul:const char append value "쇵"
-data modify storage hangul:const char append value "쇶"
-data modify storage hangul:const char append value "쇷"
-data modify storage hangul:const char append value "쇸"
-data modify storage hangul:const char append value "쇹"
-data modify storage hangul:const char append value "쇺"
-data modify storage hangul:const char append value "쇻"
-data modify storage hangul:const char append value "쇼"
-data modify storage hangul:const char append value "쇽"
-data modify storage hangul:const char append value "쇾"
-data modify storage hangul:const char append value "쇿"
-data modify storage hangul:const char append value "숀"
-data modify storage hangul:const char append value "숁"
-data modify storage hangul:const char append value "숂"
-data modify storage hangul:const char append value "숃"
-data modify storage hangul:const char append value "숄"
-data modify storage hangul:const char append value "숅"
-data modify storage hangul:const char append value "숆"
-data modify storage hangul:const char append value "숇"
-data modify storage hangul:const char append value "숈"
-data modify storage hangul:const char append value "숉"
-data modify storage hangul:const char append value "숊"
-data modify storage hangul:const char append value "숋"
-data modify storage hangul:const char append value "숌"
-data modify storage hangul:const char append value "숍"
-data modify storage hangul:const char append value "숎"
-data modify storage hangul:const char append value "숏"
-data modify storage hangul:const char append value "숐"
-data modify storage hangul:const char append value "숑"
-data modify storage hangul:const char append value "숒"
-data modify storage hangul:const char append value "숓"
-data modify storage hangul:const char append value "숔"
-data modify storage hangul:const char append value "숕"
-data modify storage hangul:const char append value "숖"
-data modify storage hangul:const char append value "숗"
-data modify storage hangul:const char append value "수"
-data modify storage hangul:const char append value "숙"
-data modify storage hangul:const char append value "숚"
-data modify storage hangul:const char append value "숛"
-data modify storage hangul:const char append value "순"
-data modify storage hangul:const char append value "숝"
-data modify storage hangul:const char append value "숞"
-data modify storage hangul:const char append value "숟"
-data modify storage hangul:const char append value "술"
-data modify storage hangul:const char append value "숡"
-data modify storage hangul:const char append value "숢"
-data modify storage hangul:const char append value "숣"
-data modify storage hangul:const char append value "숤"
-data modify storage hangul:const char append value "숥"
-data modify storage hangul:const char append value "숦"
-data modify storage hangul:const char append value "숧"
-data modify storage hangul:const char append value "숨"
-data modify storage hangul:const char append value "숩"
-data modify storage hangul:const char append value "숪"
-data modify storage hangul:const char append value "숫"
-data modify storage hangul:const char append value "숬"
-data modify storage hangul:const char append value "숭"
-data modify storage hangul:const char append value "숮"
-data modify storage hangul:const char append value "숯"
-data modify storage hangul:const char append value "숰"
-data modify storage hangul:const char append value "숱"
-data modify storage hangul:const char append value "숲"
-data modify storage hangul:const char append value "숳"
-data modify storage hangul:const char append value "숴"
-data modify storage hangul:const char append value "숵"
-data modify storage hangul:const char append value "숶"
-data modify storage hangul:const char append value "숷"
-data modify storage hangul:const char append value "숸"
-data modify storage hangul:const char append value "숹"
-data modify storage hangul:const char append value "숺"
-data modify storage hangul:const char append value "숻"
-data modify storage hangul:const char append value "숼"
-data modify storage hangul:const char append value "숽"
-data modify storage hangul:const char append value "숾"
-data modify storage hangul:const char append value "숿"
-data modify storage hangul:const char append value "쉀"
-data modify storage hangul:const char append value "쉁"
-data modify storage hangul:const char append value "쉂"
-data modify storage hangul:const char append value "쉃"
-data modify storage hangul:const char append value "쉄"
-data modify storage hangul:const char append value "쉅"
-data modify storage hangul:const char append value "쉆"
-data modify storage hangul:const char append value "쉇"
-data modify storage hangul:const char append value "쉈"
-data modify storage hangul:const char append value "쉉"
-data modify storage hangul:const char append value "쉊"
-data modify storage hangul:const char append value "쉋"
-data modify storage hangul:const char append value "쉌"
-data modify storage hangul:const char append value "쉍"
-data modify storage hangul:const char append value "쉎"
-data modify storage hangul:const char append value "쉏"
-data modify storage hangul:const char append value "쉐"
-data modify storage hangul:const char append value "쉑"
-data modify storage hangul:const char append value "쉒"
-data modify storage hangul:const char append value "쉓"
-data modify storage hangul:const char append value "쉔"
-data modify storage hangul:const char append value "쉕"
-data modify storage hangul:const char append value "쉖"
-data modify storage hangul:const char append value "쉗"
-data modify storage hangul:const char append value "쉘"
-data modify storage hangul:const char append value "쉙"
-data modify storage hangul:const char append value "쉚"
-data modify storage hangul:const char append value "쉛"
-data modify storage hangul:const char append value "쉜"
-data modify storage hangul:const char append value "쉝"
-data modify storage hangul:const char append value "쉞"
-data modify storage hangul:const char append value "쉟"
-data modify storage hangul:const char append value "쉠"
-data modify storage hangul:const char append value "쉡"
-data modify storage hangul:const char append value "쉢"
-data modify storage hangul:const char append value "쉣"
-data modify storage hangul:const char append value "쉤"
-data modify storage hangul:const char append value "쉥"
-data modify storage hangul:const char append value "쉦"
-data modify storage hangul:const char append value "쉧"
-data modify storage hangul:const char append value "쉨"
-data modify storage hangul:const char append value "쉩"
-data modify storage hangul:const char append value "쉪"
-data modify storage hangul:const char append value "쉫"
-data modify storage hangul:const char append value "쉬"
-data modify storage hangul:const char append value "쉭"
-data modify storage hangul:const char append value "쉮"
-data modify storage hangul:const char append value "쉯"
-data modify storage hangul:const char append value "쉰"
-data modify storage hangul:const char append value "쉱"
-data modify storage hangul:const char append value "쉲"
-data modify storage hangul:const char append value "쉳"
-data modify storage hangul:const char append value "쉴"
-data modify storage hangul:const char append value "쉵"
-data modify storage hangul:const char append value "쉶"
-data modify storage hangul:const char append value "쉷"
-data modify storage hangul:const char append value "쉸"
-data modify storage hangul:const char append value "쉹"
-data modify storage hangul:const char append value "쉺"
-data modify storage hangul:const char append value "쉻"
-data modify storage hangul:const char append value "쉼"
-data modify storage hangul:const char append value "쉽"
-data modify storage hangul:const char append value "쉾"
-data modify storage hangul:const char append value "쉿"
-data modify storage hangul:const char append value "슀"
-data modify storage hangul:const char append value "슁"
-data modify storage hangul:const char append value "슂"
-data modify storage hangul:const char append value "슃"
-data modify storage hangul:const char append value "슄"
-data modify storage hangul:const char append value "슅"
-data modify storage hangul:const char append value "슆"
-data modify storage hangul:const char append value "슇"
-data modify storage hangul:const char append value "슈"
-data modify storage hangul:const char append value "슉"
-data modify storage hangul:const char append value "슊"
-data modify storage hangul:const char append value "슋"
-data modify storage hangul:const char append value "슌"
-data modify storage hangul:const char append value "슍"
-data modify storage hangul:const char append value "슎"
-data modify storage hangul:const char append value "슏"
-data modify storage hangul:const char append value "슐"
-data modify storage hangul:const char append value "슑"
-data modify storage hangul:const char append value "슒"
-data modify storage hangul:const char append value "슓"
-data modify storage hangul:const char append value "슔"
-data modify storage hangul:const char append value "슕"
-data modify storage hangul:const char append value "슖"
-data modify storage hangul:const char append value "슗"
-data modify storage hangul:const char append value "슘"
-data modify storage hangul:const char append value "슙"
-data modify storage hangul:const char append value "슚"
-data modify storage hangul:const char append value "슛"
-data modify storage hangul:const char append value "슜"
-data modify storage hangul:const char append value "슝"
-data modify storage hangul:const char append value "슞"
-data modify storage hangul:const char append value "슟"
-data modify storage hangul:const char append value "슠"
-data modify storage hangul:const char append value "슡"
-data modify storage hangul:const char append value "슢"
-data modify storage hangul:const char append value "슣"
-data modify storage hangul:const char append value "스"
-data modify storage hangul:const char append value "슥"
-data modify storage hangul:const char append value "슦"
-data modify storage hangul:const char append value "슧"
-data modify storage hangul:const char append value "슨"
-data modify storage hangul:const char append value "슩"
-data modify storage hangul:const char append value "슪"
-data modify storage hangul:const char append value "슫"
-data modify storage hangul:const char append value "슬"
-data modify storage hangul:const char append value "슭"
-data modify storage hangul:const char append value "슮"
-data modify storage hangul:const char append value "슯"
-data modify storage hangul:const char append value "슰"
-data modify storage hangul:const char append value "슱"
-data modify storage hangul:const char append value "슲"
-data modify storage hangul:const char append value "슳"
-data modify storage hangul:const char append value "슴"
-data modify storage hangul:const char append value "습"
-data modify storage hangul:const char append value "슶"
-data modify storage hangul:const char append value "슷"
-data modify storage hangul:const char append value "슸"
-data modify storage hangul:const char append value "승"
-data modify storage hangul:const char append value "슺"
-data modify storage hangul:const char append value "슻"
-data modify storage hangul:const char append value "슼"
-data modify storage hangul:const char append value "슽"
-data modify storage hangul:const char append value "슾"
-data modify storage hangul:const char append value "슿"
-data modify storage hangul:const char append value "싀"
-data modify storage hangul:const char append value "싁"
-data modify storage hangul:const char append value "싂"
-data modify storage hangul:const char append value "싃"
-data modify storage hangul:const char append value "싄"
-data modify storage hangul:const char append value "싅"
-data modify storage hangul:const char append value "싆"
-data modify storage hangul:const char append value "싇"
-data modify storage hangul:const char append value "싈"
-data modify storage hangul:const char append value "싉"
-data modify storage hangul:const char append value "싊"
-data modify storage hangul:const char append value "싋"
-data modify storage hangul:const char append value "싌"
-data modify storage hangul:const char append value "싍"
-data modify storage hangul:const char append value "싎"
-data modify storage hangul:const char append value "싏"
-data modify storage hangul:const char append value "싐"
-data modify storage hangul:const char append value "싑"
-data modify storage hangul:const char append value "싒"
-data modify storage hangul:const char append value "싓"
-data modify storage hangul:const char append value "싔"
-data modify storage hangul:const char append value "싕"
-data modify storage hangul:const char append value "싖"
-data modify storage hangul:const char append value "싗"
-data modify storage hangul:const char append value "싘"
-data modify storage hangul:const char append value "싙"
-data modify storage hangul:const char append value "싚"
-data modify storage hangul:const char append value "싛"
-data modify storage hangul:const char append value "시"
-data modify storage hangul:const char append value "식"
-data modify storage hangul:const char append value "싞"
-data modify storage hangul:const char append value "싟"
-data modify storage hangul:const char append value "신"
-data modify storage hangul:const char append value "싡"
-data modify storage hangul:const char append value "싢"
-data modify storage hangul:const char append value "싣"
-data modify storage hangul:const char append value "실"
-data modify storage hangul:const char append value "싥"
-data modify storage hangul:const char append value "싦"
-data modify storage hangul:const char append value "싧"
-data modify storage hangul:const char append value "싨"
-data modify storage hangul:const char append value "싩"
-data modify storage hangul:const char append value "싪"
-data modify storage hangul:const char append value "싫"
-data modify storage hangul:const char append value "심"
-data modify storage hangul:const char append value "십"
-data modify storage hangul:const char append value "싮"
-data modify storage hangul:const char append value "싯"
-data modify storage hangul:const char append value "싰"
-data modify storage hangul:const char append value "싱"
-data modify storage hangul:const char append value "싲"
-data modify storage hangul:const char append value "싳"
-data modify storage hangul:const char append value "싴"
-data modify storage hangul:const char append value "싵"
-data modify storage hangul:const char append value "싶"
-data modify storage hangul:const char append value "싷"
-data modify storage hangul:const char append value "싸"
-data modify storage hangul:const char append value "싹"
-data modify storage hangul:const char append value "싺"
-data modify storage hangul:const char append value "싻"
-data modify storage hangul:const char append value "싼"
-data modify storage hangul:const char append value "싽"
-data modify storage hangul:const char append value "싾"
-data modify storage hangul:const char append value "싿"
-data modify storage hangul:const char append value "쌀"
-data modify storage hangul:const char append value "쌁"
-data modify storage hangul:const char append value "쌂"
-data modify storage hangul:const char append value "쌃"
-data modify storage hangul:const char append value "쌄"
-data modify storage hangul:const char append value "쌅"
-data modify storage hangul:const char append value "쌆"
-data modify storage hangul:const char append value "쌇"
-data modify storage hangul:const char append value "쌈"
-data modify storage hangul:const char append value "쌉"
-data modify storage hangul:const char append value "쌊"
-data modify storage hangul:const char append value "쌋"
-data modify storage hangul:const char append value "쌌"
-data modify storage hangul:const char append value "쌍"
-data modify storage hangul:const char append value "쌎"
-data modify storage hangul:const char append value "쌏"
-data modify storage hangul:const char append value "쌐"
-data modify storage hangul:const char append value "쌑"
-data modify storage hangul:const char append value "쌒"
-data modify storage hangul:const char append value "쌓"
-data modify storage hangul:const char append value "쌔"
-data modify storage hangul:const char append value "쌕"
-data modify storage hangul:const char append value "쌖"
-data modify storage hangul:const char append value "쌗"
-data modify storage hangul:const char append value "쌘"
-data modify storage hangul:const char append value "쌙"
-data modify storage hangul:const char append value "쌚"
-data modify storage hangul:const char append value "쌛"
-data modify storage hangul:const char append value "쌜"
-data modify storage hangul:const char append value "쌝"
-data modify storage hangul:const char append value "쌞"
-data modify storage hangul:const char append value "쌟"
-data modify storage hangul:const char append value "쌠"
-data modify storage hangul:const char append value "쌡"
-data modify storage hangul:const char append value "쌢"
-data modify storage hangul:const char append value "쌣"
-data modify storage hangul:const char append value "쌤"
-data modify storage hangul:const char append value "쌥"
-data modify storage hangul:const char append value "쌦"
-data modify storage hangul:const char append value "쌧"
-data modify storage hangul:const char append value "쌨"
-data modify storage hangul:const char append value "쌩"
-data modify storage hangul:const char append value "쌪"
-data modify storage hangul:const char append value "쌫"
-data modify storage hangul:const char append value "쌬"
-data modify storage hangul:const char append value "쌭"
-data modify storage hangul:const char append value "쌮"
-data modify storage hangul:const char append value "쌯"
-data modify storage hangul:const char append value "쌰"
-data modify storage hangul:const char append value "쌱"
-data modify storage hangul:const char append value "쌲"
-data modify storage hangul:const char append value "쌳"
-data modify storage hangul:const char append value "쌴"
-data modify storage hangul:const char append value "쌵"
-data modify storage hangul:const char append value "쌶"
-data modify storage hangul:const char append value "쌷"
-data modify storage hangul:const char append value "쌸"
-data modify storage hangul:const char append value "쌹"
-data modify storage hangul:const char append value "쌺"
-data modify storage hangul:const char append value "쌻"
-data modify storage hangul:const char append value "쌼"
-data modify storage hangul:const char append value "쌽"
-data modify storage hangul:const char append value "쌾"
-data modify storage hangul:const char append value "쌿"
-data modify storage hangul:const char append value "썀"
-data modify storage hangul:const char append value "썁"
-data modify storage hangul:const char append value "썂"
-data modify storage hangul:const char append value "썃"
-data modify storage hangul:const char append value "썄"
-data modify storage hangul:const char append value "썅"
-data modify storage hangul:const char append value "썆"
-data modify storage hangul:const char append value "썇"
-data modify storage hangul:const char append value "썈"
-data modify storage hangul:const char append value "썉"
-data modify storage hangul:const char append value "썊"
-data modify storage hangul:const char append value "썋"
-data modify storage hangul:const char append value "썌"
-data modify storage hangul:const char append value "썍"
-data modify storage hangul:const char append value "썎"
-data modify storage hangul:const char append value "썏"
-data modify storage hangul:const char append value "썐"
-data modify storage hangul:const char append value "썑"
-data modify storage hangul:const char append value "썒"
-data modify storage hangul:const char append value "썓"
-data modify storage hangul:const char append value "썔"
-data modify storage hangul:const char append value "썕"
-data modify storage hangul:const char append value "썖"
-data modify storage hangul:const char append value "썗"
-data modify storage hangul:const char append value "썘"
-data modify storage hangul:const char append value "썙"
-data modify storage hangul:const char append value "썚"
-data modify storage hangul:const char append value "썛"
-data modify storage hangul:const char append value "썜"
-data modify storage hangul:const char append value "썝"
-data modify storage hangul:const char append value "썞"
-data modify storage hangul:const char append value "썟"
-data modify storage hangul:const char append value "썠"
-data modify storage hangul:const char append value "썡"
-data modify storage hangul:const char append value "썢"
-data modify storage hangul:const char append value "썣"
-data modify storage hangul:const char append value "썤"
-data modify storage hangul:const char append value "썥"
-data modify storage hangul:const char append value "썦"
-data modify storage hangul:const char append value "썧"
-data modify storage hangul:const char append value "써"
-data modify storage hangul:const char append value "썩"
-data modify storage hangul:const char append value "썪"
-data modify storage hangul:const char append value "썫"
-data modify storage hangul:const char append value "썬"
-data modify storage hangul:const char append value "썭"
-data modify storage hangul:const char append value "썮"
-data modify storage hangul:const char append value "썯"
-data modify storage hangul:const char append value "썰"
-data modify storage hangul:const char append value "썱"
-data modify storage hangul:const char append value "썲"
-data modify storage hangul:const char append value "썳"
-data modify storage hangul:const char append value "썴"
-data modify storage hangul:const char append value "썵"
-data modify storage hangul:const char append value "썶"
-data modify storage hangul:const char append value "썷"
-data modify storage hangul:const char append value "썸"
-data modify storage hangul:const char append value "썹"
-data modify storage hangul:const char append value "썺"
-data modify storage hangul:const char append value "썻"
-data modify storage hangul:const char append value "썼"
-data modify storage hangul:const char append value "썽"
-data modify storage hangul:const char append value "썾"
-data modify storage hangul:const char append value "썿"
-data modify storage hangul:const char append value "쎀"
-data modify storage hangul:const char append value "쎁"
-data modify storage hangul:const char append value "쎂"
-data modify storage hangul:const char append value "쎃"
-data modify storage hangul:const char append value "쎄"
-data modify storage hangul:const char append value "쎅"
-data modify storage hangul:const char append value "쎆"
-data modify storage hangul:const char append value "쎇"
-data modify storage hangul:const char append value "쎈"
-data modify storage hangul:const char append value "쎉"
-data modify storage hangul:const char append value "쎊"
-data modify storage hangul:const char append value "쎋"
-data modify storage hangul:const char append value "쎌"
-data modify storage hangul:const char append value "쎍"
-data modify storage hangul:const char append value "쎎"
-data modify storage hangul:const char append value "쎏"
-data modify storage hangul:const char append value "쎐"
-data modify storage hangul:const char append value "쎑"
-data modify storage hangul:const char append value "쎒"
-data modify storage hangul:const char append value "쎓"
-data modify storage hangul:const char append value "쎔"
-data modify storage hangul:const char append value "쎕"
-data modify storage hangul:const char append value "쎖"
-data modify storage hangul:const char append value "쎗"
-data modify storage hangul:const char append value "쎘"
-data modify storage hangul:const char append value "쎙"
-data modify storage hangul:const char append value "쎚"
-data modify storage hangul:const char append value "쎛"
-data modify storage hangul:const char append value "쎜"
-data modify storage hangul:const char append value "쎝"
-data modify storage hangul:const char append value "쎞"
-data modify storage hangul:const char append value "쎟"
-data modify storage hangul:const char append value "쎠"
-data modify storage hangul:const char append value "쎡"
-data modify storage hangul:const char append value "쎢"
-data modify storage hangul:const char append value "쎣"
-data modify storage hangul:const char append value "쎤"
-data modify storage hangul:const char append value "쎥"
-data modify storage hangul:const char append value "쎦"
-data modify storage hangul:const char append value "쎧"
-data modify storage hangul:const char append value "쎨"
-data modify storage hangul:const char append value "쎩"
-data modify storage hangul:const char append value "쎪"
-data modify storage hangul:const char append value "쎫"
-data modify storage hangul:const char append value "쎬"
-data modify storage hangul:const char append value "쎭"
-data modify storage hangul:const char append value "쎮"
-data modify storage hangul:const char append value "쎯"
-data modify storage hangul:const char append value "쎰"
-data modify storage hangul:const char append value "쎱"
-data modify storage hangul:const char append value "쎲"
-data modify storage hangul:const char append value "쎳"
-data modify storage hangul:const char append value "쎴"
-data modify storage hangul:const char append value "쎵"
-data modify storage hangul:const char append value "쎶"
-data modify storage hangul:const char append value "쎷"
-data modify storage hangul:const char append value "쎸"
-data modify storage hangul:const char append value "쎹"
-data modify storage hangul:const char append value "쎺"
-data modify storage hangul:const char append value "쎻"
-data modify storage hangul:const char append value "쎼"
-data modify storage hangul:const char append value "쎽"
-data modify storage hangul:const char append value "쎾"
-data modify storage hangul:const char append value "쎿"
-data modify storage hangul:const char append value "쏀"
-data modify storage hangul:const char append value "쏁"
-data modify storage hangul:const char append value "쏂"
-data modify storage hangul:const char append value "쏃"
-data modify storage hangul:const char append value "쏄"
-data modify storage hangul:const char append value "쏅"
-data modify storage hangul:const char append value "쏆"
-data modify storage hangul:const char append value "쏇"
-data modify storage hangul:const char append value "쏈"
-data modify storage hangul:const char append value "쏉"
-data modify storage hangul:const char append value "쏊"
-data modify storage hangul:const char append value "쏋"
-data modify storage hangul:const char append value "쏌"
-data modify storage hangul:const char append value "쏍"
-data modify storage hangul:const char append value "쏎"
-data modify storage hangul:const char append value "쏏"
-data modify storage hangul:const char append value "쏐"
-data modify storage hangul:const char append value "쏑"
-data modify storage hangul:const char append value "쏒"
-data modify storage hangul:const char append value "쏓"
-data modify storage hangul:const char append value "쏔"
-data modify storage hangul:const char append value "쏕"
-data modify storage hangul:const char append value "쏖"
-data modify storage hangul:const char append value "쏗"
-data modify storage hangul:const char append value "쏘"
-data modify storage hangul:const char append value "쏙"
-data modify storage hangul:const char append value "쏚"
-data modify storage hangul:const char append value "쏛"
-data modify storage hangul:const char append value "쏜"
-data modify storage hangul:const char append value "쏝"
-data modify storage hangul:const char append value "쏞"
-data modify storage hangul:const char append value "쏟"
-data modify storage hangul:const char append value "쏠"
-data modify storage hangul:const char append value "쏡"
-data modify storage hangul:const char append value "쏢"
-data modify storage hangul:const char append value "쏣"
-data modify storage hangul:const char append value "쏤"
-data modify storage hangul:const char append value "쏥"
-data modify storage hangul:const char append value "쏦"
-data modify storage hangul:const char append value "쏧"
-data modify storage hangul:const char append value "쏨"
-data modify storage hangul:const char append value "쏩"
-data modify storage hangul:const char append value "쏪"
-data modify storage hangul:const char append value "쏫"
-data modify storage hangul:const char append value "쏬"
-data modify storage hangul:const char append value "쏭"
-data modify storage hangul:const char append value "쏮"
-data modify storage hangul:const char append value "쏯"
-data modify storage hangul:const char append value "쏰"
-data modify storage hangul:const char append value "쏱"
-data modify storage hangul:const char append value "쏲"
-data modify storage hangul:const char append value "쏳"
-data modify storage hangul:const char append value "쏴"
-data modify storage hangul:const char append value "쏵"
-data modify storage hangul:const char append value "쏶"
-data modify storage hangul:const char append value "쏷"
-data modify storage hangul:const char append value "쏸"
-data modify storage hangul:const char append value "쏹"
-data modify storage hangul:const char append value "쏺"
-data modify storage hangul:const char append value "쏻"
-data modify storage hangul:const char append value "쏼"
-data modify storage hangul:const char append value "쏽"
-data modify storage hangul:const char append value "쏾"
-data modify storage hangul:const char append value "쏿"
-data modify storage hangul:const char append value "쐀"
-data modify storage hangul:const char append value "쐁"
-data modify storage hangul:const char append value "쐂"
-data modify storage hangul:const char append value "쐃"
-data modify storage hangul:const char append value "쐄"
-data modify storage hangul:const char append value "쐅"
-data modify storage hangul:const char append value "쐆"
-data modify storage hangul:const char append value "쐇"
-data modify storage hangul:const char append value "쐈"
-data modify storage hangul:const char append value "쐉"
-data modify storage hangul:const char append value "쐊"
-data modify storage hangul:const char append value "쐋"
-data modify storage hangul:const char append value "쐌"
-data modify storage hangul:const char append value "쐍"
-data modify storage hangul:const char append value "쐎"
-data modify storage hangul:const char append value "쐏"
-data modify storage hangul:const char append value "쐐"
-data modify storage hangul:const char append value "쐑"
-data modify storage hangul:const char append value "쐒"
-data modify storage hangul:const char append value "쐓"
-data modify storage hangul:const char append value "쐔"
-data modify storage hangul:const char append value "쐕"
-data modify storage hangul:const char append value "쐖"
-data modify storage hangul:const char append value "쐗"
-data modify storage hangul:const char append value "쐘"
-data modify storage hangul:const char append value "쐙"
-data modify storage hangul:const char append value "쐚"
-data modify storage hangul:const char append value "쐛"
-data modify storage hangul:const char append value "쐜"
-data modify storage hangul:const char append value "쐝"
-data modify storage hangul:const char append value "쐞"
-data modify storage hangul:const char append value "쐟"
-data modify storage hangul:const char append value "쐠"
-data modify storage hangul:const char append value "쐡"
-data modify storage hangul:const char append value "쐢"
-data modify storage hangul:const char append value "쐣"
-data modify storage hangul:const char append value "쐤"
-data modify storage hangul:const char append value "쐥"
-data modify storage hangul:const char append value "쐦"
-data modify storage hangul:const char append value "쐧"
-data modify storage hangul:const char append value "쐨"
-data modify storage hangul:const char append value "쐩"
-data modify storage hangul:const char append value "쐪"
-data modify storage hangul:const char append value "쐫"
-data modify storage hangul:const char append value "쐬"
-data modify storage hangul:const char append value "쐭"
-data modify storage hangul:const char append value "쐮"
-data modify storage hangul:const char append value "쐯"
-data modify storage hangul:const char append value "쐰"
-data modify storage hangul:const char append value "쐱"
-data modify storage hangul:const char append value "쐲"
-data modify storage hangul:const char append value "쐳"
-data modify storage hangul:const char append value "쐴"
-data modify storage hangul:const char append value "쐵"
-data modify storage hangul:const char append value "쐶"
-data modify storage hangul:const char append value "쐷"
-data modify storage hangul:const char append value "쐸"
-data modify storage hangul:const char append value "쐹"
-data modify storage hangul:const char append value "쐺"
-data modify storage hangul:const char append value "쐻"
-data modify storage hangul:const char append value "쐼"
-data modify storage hangul:const char append value "쐽"
-data modify storage hangul:const char append value "쐾"
-data modify storage hangul:const char append value "쐿"
-data modify storage hangul:const char append value "쑀"
-data modify storage hangul:const char append value "쑁"
-data modify storage hangul:const char append value "쑂"
-data modify storage hangul:const char append value "쑃"
-data modify storage hangul:const char append value "쑄"
-data modify storage hangul:const char append value "쑅"
-data modify storage hangul:const char append value "쑆"
-data modify storage hangul:const char append value "쑇"
-data modify storage hangul:const char append value "쑈"
-data modify storage hangul:const char append value "쑉"
-data modify storage hangul:const char append value "쑊"
-data modify storage hangul:const char append value "쑋"
-data modify storage hangul:const char append value "쑌"
-data modify storage hangul:const char append value "쑍"
-data modify storage hangul:const char append value "쑎"
-data modify storage hangul:const char append value "쑏"
-data modify storage hangul:const char append value "쑐"
-data modify storage hangul:const char append value "쑑"
-data modify storage hangul:const char append value "쑒"
-data modify storage hangul:const char append value "쑓"
-data modify storage hangul:const char append value "쑔"
-data modify storage hangul:const char append value "쑕"
-data modify storage hangul:const char append value "쑖"
-data modify storage hangul:const char append value "쑗"
-data modify storage hangul:const char append value "쑘"
-data modify storage hangul:const char append value "쑙"
-data modify storage hangul:const char append value "쑚"
-data modify storage hangul:const char append value "쑛"
-data modify storage hangul:const char append value "쑜"
-data modify storage hangul:const char append value "쑝"
-data modify storage hangul:const char append value "쑞"
-data modify storage hangul:const char append value "쑟"
-data modify storage hangul:const char append value "쑠"
-data modify storage hangul:const char append value "쑡"
-data modify storage hangul:const char append value "쑢"
-data modify storage hangul:const char append value "쑣"
-data modify storage hangul:const char append value "쑤"
-data modify storage hangul:const char append value "쑥"
-data modify storage hangul:const char append value "쑦"
-data modify storage hangul:const char append value "쑧"
-data modify storage hangul:const char append value "쑨"
-data modify storage hangul:const char append value "쑩"
-data modify storage hangul:const char append value "쑪"
-data modify storage hangul:const char append value "쑫"
-data modify storage hangul:const char append value "쑬"
-data modify storage hangul:const char append value "쑭"
-data modify storage hangul:const char append value "쑮"
-data modify storage hangul:const char append value "쑯"
-data modify storage hangul:const char append value "쑰"
-data modify storage hangul:const char append value "쑱"
-data modify storage hangul:const char append value "쑲"
-data modify storage hangul:const char append value "쑳"
-data modify storage hangul:const char append value "쑴"
-data modify storage hangul:const char append value "쑵"
-data modify storage hangul:const char append value "쑶"
-data modify storage hangul:const char append value "쑷"
-data modify storage hangul:const char append value "쑸"
-data modify storage hangul:const char append value "쑹"
-data modify storage hangul:const char append value "쑺"
-data modify storage hangul:const char append value "쑻"
-data modify storage hangul:const char append value "쑼"
-data modify storage hangul:const char append value "쑽"
-data modify storage hangul:const char append value "쑾"
-data modify storage hangul:const char append value "쑿"
-data modify storage hangul:const char append value "쒀"
-data modify storage hangul:const char append value "쒁"
-data modify storage hangul:const char append value "쒂"
-data modify storage hangul:const char append value "쒃"
-data modify storage hangul:const char append value "쒄"
-data modify storage hangul:const char append value "쒅"
-data modify storage hangul:const char append value "쒆"
-data modify storage hangul:const char append value "쒇"
-data modify storage hangul:const char append value "쒈"
-data modify storage hangul:const char append value "쒉"
-data modify storage hangul:const char append value "쒊"
-data modify storage hangul:const char append value "쒋"
-data modify storage hangul:const char append value "쒌"
-data modify storage hangul:const char append value "쒍"
-data modify storage hangul:const char append value "쒎"
-data modify storage hangul:const char append value "쒏"
-data modify storage hangul:const char append value "쒐"
-data modify storage hangul:const char append value "쒑"
-data modify storage hangul:const char append value "쒒"
-data modify storage hangul:const char append value "쒓"
-data modify storage hangul:const char append value "쒔"
-data modify storage hangul:const char append value "쒕"
-data modify storage hangul:const char append value "쒖"
-data modify storage hangul:const char append value "쒗"
-data modify storage hangul:const char append value "쒘"
-data modify storage hangul:const char append value "쒙"
-data modify storage hangul:const char append value "쒚"
-data modify storage hangul:const char append value "쒛"
-data modify storage hangul:const char append value "쒜"
-data modify storage hangul:const char append value "쒝"
-data modify storage hangul:const char append value "쒞"
-data modify storage hangul:const char append value "쒟"
-data modify storage hangul:const char append value "쒠"
-data modify storage hangul:const char append value "쒡"
-data modify storage hangul:const char append value "쒢"
-data modify storage hangul:const char append value "쒣"
-data modify storage hangul:const char append value "쒤"
-data modify storage hangul:const char append value "쒥"
-data modify storage hangul:const char append value "쒦"
-data modify storage hangul:const char append value "쒧"
-data modify storage hangul:const char append value "쒨"
-data modify storage hangul:const char append value "쒩"
-data modify storage hangul:const char append value "쒪"
-data modify storage hangul:const char append value "쒫"
-data modify storage hangul:const char append value "쒬"
-data modify storage hangul:const char append value "쒭"
-data modify storage hangul:const char append value "쒮"
-data modify storage hangul:const char append value "쒯"
-data modify storage hangul:const char append value "쒰"
-data modify storage hangul:const char append value "쒱"
-data modify storage hangul:const char append value "쒲"
-data modify storage hangul:const char append value "쒳"
-data modify storage hangul:const char append value "쒴"
-data modify storage hangul:const char append value "쒵"
-data modify storage hangul:const char append value "쒶"
-data modify storage hangul:const char append value "쒷"
-data modify storage hangul:const char append value "쒸"
-data modify storage hangul:const char append value "쒹"
-data modify storage hangul:const char append value "쒺"
-data modify storage hangul:const char append value "쒻"
-data modify storage hangul:const char append value "쒼"
-data modify storage hangul:const char append value "쒽"
-data modify storage hangul:const char append value "쒾"
-data modify storage hangul:const char append value "쒿"
-data modify storage hangul:const char append value "쓀"
-data modify storage hangul:const char append value "쓁"
-data modify storage hangul:const char append value "쓂"
-data modify storage hangul:const char append value "쓃"
-data modify storage hangul:const char append value "쓄"
-data modify storage hangul:const char append value "쓅"
-data modify storage hangul:const char append value "쓆"
-data modify storage hangul:const char append value "쓇"
-data modify storage hangul:const char append value "쓈"
-data modify storage hangul:const char append value "쓉"
-data modify storage hangul:const char append value "쓊"
-data modify storage hangul:const char append value "쓋"
-data modify storage hangul:const char append value "쓌"
-data modify storage hangul:const char append value "쓍"
-data modify storage hangul:const char append value "쓎"
-data modify storage hangul:const char append value "쓏"
-data modify storage hangul:const char append value "쓐"
-data modify storage hangul:const char append value "쓑"
-data modify storage hangul:const char append value "쓒"
-data modify storage hangul:const char append value "쓓"
-data modify storage hangul:const char append value "쓔"
-data modify storage hangul:const char append value "쓕"
-data modify storage hangul:const char append value "쓖"
-data modify storage hangul:const char append value "쓗"
-data modify storage hangul:const char append value "쓘"
-data modify storage hangul:const char append value "쓙"
-data modify storage hangul:const char append value "쓚"
-data modify storage hangul:const char append value "쓛"
-data modify storage hangul:const char append value "쓜"
-data modify storage hangul:const char append value "쓝"
-data modify storage hangul:const char append value "쓞"
-data modify storage hangul:const char append value "쓟"
-data modify storage hangul:const char append value "쓠"
-data modify storage hangul:const char append value "쓡"
-data modify storage hangul:const char append value "쓢"
-data modify storage hangul:const char append value "쓣"
-data modify storage hangul:const char append value "쓤"
-data modify storage hangul:const char append value "쓥"
-data modify storage hangul:const char append value "쓦"
-data modify storage hangul:const char append value "쓧"
-data modify storage hangul:const char append value "쓨"
-data modify storage hangul:const char append value "쓩"
-data modify storage hangul:const char append value "쓪"
-data modify storage hangul:const char append value "쓫"
-data modify storage hangul:const char append value "쓬"
-data modify storage hangul:const char append value "쓭"
-data modify storage hangul:const char append value "쓮"
-data modify storage hangul:const char append value "쓯"
-data modify storage hangul:const char append value "쓰"
-data modify storage hangul:const char append value "쓱"
-data modify storage hangul:const char append value "쓲"
-data modify storage hangul:const char append value "쓳"
-data modify storage hangul:const char append value "쓴"
-data modify storage hangul:const char append value "쓵"
-data modify storage hangul:const char append value "쓶"
-data modify storage hangul:const char append value "쓷"
-data modify storage hangul:const char append value "쓸"
-data modify storage hangul:const char append value "쓹"
-data modify storage hangul:const char append value "쓺"
-data modify storage hangul:const char append value "쓻"
-data modify storage hangul:const char append value "쓼"
-data modify storage hangul:const char append value "쓽"
-data modify storage hangul:const char append value "쓾"
-data modify storage hangul:const char append value "쓿"
-data modify storage hangul:const char append value "씀"
-data modify storage hangul:const char append value "씁"
-data modify storage hangul:const char append value "씂"
-data modify storage hangul:const char append value "씃"
-data modify storage hangul:const char append value "씄"
-data modify storage hangul:const char append value "씅"
-data modify storage hangul:const char append value "씆"
-data modify storage hangul:const char append value "씇"
-data modify storage hangul:const char append value "씈"
-data modify storage hangul:const char append value "씉"
-data modify storage hangul:const char append value "씊"
-data modify storage hangul:const char append value "씋"
-data modify storage hangul:const char append value "씌"
-data modify storage hangul:const char append value "씍"
-data modify storage hangul:const char append value "씎"
-data modify storage hangul:const char append value "씏"
-data modify storage hangul:const char append value "씐"
-data modify storage hangul:const char append value "씑"
-data modify storage hangul:const char append value "씒"
-data modify storage hangul:const char append value "씓"
-data modify storage hangul:const char append value "씔"
-data modify storage hangul:const char append value "씕"
-data modify storage hangul:const char append value "씖"
-data modify storage hangul:const char append value "씗"
-data modify storage hangul:const char append value "씘"
-data modify storage hangul:const char append value "씙"
-data modify storage hangul:const char append value "씚"
-data modify storage hangul:const char append value "씛"
-data modify storage hangul:const char append value "씜"
-data modify storage hangul:const char append value "씝"
-data modify storage hangul:const char append value "씞"
-data modify storage hangul:const char append value "씟"
-data modify storage hangul:const char append value "씠"
-data modify storage hangul:const char append value "씡"
-data modify storage hangul:const char append value "씢"
-data modify storage hangul:const char append value "씣"
-data modify storage hangul:const char append value "씤"
-data modify storage hangul:const char append value "씥"
-data modify storage hangul:const char append value "씦"
-data modify storage hangul:const char append value "씧"
-data modify storage hangul:const char append value "씨"
-data modify storage hangul:const char append value "씩"
-data modify storage hangul:const char append value "씪"
-data modify storage hangul:const char append value "씫"
-data modify storage hangul:const char append value "씬"
-data modify storage hangul:const char append value "씭"
-data modify storage hangul:const char append value "씮"
-data modify storage hangul:const char append value "씯"
-data modify storage hangul:const char append value "씰"
-data modify storage hangul:const char append value "씱"
-data modify storage hangul:const char append value "씲"
-data modify storage hangul:const char append value "씳"
-data modify storage hangul:const char append value "씴"
-data modify storage hangul:const char append value "씵"
-data modify storage hangul:const char append value "씶"
-data modify storage hangul:const char append value "씷"
-data modify storage hangul:const char append value "씸"
-data modify storage hangul:const char append value "씹"
-data modify storage hangul:const char append value "씺"
-data modify storage hangul:const char append value "씻"
-data modify storage hangul:const char append value "씼"
-data modify storage hangul:const char append value "씽"
-data modify storage hangul:const char append value "씾"
-data modify storage hangul:const char append value "씿"
-data modify storage hangul:const char append value "앀"
-data modify storage hangul:const char append value "앁"
-data modify storage hangul:const char append value "앂"
-data modify storage hangul:const char append value "앃"
-data modify storage hangul:const char append value "아"
-data modify storage hangul:const char append value "악"
-data modify storage hangul:const char append value "앆"
-data modify storage hangul:const char append value "앇"
-data modify storage hangul:const char append value "안"
-data modify storage hangul:const char append value "앉"
-data modify storage hangul:const char append value "않"
-data modify storage hangul:const char append value "앋"
-data modify storage hangul:const char append value "알"
-data modify storage hangul:const char append value "앍"
-data modify storage hangul:const char append value "앎"
-data modify storage hangul:const char append value "앏"
-data modify storage hangul:const char append value "앐"
-data modify storage hangul:const char append value "앑"
-data modify storage hangul:const char append value "앒"
-data modify storage hangul:const char append value "앓"
-data modify storage hangul:const char append value "암"
-data modify storage hangul:const char append value "압"
-data modify storage hangul:const char append value "앖"
-data modify storage hangul:const char append value "앗"
-data modify storage hangul:const char append value "았"
-data modify storage hangul:const char append value "앙"
-data modify storage hangul:const char append value "앚"
-data modify storage hangul:const char append value "앛"
-data modify storage hangul:const char append value "앜"
-data modify storage hangul:const char append value "앝"
-data modify storage hangul:const char append value "앞"
-data modify storage hangul:const char append value "앟"
-data modify storage hangul:const char append value "애"
-data modify storage hangul:const char append value "액"
-data modify storage hangul:const char append value "앢"
-data modify storage hangul:const char append value "앣"
-data modify storage hangul:const char append value "앤"
-data modify storage hangul:const char append value "앥"
-data modify storage hangul:const char append value "앦"
-data modify storage hangul:const char append value "앧"
-data modify storage hangul:const char append value "앨"
-data modify storage hangul:const char append value "앩"
-data modify storage hangul:const char append value "앪"
-data modify storage hangul:const char append value "앫"
-data modify storage hangul:const char append value "앬"
-data modify storage hangul:const char append value "앭"
-data modify storage hangul:const char append value "앮"
-data modify storage hangul:const char append value "앯"
-data modify storage hangul:const char append value "앰"
-data modify storage hangul:const char append value "앱"
-data modify storage hangul:const char append value "앲"
-data modify storage hangul:const char append value "앳"
-data modify storage hangul:const char append value "앴"
-data modify storage hangul:const char append value "앵"
-data modify storage hangul:const char append value "앶"
-data modify storage hangul:const char append value "앷"
-data modify storage hangul:const char append value "앸"
-data modify storage hangul:const char append value "앹"
-data modify storage hangul:const char append value "앺"
-data modify storage hangul:const char append value "앻"
-data modify storage hangul:const char append value "야"
-data modify storage hangul:const char append value "약"
-data modify storage hangul:const char append value "앾"
-data modify storage hangul:const char append value "앿"
-data modify storage hangul:const char append value "얀"
-data modify storage hangul:const char append value "얁"
-data modify storage hangul:const char append value "얂"
-data modify storage hangul:const char append value "얃"
-data modify storage hangul:const char append value "얄"
-data modify storage hangul:const char append value "얅"
-data modify storage hangul:const char append value "얆"
-data modify storage hangul:const char append value "얇"
-data modify storage hangul:const char append value "얈"
-data modify storage hangul:const char append value "얉"
-data modify storage hangul:const char append value "얊"
-data modify storage hangul:const char append value "얋"
-data modify storage hangul:const char append value "얌"
-data modify storage hangul:const char append value "얍"
-data modify storage hangul:const char append value "얎"
-data modify storage hangul:const char append value "얏"
-data modify storage hangul:const char append value "얐"
-data modify storage hangul:const char append value "양"
-data modify storage hangul:const char append value "얒"
-data modify storage hangul:const char append value "얓"
-data modify storage hangul:const char append value "얔"
-data modify storage hangul:const char append value "얕"
-data modify storage hangul:const char append value "얖"
-data modify storage hangul:const char append value "얗"
-data modify storage hangul:const char append value "얘"
-data modify storage hangul:const char append value "얙"
-data modify storage hangul:const char append value "얚"
-data modify storage hangul:const char append value "얛"
-data modify storage hangul:const char append value "얜"
-data modify storage hangul:const char append value "얝"
-data modify storage hangul:const char append value "얞"
-data modify storage hangul:const char append value "얟"
-data modify storage hangul:const char append value "얠"
-data modify storage hangul:const char append value "얡"
-data modify storage hangul:const char append value "얢"
-data modify storage hangul:const char append value "얣"
-data modify storage hangul:const char append value "얤"
-data modify storage hangul:const char append value "얥"
-data modify storage hangul:const char append value "얦"
-data modify storage hangul:const char append value "얧"
-data modify storage hangul:const char append value "얨"
-data modify storage hangul:const char append value "얩"
-data modify storage hangul:const char append value "얪"
-data modify storage hangul:const char append value "얫"
-data modify storage hangul:const char append value "얬"
-data modify storage hangul:const char append value "얭"
-data modify storage hangul:const char append value "얮"
-data modify storage hangul:const char append value "얯"
-data modify storage hangul:const char append value "얰"
-data modify storage hangul:const char append value "얱"
-data modify storage hangul:const char append value "얲"
-data modify storage hangul:const char append value "얳"
-data modify storage hangul:const char append value "어"
-data modify storage hangul:const char append value "억"
-data modify storage hangul:const char append value "얶"
-data modify storage hangul:const char append value "얷"
-data modify storage hangul:const char append value "언"
-data modify storage hangul:const char append value "얹"
-data modify storage hangul:const char append value "얺"
-data modify storage hangul:const char append value "얻"
-data modify storage hangul:const char append value "얼"
-data modify storage hangul:const char append value "얽"
-data modify storage hangul:const char append value "얾"
-data modify storage hangul:const char append value "얿"
-data modify storage hangul:const char append value "엀"
-data modify storage hangul:const char append value "엁"
-data modify storage hangul:const char append value "엂"
-data modify storage hangul:const char append value "엃"
-data modify storage hangul:const char append value "엄"
-data modify storage hangul:const char append value "업"
-data modify storage hangul:const char append value "없"
-data modify storage hangul:const char append value "엇"
-data modify storage hangul:const char append value "었"
-data modify storage hangul:const char append value "엉"
-data modify storage hangul:const char append value "엊"
-data modify storage hangul:const char append value "엋"
-data modify storage hangul:const char append value "엌"
-data modify storage hangul:const char append value "엍"
-data modify storage hangul:const char append value "엎"
-data modify storage hangul:const char append value "엏"
-data modify storage hangul:const char append value "에"
-data modify storage hangul:const char append value "엑"
-data modify storage hangul:const char append value "엒"
-data modify storage hangul:const char append value "엓"
-data modify storage hangul:const char append value "엔"
-data modify storage hangul:const char append value "엕"
-data modify storage hangul:const char append value "엖"
-data modify storage hangul:const char append value "엗"
-data modify storage hangul:const char append value "엘"
-data modify storage hangul:const char append value "엙"
-data modify storage hangul:const char append value "엚"
-data modify storage hangul:const char append value "엛"
-data modify storage hangul:const char append value "엜"
-data modify storage hangul:const char append value "엝"
-data modify storage hangul:const char append value "엞"
-data modify storage hangul:const char append value "엟"
-data modify storage hangul:const char append value "엠"
-data modify storage hangul:const char append value "엡"
-data modify storage hangul:const char append value "엢"
-data modify storage hangul:const char append value "엣"
-data modify storage hangul:const char append value "엤"
-data modify storage hangul:const char append value "엥"
-data modify storage hangul:const char append value "엦"
-data modify storage hangul:const char append value "엧"
-data modify storage hangul:const char append value "엨"
-data modify storage hangul:const char append value "엩"
-data modify storage hangul:const char append value "엪"
-data modify storage hangul:const char append value "엫"
-data modify storage hangul:const char append value "여"
-data modify storage hangul:const char append value "역"
-data modify storage hangul:const char append value "엮"
-data modify storage hangul:const char append value "엯"
-data modify storage hangul:const char append value "연"
-data modify storage hangul:const char append value "엱"
-data modify storage hangul:const char append value "엲"
-data modify storage hangul:const char append value "엳"
-data modify storage hangul:const char append value "열"
-data modify storage hangul:const char append value "엵"
-data modify storage hangul:const char append value "엶"
-data modify storage hangul:const char append value "엷"
-data modify storage hangul:const char append value "엸"
-data modify storage hangul:const char append value "엹"
-data modify storage hangul:const char append value "엺"
-data modify storage hangul:const char append value "엻"
-data modify storage hangul:const char append value "염"
-data modify storage hangul:const char append value "엽"
-data modify storage hangul:const char append value "엾"
-data modify storage hangul:const char append value "엿"
-data modify storage hangul:const char append value "였"
-data modify storage hangul:const char append value "영"
-data modify storage hangul:const char append value "옂"
-data modify storage hangul:const char append value "옃"
-data modify storage hangul:const char append value "옄"
-data modify storage hangul:const char append value "옅"
-data modify storage hangul:const char append value "옆"
-data modify storage hangul:const char append value "옇"
-data modify storage hangul:const char append value "예"
-data modify storage hangul:const char append value "옉"
-data modify storage hangul:const char append value "옊"
-data modify storage hangul:const char append value "옋"
-data modify storage hangul:const char append value "옌"
-data modify storage hangul:const char append value "옍"
-data modify storage hangul:const char append value "옎"
-data modify storage hangul:const char append value "옏"
-data modify storage hangul:const char append value "옐"
-data modify storage hangul:const char append value "옑"
-data modify storage hangul:const char append value "옒"
-data modify storage hangul:const char append value "옓"
-data modify storage hangul:const char append value "옔"
-data modify storage hangul:const char append value "옕"
-data modify storage hangul:const char append value "옖"
-data modify storage hangul:const char append value "옗"
-data modify storage hangul:const char append value "옘"
-data modify storage hangul:const char append value "옙"
-data modify storage hangul:const char append value "옚"
-data modify storage hangul:const char append value "옛"
-data modify storage hangul:const char append value "옜"
-data modify storage hangul:const char append value "옝"
-data modify storage hangul:const char append value "옞"
-data modify storage hangul:const char append value "옟"
-data modify storage hangul:const char append value "옠"
-data modify storage hangul:const char append value "옡"
-data modify storage hangul:const char append value "옢"
-data modify storage hangul:const char append value "옣"
-data modify storage hangul:const char append value "오"
-data modify storage hangul:const char append value "옥"
-data modify storage hangul:const char append value "옦"
-data modify storage hangul:const char append value "옧"
-data modify storage hangul:const char append value "온"
-data modify storage hangul:const char append value "옩"
-data modify storage hangul:const char append value "옪"
-data modify storage hangul:const char append value "옫"
-data modify storage hangul:const char append value "올"
-data modify storage hangul:const char append value "옭"
-data modify storage hangul:const char append value "옮"
-data modify storage hangul:const char append value "옯"
-data modify storage hangul:const char append value "옰"
-data modify storage hangul:const char append value "옱"
-data modify storage hangul:const char append value "옲"
-data modify storage hangul:const char append value "옳"
-data modify storage hangul:const char append value "옴"
-data modify storage hangul:const char append value "옵"
-data modify storage hangul:const char append value "옶"
-data modify storage hangul:const char append value "옷"
-data modify storage hangul:const char append value "옸"
-data modify storage hangul:const char append value "옹"
-data modify storage hangul:const char append value "옺"
-data modify storage hangul:const char append value "옻"
-data modify storage hangul:const char append value "옼"
-data modify storage hangul:const char append value "옽"
-data modify storage hangul:const char append value "옾"
-data modify storage hangul:const char append value "옿"
-data modify storage hangul:const char append value "와"
-data modify storage hangul:const char append value "왁"
-data modify storage hangul:const char append value "왂"
-data modify storage hangul:const char append value "왃"
-data modify storage hangul:const char append value "완"
-data modify storage hangul:const char append value "왅"
-data modify storage hangul:const char append value "왆"
-data modify storage hangul:const char append value "왇"
-data modify storage hangul:const char append value "왈"
-data modify storage hangul:const char append value "왉"
-data modify storage hangul:const char append value "왊"
-data modify storage hangul:const char append value "왋"
-data modify storage hangul:const char append value "왌"
-data modify storage hangul:const char append value "왍"
-data modify storage hangul:const char append value "왎"
-data modify storage hangul:const char append value "왏"
-data modify storage hangul:const char append value "왐"
-data modify storage hangul:const char append value "왑"
-data modify storage hangul:const char append value "왒"
-data modify storage hangul:const char append value "왓"
-data modify storage hangul:const char append value "왔"
-data modify storage hangul:const char append value "왕"
-data modify storage hangul:const char append value "왖"
-data modify storage hangul:const char append value "왗"
-data modify storage hangul:const char append value "왘"
-data modify storage hangul:const char append value "왙"
-data modify storage hangul:const char append value "왚"
-data modify storage hangul:const char append value "왛"
-data modify storage hangul:const char append value "왜"
-data modify storage hangul:const char append value "왝"
-data modify storage hangul:const char append value "왞"
-data modify storage hangul:const char append value "왟"
-data modify storage hangul:const char append value "왠"
-data modify storage hangul:const char append value "왡"
-data modify storage hangul:const char append value "왢"
-data modify storage hangul:const char append value "왣"
-data modify storage hangul:const char append value "왤"
-data modify storage hangul:const char append value "왥"
-data modify storage hangul:const char append value "왦"
-data modify storage hangul:const char append value "왧"
-data modify storage hangul:const char append value "왨"
-data modify storage hangul:const char append value "왩"
-data modify storage hangul:const char append value "왪"
-data modify storage hangul:const char append value "왫"
-data modify storage hangul:const char append value "왬"
-data modify storage hangul:const char append value "왭"
-data modify storage hangul:const char append value "왮"
-data modify storage hangul:const char append value "왯"
-data modify storage hangul:const char append value "왰"
-data modify storage hangul:const char append value "왱"
-data modify storage hangul:const char append value "왲"
-data modify storage hangul:const char append value "왳"
-data modify storage hangul:const char append value "왴"
-data modify storage hangul:const char append value "왵"
-data modify storage hangul:const char append value "왶"
-data modify storage hangul:const char append value "왷"
-data modify storage hangul:const char append value "외"
-data modify storage hangul:const char append value "왹"
-data modify storage hangul:const char append value "왺"
-data modify storage hangul:const char append value "왻"
-data modify storage hangul:const char append value "왼"
-data modify storage hangul:const char append value "왽"
-data modify storage hangul:const char append value "왾"
-data modify storage hangul:const char append value "왿"
-data modify storage hangul:const char append value "욀"
-data modify storage hangul:const char append value "욁"
-data modify storage hangul:const char append value "욂"
-data modify storage hangul:const char append value "욃"
-data modify storage hangul:const char append value "욄"
-data modify storage hangul:const char append value "욅"
-data modify storage hangul:const char append value "욆"
-data modify storage hangul:const char append value "욇"
-data modify storage hangul:const char append value "욈"
-data modify storage hangul:const char append value "욉"
-data modify storage hangul:const char append value "욊"
-data modify storage hangul:const char append value "욋"
-data modify storage hangul:const char append value "욌"
-data modify storage hangul:const char append value "욍"
-data modify storage hangul:const char append value "욎"
-data modify storage hangul:const char append value "욏"
-data modify storage hangul:const char append value "욐"
-data modify storage hangul:const char append value "욑"
-data modify storage hangul:const char append value "욒"
-data modify storage hangul:const char append value "욓"
-data modify storage hangul:const char append value "요"
-data modify storage hangul:const char append value "욕"
-data modify storage hangul:const char append value "욖"
-data modify storage hangul:const char append value "욗"
-data modify storage hangul:const char append value "욘"
-data modify storage hangul:const char append value "욙"
-data modify storage hangul:const char append value "욚"
-data modify storage hangul:const char append value "욛"
-data modify storage hangul:const char append value "욜"
-data modify storage hangul:const char append value "욝"
-data modify storage hangul:const char append value "욞"
-data modify storage hangul:const char append value "욟"
-data modify storage hangul:const char append value "욠"
-data modify storage hangul:const char append value "욡"
-data modify storage hangul:const char append value "욢"
-data modify storage hangul:const char append value "욣"
-data modify storage hangul:const char append value "욤"
-data modify storage hangul:const char append value "욥"
-data modify storage hangul:const char append value "욦"
-data modify storage hangul:const char append value "욧"
-data modify storage hangul:const char append value "욨"
-data modify storage hangul:const char append value "용"
-data modify storage hangul:const char append value "욪"
-data modify storage hangul:const char append value "욫"
-data modify storage hangul:const char append value "욬"
-data modify storage hangul:const char append value "욭"
-data modify storage hangul:const char append value "욮"
-data modify storage hangul:const char append value "욯"
-data modify storage hangul:const char append value "우"
-data modify storage hangul:const char append value "욱"
-data modify storage hangul:const char append value "욲"
-data modify storage hangul:const char append value "욳"
-data modify storage hangul:const char append value "운"
-data modify storage hangul:const char append value "욵"
-data modify storage hangul:const char append value "욶"
-data modify storage hangul:const char append value "욷"
-data modify storage hangul:const char append value "울"
-data modify storage hangul:const char append value "욹"
-data modify storage hangul:const char append value "욺"
-data modify storage hangul:const char append value "욻"
-data modify storage hangul:const char append value "욼"
-data modify storage hangul:const char append value "욽"
-data modify storage hangul:const char append value "욾"
-data modify storage hangul:const char append value "욿"
-data modify storage hangul:const char append value "움"
-data modify storage hangul:const char append value "웁"
-data modify storage hangul:const char append value "웂"
-data modify storage hangul:const char append value "웃"
-data modify storage hangul:const char append value "웄"
-data modify storage hangul:const char append value "웅"
-data modify storage hangul:const char append value "웆"
-data modify storage hangul:const char append value "웇"
-data modify storage hangul:const char append value "웈"
-data modify storage hangul:const char append value "웉"
-data modify storage hangul:const char append value "웊"
-data modify storage hangul:const char append value "웋"
-data modify storage hangul:const char append value "워"
-data modify storage hangul:const char append value "웍"
-data modify storage hangul:const char append value "웎"
-data modify storage hangul:const char append value "웏"
-data modify storage hangul:const char append value "원"
-data modify storage hangul:const char append value "웑"
-data modify storage hangul:const char append value "웒"
-data modify storage hangul:const char append value "웓"
-data modify storage hangul:const char append value "월"
-data modify storage hangul:const char append value "웕"
-data modify storage hangul:const char append value "웖"
-data modify storage hangul:const char append value "웗"
-data modify storage hangul:const char append value "웘"
-data modify storage hangul:const char append value "웙"
-data modify storage hangul:const char append value "웚"
-data modify storage hangul:const char append value "웛"
-data modify storage hangul:const char append value "웜"
-data modify storage hangul:const char append value "웝"
-data modify storage hangul:const char append value "웞"
-data modify storage hangul:const char append value "웟"
-data modify storage hangul:const char append value "웠"
-data modify storage hangul:const char append value "웡"
-data modify storage hangul:const char append value "웢"
-data modify storage hangul:const char append value "웣"
-data modify storage hangul:const char append value "웤"
-data modify storage hangul:const char append value "웥"
-data modify storage hangul:const char append value "웦"
-data modify storage hangul:const char append value "웧"
-data modify storage hangul:const char append value "웨"
-data modify storage hangul:const char append value "웩"
-data modify storage hangul:const char append value "웪"
-data modify storage hangul:const char append value "웫"
-data modify storage hangul:const char append value "웬"
-data modify storage hangul:const char append value "웭"
-data modify storage hangul:const char append value "웮"
-data modify storage hangul:const char append value "웯"
-data modify storage hangul:const char append value "웰"
-data modify storage hangul:const char append value "웱"
-data modify storage hangul:const char append value "웲"
-data modify storage hangul:const char append value "웳"
-data modify storage hangul:const char append value "웴"
-data modify storage hangul:const char append value "웵"
-data modify storage hangul:const char append value "웶"
-data modify storage hangul:const char append value "웷"
-data modify storage hangul:const char append value "웸"
-data modify storage hangul:const char append value "웹"
-data modify storage hangul:const char append value "웺"
-data modify storage hangul:const char append value "웻"
-data modify storage hangul:const char append value "웼"
-data modify storage hangul:const char append value "웽"
-data modify storage hangul:const char append value "웾"
-data modify storage hangul:const char append value "웿"
-data modify storage hangul:const char append value "윀"
-data modify storage hangul:const char append value "윁"
-data modify storage hangul:const char append value "윂"
-data modify storage hangul:const char append value "윃"
-data modify storage hangul:const char append value "위"
-data modify storage hangul:const char append value "윅"
-data modify storage hangul:const char append value "윆"
-data modify storage hangul:const char append value "윇"
-data modify storage hangul:const char append value "윈"
-data modify storage hangul:const char append value "윉"
-data modify storage hangul:const char append value "윊"
-data modify storage hangul:const char append value "윋"
-data modify storage hangul:const char append value "윌"
-data modify storage hangul:const char append value "윍"
-data modify storage hangul:const char append value "윎"
-data modify storage hangul:const char append value "윏"
-data modify storage hangul:const char append value "윐"
-data modify storage hangul:const char append value "윑"
-data modify storage hangul:const char append value "윒"
-data modify storage hangul:const char append value "윓"
-data modify storage hangul:const char append value "윔"
-data modify storage hangul:const char append value "윕"
-data modify storage hangul:const char append value "윖"
-data modify storage hangul:const char append value "윗"
-data modify storage hangul:const char append value "윘"
-data modify storage hangul:const char append value "윙"
-data modify storage hangul:const char append value "윚"
-data modify storage hangul:const char append value "윛"
-data modify storage hangul:const char append value "윜"
-data modify storage hangul:const char append value "윝"
-data modify storage hangul:const char append value "윞"
-data modify storage hangul:const char append value "윟"
-data modify storage hangul:const char append value "유"
-data modify storage hangul:const char append value "육"
-data modify storage hangul:const char append value "윢"
-data modify storage hangul:const char append value "윣"
-data modify storage hangul:const char append value "윤"
-data modify storage hangul:const char append value "윥"
-data modify storage hangul:const char append value "윦"
-data modify storage hangul:const char append value "윧"
-data modify storage hangul:const char append value "율"
-data modify storage hangul:const char append value "윩"
-data modify storage hangul:const char append value "윪"
-data modify storage hangul:const char append value "윫"
-data modify storage hangul:const char append value "윬"
-data modify storage hangul:const char append value "윭"
-data modify storage hangul:const char append value "윮"
-data modify storage hangul:const char append value "윯"
-data modify storage hangul:const char append value "윰"
-data modify storage hangul:const char append value "윱"
-data modify storage hangul:const char append value "윲"
-data modify storage hangul:const char append value "윳"
-data modify storage hangul:const char append value "윴"
-data modify storage hangul:const char append value "융"
-data modify storage hangul:const char append value "윶"
-data modify storage hangul:const char append value "윷"
-data modify storage hangul:const char append value "윸"
-data modify storage hangul:const char append value "윹"
-data modify storage hangul:const char append value "윺"
-data modify storage hangul:const char append value "윻"
-data modify storage hangul:const char append value "으"
-data modify storage hangul:const char append value "윽"
-data modify storage hangul:const char append value "윾"
-data modify storage hangul:const char append value "윿"
-data modify storage hangul:const char append value "은"
-data modify storage hangul:const char append value "읁"
-data modify storage hangul:const char append value "읂"
-data modify storage hangul:const char append value "읃"
-data modify storage hangul:const char append value "을"
-data modify storage hangul:const char append value "읅"
-data modify storage hangul:const char append value "읆"
-data modify storage hangul:const char append value "읇"
-data modify storage hangul:const char append value "읈"
-data modify storage hangul:const char append value "읉"
-data modify storage hangul:const char append value "읊"
-data modify storage hangul:const char append value "읋"
-data modify storage hangul:const char append value "음"
-data modify storage hangul:const char append value "읍"
-data modify storage hangul:const char append value "읎"
-data modify storage hangul:const char append value "읏"
-data modify storage hangul:const char append value "읐"
-data modify storage hangul:const char append value "응"
-data modify storage hangul:const char append value "읒"
-data modify storage hangul:const char append value "읓"
-data modify storage hangul:const char append value "읔"
-data modify storage hangul:const char append value "읕"
-data modify storage hangul:const char append value "읖"
-data modify storage hangul:const char append value "읗"
-data modify storage hangul:const char append value "의"
-data modify storage hangul:const char append value "읙"
-data modify storage hangul:const char append value "읚"
-data modify storage hangul:const char append value "읛"
-data modify storage hangul:const char append value "읜"
-data modify storage hangul:const char append value "읝"
-data modify storage hangul:const char append value "읞"
-data modify storage hangul:const char append value "읟"
-data modify storage hangul:const char append value "읠"
-data modify storage hangul:const char append value "읡"
-data modify storage hangul:const char append value "읢"
-data modify storage hangul:const char append value "읣"
-data modify storage hangul:const char append value "읤"
-data modify storage hangul:const char append value "읥"
-data modify storage hangul:const char append value "읦"
-data modify storage hangul:const char append value "읧"
-data modify storage hangul:const char append value "읨"
-data modify storage hangul:const char append value "읩"
-data modify storage hangul:const char append value "읪"
-data modify storage hangul:const char append value "읫"
-data modify storage hangul:const char append value "읬"
-data modify storage hangul:const char append value "읭"
-data modify storage hangul:const char append value "읮"
-data modify storage hangul:const char append value "읯"
-data modify storage hangul:const char append value "읰"
-data modify storage hangul:const char append value "읱"
-data modify storage hangul:const char append value "읲"
-data modify storage hangul:const char append value "읳"
-data modify storage hangul:const char append value "이"
-data modify storage hangul:const char append value "익"
-data modify storage hangul:const char append value "읶"
-data modify storage hangul:const char append value "읷"
-data modify storage hangul:const char append value "인"
-data modify storage hangul:const char append value "읹"
-data modify storage hangul:const char append value "읺"
-data modify storage hangul:const char append value "읻"
-data modify storage hangul:const char append value "일"
-data modify storage hangul:const char append value "읽"
-data modify storage hangul:const char append value "읾"
-data modify storage hangul:const char append value "읿"
-data modify storage hangul:const char append value "잀"
-data modify storage hangul:const char append value "잁"
-data modify storage hangul:const char append value "잂"
-data modify storage hangul:const char append value "잃"
-data modify storage hangul:const char append value "임"
-data modify storage hangul:const char append value "입"
-data modify storage hangul:const char append value "잆"
-data modify storage hangul:const char append value "잇"
-data modify storage hangul:const char append value "있"
-data modify storage hangul:const char append value "잉"
-data modify storage hangul:const char append value "잊"
-data modify storage hangul:const char append value "잋"
-data modify storage hangul:const char append value "잌"
-data modify storage hangul:const char append value "잍"
-data modify storage hangul:const char append value "잎"
-data modify storage hangul:const char append value "잏"
-data modify storage hangul:const char append value "자"
-data modify storage hangul:const char append value "작"
-data modify storage hangul:const char append value "잒"
-data modify storage hangul:const char append value "잓"
-data modify storage hangul:const char append value "잔"
-data modify storage hangul:const char append value "잕"
-data modify storage hangul:const char append value "잖"
-data modify storage hangul:const char append value "잗"
-data modify storage hangul:const char append value "잘"
-data modify storage hangul:const char append value "잙"
-data modify storage hangul:const char append value "잚"
-data modify storage hangul:const char append value "잛"
-data modify storage hangul:const char append value "잜"
-data modify storage hangul:const char append value "잝"
-data modify storage hangul:const char append value "잞"
-data modify storage hangul:const char append value "잟"
-data modify storage hangul:const char append value "잠"
-data modify storage hangul:const char append value "잡"
-data modify storage hangul:const char append value "잢"
-data modify storage hangul:const char append value "잣"
-data modify storage hangul:const char append value "잤"
-data modify storage hangul:const char append value "장"
-data modify storage hangul:const char append value "잦"
-data modify storage hangul:const char append value "잧"
-data modify storage hangul:const char append value "잨"
-data modify storage hangul:const char append value "잩"
-data modify storage hangul:const char append value "잪"
-data modify storage hangul:const char append value "잫"
-data modify storage hangul:const char append value "재"
-data modify storage hangul:const char append value "잭"
-data modify storage hangul:const char append value "잮"
-data modify storage hangul:const char append value "잯"
-data modify storage hangul:const char append value "잰"
-data modify storage hangul:const char append value "잱"
-data modify storage hangul:const char append value "잲"
-data modify storage hangul:const char append value "잳"
-data modify storage hangul:const char append value "잴"
-data modify storage hangul:const char append value "잵"
-data modify storage hangul:const char append value "잶"
-data modify storage hangul:const char append value "잷"
-data modify storage hangul:const char append value "잸"
-data modify storage hangul:const char append value "잹"
-data modify storage hangul:const char append value "잺"
-data modify storage hangul:const char append value "잻"
-data modify storage hangul:const char append value "잼"
-data modify storage hangul:const char append value "잽"
-data modify storage hangul:const char append value "잾"
-data modify storage hangul:const char append value "잿"
-data modify storage hangul:const char append value "쟀"
-data modify storage hangul:const char append value "쟁"
-data modify storage hangul:const char append value "쟂"
-data modify storage hangul:const char append value "쟃"
-data modify storage hangul:const char append value "쟄"
-data modify storage hangul:const char append value "쟅"
-data modify storage hangul:const char append value "쟆"
-data modify storage hangul:const char append value "쟇"
-data modify storage hangul:const char append value "쟈"
-data modify storage hangul:const char append value "쟉"
-data modify storage hangul:const char append value "쟊"
-data modify storage hangul:const char append value "쟋"
-data modify storage hangul:const char append value "쟌"
-data modify storage hangul:const char append value "쟍"
-data modify storage hangul:const char append value "쟎"
-data modify storage hangul:const char append value "쟏"
-data modify storage hangul:const char append value "쟐"
-data modify storage hangul:const char append value "쟑"
-data modify storage hangul:const char append value "쟒"
-data modify storage hangul:const char append value "쟓"
-data modify storage hangul:const char append value "쟔"
-data modify storage hangul:const char append value "쟕"
-data modify storage hangul:const char append value "쟖"
-data modify storage hangul:const char append value "쟗"
-data modify storage hangul:const char append value "쟘"
-data modify storage hangul:const char append value "쟙"
-data modify storage hangul:const char append value "쟚"
-data modify storage hangul:const char append value "쟛"
-data modify storage hangul:const char append value "쟜"
-data modify storage hangul:const char append value "쟝"
-data modify storage hangul:const char append value "쟞"
-data modify storage hangul:const char append value "쟟"
-data modify storage hangul:const char append value "쟠"
-data modify storage hangul:const char append value "쟡"
-data modify storage hangul:const char append value "쟢"
-data modify storage hangul:const char append value "쟣"
-data modify storage hangul:const char append value "쟤"
-data modify storage hangul:const char append value "쟥"
-data modify storage hangul:const char append value "쟦"
-data modify storage hangul:const char append value "쟧"
-data modify storage hangul:const char append value "쟨"
-data modify storage hangul:const char append value "쟩"
-data modify storage hangul:const char append value "쟪"
-data modify storage hangul:const char append value "쟫"
-data modify storage hangul:const char append value "쟬"
-data modify storage hangul:const char append value "쟭"
-data modify storage hangul:const char append value "쟮"
-data modify storage hangul:const char append value "쟯"
-data modify storage hangul:const char append value "쟰"
-data modify storage hangul:const char append value "쟱"
-data modify storage hangul:const char append value "쟲"
-data modify storage hangul:const char append value "쟳"
-data modify storage hangul:const char append value "쟴"
-data modify storage hangul:const char append value "쟵"
-data modify storage hangul:const char append value "쟶"
-data modify storage hangul:const char append value "쟷"
-data modify storage hangul:const char append value "쟸"
-data modify storage hangul:const char append value "쟹"
-data modify storage hangul:const char append value "쟺"
-data modify storage hangul:const char append value "쟻"
-data modify storage hangul:const char append value "쟼"
-data modify storage hangul:const char append value "쟽"
-data modify storage hangul:const char append value "쟾"
-data modify storage hangul:const char append value "쟿"
-data modify storage hangul:const char append value "저"
-data modify storage hangul:const char append value "적"
-data modify storage hangul:const char append value "젂"
-data modify storage hangul:const char append value "젃"
-data modify storage hangul:const char append value "전"
-data modify storage hangul:const char append value "젅"
-data modify storage hangul:const char append value "젆"
-data modify storage hangul:const char append value "젇"
-data modify storage hangul:const char append value "절"
-data modify storage hangul:const char append value "젉"
-data modify storage hangul:const char append value "젊"
-data modify storage hangul:const char append value "젋"
-data modify storage hangul:const char append value "젌"
-data modify storage hangul:const char append value "젍"
-data modify storage hangul:const char append value "젎"
-data modify storage hangul:const char append value "젏"
-data modify storage hangul:const char append value "점"
-data modify storage hangul:const char append value "접"
-data modify storage hangul:const char append value "젒"
-data modify storage hangul:const char append value "젓"
-data modify storage hangul:const char append value "젔"
-data modify storage hangul:const char append value "정"
-data modify storage hangul:const char append value "젖"
-data modify storage hangul:const char append value "젗"
-data modify storage hangul:const char append value "젘"
-data modify storage hangul:const char append value "젙"
-data modify storage hangul:const char append value "젚"
-data modify storage hangul:const char append value "젛"
-data modify storage hangul:const char append value "제"
-data modify storage hangul:const char append value "젝"
-data modify storage hangul:const char append value "젞"
-data modify storage hangul:const char append value "젟"
-data modify storage hangul:const char append value "젠"
-data modify storage hangul:const char append value "젡"
-data modify storage hangul:const char append value "젢"
-data modify storage hangul:const char append value "젣"
-data modify storage hangul:const char append value "젤"
-data modify storage hangul:const char append value "젥"
-data modify storage hangul:const char append value "젦"
-data modify storage hangul:const char append value "젧"
-data modify storage hangul:const char append value "젨"
-data modify storage hangul:const char append value "젩"
-data modify storage hangul:const char append value "젪"
-data modify storage hangul:const char append value "젫"
-data modify storage hangul:const char append value "젬"
-data modify storage hangul:const char append value "젭"
-data modify storage hangul:const char append value "젮"
-data modify storage hangul:const char append value "젯"
-data modify storage hangul:const char append value "젰"
-data modify storage hangul:const char append value "젱"
-data modify storage hangul:const char append value "젲"
-data modify storage hangul:const char append value "젳"
-data modify storage hangul:const char append value "젴"
-data modify storage hangul:const char append value "젵"
-data modify storage hangul:const char append value "젶"
-data modify storage hangul:const char append value "젷"
-data modify storage hangul:const char append value "져"
-data modify storage hangul:const char append value "젹"
-data modify storage hangul:const char append value "젺"
-data modify storage hangul:const char append value "젻"
-data modify storage hangul:const char append value "젼"
-data modify storage hangul:const char append value "젽"
-data modify storage hangul:const char append value "젾"
-data modify storage hangul:const char append value "젿"
-data modify storage hangul:const char append value "졀"
-data modify storage hangul:const char append value "졁"
-data modify storage hangul:const char append value "졂"
-data modify storage hangul:const char append value "졃"
-data modify storage hangul:const char append value "졄"
-data modify storage hangul:const char append value "졅"
-data modify storage hangul:const char append value "졆"
-data modify storage hangul:const char append value "졇"
-data modify storage hangul:const char append value "졈"
-data modify storage hangul:const char append value "졉"
-data modify storage hangul:const char append value "졊"
-data modify storage hangul:const char append value "졋"
-data modify storage hangul:const char append value "졌"
-data modify storage hangul:const char append value "졍"
-data modify storage hangul:const char append value "졎"
-data modify storage hangul:const char append value "졏"
-data modify storage hangul:const char append value "졐"
-data modify storage hangul:const char append value "졑"
-data modify storage hangul:const char append value "졒"
-data modify storage hangul:const char append value "졓"
-data modify storage hangul:const char append value "졔"
-data modify storage hangul:const char append value "졕"
-data modify storage hangul:const char append value "졖"
-data modify storage hangul:const char append value "졗"
-data modify storage hangul:const char append value "졘"
-data modify storage hangul:const char append value "졙"
-data modify storage hangul:const char append value "졚"
-data modify storage hangul:const char append value "졛"
-data modify storage hangul:const char append value "졜"
-data modify storage hangul:const char append value "졝"
-data modify storage hangul:const char append value "졞"
-data modify storage hangul:const char append value "졟"
-data modify storage hangul:const char append value "졠"
-data modify storage hangul:const char append value "졡"
-data modify storage hangul:const char append value "졢"
-data modify storage hangul:const char append value "졣"
-data modify storage hangul:const char append value "졤"
-data modify storage hangul:const char append value "졥"
-data modify storage hangul:const char append value "졦"
-data modify storage hangul:const char append value "졧"
-data modify storage hangul:const char append value "졨"
-data modify storage hangul:const char append value "졩"
-data modify storage hangul:const char append value "졪"
-data modify storage hangul:const char append value "졫"
-data modify storage hangul:const char append value "졬"
-data modify storage hangul:const char append value "졭"
-data modify storage hangul:const char append value "졮"
-data modify storage hangul:const char append value "졯"
-data modify storage hangul:const char append value "조"
-data modify storage hangul:const char append value "족"
-data modify storage hangul:const char append value "졲"
-data modify storage hangul:const char append value "졳"
-data modify storage hangul:const char append value "존"
-data modify storage hangul:const char append value "졵"
-data modify storage hangul:const char append value "졶"
-data modify storage hangul:const char append value "졷"
-data modify storage hangul:const char append value "졸"
-data modify storage hangul:const char append value "졹"
-data modify storage hangul:const char append value "졺"
-data modify storage hangul:const char append value "졻"
-data modify storage hangul:const char append value "졼"
-data modify storage hangul:const char append value "졽"
-data modify storage hangul:const char append value "졾"
-data modify storage hangul:const char append value "졿"
-data modify storage hangul:const char append value "좀"
-data modify storage hangul:const char append value "좁"
-data modify storage hangul:const char append value "좂"
-data modify storage hangul:const char append value "좃"
-data modify storage hangul:const char append value "좄"
-data modify storage hangul:const char append value "종"
-data modify storage hangul:const char append value "좆"
-data modify storage hangul:const char append value "좇"
-data modify storage hangul:const char append value "좈"
-data modify storage hangul:const char append value "좉"
-data modify storage hangul:const char append value "좊"
-data modify storage hangul:const char append value "좋"
-data modify storage hangul:const char append value "좌"
-data modify storage hangul:const char append value "좍"
-data modify storage hangul:const char append value "좎"
-data modify storage hangul:const char append value "좏"
-data modify storage hangul:const char append value "좐"
-data modify storage hangul:const char append value "좑"
-data modify storage hangul:const char append value "좒"
-data modify storage hangul:const char append value "좓"
-data modify storage hangul:const char append value "좔"
-data modify storage hangul:const char append value "좕"
-data modify storage hangul:const char append value "좖"
-data modify storage hangul:const char append value "좗"
-data modify storage hangul:const char append value "좘"
-data modify storage hangul:const char append value "좙"
-data modify storage hangul:const char append value "좚"
-data modify storage hangul:const char append value "좛"
-data modify storage hangul:const char append value "좜"
-data modify storage hangul:const char append value "좝"
-data modify storage hangul:const char append value "좞"
-data modify storage hangul:const char append value "좟"
-data modify storage hangul:const char append value "좠"
-data modify storage hangul:const char append value "좡"
-data modify storage hangul:const char append value "좢"
-data modify storage hangul:const char append value "좣"
-data modify storage hangul:const char append value "좤"
-data modify storage hangul:const char append value "좥"
-data modify storage hangul:const char append value "좦"
-data modify storage hangul:const char append value "좧"
-data modify storage hangul:const char append value "좨"
-data modify storage hangul:const char append value "좩"
-data modify storage hangul:const char append value "좪"
-data modify storage hangul:const char append value "좫"
-data modify storage hangul:const char append value "좬"
-data modify storage hangul:const char append value "좭"
-data modify storage hangul:const char append value "좮"
-data modify storage hangul:const char append value "좯"
-data modify storage hangul:const char append value "좰"
-data modify storage hangul:const char append value "좱"
-data modify storage hangul:const char append value "좲"
-data modify storage hangul:const char append value "좳"
-data modify storage hangul:const char append value "좴"
-data modify storage hangul:const char append value "좵"
-data modify storage hangul:const char append value "좶"
-data modify storage hangul:const char append value "좷"
-data modify storage hangul:const char append value "좸"
-data modify storage hangul:const char append value "좹"
-data modify storage hangul:const char append value "좺"
-data modify storage hangul:const char append value "좻"
-data modify storage hangul:const char append value "좼"
-data modify storage hangul:const char append value "좽"
-data modify storage hangul:const char append value "좾"
-data modify storage hangul:const char append value "좿"
-data modify storage hangul:const char append value "죀"
-data modify storage hangul:const char append value "죁"
-data modify storage hangul:const char append value "죂"
-data modify storage hangul:const char append value "죃"
-data modify storage hangul:const char append value "죄"
-data modify storage hangul:const char append value "죅"
-data modify storage hangul:const char append value "죆"
-data modify storage hangul:const char append value "죇"
-data modify storage hangul:const char append value "죈"
-data modify storage hangul:const char append value "죉"
-data modify storage hangul:const char append value "죊"
-data modify storage hangul:const char append value "죋"
-data modify storage hangul:const char append value "죌"
-data modify storage hangul:const char append value "죍"
-data modify storage hangul:const char append value "죎"
-data modify storage hangul:const char append value "죏"
-data modify storage hangul:const char append value "죐"
-data modify storage hangul:const char append value "죑"
-data modify storage hangul:const char append value "죒"
-data modify storage hangul:const char append value "죓"
-data modify storage hangul:const char append value "죔"
-data modify storage hangul:const char append value "죕"
-data modify storage hangul:const char append value "죖"
-data modify storage hangul:const char append value "죗"
-data modify storage hangul:const char append value "죘"
-data modify storage hangul:const char append value "죙"
-data modify storage hangul:const char append value "죚"
-data modify storage hangul:const char append value "죛"
-data modify storage hangul:const char append value "죜"
-data modify storage hangul:const char append value "죝"
-data modify storage hangul:const char append value "죞"
-data modify storage hangul:const char append value "죟"
-data modify storage hangul:const char append value "죠"
-data modify storage hangul:const char append value "죡"
-data modify storage hangul:const char append value "죢"
-data modify storage hangul:const char append value "죣"
-data modify storage hangul:const char append value "죤"
-data modify storage hangul:const char append value "죥"
-data modify storage hangul:const char append value "죦"
-data modify storage hangul:const char append value "죧"
-data modify storage hangul:const char append value "죨"
-data modify storage hangul:const char append value "죩"
-data modify storage hangul:const char append value "죪"
-data modify storage hangul:const char append value "죫"
-data modify storage hangul:const char append value "죬"
-data modify storage hangul:const char append value "죭"
-data modify storage hangul:const char append value "죮"
-data modify storage hangul:const char append value "죯"
-data modify storage hangul:const char append value "죰"
-data modify storage hangul:const char append value "죱"
-data modify storage hangul:const char append value "죲"
-data modify storage hangul:const char append value "죳"
-data modify storage hangul:const char append value "죴"
-data modify storage hangul:const char append value "죵"
-data modify storage hangul:const char append value "죶"
-data modify storage hangul:const char append value "죷"
-data modify storage hangul:const char append value "죸"
-data modify storage hangul:const char append value "죹"
-data modify storage hangul:const char append value "죺"
-data modify storage hangul:const char append value "죻"
-data modify storage hangul:const char append value "주"
-data modify storage hangul:const char append value "죽"
-data modify storage hangul:const char append value "죾"
-data modify storage hangul:const char append value "죿"
-data modify storage hangul:const char append value "준"
-data modify storage hangul:const char append value "줁"
-data modify storage hangul:const char append value "줂"
-data modify storage hangul:const char append value "줃"
-data modify storage hangul:const char append value "줄"
-data modify storage hangul:const char append value "줅"
-data modify storage hangul:const char append value "줆"
-data modify storage hangul:const char append value "줇"
-data modify storage hangul:const char append value "줈"
-data modify storage hangul:const char append value "줉"
-data modify storage hangul:const char append value "줊"
-data modify storage hangul:const char append value "줋"
-data modify storage hangul:const char append value "줌"
-data modify storage hangul:const char append value "줍"
-data modify storage hangul:const char append value "줎"
-data modify storage hangul:const char append value "줏"
-data modify storage hangul:const char append value "줐"
-data modify storage hangul:const char append value "중"
-data modify storage hangul:const char append value "줒"
-data modify storage hangul:const char append value "줓"
-data modify storage hangul:const char append value "줔"
-data modify storage hangul:const char append value "줕"
-data modify storage hangul:const char append value "줖"
-data modify storage hangul:const char append value "줗"
-data modify storage hangul:const char append value "줘"
-data modify storage hangul:const char append value "줙"
-data modify storage hangul:const char append value "줚"
-data modify storage hangul:const char append value "줛"
-data modify storage hangul:const char append value "줜"
-data modify storage hangul:const char append value "줝"
-data modify storage hangul:const char append value "줞"
-data modify storage hangul:const char append value "줟"
-data modify storage hangul:const char append value "줠"
-data modify storage hangul:const char append value "줡"
-data modify storage hangul:const char append value "줢"
-data modify storage hangul:const char append value "줣"
-data modify storage hangul:const char append value "줤"
-data modify storage hangul:const char append value "줥"
-data modify storage hangul:const char append value "줦"
-data modify storage hangul:const char append value "줧"
-data modify storage hangul:const char append value "줨"
-data modify storage hangul:const char append value "줩"
-data modify storage hangul:const char append value "줪"
-data modify storage hangul:const char append value "줫"
-data modify storage hangul:const char append value "줬"
-data modify storage hangul:const char append value "줭"
-data modify storage hangul:const char append value "줮"
-data modify storage hangul:const char append value "줯"
-data modify storage hangul:const char append value "줰"
-data modify storage hangul:const char append value "줱"
-data modify storage hangul:const char append value "줲"
-data modify storage hangul:const char append value "줳"
-data modify storage hangul:const char append value "줴"
-data modify storage hangul:const char append value "줵"
-data modify storage hangul:const char append value "줶"
-data modify storage hangul:const char append value "줷"
-data modify storage hangul:const char append value "줸"
-data modify storage hangul:const char append value "줹"
-data modify storage hangul:const char append value "줺"
-data modify storage hangul:const char append value "줻"
-data modify storage hangul:const char append value "줼"
-data modify storage hangul:const char append value "줽"
-data modify storage hangul:const char append value "줾"
-data modify storage hangul:const char append value "줿"
-data modify storage hangul:const char append value "쥀"
-data modify storage hangul:const char append value "쥁"
-data modify storage hangul:const char append value "쥂"
-data modify storage hangul:const char append value "쥃"
-data modify storage hangul:const char append value "쥄"
-data modify storage hangul:const char append value "쥅"
-data modify storage hangul:const char append value "쥆"
-data modify storage hangul:const char append value "쥇"
-data modify storage hangul:const char append value "쥈"
-data modify storage hangul:const char append value "쥉"
-data modify storage hangul:const char append value "쥊"
-data modify storage hangul:const char append value "쥋"
-data modify storage hangul:const char append value "쥌"
-data modify storage hangul:const char append value "쥍"
-data modify storage hangul:const char append value "쥎"
-data modify storage hangul:const char append value "쥏"
-data modify storage hangul:const char append value "쥐"
-data modify storage hangul:const char append value "쥑"
-data modify storage hangul:const char append value "쥒"
-data modify storage hangul:const char append value "쥓"
-data modify storage hangul:const char append value "쥔"
-data modify storage hangul:const char append value "쥕"
-data modify storage hangul:const char append value "쥖"
-data modify storage hangul:const char append value "쥗"
-data modify storage hangul:const char append value "쥘"
-data modify storage hangul:const char append value "쥙"
-data modify storage hangul:const char append value "쥚"
-data modify storage hangul:const char append value "쥛"
-data modify storage hangul:const char append value "쥜"
-data modify storage hangul:const char append value "쥝"
-data modify storage hangul:const char append value "쥞"
-data modify storage hangul:const char append value "쥟"
-data modify storage hangul:const char append value "쥠"
-data modify storage hangul:const char append value "쥡"
-data modify storage hangul:const char append value "쥢"
-data modify storage hangul:const char append value "쥣"
-data modify storage hangul:const char append value "쥤"
-data modify storage hangul:const char append value "쥥"
-data modify storage hangul:const char append value "쥦"
-data modify storage hangul:const char append value "쥧"
-data modify storage hangul:const char append value "쥨"
-data modify storage hangul:const char append value "쥩"
-data modify storage hangul:const char append value "쥪"
-data modify storage hangul:const char append value "쥫"
-data modify storage hangul:const char append value "쥬"
-data modify storage hangul:const char append value "쥭"
-data modify storage hangul:const char append value "쥮"
-data modify storage hangul:const char append value "쥯"
-data modify storage hangul:const char append value "쥰"
-data modify storage hangul:const char append value "쥱"
-data modify storage hangul:const char append value "쥲"
-data modify storage hangul:const char append value "쥳"
-data modify storage hangul:const char append value "쥴"
-data modify storage hangul:const char append value "쥵"
-data modify storage hangul:const char append value "쥶"
-data modify storage hangul:const char append value "쥷"
-data modify storage hangul:const char append value "쥸"
-data modify storage hangul:const char append value "쥹"
-data modify storage hangul:const char append value "쥺"
-data modify storage hangul:const char append value "쥻"
-data modify storage hangul:const char append value "쥼"
-data modify storage hangul:const char append value "쥽"
-data modify storage hangul:const char append value "쥾"
-data modify storage hangul:const char append value "쥿"
-data modify storage hangul:const char append value "즀"
-data modify storage hangul:const char append value "즁"
-data modify storage hangul:const char append value "즂"
-data modify storage hangul:const char append value "즃"
-data modify storage hangul:const char append value "즄"
-data modify storage hangul:const char append value "즅"
-data modify storage hangul:const char append value "즆"
-data modify storage hangul:const char append value "즇"
-data modify storage hangul:const char append value "즈"
-data modify storage hangul:const char append value "즉"
-data modify storage hangul:const char append value "즊"
-data modify storage hangul:const char append value "즋"
-data modify storage hangul:const char append value "즌"
-data modify storage hangul:const char append value "즍"
-data modify storage hangul:const char append value "즎"
-data modify storage hangul:const char append value "즏"
-data modify storage hangul:const char append value "즐"
-data modify storage hangul:const char append value "즑"
-data modify storage hangul:const char append value "즒"
-data modify storage hangul:const char append value "즓"
-data modify storage hangul:const char append value "즔"
-data modify storage hangul:const char append value "즕"
-data modify storage hangul:const char append value "즖"
-data modify storage hangul:const char append value "즗"
-data modify storage hangul:const char append value "즘"
-data modify storage hangul:const char append value "즙"
-data modify storage hangul:const char append value "즚"
-data modify storage hangul:const char append value "즛"
-data modify storage hangul:const char append value "즜"
-data modify storage hangul:const char append value "증"
-data modify storage hangul:const char append value "즞"
-data modify storage hangul:const char append value "즟"
-data modify storage hangul:const char append value "즠"
-data modify storage hangul:const char append value "즡"
-data modify storage hangul:const char append value "즢"
-data modify storage hangul:const char append value "즣"
-data modify storage hangul:const char append value "즤"
-data modify storage hangul:const char append value "즥"
-data modify storage hangul:const char append value "즦"
-data modify storage hangul:const char append value "즧"
-data modify storage hangul:const char append value "즨"
-data modify storage hangul:const char append value "즩"
-data modify storage hangul:const char append value "즪"
-data modify storage hangul:const char append value "즫"
-data modify storage hangul:const char append value "즬"
-data modify storage hangul:const char append value "즭"
-data modify storage hangul:const char append value "즮"
-data modify storage hangul:const char append value "즯"
-data modify storage hangul:const char append value "즰"
-data modify storage hangul:const char append value "즱"
-data modify storage hangul:const char append value "즲"
-data modify storage hangul:const char append value "즳"
-data modify storage hangul:const char append value "즴"
-data modify storage hangul:const char append value "즵"
-data modify storage hangul:const char append value "즶"
-data modify storage hangul:const char append value "즷"
-data modify storage hangul:const char append value "즸"
-data modify storage hangul:const char append value "즹"
-data modify storage hangul:const char append value "즺"
-data modify storage hangul:const char append value "즻"
-data modify storage hangul:const char append value "즼"
-data modify storage hangul:const char append value "즽"
-data modify storage hangul:const char append value "즾"
-data modify storage hangul:const char append value "즿"
-data modify storage hangul:const char append value "지"
-data modify storage hangul:const char append value "직"
-data modify storage hangul:const char append value "짂"
-data modify storage hangul:const char append value "짃"
-data modify storage hangul:const char append value "진"
-data modify storage hangul:const char append value "짅"
-data modify storage hangul:const char append value "짆"
-data modify storage hangul:const char append value "짇"
-data modify storage hangul:const char append value "질"
-data modify storage hangul:const char append value "짉"
-data modify storage hangul:const char append value "짊"
-data modify storage hangul:const char append value "짋"
-data modify storage hangul:const char append value "짌"
-data modify storage hangul:const char append value "짍"
-data modify storage hangul:const char append value "짎"
-data modify storage hangul:const char append value "짏"
-data modify storage hangul:const char append value "짐"
-data modify storage hangul:const char append value "집"
-data modify storage hangul:const char append value "짒"
-data modify storage hangul:const char append value "짓"
-data modify storage hangul:const char append value "짔"
-data modify storage hangul:const char append value "징"
-data modify storage hangul:const char append value "짖"
-data modify storage hangul:const char append value "짗"
-data modify storage hangul:const char append value "짘"
-data modify storage hangul:const char append value "짙"
-data modify storage hangul:const char append value "짚"
-data modify storage hangul:const char append value "짛"
-data modify storage hangul:const char append value "짜"
-data modify storage hangul:const char append value "짝"
-data modify storage hangul:const char append value "짞"
-data modify storage hangul:const char append value "짟"
-data modify storage hangul:const char append value "짠"
-data modify storage hangul:const char append value "짡"
-data modify storage hangul:const char append value "짢"
-data modify storage hangul:const char append value "짣"
-data modify storage hangul:const char append value "짤"
-data modify storage hangul:const char append value "짥"
-data modify storage hangul:const char append value "짦"
-data modify storage hangul:const char append value "짧"
-data modify storage hangul:const char append value "짨"
-data modify storage hangul:const char append value "짩"
-data modify storage hangul:const char append value "짪"
-data modify storage hangul:const char append value "짫"
-data modify storage hangul:const char append value "짬"
-data modify storage hangul:const char append value "짭"
-data modify storage hangul:const char append value "짮"
-data modify storage hangul:const char append value "짯"
-data modify storage hangul:const char append value "짰"
-data modify storage hangul:const char append value "짱"
-data modify storage hangul:const char append value "짲"
-data modify storage hangul:const char append value "짳"
-data modify storage hangul:const char append value "짴"
-data modify storage hangul:const char append value "짵"
-data modify storage hangul:const char append value "짶"
-data modify storage hangul:const char append value "짷"
-data modify storage hangul:const char append value "째"
-data modify storage hangul:const char append value "짹"
-data modify storage hangul:const char append value "짺"
-data modify storage hangul:const char append value "짻"
-data modify storage hangul:const char append value "짼"
-data modify storage hangul:const char append value "짽"
-data modify storage hangul:const char append value "짾"
-data modify storage hangul:const char append value "짿"
-data modify storage hangul:const char append value "쨀"
-data modify storage hangul:const char append value "쨁"
-data modify storage hangul:const char append value "쨂"
-data modify storage hangul:const char append value "쨃"
-data modify storage hangul:const char append value "쨄"
-data modify storage hangul:const char append value "쨅"
-data modify storage hangul:const char append value "쨆"
-data modify storage hangul:const char append value "쨇"
-data modify storage hangul:const char append value "쨈"
-data modify storage hangul:const char append value "쨉"
-data modify storage hangul:const char append value "쨊"
-data modify storage hangul:const char append value "쨋"
-data modify storage hangul:const char append value "쨌"
-data modify storage hangul:const char append value "쨍"
-data modify storage hangul:const char append value "쨎"
-data modify storage hangul:const char append value "쨏"
-data modify storage hangul:const char append value "쨐"
-data modify storage hangul:const char append value "쨑"
-data modify storage hangul:const char append value "쨒"
-data modify storage hangul:const char append value "쨓"
-data modify storage hangul:const char append value "쨔"
-data modify storage hangul:const char append value "쨕"
-data modify storage hangul:const char append value "쨖"
-data modify storage hangul:const char append value "쨗"
-data modify storage hangul:const char append value "쨘"
-data modify storage hangul:const char append value "쨙"
-data modify storage hangul:const char append value "쨚"
-data modify storage hangul:const char append value "쨛"
-data modify storage hangul:const char append value "쨜"
-data modify storage hangul:const char append value "쨝"
-data modify storage hangul:const char append value "쨞"
-data modify storage hangul:const char append value "쨟"
-data modify storage hangul:const char append value "쨠"
-data modify storage hangul:const char append value "쨡"
-data modify storage hangul:const char append value "쨢"
-data modify storage hangul:const char append value "쨣"
-data modify storage hangul:const char append value "쨤"
-data modify storage hangul:const char append value "쨥"
-data modify storage hangul:const char append value "쨦"
-data modify storage hangul:const char append value "쨧"
-data modify storage hangul:const char append value "쨨"
-data modify storage hangul:const char append value "쨩"
-data modify storage hangul:const char append value "쨪"
-data modify storage hangul:const char append value "쨫"
-data modify storage hangul:const char append value "쨬"
-data modify storage hangul:const char append value "쨭"
-data modify storage hangul:const char append value "쨮"
-data modify storage hangul:const char append value "쨯"
-data modify storage hangul:const char append value "쨰"
-data modify storage hangul:const char append value "쨱"
-data modify storage hangul:const char append value "쨲"
-data modify storage hangul:const char append value "쨳"
-data modify storage hangul:const char append value "쨴"
-data modify storage hangul:const char append value "쨵"
-data modify storage hangul:const char append value "쨶"
-data modify storage hangul:const char append value "쨷"
-data modify storage hangul:const char append value "쨸"
-data modify storage hangul:const char append value "쨹"
-data modify storage hangul:const char append value "쨺"
-data modify storage hangul:const char append value "쨻"
-data modify storage hangul:const char append value "쨼"
-data modify storage hangul:const char append value "쨽"
-data modify storage hangul:const char append value "쨾"
-data modify storage hangul:const char append value "쨿"
-data modify storage hangul:const char append value "쩀"
-data modify storage hangul:const char append value "쩁"
-data modify storage hangul:const char append value "쩂"
-data modify storage hangul:const char append value "쩃"
-data modify storage hangul:const char append value "쩄"
-data modify storage hangul:const char append value "쩅"
-data modify storage hangul:const char append value "쩆"
-data modify storage hangul:const char append value "쩇"
-data modify storage hangul:const char append value "쩈"
-data modify storage hangul:const char append value "쩉"
-data modify storage hangul:const char append value "쩊"
-data modify storage hangul:const char append value "쩋"
-data modify storage hangul:const char append value "쩌"
-data modify storage hangul:const char append value "쩍"
-data modify storage hangul:const char append value "쩎"
-data modify storage hangul:const char append value "쩏"
-data modify storage hangul:const char append value "쩐"
-data modify storage hangul:const char append value "쩑"
-data modify storage hangul:const char append value "쩒"
-data modify storage hangul:const char append value "쩓"
-data modify storage hangul:const char append value "쩔"
-data modify storage hangul:const char append value "쩕"
-data modify storage hangul:const char append value "쩖"
-data modify storage hangul:const char append value "쩗"
-data modify storage hangul:const char append value "쩘"
-data modify storage hangul:const char append value "쩙"
-data modify storage hangul:const char append value "쩚"
-data modify storage hangul:const char append value "쩛"
-data modify storage hangul:const char append value "쩜"
-data modify storage hangul:const char append value "쩝"
-data modify storage hangul:const char append value "쩞"
-data modify storage hangul:const char append value "쩟"
-data modify storage hangul:const char append value "쩠"
-data modify storage hangul:const char append value "쩡"
-data modify storage hangul:const char append value "쩢"
-data modify storage hangul:const char append value "쩣"
-data modify storage hangul:const char append value "쩤"
-data modify storage hangul:const char append value "쩥"
-data modify storage hangul:const char append value "쩦"
-data modify storage hangul:const char append value "쩧"
-data modify storage hangul:const char append value "쩨"
-data modify storage hangul:const char append value "쩩"
-data modify storage hangul:const char append value "쩪"
-data modify storage hangul:const char append value "쩫"
-data modify storage hangul:const char append value "쩬"
-data modify storage hangul:const char append value "쩭"
-data modify storage hangul:const char append value "쩮"
-data modify storage hangul:const char append value "쩯"
-data modify storage hangul:const char append value "쩰"
-data modify storage hangul:const char append value "쩱"
-data modify storage hangul:const char append value "쩲"
-data modify storage hangul:const char append value "쩳"
-data modify storage hangul:const char append value "쩴"
-data modify storage hangul:const char append value "쩵"
-data modify storage hangul:const char append value "쩶"
-data modify storage hangul:const char append value "쩷"
-data modify storage hangul:const char append value "쩸"
-data modify storage hangul:const char append value "쩹"
-data modify storage hangul:const char append value "쩺"
-data modify storage hangul:const char append value "쩻"
-data modify storage hangul:const char append value "쩼"
-data modify storage hangul:const char append value "쩽"
-data modify storage hangul:const char append value "쩾"
-data modify storage hangul:const char append value "쩿"
-data modify storage hangul:const char append value "쪀"
-data modify storage hangul:const char append value "쪁"
-data modify storage hangul:const char append value "쪂"
-data modify storage hangul:const char append value "쪃"
-data modify storage hangul:const char append value "쪄"
-data modify storage hangul:const char append value "쪅"
-data modify storage hangul:const char append value "쪆"
-data modify storage hangul:const char append value "쪇"
-data modify storage hangul:const char append value "쪈"
-data modify storage hangul:const char append value "쪉"
-data modify storage hangul:const char append value "쪊"
-data modify storage hangul:const char append value "쪋"
-data modify storage hangul:const char append value "쪌"
-data modify storage hangul:const char append value "쪍"
-data modify storage hangul:const char append value "쪎"
-data modify storage hangul:const char append value "쪏"
-data modify storage hangul:const char append value "쪐"
-data modify storage hangul:const char append value "쪑"
-data modify storage hangul:const char append value "쪒"
-data modify storage hangul:const char append value "쪓"
-data modify storage hangul:const char append value "쪔"
-data modify storage hangul:const char append value "쪕"
-data modify storage hangul:const char append value "쪖"
-data modify storage hangul:const char append value "쪗"
-data modify storage hangul:const char append value "쪘"
-data modify storage hangul:const char append value "쪙"
-data modify storage hangul:const char append value "쪚"
-data modify storage hangul:const char append value "쪛"
-data modify storage hangul:const char append value "쪜"
-data modify storage hangul:const char append value "쪝"
-data modify storage hangul:const char append value "쪞"
-data modify storage hangul:const char append value "쪟"
-data modify storage hangul:const char append value "쪠"
-data modify storage hangul:const char append value "쪡"
-data modify storage hangul:const char append value "쪢"
-data modify storage hangul:const char append value "쪣"
-data modify storage hangul:const char append value "쪤"
-data modify storage hangul:const char append value "쪥"
-data modify storage hangul:const char append value "쪦"
-data modify storage hangul:const char append value "쪧"
-data modify storage hangul:const char append value "쪨"
-data modify storage hangul:const char append value "쪩"
-data modify storage hangul:const char append value "쪪"
-data modify storage hangul:const char append value "쪫"
-data modify storage hangul:const char append value "쪬"
-data modify storage hangul:const char append value "쪭"
-data modify storage hangul:const char append value "쪮"
-data modify storage hangul:const char append value "쪯"
-data modify storage hangul:const char append value "쪰"
-data modify storage hangul:const char append value "쪱"
-data modify storage hangul:const char append value "쪲"
-data modify storage hangul:const char append value "쪳"
-data modify storage hangul:const char append value "쪴"
-data modify storage hangul:const char append value "쪵"
-data modify storage hangul:const char append value "쪶"
-data modify storage hangul:const char append value "쪷"
-data modify storage hangul:const char append value "쪸"
-data modify storage hangul:const char append value "쪹"
-data modify storage hangul:const char append value "쪺"
-data modify storage hangul:const char append value "쪻"
-data modify storage hangul:const char append value "쪼"
-data modify storage hangul:const char append value "쪽"
-data modify storage hangul:const char append value "쪾"
-data modify storage hangul:const char append value "쪿"
-data modify storage hangul:const char append value "쫀"
-data modify storage hangul:const char append value "쫁"
-data modify storage hangul:const char append value "쫂"
-data modify storage hangul:const char append value "쫃"
-data modify storage hangul:const char append value "쫄"
-data modify storage hangul:const char append value "쫅"
-data modify storage hangul:const char append value "쫆"
-data modify storage hangul:const char append value "쫇"
-data modify storage hangul:const char append value "쫈"
-data modify storage hangul:const char append value "쫉"
-data modify storage hangul:const char append value "쫊"
-data modify storage hangul:const char append value "쫋"
-data modify storage hangul:const char append value "쫌"
-data modify storage hangul:const char append value "쫍"
-data modify storage hangul:const char append value "쫎"
-data modify storage hangul:const char append value "쫏"
-data modify storage hangul:const char append value "쫐"
-data modify storage hangul:const char append value "쫑"
-data modify storage hangul:const char append value "쫒"
-data modify storage hangul:const char append value "쫓"
-data modify storage hangul:const char append value "쫔"
-data modify storage hangul:const char append value "쫕"
-data modify storage hangul:const char append value "쫖"
-data modify storage hangul:const char append value "쫗"
-data modify storage hangul:const char append value "쫘"
-data modify storage hangul:const char append value "쫙"
-data modify storage hangul:const char append value "쫚"
-data modify storage hangul:const char append value "쫛"
-data modify storage hangul:const char append value "쫜"
-data modify storage hangul:const char append value "쫝"
-data modify storage hangul:const char append value "쫞"
-data modify storage hangul:const char append value "쫟"
-data modify storage hangul:const char append value "쫠"
-data modify storage hangul:const char append value "쫡"
-data modify storage hangul:const char append value "쫢"
-data modify storage hangul:const char append value "쫣"
-data modify storage hangul:const char append value "쫤"
-data modify storage hangul:const char append value "쫥"
-data modify storage hangul:const char append value "쫦"
-data modify storage hangul:const char append value "쫧"
-data modify storage hangul:const char append value "쫨"
-data modify storage hangul:const char append value "쫩"
-data modify storage hangul:const char append value "쫪"
-data modify storage hangul:const char append value "쫫"
-data modify storage hangul:const char append value "쫬"
-data modify storage hangul:const char append value "쫭"
-data modify storage hangul:const char append value "쫮"
-data modify storage hangul:const char append value "쫯"
-data modify storage hangul:const char append value "쫰"
-data modify storage hangul:const char append value "쫱"
-data modify storage hangul:const char append value "쫲"
-data modify storage hangul:const char append value "쫳"
-data modify storage hangul:const char append value "쫴"
-data modify storage hangul:const char append value "쫵"
-data modify storage hangul:const char append value "쫶"
-data modify storage hangul:const char append value "쫷"
-data modify storage hangul:const char append value "쫸"
-data modify storage hangul:const char append value "쫹"
-data modify storage hangul:const char append value "쫺"
-data modify storage hangul:const char append value "쫻"
-data modify storage hangul:const char append value "쫼"
-data modify storage hangul:const char append value "쫽"
-data modify storage hangul:const char append value "쫾"
-data modify storage hangul:const char append value "쫿"
-data modify storage hangul:const char append value "쬀"
-data modify storage hangul:const char append value "쬁"
-data modify storage hangul:const char append value "쬂"
-data modify storage hangul:const char append value "쬃"
-data modify storage hangul:const char append value "쬄"
-data modify storage hangul:const char append value "쬅"
-data modify storage hangul:const char append value "쬆"
-data modify storage hangul:const char append value "쬇"
-data modify storage hangul:const char append value "쬈"
-data modify storage hangul:const char append value "쬉"
-data modify storage hangul:const char append value "쬊"
-data modify storage hangul:const char append value "쬋"
-data modify storage hangul:const char append value "쬌"
-data modify storage hangul:const char append value "쬍"
-data modify storage hangul:const char append value "쬎"
-data modify storage hangul:const char append value "쬏"
-data modify storage hangul:const char append value "쬐"
-data modify storage hangul:const char append value "쬑"
-data modify storage hangul:const char append value "쬒"
-data modify storage hangul:const char append value "쬓"
-data modify storage hangul:const char append value "쬔"
-data modify storage hangul:const char append value "쬕"
-data modify storage hangul:const char append value "쬖"
-data modify storage hangul:const char append value "쬗"
-data modify storage hangul:const char append value "쬘"
-data modify storage hangul:const char append value "쬙"
-data modify storage hangul:const char append value "쬚"
-data modify storage hangul:const char append value "쬛"
-data modify storage hangul:const char append value "쬜"
-data modify storage hangul:const char append value "쬝"
-data modify storage hangul:const char append value "쬞"
-data modify storage hangul:const char append value "쬟"
-data modify storage hangul:const char append value "쬠"
-data modify storage hangul:const char append value "쬡"
-data modify storage hangul:const char append value "쬢"
-data modify storage hangul:const char append value "쬣"
-data modify storage hangul:const char append value "쬤"
-data modify storage hangul:const char append value "쬥"
-data modify storage hangul:const char append value "쬦"
-data modify storage hangul:const char append value "쬧"
-data modify storage hangul:const char append value "쬨"
-data modify storage hangul:const char append value "쬩"
-data modify storage hangul:const char append value "쬪"
-data modify storage hangul:const char append value "쬫"
-data modify storage hangul:const char append value "쬬"
-data modify storage hangul:const char append value "쬭"
-data modify storage hangul:const char append value "쬮"
-data modify storage hangul:const char append value "쬯"
-data modify storage hangul:const char append value "쬰"
-data modify storage hangul:const char append value "쬱"
-data modify storage hangul:const char append value "쬲"
-data modify storage hangul:const char append value "쬳"
-data modify storage hangul:const char append value "쬴"
-data modify storage hangul:const char append value "쬵"
-data modify storage hangul:const char append value "쬶"
-data modify storage hangul:const char append value "쬷"
-data modify storage hangul:const char append value "쬸"
-data modify storage hangul:const char append value "쬹"
-data modify storage hangul:const char append value "쬺"
-data modify storage hangul:const char append value "쬻"
-data modify storage hangul:const char append value "쬼"
-data modify storage hangul:const char append value "쬽"
-data modify storage hangul:const char append value "쬾"
-data modify storage hangul:const char append value "쬿"
-data modify storage hangul:const char append value "쭀"
-data modify storage hangul:const char append value "쭁"
-data modify storage hangul:const char append value "쭂"
-data modify storage hangul:const char append value "쭃"
-data modify storage hangul:const char append value "쭄"
-data modify storage hangul:const char append value "쭅"
-data modify storage hangul:const char append value "쭆"
-data modify storage hangul:const char append value "쭇"
-data modify storage hangul:const char append value "쭈"
-data modify storage hangul:const char append value "쭉"
-data modify storage hangul:const char append value "쭊"
-data modify storage hangul:const char append value "쭋"
-data modify storage hangul:const char append value "쭌"
-data modify storage hangul:const char append value "쭍"
-data modify storage hangul:const char append value "쭎"
-data modify storage hangul:const char append value "쭏"
-data modify storage hangul:const char append value "쭐"
-data modify storage hangul:const char append value "쭑"
-data modify storage hangul:const char append value "쭒"
-data modify storage hangul:const char append value "쭓"
-data modify storage hangul:const char append value "쭔"
-data modify storage hangul:const char append value "쭕"
-data modify storage hangul:const char append value "쭖"
-data modify storage hangul:const char append value "쭗"
-data modify storage hangul:const char append value "쭘"
-data modify storage hangul:const char append value "쭙"
-data modify storage hangul:const char append value "쭚"
-data modify storage hangul:const char append value "쭛"
-data modify storage hangul:const char append value "쭜"
-data modify storage hangul:const char append value "쭝"
-data modify storage hangul:const char append value "쭞"
-data modify storage hangul:const char append value "쭟"
-data modify storage hangul:const char append value "쭠"
-data modify storage hangul:const char append value "쭡"
-data modify storage hangul:const char append value "쭢"
-data modify storage hangul:const char append value "쭣"
-data modify storage hangul:const char append value "쭤"
-data modify storage hangul:const char append value "쭥"
-data modify storage hangul:const char append value "쭦"
-data modify storage hangul:const char append value "쭧"
-data modify storage hangul:const char append value "쭨"
-data modify storage hangul:const char append value "쭩"
-data modify storage hangul:const char append value "쭪"
-data modify storage hangul:const char append value "쭫"
-data modify storage hangul:const char append value "쭬"
-data modify storage hangul:const char append value "쭭"
-data modify storage hangul:const char append value "쭮"
-data modify storage hangul:const char append value "쭯"
-data modify storage hangul:const char append value "쭰"
-data modify storage hangul:const char append value "쭱"
-data modify storage hangul:const char append value "쭲"
-data modify storage hangul:const char append value "쭳"
-data modify storage hangul:const char append value "쭴"
-data modify storage hangul:const char append value "쭵"
-data modify storage hangul:const char append value "쭶"
-data modify storage hangul:const char append value "쭷"
-data modify storage hangul:const char append value "쭸"
-data modify storage hangul:const char append value "쭹"
-data modify storage hangul:const char append value "쭺"
-data modify storage hangul:const char append value "쭻"
-data modify storage hangul:const char append value "쭼"
-data modify storage hangul:const char append value "쭽"
-data modify storage hangul:const char append value "쭾"
-data modify storage hangul:const char append value "쭿"
-data modify storage hangul:const char append value "쮀"
-data modify storage hangul:const char append value "쮁"
-data modify storage hangul:const char append value "쮂"
-data modify storage hangul:const char append value "쮃"
-data modify storage hangul:const char append value "쮄"
-data modify storage hangul:const char append value "쮅"
-data modify storage hangul:const char append value "쮆"
-data modify storage hangul:const char append value "쮇"
-data modify storage hangul:const char append value "쮈"
-data modify storage hangul:const char append value "쮉"
-data modify storage hangul:const char append value "쮊"
-data modify storage hangul:const char append value "쮋"
-data modify storage hangul:const char append value "쮌"
-data modify storage hangul:const char append value "쮍"
-data modify storage hangul:const char append value "쮎"
-data modify storage hangul:const char append value "쮏"
-data modify storage hangul:const char append value "쮐"
-data modify storage hangul:const char append value "쮑"
-data modify storage hangul:const char append value "쮒"
-data modify storage hangul:const char append value "쮓"
-data modify storage hangul:const char append value "쮔"
-data modify storage hangul:const char append value "쮕"
-data modify storage hangul:const char append value "쮖"
-data modify storage hangul:const char append value "쮗"
-data modify storage hangul:const char append value "쮘"
-data modify storage hangul:const char append value "쮙"
-data modify storage hangul:const char append value "쮚"
-data modify storage hangul:const char append value "쮛"
-data modify storage hangul:const char append value "쮜"
-data modify storage hangul:const char append value "쮝"
-data modify storage hangul:const char append value "쮞"
-data modify storage hangul:const char append value "쮟"
-data modify storage hangul:const char append value "쮠"
-data modify storage hangul:const char append value "쮡"
-data modify storage hangul:const char append value "쮢"
-data modify storage hangul:const char append value "쮣"
-data modify storage hangul:const char append value "쮤"
-data modify storage hangul:const char append value "쮥"
-data modify storage hangul:const char append value "쮦"
-data modify storage hangul:const char append value "쮧"
-data modify storage hangul:const char append value "쮨"
-data modify storage hangul:const char append value "쮩"
-data modify storage hangul:const char append value "쮪"
-data modify storage hangul:const char append value "쮫"
-data modify storage hangul:const char append value "쮬"
-data modify storage hangul:const char append value "쮭"
-data modify storage hangul:const char append value "쮮"
-data modify storage hangul:const char append value "쮯"
-data modify storage hangul:const char append value "쮰"
-data modify storage hangul:const char append value "쮱"
-data modify storage hangul:const char append value "쮲"
-data modify storage hangul:const char append value "쮳"
-data modify storage hangul:const char append value "쮴"
-data modify storage hangul:const char append value "쮵"
-data modify storage hangul:const char append value "쮶"
-data modify storage hangul:const char append value "쮷"
-data modify storage hangul:const char append value "쮸"
-data modify storage hangul:const char append value "쮹"
-data modify storage hangul:const char append value "쮺"
-data modify storage hangul:const char append value "쮻"
-data modify storage hangul:const char append value "쮼"
-data modify storage hangul:const char append value "쮽"
-data modify storage hangul:const char append value "쮾"
-data modify storage hangul:const char append value "쮿"
-data modify storage hangul:const char append value "쯀"
-data modify storage hangul:const char append value "쯁"
-data modify storage hangul:const char append value "쯂"
-data modify storage hangul:const char append value "쯃"
-data modify storage hangul:const char append value "쯄"
-data modify storage hangul:const char append value "쯅"
-data modify storage hangul:const char append value "쯆"
-data modify storage hangul:const char append value "쯇"
-data modify storage hangul:const char append value "쯈"
-data modify storage hangul:const char append value "쯉"
-data modify storage hangul:const char append value "쯊"
-data modify storage hangul:const char append value "쯋"
-data modify storage hangul:const char append value "쯌"
-data modify storage hangul:const char append value "쯍"
-data modify storage hangul:const char append value "쯎"
-data modify storage hangul:const char append value "쯏"
-data modify storage hangul:const char append value "쯐"
-data modify storage hangul:const char append value "쯑"
-data modify storage hangul:const char append value "쯒"
-data modify storage hangul:const char append value "쯓"
-data modify storage hangul:const char append value "쯔"
-data modify storage hangul:const char append value "쯕"
-data modify storage hangul:const char append value "쯖"
-data modify storage hangul:const char append value "쯗"
-data modify storage hangul:const char append value "쯘"
-data modify storage hangul:const char append value "쯙"
-data modify storage hangul:const char append value "쯚"
-data modify storage hangul:const char append value "쯛"
-data modify storage hangul:const char append value "쯜"
-data modify storage hangul:const char append value "쯝"
-data modify storage hangul:const char append value "쯞"
-data modify storage hangul:const char append value "쯟"
-data modify storage hangul:const char append value "쯠"
-data modify storage hangul:const char append value "쯡"
-data modify storage hangul:const char append value "쯢"
-data modify storage hangul:const char append value "쯣"
-data modify storage hangul:const char append value "쯤"
-data modify storage hangul:const char append value "쯥"
-data modify storage hangul:const char append value "쯦"
-data modify storage hangul:const char append value "쯧"
-data modify storage hangul:const char append value "쯨"
-data modify storage hangul:const char append value "쯩"
-data modify storage hangul:const char append value "쯪"
-data modify storage hangul:const char append value "쯫"
-data modify storage hangul:const char append value "쯬"
-data modify storage hangul:const char append value "쯭"
-data modify storage hangul:const char append value "쯮"
-data modify storage hangul:const char append value "쯯"
-data modify storage hangul:const char append value "쯰"
-data modify storage hangul:const char append value "쯱"
-data modify storage hangul:const char append value "쯲"
-data modify storage hangul:const char append value "쯳"
-data modify storage hangul:const char append value "쯴"
-data modify storage hangul:const char append value "쯵"
-data modify storage hangul:const char append value "쯶"
-data modify storage hangul:const char append value "쯷"
-data modify storage hangul:const char append value "쯸"
-data modify storage hangul:const char append value "쯹"
-data modify storage hangul:const char append value "쯺"
-data modify storage hangul:const char append value "쯻"
-data modify storage hangul:const char append value "쯼"
-data modify storage hangul:const char append value "쯽"
-data modify storage hangul:const char append value "쯾"
-data modify storage hangul:const char append value "쯿"
-data modify storage hangul:const char append value "찀"
-data modify storage hangul:const char append value "찁"
-data modify storage hangul:const char append value "찂"
-data modify storage hangul:const char append value "찃"
-data modify storage hangul:const char append value "찄"
-data modify storage hangul:const char append value "찅"
-data modify storage hangul:const char append value "찆"
-data modify storage hangul:const char append value "찇"
-data modify storage hangul:const char append value "찈"
-data modify storage hangul:const char append value "찉"
-data modify storage hangul:const char append value "찊"
-data modify storage hangul:const char append value "찋"
-data modify storage hangul:const char append value "찌"
-data modify storage hangul:const char append value "찍"
-data modify storage hangul:const char append value "찎"
-data modify storage hangul:const char append value "찏"
-data modify storage hangul:const char append value "찐"
-data modify storage hangul:const char append value "찑"
-data modify storage hangul:const char append value "찒"
-data modify storage hangul:const char append value "찓"
-data modify storage hangul:const char append value "찔"
-data modify storage hangul:const char append value "찕"
-data modify storage hangul:const char append value "찖"
-data modify storage hangul:const char append value "찗"
-data modify storage hangul:const char append value "찘"
-data modify storage hangul:const char append value "찙"
-data modify storage hangul:const char append value "찚"
-data modify storage hangul:const char append value "찛"
-data modify storage hangul:const char append value "찜"
-data modify storage hangul:const char append value "찝"
-data modify storage hangul:const char append value "찞"
-data modify storage hangul:const char append value "찟"
-data modify storage hangul:const char append value "찠"
-data modify storage hangul:const char append value "찡"
-data modify storage hangul:const char append value "찢"
-data modify storage hangul:const char append value "찣"
-data modify storage hangul:const char append value "찤"
-data modify storage hangul:const char append value "찥"
-data modify storage hangul:const char append value "찦"
-data modify storage hangul:const char append value "찧"
-data modify storage hangul:const char append value "차"
-data modify storage hangul:const char append value "착"
-data modify storage hangul:const char append value "찪"
-data modify storage hangul:const char append value "찫"
-data modify storage hangul:const char append value "찬"
-data modify storage hangul:const char append value "찭"
-data modify storage hangul:const char append value "찮"
-data modify storage hangul:const char append value "찯"
-data modify storage hangul:const char append value "찰"
-data modify storage hangul:const char append value "찱"
-data modify storage hangul:const char append value "찲"
-data modify storage hangul:const char append value "찳"
-data modify storage hangul:const char append value "찴"
-data modify storage hangul:const char append value "찵"
-data modify storage hangul:const char append value "찶"
-data modify storage hangul:const char append value "찷"
-data modify storage hangul:const char append value "참"
-data modify storage hangul:const char append value "찹"
-data modify storage hangul:const char append value "찺"
-data modify storage hangul:const char append value "찻"
-data modify storage hangul:const char append value "찼"
-data modify storage hangul:const char append value "창"
-data modify storage hangul:const char append value "찾"
-data modify storage hangul:const char append value "찿"
-data modify storage hangul:const char append value "챀"
-data modify storage hangul:const char append value "챁"
-data modify storage hangul:const char append value "챂"
-data modify storage hangul:const char append value "챃"
-data modify storage hangul:const char append value "채"
-data modify storage hangul:const char append value "책"
-data modify storage hangul:const char append value "챆"
-data modify storage hangul:const char append value "챇"
-data modify storage hangul:const char append value "챈"
-data modify storage hangul:const char append value "챉"
-data modify storage hangul:const char append value "챊"
-data modify storage hangul:const char append value "챋"
-data modify storage hangul:const char append value "챌"
-data modify storage hangul:const char append value "챍"
-data modify storage hangul:const char append value "챎"
-data modify storage hangul:const char append value "챏"
-data modify storage hangul:const char append value "챐"
-data modify storage hangul:const char append value "챑"
-data modify storage hangul:const char append value "챒"
-data modify storage hangul:const char append value "챓"
-data modify storage hangul:const char append value "챔"
-data modify storage hangul:const char append value "챕"
-data modify storage hangul:const char append value "챖"
-data modify storage hangul:const char append value "챗"
-data modify storage hangul:const char append value "챘"
-data modify storage hangul:const char append value "챙"
-data modify storage hangul:const char append value "챚"
-data modify storage hangul:const char append value "챛"
-data modify storage hangul:const char append value "챜"
-data modify storage hangul:const char append value "챝"
-data modify storage hangul:const char append value "챞"
-data modify storage hangul:const char append value "챟"
-data modify storage hangul:const char append value "챠"
-data modify storage hangul:const char append value "챡"
-data modify storage hangul:const char append value "챢"
-data modify storage hangul:const char append value "챣"
-data modify storage hangul:const char append value "챤"
-data modify storage hangul:const char append value "챥"
-data modify storage hangul:const char append value "챦"
-data modify storage hangul:const char append value "챧"
-data modify storage hangul:const char append value "챨"
-data modify storage hangul:const char append value "챩"
-data modify storage hangul:const char append value "챪"
-data modify storage hangul:const char append value "챫"
-data modify storage hangul:const char append value "챬"
-data modify storage hangul:const char append value "챭"
-data modify storage hangul:const char append value "챮"
-data modify storage hangul:const char append value "챯"
-data modify storage hangul:const char append value "챰"
-data modify storage hangul:const char append value "챱"
-data modify storage hangul:const char append value "챲"
-data modify storage hangul:const char append value "챳"
-data modify storage hangul:const char append value "챴"
-data modify storage hangul:const char append value "챵"
-data modify storage hangul:const char append value "챶"
-data modify storage hangul:const char append value "챷"
-data modify storage hangul:const char append value "챸"
-data modify storage hangul:const char append value "챹"
-data modify storage hangul:const char append value "챺"
-data modify storage hangul:const char append value "챻"
-data modify storage hangul:const char append value "챼"
-data modify storage hangul:const char append value "챽"
-data modify storage hangul:const char append value "챾"
-data modify storage hangul:const char append value "챿"
-data modify storage hangul:const char append value "첀"
-data modify storage hangul:const char append value "첁"
-data modify storage hangul:const char append value "첂"
-data modify storage hangul:const char append value "첃"
-data modify storage hangul:const char append value "첄"
-data modify storage hangul:const char append value "첅"
-data modify storage hangul:const char append value "첆"
-data modify storage hangul:const char append value "첇"
-data modify storage hangul:const char append value "첈"
-data modify storage hangul:const char append value "첉"
-data modify storage hangul:const char append value "첊"
-data modify storage hangul:const char append value "첋"
-data modify storage hangul:const char append value "첌"
-data modify storage hangul:const char append value "첍"
-data modify storage hangul:const char append value "첎"
-data modify storage hangul:const char append value "첏"
-data modify storage hangul:const char append value "첐"
-data modify storage hangul:const char append value "첑"
-data modify storage hangul:const char append value "첒"
-data modify storage hangul:const char append value "첓"
-data modify storage hangul:const char append value "첔"
-data modify storage hangul:const char append value "첕"
-data modify storage hangul:const char append value "첖"
-data modify storage hangul:const char append value "첗"
-data modify storage hangul:const char append value "처"
-data modify storage hangul:const char append value "척"
-data modify storage hangul:const char append value "첚"
-data modify storage hangul:const char append value "첛"
-data modify storage hangul:const char append value "천"
-data modify storage hangul:const char append value "첝"
-data modify storage hangul:const char append value "첞"
-data modify storage hangul:const char append value "첟"
-data modify storage hangul:const char append value "철"
-data modify storage hangul:const char append value "첡"
-data modify storage hangul:const char append value "첢"
-data modify storage hangul:const char append value "첣"
-data modify storage hangul:const char append value "첤"
-data modify storage hangul:const char append value "첥"
-data modify storage hangul:const char append value "첦"
-data modify storage hangul:const char append value "첧"
-data modify storage hangul:const char append value "첨"
-data modify storage hangul:const char append value "첩"
-data modify storage hangul:const char append value "첪"
-data modify storage hangul:const char append value "첫"
-data modify storage hangul:const char append value "첬"
-data modify storage hangul:const char append value "청"
-data modify storage hangul:const char append value "첮"
-data modify storage hangul:const char append value "첯"
-data modify storage hangul:const char append value "첰"
-data modify storage hangul:const char append value "첱"
-data modify storage hangul:const char append value "첲"
-data modify storage hangul:const char append value "첳"
-data modify storage hangul:const char append value "체"
-data modify storage hangul:const char append value "첵"
-data modify storage hangul:const char append value "첶"
-data modify storage hangul:const char append value "첷"
-data modify storage hangul:const char append value "첸"
-data modify storage hangul:const char append value "첹"
-data modify storage hangul:const char append value "첺"
-data modify storage hangul:const char append value "첻"
-data modify storage hangul:const char append value "첼"
-data modify storage hangul:const char append value "첽"
-data modify storage hangul:const char append value "첾"
-data modify storage hangul:const char append value "첿"
-data modify storage hangul:const char append value "쳀"
-data modify storage hangul:const char append value "쳁"
-data modify storage hangul:const char append value "쳂"
-data modify storage hangul:const char append value "쳃"
-data modify storage hangul:const char append value "쳄"
-data modify storage hangul:const char append value "쳅"
-data modify storage hangul:const char append value "쳆"
-data modify storage hangul:const char append value "쳇"
-data modify storage hangul:const char append value "쳈"
-data modify storage hangul:const char append value "쳉"
-data modify storage hangul:const char append value "쳊"
-data modify storage hangul:const char append value "쳋"
-data modify storage hangul:const char append value "쳌"
-data modify storage hangul:const char append value "쳍"
-data modify storage hangul:const char append value "쳎"
-data modify storage hangul:const char append value "쳏"
-data modify storage hangul:const char append value "쳐"
-data modify storage hangul:const char append value "쳑"
-data modify storage hangul:const char append value "쳒"
-data modify storage hangul:const char append value "쳓"
-data modify storage hangul:const char append value "쳔"
-data modify storage hangul:const char append value "쳕"
-data modify storage hangul:const char append value "쳖"
-data modify storage hangul:const char append value "쳗"
-data modify storage hangul:const char append value "쳘"
-data modify storage hangul:const char append value "쳙"
-data modify storage hangul:const char append value "쳚"
-data modify storage hangul:const char append value "쳛"
-data modify storage hangul:const char append value "쳜"
-data modify storage hangul:const char append value "쳝"
-data modify storage hangul:const char append value "쳞"
-data modify storage hangul:const char append value "쳟"
-data modify storage hangul:const char append value "쳠"
-data modify storage hangul:const char append value "쳡"
-data modify storage hangul:const char append value "쳢"
-data modify storage hangul:const char append value "쳣"
-data modify storage hangul:const char append value "쳤"
-data modify storage hangul:const char append value "쳥"
-data modify storage hangul:const char append value "쳦"
-data modify storage hangul:const char append value "쳧"
-data modify storage hangul:const char append value "쳨"
-data modify storage hangul:const char append value "쳩"
-data modify storage hangul:const char append value "쳪"
-data modify storage hangul:const char append value "쳫"
-data modify storage hangul:const char append value "쳬"
-data modify storage hangul:const char append value "쳭"
-data modify storage hangul:const char append value "쳮"
-data modify storage hangul:const char append value "쳯"
-data modify storage hangul:const char append value "쳰"
-data modify storage hangul:const char append value "쳱"
-data modify storage hangul:const char append value "쳲"
-data modify storage hangul:const char append value "쳳"
-data modify storage hangul:const char append value "쳴"
-data modify storage hangul:const char append value "쳵"
-data modify storage hangul:const char append value "쳶"
-data modify storage hangul:const char append value "쳷"
-data modify storage hangul:const char append value "쳸"
-data modify storage hangul:const char append value "쳹"
-data modify storage hangul:const char append value "쳺"
-data modify storage hangul:const char append value "쳻"
-data modify storage hangul:const char append value "쳼"
-data modify storage hangul:const char append value "쳽"
-data modify storage hangul:const char append value "쳾"
-data modify storage hangul:const char append value "쳿"
-data modify storage hangul:const char append value "촀"
-data modify storage hangul:const char append value "촁"
-data modify storage hangul:const char append value "촂"
-data modify storage hangul:const char append value "촃"
-data modify storage hangul:const char append value "촄"
-data modify storage hangul:const char append value "촅"
-data modify storage hangul:const char append value "촆"
-data modify storage hangul:const char append value "촇"
-data modify storage hangul:const char append value "초"
-data modify storage hangul:const char append value "촉"
-data modify storage hangul:const char append value "촊"
-data modify storage hangul:const char append value "촋"
-data modify storage hangul:const char append value "촌"
-data modify storage hangul:const char append value "촍"
-data modify storage hangul:const char append value "촎"
-data modify storage hangul:const char append value "촏"
-data modify storage hangul:const char append value "촐"
-data modify storage hangul:const char append value "촑"
-data modify storage hangul:const char append value "촒"
-data modify storage hangul:const char append value "촓"
-data modify storage hangul:const char append value "촔"
-data modify storage hangul:const char append value "촕"
-data modify storage hangul:const char append value "촖"
-data modify storage hangul:const char append value "촗"
-data modify storage hangul:const char append value "촘"
-data modify storage hangul:const char append value "촙"
-data modify storage hangul:const char append value "촚"
-data modify storage hangul:const char append value "촛"
-data modify storage hangul:const char append value "촜"
-data modify storage hangul:const char append value "총"
-data modify storage hangul:const char append value "촞"
-data modify storage hangul:const char append value "촟"
-data modify storage hangul:const char append value "촠"
-data modify storage hangul:const char append value "촡"
-data modify storage hangul:const char append value "촢"
-data modify storage hangul:const char append value "촣"
-data modify storage hangul:const char append value "촤"
-data modify storage hangul:const char append value "촥"
-data modify storage hangul:const char append value "촦"
-data modify storage hangul:const char append value "촧"
-data modify storage hangul:const char append value "촨"
-data modify storage hangul:const char append value "촩"
-data modify storage hangul:const char append value "촪"
-data modify storage hangul:const char append value "촫"
-data modify storage hangul:const char append value "촬"
-data modify storage hangul:const char append value "촭"
-data modify storage hangul:const char append value "촮"
-data modify storage hangul:const char append value "촯"
-data modify storage hangul:const char append value "촰"
-data modify storage hangul:const char append value "촱"
-data modify storage hangul:const char append value "촲"
-data modify storage hangul:const char append value "촳"
-data modify storage hangul:const char append value "촴"
-data modify storage hangul:const char append value "촵"
-data modify storage hangul:const char append value "촶"
-data modify storage hangul:const char append value "촷"
-data modify storage hangul:const char append value "촸"
-data modify storage hangul:const char append value "촹"
-data modify storage hangul:const char append value "촺"
-data modify storage hangul:const char append value "촻"
-data modify storage hangul:const char append value "촼"
-data modify storage hangul:const char append value "촽"
-data modify storage hangul:const char append value "촾"
-data modify storage hangul:const char append value "촿"
-data modify storage hangul:const char append value "쵀"
-data modify storage hangul:const char append value "쵁"
-data modify storage hangul:const char append value "쵂"
-data modify storage hangul:const char append value "쵃"
-data modify storage hangul:const char append value "쵄"
-data modify storage hangul:const char append value "쵅"
-data modify storage hangul:const char append value "쵆"
-data modify storage hangul:const char append value "쵇"
-data modify storage hangul:const char append value "쵈"
-data modify storage hangul:const char append value "쵉"
-data modify storage hangul:const char append value "쵊"
-data modify storage hangul:const char append value "쵋"
-data modify storage hangul:const char append value "쵌"
-data modify storage hangul:const char append value "쵍"
-data modify storage hangul:const char append value "쵎"
-data modify storage hangul:const char append value "쵏"
-data modify storage hangul:const char append value "쵐"
-data modify storage hangul:const char append value "쵑"
-data modify storage hangul:const char append value "쵒"
-data modify storage hangul:const char append value "쵓"
-data modify storage hangul:const char append value "쵔"
-data modify storage hangul:const char append value "쵕"
-data modify storage hangul:const char append value "쵖"
-data modify storage hangul:const char append value "쵗"
-data modify storage hangul:const char append value "쵘"
-data modify storage hangul:const char append value "쵙"
-data modify storage hangul:const char append value "쵚"
-data modify storage hangul:const char append value "쵛"
-data modify storage hangul:const char append value "최"
-data modify storage hangul:const char append value "쵝"
-data modify storage hangul:const char append value "쵞"
-data modify storage hangul:const char append value "쵟"
-data modify storage hangul:const char append value "쵠"
-data modify storage hangul:const char append value "쵡"
-data modify storage hangul:const char append value "쵢"
-data modify storage hangul:const char append value "쵣"
-data modify storage hangul:const char append value "쵤"
-data modify storage hangul:const char append value "쵥"
-data modify storage hangul:const char append value "쵦"
-data modify storage hangul:const char append value "쵧"
-data modify storage hangul:const char append value "쵨"
-data modify storage hangul:const char append value "쵩"
-data modify storage hangul:const char append value "쵪"
-data modify storage hangul:const char append value "쵫"
-data modify storage hangul:const char append value "쵬"
-data modify storage hangul:const char append value "쵭"
-data modify storage hangul:const char append value "쵮"
-data modify storage hangul:const char append value "쵯"
-data modify storage hangul:const char append value "쵰"
-data modify storage hangul:const char append value "쵱"
-data modify storage hangul:const char append value "쵲"
-data modify storage hangul:const char append value "쵳"
-data modify storage hangul:const char append value "쵴"
-data modify storage hangul:const char append value "쵵"
-data modify storage hangul:const char append value "쵶"
-data modify storage hangul:const char append value "쵷"
-data modify storage hangul:const char append value "쵸"
-data modify storage hangul:const char append value "쵹"
-data modify storage hangul:const char append value "쵺"
-data modify storage hangul:const char append value "쵻"
-data modify storage hangul:const char append value "쵼"
-data modify storage hangul:const char append value "쵽"
-data modify storage hangul:const char append value "쵾"
-data modify storage hangul:const char append value "쵿"
-data modify storage hangul:const char append value "춀"
-data modify storage hangul:const char append value "춁"
-data modify storage hangul:const char append value "춂"
-data modify storage hangul:const char append value "춃"
-data modify storage hangul:const char append value "춄"
-data modify storage hangul:const char append value "춅"
-data modify storage hangul:const char append value "춆"
-data modify storage hangul:const char append value "춇"
-data modify storage hangul:const char append value "춈"
-data modify storage hangul:const char append value "춉"
-data modify storage hangul:const char append value "춊"
-data modify storage hangul:const char append value "춋"
-data modify storage hangul:const char append value "춌"
-data modify storage hangul:const char append value "춍"
-data modify storage hangul:const char append value "춎"
-data modify storage hangul:const char append value "춏"
-data modify storage hangul:const char append value "춐"
-data modify storage hangul:const char append value "춑"
-data modify storage hangul:const char append value "춒"
-data modify storage hangul:const char append value "춓"
-data modify storage hangul:const char append value "추"
-data modify storage hangul:const char append value "축"
-data modify storage hangul:const char append value "춖"
-data modify storage hangul:const char append value "춗"
-data modify storage hangul:const char append value "춘"
-data modify storage hangul:const char append value "춙"
-data modify storage hangul:const char append value "춚"
-data modify storage hangul:const char append value "춛"
-data modify storage hangul:const char append value "출"
-data modify storage hangul:const char append value "춝"
-data modify storage hangul:const char append value "춞"
-data modify storage hangul:const char append value "춟"
-data modify storage hangul:const char append value "춠"
-data modify storage hangul:const char append value "춡"
-data modify storage hangul:const char append value "춢"
-data modify storage hangul:const char append value "춣"
-data modify storage hangul:const char append value "춤"
-data modify storage hangul:const char append value "춥"
-data modify storage hangul:const char append value "춦"
-data modify storage hangul:const char append value "춧"
-data modify storage hangul:const char append value "춨"
-data modify storage hangul:const char append value "충"
-data modify storage hangul:const char append value "춪"
-data modify storage hangul:const char append value "춫"
-data modify storage hangul:const char append value "춬"
-data modify storage hangul:const char append value "춭"
-data modify storage hangul:const char append value "춮"
-data modify storage hangul:const char append value "춯"
-data modify storage hangul:const char append value "춰"
-data modify storage hangul:const char append value "춱"
-data modify storage hangul:const char append value "춲"
-data modify storage hangul:const char append value "춳"
-data modify storage hangul:const char append value "춴"
-data modify storage hangul:const char append value "춵"
-data modify storage hangul:const char append value "춶"
-data modify storage hangul:const char append value "춷"
-data modify storage hangul:const char append value "춸"
-data modify storage hangul:const char append value "춹"
-data modify storage hangul:const char append value "춺"
-data modify storage hangul:const char append value "춻"
-data modify storage hangul:const char append value "춼"
-data modify storage hangul:const char append value "춽"
-data modify storage hangul:const char append value "춾"
-data modify storage hangul:const char append value "춿"
-data modify storage hangul:const char append value "췀"
-data modify storage hangul:const char append value "췁"
-data modify storage hangul:const char append value "췂"
-data modify storage hangul:const char append value "췃"
-data modify storage hangul:const char append value "췄"
-data modify storage hangul:const char append value "췅"
-data modify storage hangul:const char append value "췆"
-data modify storage hangul:const char append value "췇"
-data modify storage hangul:const char append value "췈"
-data modify storage hangul:const char append value "췉"
-data modify storage hangul:const char append value "췊"
-data modify storage hangul:const char append value "췋"
-data modify storage hangul:const char append value "췌"
-data modify storage hangul:const char append value "췍"
-data modify storage hangul:const char append value "췎"
-data modify storage hangul:const char append value "췏"
-data modify storage hangul:const char append value "췐"
-data modify storage hangul:const char append value "췑"
-data modify storage hangul:const char append value "췒"
-data modify storage hangul:const char append value "췓"
-data modify storage hangul:const char append value "췔"
-data modify storage hangul:const char append value "췕"
-data modify storage hangul:const char append value "췖"
-data modify storage hangul:const char append value "췗"
-data modify storage hangul:const char append value "췘"
-data modify storage hangul:const char append value "췙"
-data modify storage hangul:const char append value "췚"
-data modify storage hangul:const char append value "췛"
-data modify storage hangul:const char append value "췜"
-data modify storage hangul:const char append value "췝"
-data modify storage hangul:const char append value "췞"
-data modify storage hangul:const char append value "췟"
-data modify storage hangul:const char append value "췠"
-data modify storage hangul:const char append value "췡"
-data modify storage hangul:const char append value "췢"
-data modify storage hangul:const char append value "췣"
-data modify storage hangul:const char append value "췤"
-data modify storage hangul:const char append value "췥"
-data modify storage hangul:const char append value "췦"
-data modify storage hangul:const char append value "췧"
-data modify storage hangul:const char append value "취"
-data modify storage hangul:const char append value "췩"
-data modify storage hangul:const char append value "췪"
-data modify storage hangul:const char append value "췫"
-data modify storage hangul:const char append value "췬"
-data modify storage hangul:const char append value "췭"
-data modify storage hangul:const char append value "췮"
-data modify storage hangul:const char append value "췯"
-data modify storage hangul:const char append value "췰"
-data modify storage hangul:const char append value "췱"
-data modify storage hangul:const char append value "췲"
-data modify storage hangul:const char append value "췳"
-data modify storage hangul:const char append value "췴"
-data modify storage hangul:const char append value "췵"
-data modify storage hangul:const char append value "췶"
-data modify storage hangul:const char append value "췷"
-data modify storage hangul:const char append value "췸"
-data modify storage hangul:const char append value "췹"
-data modify storage hangul:const char append value "췺"
-data modify storage hangul:const char append value "췻"
-data modify storage hangul:const char append value "췼"
-data modify storage hangul:const char append value "췽"
-data modify storage hangul:const char append value "췾"
-data modify storage hangul:const char append value "췿"
-data modify storage hangul:const char append value "츀"
-data modify storage hangul:const char append value "츁"
-data modify storage hangul:const char append value "츂"
-data modify storage hangul:const char append value "츃"
-data modify storage hangul:const char append value "츄"
-data modify storage hangul:const char append value "츅"
-data modify storage hangul:const char append value "츆"
-data modify storage hangul:const char append value "츇"
-data modify storage hangul:const char append value "츈"
-data modify storage hangul:const char append value "츉"
-data modify storage hangul:const char append value "츊"
-data modify storage hangul:const char append value "츋"
-data modify storage hangul:const char append value "츌"
-data modify storage hangul:const char append value "츍"
-data modify storage hangul:const char append value "츎"
-data modify storage hangul:const char append value "츏"
-data modify storage hangul:const char append value "츐"
-data modify storage hangul:const char append value "츑"
-data modify storage hangul:const char append value "츒"
-data modify storage hangul:const char append value "츓"
-data modify storage hangul:const char append value "츔"
-data modify storage hangul:const char append value "츕"
-data modify storage hangul:const char append value "츖"
-data modify storage hangul:const char append value "츗"
-data modify storage hangul:const char append value "츘"
-data modify storage hangul:const char append value "츙"
-data modify storage hangul:const char append value "츚"
-data modify storage hangul:const char append value "츛"
-data modify storage hangul:const char append value "츜"
-data modify storage hangul:const char append value "츝"
-data modify storage hangul:const char append value "츞"
-data modify storage hangul:const char append value "츟"
-data modify storage hangul:const char append value "츠"
-data modify storage hangul:const char append value "측"
-data modify storage hangul:const char append value "츢"
-data modify storage hangul:const char append value "츣"
-data modify storage hangul:const char append value "츤"
-data modify storage hangul:const char append value "츥"
-data modify storage hangul:const char append value "츦"
-data modify storage hangul:const char append value "츧"
-data modify storage hangul:const char append value "츨"
-data modify storage hangul:const char append value "츩"
-data modify storage hangul:const char append value "츪"
-data modify storage hangul:const char append value "츫"
-data modify storage hangul:const char append value "츬"
-data modify storage hangul:const char append value "츭"
-data modify storage hangul:const char append value "츮"
-data modify storage hangul:const char append value "츯"
-data modify storage hangul:const char append value "츰"
-data modify storage hangul:const char append value "츱"
-data modify storage hangul:const char append value "츲"
-data modify storage hangul:const char append value "츳"
-data modify storage hangul:const char append value "츴"
-data modify storage hangul:const char append value "층"
-data modify storage hangul:const char append value "츶"
-data modify storage hangul:const char append value "츷"
-data modify storage hangul:const char append value "츸"
-data modify storage hangul:const char append value "츹"
-data modify storage hangul:const char append value "츺"
-data modify storage hangul:const char append value "츻"
-data modify storage hangul:const char append value "츼"
-data modify storage hangul:const char append value "츽"
-data modify storage hangul:const char append value "츾"
-data modify storage hangul:const char append value "츿"
-data modify storage hangul:const char append value "칀"
-data modify storage hangul:const char append value "칁"
-data modify storage hangul:const char append value "칂"
-data modify storage hangul:const char append value "칃"
-data modify storage hangul:const char append value "칄"
-data modify storage hangul:const char append value "칅"
-data modify storage hangul:const char append value "칆"
-data modify storage hangul:const char append value "칇"
-data modify storage hangul:const char append value "칈"
-data modify storage hangul:const char append value "칉"
-data modify storage hangul:const char append value "칊"
-data modify storage hangul:const char append value "칋"
-data modify storage hangul:const char append value "칌"
-data modify storage hangul:const char append value "칍"
-data modify storage hangul:const char append value "칎"
-data modify storage hangul:const char append value "칏"
-data modify storage hangul:const char append value "칐"
-data modify storage hangul:const char append value "칑"
-data modify storage hangul:const char append value "칒"
-data modify storage hangul:const char append value "칓"
-data modify storage hangul:const char append value "칔"
-data modify storage hangul:const char append value "칕"
-data modify storage hangul:const char append value "칖"
-data modify storage hangul:const char append value "칗"
-data modify storage hangul:const char append value "치"
-data modify storage hangul:const char append value "칙"
-data modify storage hangul:const char append value "칚"
-data modify storage hangul:const char append value "칛"
-data modify storage hangul:const char append value "친"
-data modify storage hangul:const char append value "칝"
-data modify storage hangul:const char append value "칞"
-data modify storage hangul:const char append value "칟"
-data modify storage hangul:const char append value "칠"
-data modify storage hangul:const char append value "칡"
-data modify storage hangul:const char append value "칢"
-data modify storage hangul:const char append value "칣"
-data modify storage hangul:const char append value "칤"
-data modify storage hangul:const char append value "칥"
-data modify storage hangul:const char append value "칦"
-data modify storage hangul:const char append value "칧"
-data modify storage hangul:const char append value "침"
-data modify storage hangul:const char append value "칩"
-data modify storage hangul:const char append value "칪"
-data modify storage hangul:const char append value "칫"
-data modify storage hangul:const char append value "칬"
-data modify storage hangul:const char append value "칭"
-data modify storage hangul:const char append value "칮"
-data modify storage hangul:const char append value "칯"
-data modify storage hangul:const char append value "칰"
-data modify storage hangul:const char append value "칱"
-data modify storage hangul:const char append value "칲"
-data modify storage hangul:const char append value "칳"
-data modify storage hangul:const char append value "카"
-data modify storage hangul:const char append value "칵"
-data modify storage hangul:const char append value "칶"
-data modify storage hangul:const char append value "칷"
-data modify storage hangul:const char append value "칸"
-data modify storage hangul:const char append value "칹"
-data modify storage hangul:const char append value "칺"
-data modify storage hangul:const char append value "칻"
-data modify storage hangul:const char append value "칼"
-data modify storage hangul:const char append value "칽"
-data modify storage hangul:const char append value "칾"
-data modify storage hangul:const char append value "칿"
-data modify storage hangul:const char append value "캀"
-data modify storage hangul:const char append value "캁"
-data modify storage hangul:const char append value "캂"
-data modify storage hangul:const char append value "캃"
-data modify storage hangul:const char append value "캄"
-data modify storage hangul:const char append value "캅"
-data modify storage hangul:const char append value "캆"
-data modify storage hangul:const char append value "캇"
-data modify storage hangul:const char append value "캈"
-data modify storage hangul:const char append value "캉"
-data modify storage hangul:const char append value "캊"
-data modify storage hangul:const char append value "캋"
-data modify storage hangul:const char append value "캌"
-data modify storage hangul:const char append value "캍"
-data modify storage hangul:const char append value "캎"
-data modify storage hangul:const char append value "캏"
-data modify storage hangul:const char append value "캐"
-data modify storage hangul:const char append value "캑"
-data modify storage hangul:const char append value "캒"
-data modify storage hangul:const char append value "캓"
-data modify storage hangul:const char append value "캔"
-data modify storage hangul:const char append value "캕"
-data modify storage hangul:const char append value "캖"
-data modify storage hangul:const char append value "캗"
-data modify storage hangul:const char append value "캘"
-data modify storage hangul:const char append value "캙"
-data modify storage hangul:const char append value "캚"
-data modify storage hangul:const char append value "캛"
-data modify storage hangul:const char append value "캜"
-data modify storage hangul:const char append value "캝"
-data modify storage hangul:const char append value "캞"
-data modify storage hangul:const char append value "캟"
-data modify storage hangul:const char append value "캠"
-data modify storage hangul:const char append value "캡"
-data modify storage hangul:const char append value "캢"
-data modify storage hangul:const char append value "캣"
-data modify storage hangul:const char append value "캤"
-data modify storage hangul:const char append value "캥"
-data modify storage hangul:const char append value "캦"
-data modify storage hangul:const char append value "캧"
-data modify storage hangul:const char append value "캨"
-data modify storage hangul:const char append value "캩"
-data modify storage hangul:const char append value "캪"
-data modify storage hangul:const char append value "캫"
-data modify storage hangul:const char append value "캬"
-data modify storage hangul:const char append value "캭"
-data modify storage hangul:const char append value "캮"
-data modify storage hangul:const char append value "캯"
-data modify storage hangul:const char append value "캰"
-data modify storage hangul:const char append value "캱"
-data modify storage hangul:const char append value "캲"
-data modify storage hangul:const char append value "캳"
-data modify storage hangul:const char append value "캴"
-data modify storage hangul:const char append value "캵"
-data modify storage hangul:const char append value "캶"
-data modify storage hangul:const char append value "캷"
-data modify storage hangul:const char append value "캸"
-data modify storage hangul:const char append value "캹"
-data modify storage hangul:const char append value "캺"
-data modify storage hangul:const char append value "캻"
-data modify storage hangul:const char append value "캼"
-data modify storage hangul:const char append value "캽"
-data modify storage hangul:const char append value "캾"
-data modify storage hangul:const char append value "캿"
-data modify storage hangul:const char append value "컀"
-data modify storage hangul:const char append value "컁"
-data modify storage hangul:const char append value "컂"
-data modify storage hangul:const char append value "컃"
-data modify storage hangul:const char append value "컄"
-data modify storage hangul:const char append value "컅"
-data modify storage hangul:const char append value "컆"
-data modify storage hangul:const char append value "컇"
-data modify storage hangul:const char append value "컈"
-data modify storage hangul:const char append value "컉"
-data modify storage hangul:const char append value "컊"
-data modify storage hangul:const char append value "컋"
-data modify storage hangul:const char append value "컌"
-data modify storage hangul:const char append value "컍"
-data modify storage hangul:const char append value "컎"
-data modify storage hangul:const char append value "컏"
-data modify storage hangul:const char append value "컐"
-data modify storage hangul:const char append value "컑"
-data modify storage hangul:const char append value "컒"
-data modify storage hangul:const char append value "컓"
-data modify storage hangul:const char append value "컔"
-data modify storage hangul:const char append value "컕"
-data modify storage hangul:const char append value "컖"
-data modify storage hangul:const char append value "컗"
-data modify storage hangul:const char append value "컘"
-data modify storage hangul:const char append value "컙"
-data modify storage hangul:const char append value "컚"
-data modify storage hangul:const char append value "컛"
-data modify storage hangul:const char append value "컜"
-data modify storage hangul:const char append value "컝"
-data modify storage hangul:const char append value "컞"
-data modify storage hangul:const char append value "컟"
-data modify storage hangul:const char append value "컠"
-data modify storage hangul:const char append value "컡"
-data modify storage hangul:const char append value "컢"
-data modify storage hangul:const char append value "컣"
-data modify storage hangul:const char append value "커"
-data modify storage hangul:const char append value "컥"
-data modify storage hangul:const char append value "컦"
-data modify storage hangul:const char append value "컧"
-data modify storage hangul:const char append value "컨"
-data modify storage hangul:const char append value "컩"
-data modify storage hangul:const char append value "컪"
-data modify storage hangul:const char append value "컫"
-data modify storage hangul:const char append value "컬"
-data modify storage hangul:const char append value "컭"
-data modify storage hangul:const char append value "컮"
-data modify storage hangul:const char append value "컯"
-data modify storage hangul:const char append value "컰"
-data modify storage hangul:const char append value "컱"
-data modify storage hangul:const char append value "컲"
-data modify storage hangul:const char append value "컳"
-data modify storage hangul:const char append value "컴"
-data modify storage hangul:const char append value "컵"
-data modify storage hangul:const char append value "컶"
-data modify storage hangul:const char append value "컷"
-data modify storage hangul:const char append value "컸"
-data modify storage hangul:const char append value "컹"
-data modify storage hangul:const char append value "컺"
-data modify storage hangul:const char append value "컻"
-data modify storage hangul:const char append value "컼"
-data modify storage hangul:const char append value "컽"
-data modify storage hangul:const char append value "컾"
-data modify storage hangul:const char append value "컿"
-data modify storage hangul:const char append value "케"
-data modify storage hangul:const char append value "켁"
-data modify storage hangul:const char append value "켂"
-data modify storage hangul:const char append value "켃"
-data modify storage hangul:const char append value "켄"
-data modify storage hangul:const char append value "켅"
-data modify storage hangul:const char append value "켆"
-data modify storage hangul:const char append value "켇"
-data modify storage hangul:const char append value "켈"
-data modify storage hangul:const char append value "켉"
-data modify storage hangul:const char append value "켊"
-data modify storage hangul:const char append value "켋"
-data modify storage hangul:const char append value "켌"
-data modify storage hangul:const char append value "켍"
-data modify storage hangul:const char append value "켎"
-data modify storage hangul:const char append value "켏"
-data modify storage hangul:const char append value "켐"
-data modify storage hangul:const char append value "켑"
-data modify storage hangul:const char append value "켒"
-data modify storage hangul:const char append value "켓"
-data modify storage hangul:const char append value "켔"
-data modify storage hangul:const char append value "켕"
-data modify storage hangul:const char append value "켖"
-data modify storage hangul:const char append value "켗"
-data modify storage hangul:const char append value "켘"
-data modify storage hangul:const char append value "켙"
-data modify storage hangul:const char append value "켚"
-data modify storage hangul:const char append value "켛"
-data modify storage hangul:const char append value "켜"
-data modify storage hangul:const char append value "켝"
-data modify storage hangul:const char append value "켞"
-data modify storage hangul:const char append value "켟"
-data modify storage hangul:const char append value "켠"
-data modify storage hangul:const char append value "켡"
-data modify storage hangul:const char append value "켢"
-data modify storage hangul:const char append value "켣"
-data modify storage hangul:const char append value "켤"
-data modify storage hangul:const char append value "켥"
-data modify storage hangul:const char append value "켦"
-data modify storage hangul:const char append value "켧"
-data modify storage hangul:const char append value "켨"
-data modify storage hangul:const char append value "켩"
-data modify storage hangul:const char append value "켪"
-data modify storage hangul:const char append value "켫"
-data modify storage hangul:const char append value "켬"
-data modify storage hangul:const char append value "켭"
-data modify storage hangul:const char append value "켮"
-data modify storage hangul:const char append value "켯"
-data modify storage hangul:const char append value "켰"
-data modify storage hangul:const char append value "켱"
-data modify storage hangul:const char append value "켲"
-data modify storage hangul:const char append value "켳"
-data modify storage hangul:const char append value "켴"
-data modify storage hangul:const char append value "켵"
-data modify storage hangul:const char append value "켶"
-data modify storage hangul:const char append value "켷"
-data modify storage hangul:const char append value "켸"
-data modify storage hangul:const char append value "켹"
-data modify storage hangul:const char append value "켺"
-data modify storage hangul:const char append value "켻"
-data modify storage hangul:const char append value "켼"
-data modify storage hangul:const char append value "켽"
-data modify storage hangul:const char append value "켾"
-data modify storage hangul:const char append value "켿"
-data modify storage hangul:const char append value "콀"
-data modify storage hangul:const char append value "콁"
-data modify storage hangul:const char append value "콂"
-data modify storage hangul:const char append value "콃"
-data modify storage hangul:const char append value "콄"
-data modify storage hangul:const char append value "콅"
-data modify storage hangul:const char append value "콆"
-data modify storage hangul:const char append value "콇"
-data modify storage hangul:const char append value "콈"
-data modify storage hangul:const char append value "콉"
-data modify storage hangul:const char append value "콊"
-data modify storage hangul:const char append value "콋"
-data modify storage hangul:const char append value "콌"
-data modify storage hangul:const char append value "콍"
-data modify storage hangul:const char append value "콎"
-data modify storage hangul:const char append value "콏"
-data modify storage hangul:const char append value "콐"
-data modify storage hangul:const char append value "콑"
-data modify storage hangul:const char append value "콒"
-data modify storage hangul:const char append value "콓"
-data modify storage hangul:const char append value "코"
-data modify storage hangul:const char append value "콕"
-data modify storage hangul:const char append value "콖"
-data modify storage hangul:const char append value "콗"
-data modify storage hangul:const char append value "콘"
-data modify storage hangul:const char append value "콙"
-data modify storage hangul:const char append value "콚"
-data modify storage hangul:const char append value "콛"
-data modify storage hangul:const char append value "콜"
-data modify storage hangul:const char append value "콝"
-data modify storage hangul:const char append value "콞"
-data modify storage hangul:const char append value "콟"
-data modify storage hangul:const char append value "콠"
-data modify storage hangul:const char append value "콡"
-data modify storage hangul:const char append value "콢"
-data modify storage hangul:const char append value "콣"
-data modify storage hangul:const char append value "콤"
-data modify storage hangul:const char append value "콥"
-data modify storage hangul:const char append value "콦"
-data modify storage hangul:const char append value "콧"
-data modify storage hangul:const char append value "콨"
-data modify storage hangul:const char append value "콩"
-data modify storage hangul:const char append value "콪"
-data modify storage hangul:const char append value "콫"
-data modify storage hangul:const char append value "콬"
-data modify storage hangul:const char append value "콭"
-data modify storage hangul:const char append value "콮"
-data modify storage hangul:const char append value "콯"
-data modify storage hangul:const char append value "콰"
-data modify storage hangul:const char append value "콱"
-data modify storage hangul:const char append value "콲"
-data modify storage hangul:const char append value "콳"
-data modify storage hangul:const char append value "콴"
-data modify storage hangul:const char append value "콵"
-data modify storage hangul:const char append value "콶"
-data modify storage hangul:const char append value "콷"
-data modify storage hangul:const char append value "콸"
-data modify storage hangul:const char append value "콹"
-data modify storage hangul:const char append value "콺"
-data modify storage hangul:const char append value "콻"
-data modify storage hangul:const char append value "콼"
-data modify storage hangul:const char append value "콽"
-data modify storage hangul:const char append value "콾"
-data modify storage hangul:const char append value "콿"
-data modify storage hangul:const char append value "쾀"
-data modify storage hangul:const char append value "쾁"
-data modify storage hangul:const char append value "쾂"
-data modify storage hangul:const char append value "쾃"
-data modify storage hangul:const char append value "쾄"
-data modify storage hangul:const char append value "쾅"
-data modify storage hangul:const char append value "쾆"
-data modify storage hangul:const char append value "쾇"
-data modify storage hangul:const char append value "쾈"
-data modify storage hangul:const char append value "쾉"
-data modify storage hangul:const char append value "쾊"
-data modify storage hangul:const char append value "쾋"
-data modify storage hangul:const char append value "쾌"
-data modify storage hangul:const char append value "쾍"
-data modify storage hangul:const char append value "쾎"
-data modify storage hangul:const char append value "쾏"
-data modify storage hangul:const char append value "쾐"
-data modify storage hangul:const char append value "쾑"
-data modify storage hangul:const char append value "쾒"
-data modify storage hangul:const char append value "쾓"
-data modify storage hangul:const char append value "쾔"
-data modify storage hangul:const char append value "쾕"
-data modify storage hangul:const char append value "쾖"
-data modify storage hangul:const char append value "쾗"
-data modify storage hangul:const char append value "쾘"
-data modify storage hangul:const char append value "쾙"
-data modify storage hangul:const char append value "쾚"
-data modify storage hangul:const char append value "쾛"
-data modify storage hangul:const char append value "쾜"
-data modify storage hangul:const char append value "쾝"
-data modify storage hangul:const char append value "쾞"
-data modify storage hangul:const char append value "쾟"
-data modify storage hangul:const char append value "쾠"
-data modify storage hangul:const char append value "쾡"
-data modify storage hangul:const char append value "쾢"
-data modify storage hangul:const char append value "쾣"
-data modify storage hangul:const char append value "쾤"
-data modify storage hangul:const char append value "쾥"
-data modify storage hangul:const char append value "쾦"
-data modify storage hangul:const char append value "쾧"
-data modify storage hangul:const char append value "쾨"
-data modify storage hangul:const char append value "쾩"
-data modify storage hangul:const char append value "쾪"
-data modify storage hangul:const char append value "쾫"
-data modify storage hangul:const char append value "쾬"
-data modify storage hangul:const char append value "쾭"
-data modify storage hangul:const char append value "쾮"
-data modify storage hangul:const char append value "쾯"
-data modify storage hangul:const char append value "쾰"
-data modify storage hangul:const char append value "쾱"
-data modify storage hangul:const char append value "쾲"
-data modify storage hangul:const char append value "쾳"
-data modify storage hangul:const char append value "쾴"
-data modify storage hangul:const char append value "쾵"
-data modify storage hangul:const char append value "쾶"
-data modify storage hangul:const char append value "쾷"
-data modify storage hangul:const char append value "쾸"
-data modify storage hangul:const char append value "쾹"
-data modify storage hangul:const char append value "쾺"
-data modify storage hangul:const char append value "쾻"
-data modify storage hangul:const char append value "쾼"
-data modify storage hangul:const char append value "쾽"
-data modify storage hangul:const char append value "쾾"
-data modify storage hangul:const char append value "쾿"
-data modify storage hangul:const char append value "쿀"
-data modify storage hangul:const char append value "쿁"
-data modify storage hangul:const char append value "쿂"
-data modify storage hangul:const char append value "쿃"
-data modify storage hangul:const char append value "쿄"
-data modify storage hangul:const char append value "쿅"
-data modify storage hangul:const char append value "쿆"
-data modify storage hangul:const char append value "쿇"
-data modify storage hangul:const char append value "쿈"
-data modify storage hangul:const char append value "쿉"
-data modify storage hangul:const char append value "쿊"
-data modify storage hangul:const char append value "쿋"
-data modify storage hangul:const char append value "쿌"
-data modify storage hangul:const char append value "쿍"
-data modify storage hangul:const char append value "쿎"
-data modify storage hangul:const char append value "쿏"
-data modify storage hangul:const char append value "쿐"
-data modify storage hangul:const char append value "쿑"
-data modify storage hangul:const char append value "쿒"
-data modify storage hangul:const char append value "쿓"
-data modify storage hangul:const char append value "쿔"
-data modify storage hangul:const char append value "쿕"
-data modify storage hangul:const char append value "쿖"
-data modify storage hangul:const char append value "쿗"
-data modify storage hangul:const char append value "쿘"
-data modify storage hangul:const char append value "쿙"
-data modify storage hangul:const char append value "쿚"
-data modify storage hangul:const char append value "쿛"
-data modify storage hangul:const char append value "쿜"
-data modify storage hangul:const char append value "쿝"
-data modify storage hangul:const char append value "쿞"
-data modify storage hangul:const char append value "쿟"
-data modify storage hangul:const char append value "쿠"
-data modify storage hangul:const char append value "쿡"
-data modify storage hangul:const char append value "쿢"
-data modify storage hangul:const char append value "쿣"
-data modify storage hangul:const char append value "쿤"
-data modify storage hangul:const char append value "쿥"
-data modify storage hangul:const char append value "쿦"
-data modify storage hangul:const char append value "쿧"
-data modify storage hangul:const char append value "쿨"
-data modify storage hangul:const char append value "쿩"
-data modify storage hangul:const char append value "쿪"
-data modify storage hangul:const char append value "쿫"
-data modify storage hangul:const char append value "쿬"
-data modify storage hangul:const char append value "쿭"
-data modify storage hangul:const char append value "쿮"
-data modify storage hangul:const char append value "쿯"
-data modify storage hangul:const char append value "쿰"
-data modify storage hangul:const char append value "쿱"
-data modify storage hangul:const char append value "쿲"
-data modify storage hangul:const char append value "쿳"
-data modify storage hangul:const char append value "쿴"
-data modify storage hangul:const char append value "쿵"
-data modify storage hangul:const char append value "쿶"
-data modify storage hangul:const char append value "쿷"
-data modify storage hangul:const char append value "쿸"
-data modify storage hangul:const char append value "쿹"
-data modify storage hangul:const char append value "쿺"
-data modify storage hangul:const char append value "쿻"
-data modify storage hangul:const char append value "쿼"
-data modify storage hangul:const char append value "쿽"
-data modify storage hangul:const char append value "쿾"
-data modify storage hangul:const char append value "쿿"
-data modify storage hangul:const char append value "퀀"
-data modify storage hangul:const char append value "퀁"
-data modify storage hangul:const char append value "퀂"
-data modify storage hangul:const char append value "퀃"
-data modify storage hangul:const char append value "퀄"
-data modify storage hangul:const char append value "퀅"
-data modify storage hangul:const char append value "퀆"
-data modify storage hangul:const char append value "퀇"
-data modify storage hangul:const char append value "퀈"
-data modify storage hangul:const char append value "퀉"
-data modify storage hangul:const char append value "퀊"
-data modify storage hangul:const char append value "퀋"
-data modify storage hangul:const char append value "퀌"
-data modify storage hangul:const char append value "퀍"
-data modify storage hangul:const char append value "퀎"
-data modify storage hangul:const char append value "퀏"
-data modify storage hangul:const char append value "퀐"
-data modify storage hangul:const char append value "퀑"
-data modify storage hangul:const char append value "퀒"
-data modify storage hangul:const char append value "퀓"
-data modify storage hangul:const char append value "퀔"
-data modify storage hangul:const char append value "퀕"
-data modify storage hangul:const char append value "퀖"
-data modify storage hangul:const char append value "퀗"
-data modify storage hangul:const char append value "퀘"
-data modify storage hangul:const char append value "퀙"
-data modify storage hangul:const char append value "퀚"
-data modify storage hangul:const char append value "퀛"
-data modify storage hangul:const char append value "퀜"
-data modify storage hangul:const char append value "퀝"
-data modify storage hangul:const char append value "퀞"
-data modify storage hangul:const char append value "퀟"
-data modify storage hangul:const char append value "퀠"
-data modify storage hangul:const char append value "퀡"
-data modify storage hangul:const char append value "퀢"
-data modify storage hangul:const char append value "퀣"
-data modify storage hangul:const char append value "퀤"
-data modify storage hangul:const char append value "퀥"
-data modify storage hangul:const char append value "퀦"
-data modify storage hangul:const char append value "퀧"
-data modify storage hangul:const char append value "퀨"
-data modify storage hangul:const char append value "퀩"
-data modify storage hangul:const char append value "퀪"
-data modify storage hangul:const char append value "퀫"
-data modify storage hangul:const char append value "퀬"
-data modify storage hangul:const char append value "퀭"
-data modify storage hangul:const char append value "퀮"
-data modify storage hangul:const char append value "퀯"
-data modify storage hangul:const char append value "퀰"
-data modify storage hangul:const char append value "퀱"
-data modify storage hangul:const char append value "퀲"
-data modify storage hangul:const char append value "퀳"
-data modify storage hangul:const char append value "퀴"
-data modify storage hangul:const char append value "퀵"
-data modify storage hangul:const char append value "퀶"
-data modify storage hangul:const char append value "퀷"
-data modify storage hangul:const char append value "퀸"
-data modify storage hangul:const char append value "퀹"
-data modify storage hangul:const char append value "퀺"
-data modify storage hangul:const char append value "퀻"
-data modify storage hangul:const char append value "퀼"
-data modify storage hangul:const char append value "퀽"
-data modify storage hangul:const char append value "퀾"
-data modify storage hangul:const char append value "퀿"
-data modify storage hangul:const char append value "큀"
-data modify storage hangul:const char append value "큁"
-data modify storage hangul:const char append value "큂"
-data modify storage hangul:const char append value "큃"
-data modify storage hangul:const char append value "큄"
-data modify storage hangul:const char append value "큅"
-data modify storage hangul:const char append value "큆"
-data modify storage hangul:const char append value "큇"
-data modify storage hangul:const char append value "큈"
-data modify storage hangul:const char append value "큉"
-data modify storage hangul:const char append value "큊"
-data modify storage hangul:const char append value "큋"
-data modify storage hangul:const char append value "큌"
-data modify storage hangul:const char append value "큍"
-data modify storage hangul:const char append value "큎"
-data modify storage hangul:const char append value "큏"
-data modify storage hangul:const char append value "큐"
-data modify storage hangul:const char append value "큑"
-data modify storage hangul:const char append value "큒"
-data modify storage hangul:const char append value "큓"
-data modify storage hangul:const char append value "큔"
-data modify storage hangul:const char append value "큕"
-data modify storage hangul:const char append value "큖"
-data modify storage hangul:const char append value "큗"
-data modify storage hangul:const char append value "큘"
-data modify storage hangul:const char append value "큙"
-data modify storage hangul:const char append value "큚"
-data modify storage hangul:const char append value "큛"
-data modify storage hangul:const char append value "큜"
-data modify storage hangul:const char append value "큝"
-data modify storage hangul:const char append value "큞"
-data modify storage hangul:const char append value "큟"
-data modify storage hangul:const char append value "큠"
-data modify storage hangul:const char append value "큡"
-data modify storage hangul:const char append value "큢"
-data modify storage hangul:const char append value "큣"
-data modify storage hangul:const char append value "큤"
-data modify storage hangul:const char append value "큥"
-data modify storage hangul:const char append value "큦"
-data modify storage hangul:const char append value "큧"
-data modify storage hangul:const char append value "큨"
-data modify storage hangul:const char append value "큩"
-data modify storage hangul:const char append value "큪"
-data modify storage hangul:const char append value "큫"
-data modify storage hangul:const char append value "크"
-data modify storage hangul:const char append value "큭"
-data modify storage hangul:const char append value "큮"
-data modify storage hangul:const char append value "큯"
-data modify storage hangul:const char append value "큰"
-data modify storage hangul:const char append value "큱"
-data modify storage hangul:const char append value "큲"
-data modify storage hangul:const char append value "큳"
-data modify storage hangul:const char append value "클"
-data modify storage hangul:const char append value "큵"
-data modify storage hangul:const char append value "큶"
-data modify storage hangul:const char append value "큷"
-data modify storage hangul:const char append value "큸"
-data modify storage hangul:const char append value "큹"
-data modify storage hangul:const char append value "큺"
-data modify storage hangul:const char append value "큻"
-data modify storage hangul:const char append value "큼"
-data modify storage hangul:const char append value "큽"
-data modify storage hangul:const char append value "큾"
-data modify storage hangul:const char append value "큿"
-data modify storage hangul:const char append value "킀"
-data modify storage hangul:const char append value "킁"
-data modify storage hangul:const char append value "킂"
-data modify storage hangul:const char append value "킃"
-data modify storage hangul:const char append value "킄"
-data modify storage hangul:const char append value "킅"
-data modify storage hangul:const char append value "킆"
-data modify storage hangul:const char append value "킇"
-data modify storage hangul:const char append value "킈"
-data modify storage hangul:const char append value "킉"
-data modify storage hangul:const char append value "킊"
-data modify storage hangul:const char append value "킋"
-data modify storage hangul:const char append value "킌"
-data modify storage hangul:const char append value "킍"
-data modify storage hangul:const char append value "킎"
-data modify storage hangul:const char append value "킏"
-data modify storage hangul:const char append value "킐"
-data modify storage hangul:const char append value "킑"
-data modify storage hangul:const char append value "킒"
-data modify storage hangul:const char append value "킓"
-data modify storage hangul:const char append value "킔"
-data modify storage hangul:const char append value "킕"
-data modify storage hangul:const char append value "킖"
-data modify storage hangul:const char append value "킗"
-data modify storage hangul:const char append value "킘"
-data modify storage hangul:const char append value "킙"
-data modify storage hangul:const char append value "킚"
-data modify storage hangul:const char append value "킛"
-data modify storage hangul:const char append value "킜"
-data modify storage hangul:const char append value "킝"
-data modify storage hangul:const char append value "킞"
-data modify storage hangul:const char append value "킟"
-data modify storage hangul:const char append value "킠"
-data modify storage hangul:const char append value "킡"
-data modify storage hangul:const char append value "킢"
-data modify storage hangul:const char append value "킣"
-data modify storage hangul:const char append value "키"
-data modify storage hangul:const char append value "킥"
-data modify storage hangul:const char append value "킦"
-data modify storage hangul:const char append value "킧"
-data modify storage hangul:const char append value "킨"
-data modify storage hangul:const char append value "킩"
-data modify storage hangul:const char append value "킪"
-data modify storage hangul:const char append value "킫"
-data modify storage hangul:const char append value "킬"
-data modify storage hangul:const char append value "킭"
-data modify storage hangul:const char append value "킮"
-data modify storage hangul:const char append value "킯"
-data modify storage hangul:const char append value "킰"
-data modify storage hangul:const char append value "킱"
-data modify storage hangul:const char append value "킲"
-data modify storage hangul:const char append value "킳"
-data modify storage hangul:const char append value "킴"
-data modify storage hangul:const char append value "킵"
-data modify storage hangul:const char append value "킶"
-data modify storage hangul:const char append value "킷"
-data modify storage hangul:const char append value "킸"
-data modify storage hangul:const char append value "킹"
-data modify storage hangul:const char append value "킺"
-data modify storage hangul:const char append value "킻"
-data modify storage hangul:const char append value "킼"
-data modify storage hangul:const char append value "킽"
-data modify storage hangul:const char append value "킾"
-data modify storage hangul:const char append value "킿"
-data modify storage hangul:const char append value "타"
-data modify storage hangul:const char append value "탁"
-data modify storage hangul:const char append value "탂"
-data modify storage hangul:const char append value "탃"
-data modify storage hangul:const char append value "탄"
-data modify storage hangul:const char append value "탅"
-data modify storage hangul:const char append value "탆"
-data modify storage hangul:const char append value "탇"
-data modify storage hangul:const char append value "탈"
-data modify storage hangul:const char append value "탉"
-data modify storage hangul:const char append value "탊"
-data modify storage hangul:const char append value "탋"
-data modify storage hangul:const char append value "탌"
-data modify storage hangul:const char append value "탍"
-data modify storage hangul:const char append value "탎"
-data modify storage hangul:const char append value "탏"
-data modify storage hangul:const char append value "탐"
-data modify storage hangul:const char append value "탑"
-data modify storage hangul:const char append value "탒"
-data modify storage hangul:const char append value "탓"
-data modify storage hangul:const char append value "탔"
-data modify storage hangul:const char append value "탕"
-data modify storage hangul:const char append value "탖"
-data modify storage hangul:const char append value "탗"
-data modify storage hangul:const char append value "탘"
-data modify storage hangul:const char append value "탙"
-data modify storage hangul:const char append value "탚"
-data modify storage hangul:const char append value "탛"
-data modify storage hangul:const char append value "태"
-data modify storage hangul:const char append value "택"
-data modify storage hangul:const char append value "탞"
-data modify storage hangul:const char append value "탟"
-data modify storage hangul:const char append value "탠"
-data modify storage hangul:const char append value "탡"
-data modify storage hangul:const char append value "탢"
-data modify storage hangul:const char append value "탣"
-data modify storage hangul:const char append value "탤"
-data modify storage hangul:const char append value "탥"
-data modify storage hangul:const char append value "탦"
-data modify storage hangul:const char append value "탧"
-data modify storage hangul:const char append value "탨"
-data modify storage hangul:const char append value "탩"
-data modify storage hangul:const char append value "탪"
-data modify storage hangul:const char append value "탫"
-data modify storage hangul:const char append value "탬"
-data modify storage hangul:const char append value "탭"
-data modify storage hangul:const char append value "탮"
-data modify storage hangul:const char append value "탯"
-data modify storage hangul:const char append value "탰"
-data modify storage hangul:const char append value "탱"
-data modify storage hangul:const char append value "탲"
-data modify storage hangul:const char append value "탳"
-data modify storage hangul:const char append value "탴"
-data modify storage hangul:const char append value "탵"
-data modify storage hangul:const char append value "탶"
-data modify storage hangul:const char append value "탷"
-data modify storage hangul:const char append value "탸"
-data modify storage hangul:const char append value "탹"
-data modify storage hangul:const char append value "탺"
-data modify storage hangul:const char append value "탻"
-data modify storage hangul:const char append value "탼"
-data modify storage hangul:const char append value "탽"
-data modify storage hangul:const char append value "탾"
-data modify storage hangul:const char append value "탿"
-data modify storage hangul:const char append value "턀"
-data modify storage hangul:const char append value "턁"
-data modify storage hangul:const char append value "턂"
-data modify storage hangul:const char append value "턃"
-data modify storage hangul:const char append value "턄"
-data modify storage hangul:const char append value "턅"
-data modify storage hangul:const char append value "턆"
-data modify storage hangul:const char append value "턇"
-data modify storage hangul:const char append value "턈"
-data modify storage hangul:const char append value "턉"
-data modify storage hangul:const char append value "턊"
-data modify storage hangul:const char append value "턋"
-data modify storage hangul:const char append value "턌"
-data modify storage hangul:const char append value "턍"
-data modify storage hangul:const char append value "턎"
-data modify storage hangul:const char append value "턏"
-data modify storage hangul:const char append value "턐"
-data modify storage hangul:const char append value "턑"
-data modify storage hangul:const char append value "턒"
-data modify storage hangul:const char append value "턓"
-data modify storage hangul:const char append value "턔"
-data modify storage hangul:const char append value "턕"
-data modify storage hangul:const char append value "턖"
-data modify storage hangul:const char append value "턗"
-data modify storage hangul:const char append value "턘"
-data modify storage hangul:const char append value "턙"
-data modify storage hangul:const char append value "턚"
-data modify storage hangul:const char append value "턛"
-data modify storage hangul:const char append value "턜"
-data modify storage hangul:const char append value "턝"
-data modify storage hangul:const char append value "턞"
-data modify storage hangul:const char append value "턟"
-data modify storage hangul:const char append value "턠"
-data modify storage hangul:const char append value "턡"
-data modify storage hangul:const char append value "턢"
-data modify storage hangul:const char append value "턣"
-data modify storage hangul:const char append value "턤"
-data modify storage hangul:const char append value "턥"
-data modify storage hangul:const char append value "턦"
-data modify storage hangul:const char append value "턧"
-data modify storage hangul:const char append value "턨"
-data modify storage hangul:const char append value "턩"
-data modify storage hangul:const char append value "턪"
-data modify storage hangul:const char append value "턫"
-data modify storage hangul:const char append value "턬"
-data modify storage hangul:const char append value "턭"
-data modify storage hangul:const char append value "턮"
-data modify storage hangul:const char append value "턯"
-data modify storage hangul:const char append value "터"
-data modify storage hangul:const char append value "턱"
-data modify storage hangul:const char append value "턲"
-data modify storage hangul:const char append value "턳"
-data modify storage hangul:const char append value "턴"
-data modify storage hangul:const char append value "턵"
-data modify storage hangul:const char append value "턶"
-data modify storage hangul:const char append value "턷"
-data modify storage hangul:const char append value "털"
-data modify storage hangul:const char append value "턹"
-data modify storage hangul:const char append value "턺"
-data modify storage hangul:const char append value "턻"
-data modify storage hangul:const char append value "턼"
-data modify storage hangul:const char append value "턽"
-data modify storage hangul:const char append value "턾"
-data modify storage hangul:const char append value "턿"
-data modify storage hangul:const char append value "텀"
-data modify storage hangul:const char append value "텁"
-data modify storage hangul:const char append value "텂"
-data modify storage hangul:const char append value "텃"
-data modify storage hangul:const char append value "텄"
-data modify storage hangul:const char append value "텅"
-data modify storage hangul:const char append value "텆"
-data modify storage hangul:const char append value "텇"
-data modify storage hangul:const char append value "텈"
-data modify storage hangul:const char append value "텉"
-data modify storage hangul:const char append value "텊"
-data modify storage hangul:const char append value "텋"
-data modify storage hangul:const char append value "테"
-data modify storage hangul:const char append value "텍"
-data modify storage hangul:const char append value "텎"
-data modify storage hangul:const char append value "텏"
-data modify storage hangul:const char append value "텐"
-data modify storage hangul:const char append value "텑"
-data modify storage hangul:const char append value "텒"
-data modify storage hangul:const char append value "텓"
-data modify storage hangul:const char append value "텔"
-data modify storage hangul:const char append value "텕"
-data modify storage hangul:const char append value "텖"
-data modify storage hangul:const char append value "텗"
-data modify storage hangul:const char append value "텘"
-data modify storage hangul:const char append value "텙"
-data modify storage hangul:const char append value "텚"
-data modify storage hangul:const char append value "텛"
-data modify storage hangul:const char append value "템"
-data modify storage hangul:const char append value "텝"
-data modify storage hangul:const char append value "텞"
-data modify storage hangul:const char append value "텟"
-data modify storage hangul:const char append value "텠"
-data modify storage hangul:const char append value "텡"
-data modify storage hangul:const char append value "텢"
-data modify storage hangul:const char append value "텣"
-data modify storage hangul:const char append value "텤"
-data modify storage hangul:const char append value "텥"
-data modify storage hangul:const char append value "텦"
-data modify storage hangul:const char append value "텧"
-data modify storage hangul:const char append value "텨"
-data modify storage hangul:const char append value "텩"
-data modify storage hangul:const char append value "텪"
-data modify storage hangul:const char append value "텫"
-data modify storage hangul:const char append value "텬"
-data modify storage hangul:const char append value "텭"
-data modify storage hangul:const char append value "텮"
-data modify storage hangul:const char append value "텯"
-data modify storage hangul:const char append value "텰"
-data modify storage hangul:const char append value "텱"
-data modify storage hangul:const char append value "텲"
-data modify storage hangul:const char append value "텳"
-data modify storage hangul:const char append value "텴"
-data modify storage hangul:const char append value "텵"
-data modify storage hangul:const char append value "텶"
-data modify storage hangul:const char append value "텷"
-data modify storage hangul:const char append value "텸"
-data modify storage hangul:const char append value "텹"
-data modify storage hangul:const char append value "텺"
-data modify storage hangul:const char append value "텻"
-data modify storage hangul:const char append value "텼"
-data modify storage hangul:const char append value "텽"
-data modify storage hangul:const char append value "텾"
-data modify storage hangul:const char append value "텿"
-data modify storage hangul:const char append value "톀"
-data modify storage hangul:const char append value "톁"
-data modify storage hangul:const char append value "톂"
-data modify storage hangul:const char append value "톃"
-data modify storage hangul:const char append value "톄"
-data modify storage hangul:const char append value "톅"
-data modify storage hangul:const char append value "톆"
-data modify storage hangul:const char append value "톇"
-data modify storage hangul:const char append value "톈"
-data modify storage hangul:const char append value "톉"
-data modify storage hangul:const char append value "톊"
-data modify storage hangul:const char append value "톋"
-data modify storage hangul:const char append value "톌"
-data modify storage hangul:const char append value "톍"
-data modify storage hangul:const char append value "톎"
-data modify storage hangul:const char append value "톏"
-data modify storage hangul:const char append value "톐"
-data modify storage hangul:const char append value "톑"
-data modify storage hangul:const char append value "톒"
-data modify storage hangul:const char append value "톓"
-data modify storage hangul:const char append value "톔"
-data modify storage hangul:const char append value "톕"
-data modify storage hangul:const char append value "톖"
-data modify storage hangul:const char append value "톗"
-data modify storage hangul:const char append value "톘"
-data modify storage hangul:const char append value "톙"
-data modify storage hangul:const char append value "톚"
-data modify storage hangul:const char append value "톛"
-data modify storage hangul:const char append value "톜"
-data modify storage hangul:const char append value "톝"
-data modify storage hangul:const char append value "톞"
-data modify storage hangul:const char append value "톟"
-data modify storage hangul:const char append value "토"
-data modify storage hangul:const char append value "톡"
-data modify storage hangul:const char append value "톢"
-data modify storage hangul:const char append value "톣"
-data modify storage hangul:const char append value "톤"
-data modify storage hangul:const char append value "톥"
-data modify storage hangul:const char append value "톦"
-data modify storage hangul:const char append value "톧"
-data modify storage hangul:const char append value "톨"
-data modify storage hangul:const char append value "톩"
-data modify storage hangul:const char append value "톪"
-data modify storage hangul:const char append value "톫"
-data modify storage hangul:const char append value "톬"
-data modify storage hangul:const char append value "톭"
-data modify storage hangul:const char append value "톮"
-data modify storage hangul:const char append value "톯"
-data modify storage hangul:const char append value "톰"
-data modify storage hangul:const char append value "톱"
-data modify storage hangul:const char append value "톲"
-data modify storage hangul:const char append value "톳"
-data modify storage hangul:const char append value "톴"
-data modify storage hangul:const char append value "통"
-data modify storage hangul:const char append value "톶"
-data modify storage hangul:const char append value "톷"
-data modify storage hangul:const char append value "톸"
-data modify storage hangul:const char append value "톹"
-data modify storage hangul:const char append value "톺"
-data modify storage hangul:const char append value "톻"
-data modify storage hangul:const char append value "톼"
-data modify storage hangul:const char append value "톽"
-data modify storage hangul:const char append value "톾"
-data modify storage hangul:const char append value "톿"
-data modify storage hangul:const char append value "퇀"
-data modify storage hangul:const char append value "퇁"
-data modify storage hangul:const char append value "퇂"
-data modify storage hangul:const char append value "퇃"
-data modify storage hangul:const char append value "퇄"
-data modify storage hangul:const char append value "퇅"
-data modify storage hangul:const char append value "퇆"
-data modify storage hangul:const char append value "퇇"
-data modify storage hangul:const char append value "퇈"
-data modify storage hangul:const char append value "퇉"
-data modify storage hangul:const char append value "퇊"
-data modify storage hangul:const char append value "퇋"
-data modify storage hangul:const char append value "퇌"
-data modify storage hangul:const char append value "퇍"
-data modify storage hangul:const char append value "퇎"
-data modify storage hangul:const char append value "퇏"
-data modify storage hangul:const char append value "퇐"
-data modify storage hangul:const char append value "퇑"
-data modify storage hangul:const char append value "퇒"
-data modify storage hangul:const char append value "퇓"
-data modify storage hangul:const char append value "퇔"
-data modify storage hangul:const char append value "퇕"
-data modify storage hangul:const char append value "퇖"
-data modify storage hangul:const char append value "퇗"
-data modify storage hangul:const char append value "퇘"
-data modify storage hangul:const char append value "퇙"
-data modify storage hangul:const char append value "퇚"
-data modify storage hangul:const char append value "퇛"
-data modify storage hangul:const char append value "퇜"
-data modify storage hangul:const char append value "퇝"
-data modify storage hangul:const char append value "퇞"
-data modify storage hangul:const char append value "퇟"
-data modify storage hangul:const char append value "퇠"
-data modify storage hangul:const char append value "퇡"
-data modify storage hangul:const char append value "퇢"
-data modify storage hangul:const char append value "퇣"
-data modify storage hangul:const char append value "퇤"
-data modify storage hangul:const char append value "퇥"
-data modify storage hangul:const char append value "퇦"
-data modify storage hangul:const char append value "퇧"
-data modify storage hangul:const char append value "퇨"
-data modify storage hangul:const char append value "퇩"
-data modify storage hangul:const char append value "퇪"
-data modify storage hangul:const char append value "퇫"
-data modify storage hangul:const char append value "퇬"
-data modify storage hangul:const char append value "퇭"
-data modify storage hangul:const char append value "퇮"
-data modify storage hangul:const char append value "퇯"
-data modify storage hangul:const char append value "퇰"
-data modify storage hangul:const char append value "퇱"
-data modify storage hangul:const char append value "퇲"
-data modify storage hangul:const char append value "퇳"
-data modify storage hangul:const char append value "퇴"
-data modify storage hangul:const char append value "퇵"
-data modify storage hangul:const char append value "퇶"
-data modify storage hangul:const char append value "퇷"
-data modify storage hangul:const char append value "퇸"
-data modify storage hangul:const char append value "퇹"
-data modify storage hangul:const char append value "퇺"
-data modify storage hangul:const char append value "퇻"
-data modify storage hangul:const char append value "퇼"
-data modify storage hangul:const char append value "퇽"
-data modify storage hangul:const char append value "퇾"
-data modify storage hangul:const char append value "퇿"
-data modify storage hangul:const char append value "툀"
-data modify storage hangul:const char append value "툁"
-data modify storage hangul:const char append value "툂"
-data modify storage hangul:const char append value "툃"
-data modify storage hangul:const char append value "툄"
-data modify storage hangul:const char append value "툅"
-data modify storage hangul:const char append value "툆"
-data modify storage hangul:const char append value "툇"
-data modify storage hangul:const char append value "툈"
-data modify storage hangul:const char append value "툉"
-data modify storage hangul:const char append value "툊"
-data modify storage hangul:const char append value "툋"
-data modify storage hangul:const char append value "툌"
-data modify storage hangul:const char append value "툍"
-data modify storage hangul:const char append value "툎"
-data modify storage hangul:const char append value "툏"
-data modify storage hangul:const char append value "툐"
-data modify storage hangul:const char append value "툑"
-data modify storage hangul:const char append value "툒"
-data modify storage hangul:const char append value "툓"
-data modify storage hangul:const char append value "툔"
-data modify storage hangul:const char append value "툕"
-data modify storage hangul:const char append value "툖"
-data modify storage hangul:const char append value "툗"
-data modify storage hangul:const char append value "툘"
-data modify storage hangul:const char append value "툙"
-data modify storage hangul:const char append value "툚"
-data modify storage hangul:const char append value "툛"
-data modify storage hangul:const char append value "툜"
-data modify storage hangul:const char append value "툝"
-data modify storage hangul:const char append value "툞"
-data modify storage hangul:const char append value "툟"
-data modify storage hangul:const char append value "툠"
-data modify storage hangul:const char append value "툡"
-data modify storage hangul:const char append value "툢"
-data modify storage hangul:const char append value "툣"
-data modify storage hangul:const char append value "툤"
-data modify storage hangul:const char append value "툥"
-data modify storage hangul:const char append value "툦"
-data modify storage hangul:const char append value "툧"
-data modify storage hangul:const char append value "툨"
-data modify storage hangul:const char append value "툩"
-data modify storage hangul:const char append value "툪"
-data modify storage hangul:const char append value "툫"
-data modify storage hangul:const char append value "투"
-data modify storage hangul:const char append value "툭"
-data modify storage hangul:const char append value "툮"
-data modify storage hangul:const char append value "툯"
-data modify storage hangul:const char append value "툰"
-data modify storage hangul:const char append value "툱"
-data modify storage hangul:const char append value "툲"
-data modify storage hangul:const char append value "툳"
-data modify storage hangul:const char append value "툴"
-data modify storage hangul:const char append value "툵"
-data modify storage hangul:const char append value "툶"
-data modify storage hangul:const char append value "툷"
-data modify storage hangul:const char append value "툸"
-data modify storage hangul:const char append value "툹"
-data modify storage hangul:const char append value "툺"
-data modify storage hangul:const char append value "툻"
-data modify storage hangul:const char append value "툼"
-data modify storage hangul:const char append value "툽"
-data modify storage hangul:const char append value "툾"
-data modify storage hangul:const char append value "툿"
-data modify storage hangul:const char append value "퉀"
-data modify storage hangul:const char append value "퉁"
-data modify storage hangul:const char append value "퉂"
-data modify storage hangul:const char append value "퉃"
-data modify storage hangul:const char append value "퉄"
-data modify storage hangul:const char append value "퉅"
-data modify storage hangul:const char append value "퉆"
-data modify storage hangul:const char append value "퉇"
-data modify storage hangul:const char append value "퉈"
-data modify storage hangul:const char append value "퉉"
-data modify storage hangul:const char append value "퉊"
-data modify storage hangul:const char append value "퉋"
-data modify storage hangul:const char append value "퉌"
-data modify storage hangul:const char append value "퉍"
-data modify storage hangul:const char append value "퉎"
-data modify storage hangul:const char append value "퉏"
-data modify storage hangul:const char append value "퉐"
-data modify storage hangul:const char append value "퉑"
-data modify storage hangul:const char append value "퉒"
-data modify storage hangul:const char append value "퉓"
-data modify storage hangul:const char append value "퉔"
-data modify storage hangul:const char append value "퉕"
-data modify storage hangul:const char append value "퉖"
-data modify storage hangul:const char append value "퉗"
-data modify storage hangul:const char append value "퉘"
-data modify storage hangul:const char append value "퉙"
-data modify storage hangul:const char append value "퉚"
-data modify storage hangul:const char append value "퉛"
-data modify storage hangul:const char append value "퉜"
-data modify storage hangul:const char append value "퉝"
-data modify storage hangul:const char append value "퉞"
-data modify storage hangul:const char append value "퉟"
-data modify storage hangul:const char append value "퉠"
-data modify storage hangul:const char append value "퉡"
-data modify storage hangul:const char append value "퉢"
-data modify storage hangul:const char append value "퉣"
-data modify storage hangul:const char append value "퉤"
-data modify storage hangul:const char append value "퉥"
-data modify storage hangul:const char append value "퉦"
-data modify storage hangul:const char append value "퉧"
-data modify storage hangul:const char append value "퉨"
-data modify storage hangul:const char append value "퉩"
-data modify storage hangul:const char append value "퉪"
-data modify storage hangul:const char append value "퉫"
-data modify storage hangul:const char append value "퉬"
-data modify storage hangul:const char append value "퉭"
-data modify storage hangul:const char append value "퉮"
-data modify storage hangul:const char append value "퉯"
-data modify storage hangul:const char append value "퉰"
-data modify storage hangul:const char append value "퉱"
-data modify storage hangul:const char append value "퉲"
-data modify storage hangul:const char append value "퉳"
-data modify storage hangul:const char append value "퉴"
-data modify storage hangul:const char append value "퉵"
-data modify storage hangul:const char append value "퉶"
-data modify storage hangul:const char append value "퉷"
-data modify storage hangul:const char append value "퉸"
-data modify storage hangul:const char append value "퉹"
-data modify storage hangul:const char append value "퉺"
-data modify storage hangul:const char append value "퉻"
-data modify storage hangul:const char append value "퉼"
-data modify storage hangul:const char append value "퉽"
-data modify storage hangul:const char append value "퉾"
-data modify storage hangul:const char append value "퉿"
-data modify storage hangul:const char append value "튀"
-data modify storage hangul:const char append value "튁"
-data modify storage hangul:const char append value "튂"
-data modify storage hangul:const char append value "튃"
-data modify storage hangul:const char append value "튄"
-data modify storage hangul:const char append value "튅"
-data modify storage hangul:const char append value "튆"
-data modify storage hangul:const char append value "튇"
-data modify storage hangul:const char append value "튈"
-data modify storage hangul:const char append value "튉"
-data modify storage hangul:const char append value "튊"
-data modify storage hangul:const char append value "튋"
-data modify storage hangul:const char append value "튌"
-data modify storage hangul:const char append value "튍"
-data modify storage hangul:const char append value "튎"
-data modify storage hangul:const char append value "튏"
-data modify storage hangul:const char append value "튐"
-data modify storage hangul:const char append value "튑"
-data modify storage hangul:const char append value "튒"
-data modify storage hangul:const char append value "튓"
-data modify storage hangul:const char append value "튔"
-data modify storage hangul:const char append value "튕"
-data modify storage hangul:const char append value "튖"
-data modify storage hangul:const char append value "튗"
-data modify storage hangul:const char append value "튘"
-data modify storage hangul:const char append value "튙"
-data modify storage hangul:const char append value "튚"
-data modify storage hangul:const char append value "튛"
-data modify storage hangul:const char append value "튜"
-data modify storage hangul:const char append value "튝"
-data modify storage hangul:const char append value "튞"
-data modify storage hangul:const char append value "튟"
-data modify storage hangul:const char append value "튠"
-data modify storage hangul:const char append value "튡"
-data modify storage hangul:const char append value "튢"
-data modify storage hangul:const char append value "튣"
-data modify storage hangul:const char append value "튤"
-data modify storage hangul:const char append value "튥"
-data modify storage hangul:const char append value "튦"
-data modify storage hangul:const char append value "튧"
-data modify storage hangul:const char append value "튨"
-data modify storage hangul:const char append value "튩"
-data modify storage hangul:const char append value "튪"
-data modify storage hangul:const char append value "튫"
-data modify storage hangul:const char append value "튬"
-data modify storage hangul:const char append value "튭"
-data modify storage hangul:const char append value "튮"
-data modify storage hangul:const char append value "튯"
-data modify storage hangul:const char append value "튰"
-data modify storage hangul:const char append value "튱"
-data modify storage hangul:const char append value "튲"
-data modify storage hangul:const char append value "튳"
-data modify storage hangul:const char append value "튴"
-data modify storage hangul:const char append value "튵"
-data modify storage hangul:const char append value "튶"
-data modify storage hangul:const char append value "튷"
-data modify storage hangul:const char append value "트"
-data modify storage hangul:const char append value "특"
-data modify storage hangul:const char append value "튺"
-data modify storage hangul:const char append value "튻"
-data modify storage hangul:const char append value "튼"
-data modify storage hangul:const char append value "튽"
-data modify storage hangul:const char append value "튾"
-data modify storage hangul:const char append value "튿"
-data modify storage hangul:const char append value "틀"
-data modify storage hangul:const char append value "틁"
-data modify storage hangul:const char append value "틂"
-data modify storage hangul:const char append value "틃"
-data modify storage hangul:const char append value "틄"
-data modify storage hangul:const char append value "틅"
-data modify storage hangul:const char append value "틆"
-data modify storage hangul:const char append value "틇"
-data modify storage hangul:const char append value "틈"
-data modify storage hangul:const char append value "틉"
-data modify storage hangul:const char append value "틊"
-data modify storage hangul:const char append value "틋"
-data modify storage hangul:const char append value "틌"
-data modify storage hangul:const char append value "틍"
-data modify storage hangul:const char append value "틎"
-data modify storage hangul:const char append value "틏"
-data modify storage hangul:const char append value "틐"
-data modify storage hangul:const char append value "틑"
-data modify storage hangul:const char append value "틒"
-data modify storage hangul:const char append value "틓"
-data modify storage hangul:const char append value "틔"
-data modify storage hangul:const char append value "틕"
-data modify storage hangul:const char append value "틖"
-data modify storage hangul:const char append value "틗"
-data modify storage hangul:const char append value "틘"
-data modify storage hangul:const char append value "틙"
-data modify storage hangul:const char append value "틚"
-data modify storage hangul:const char append value "틛"
-data modify storage hangul:const char append value "틜"
-data modify storage hangul:const char append value "틝"
-data modify storage hangul:const char append value "틞"
-data modify storage hangul:const char append value "틟"
-data modify storage hangul:const char append value "틠"
-data modify storage hangul:const char append value "틡"
-data modify storage hangul:const char append value "틢"
-data modify storage hangul:const char append value "틣"
-data modify storage hangul:const char append value "틤"
-data modify storage hangul:const char append value "틥"
-data modify storage hangul:const char append value "틦"
-data modify storage hangul:const char append value "틧"
-data modify storage hangul:const char append value "틨"
-data modify storage hangul:const char append value "틩"
-data modify storage hangul:const char append value "틪"
-data modify storage hangul:const char append value "틫"
-data modify storage hangul:const char append value "틬"
-data modify storage hangul:const char append value "틭"
-data modify storage hangul:const char append value "틮"
-data modify storage hangul:const char append value "틯"
-data modify storage hangul:const char append value "티"
-data modify storage hangul:const char append value "틱"
-data modify storage hangul:const char append value "틲"
-data modify storage hangul:const char append value "틳"
-data modify storage hangul:const char append value "틴"
-data modify storage hangul:const char append value "틵"
-data modify storage hangul:const char append value "틶"
-data modify storage hangul:const char append value "틷"
-data modify storage hangul:const char append value "틸"
-data modify storage hangul:const char append value "틹"
-data modify storage hangul:const char append value "틺"
-data modify storage hangul:const char append value "틻"
-data modify storage hangul:const char append value "틼"
-data modify storage hangul:const char append value "틽"
-data modify storage hangul:const char append value "틾"
-data modify storage hangul:const char append value "틿"
-data modify storage hangul:const char append value "팀"
-data modify storage hangul:const char append value "팁"
-data modify storage hangul:const char append value "팂"
-data modify storage hangul:const char append value "팃"
-data modify storage hangul:const char append value "팄"
-data modify storage hangul:const char append value "팅"
-data modify storage hangul:const char append value "팆"
-data modify storage hangul:const char append value "팇"
-data modify storage hangul:const char append value "팈"
-data modify storage hangul:const char append value "팉"
-data modify storage hangul:const char append value "팊"
-data modify storage hangul:const char append value "팋"
-data modify storage hangul:const char append value "파"
-data modify storage hangul:const char append value "팍"
-data modify storage hangul:const char append value "팎"
-data modify storage hangul:const char append value "팏"
-data modify storage hangul:const char append value "판"
-data modify storage hangul:const char append value "팑"
-data modify storage hangul:const char append value "팒"
-data modify storage hangul:const char append value "팓"
-data modify storage hangul:const char append value "팔"
-data modify storage hangul:const char append value "팕"
-data modify storage hangul:const char append value "팖"
-data modify storage hangul:const char append value "팗"
-data modify storage hangul:const char append value "팘"
-data modify storage hangul:const char append value "팙"
-data modify storage hangul:const char append value "팚"
-data modify storage hangul:const char append value "팛"
-data modify storage hangul:const char append value "팜"
-data modify storage hangul:const char append value "팝"
-data modify storage hangul:const char append value "팞"
-data modify storage hangul:const char append value "팟"
-data modify storage hangul:const char append value "팠"
-data modify storage hangul:const char append value "팡"
-data modify storage hangul:const char append value "팢"
-data modify storage hangul:const char append value "팣"
-data modify storage hangul:const char append value "팤"
-data modify storage hangul:const char append value "팥"
-data modify storage hangul:const char append value "팦"
-data modify storage hangul:const char append value "팧"
-data modify storage hangul:const char append value "패"
-data modify storage hangul:const char append value "팩"
-data modify storage hangul:const char append value "팪"
-data modify storage hangul:const char append value "팫"
-data modify storage hangul:const char append value "팬"
-data modify storage hangul:const char append value "팭"
-data modify storage hangul:const char append value "팮"
-data modify storage hangul:const char append value "팯"
-data modify storage hangul:const char append value "팰"
-data modify storage hangul:const char append value "팱"
-data modify storage hangul:const char append value "팲"
-data modify storage hangul:const char append value "팳"
-data modify storage hangul:const char append value "팴"
-data modify storage hangul:const char append value "팵"
-data modify storage hangul:const char append value "팶"
-data modify storage hangul:const char append value "팷"
-data modify storage hangul:const char append value "팸"
-data modify storage hangul:const char append value "팹"
-data modify storage hangul:const char append value "팺"
-data modify storage hangul:const char append value "팻"
-data modify storage hangul:const char append value "팼"
-data modify storage hangul:const char append value "팽"
-data modify storage hangul:const char append value "팾"
-data modify storage hangul:const char append value "팿"
-data modify storage hangul:const char append value "퍀"
-data modify storage hangul:const char append value "퍁"
-data modify storage hangul:const char append value "퍂"
-data modify storage hangul:const char append value "퍃"
-data modify storage hangul:const char append value "퍄"
-data modify storage hangul:const char append value "퍅"
-data modify storage hangul:const char append value "퍆"
-data modify storage hangul:const char append value "퍇"
-data modify storage hangul:const char append value "퍈"
-data modify storage hangul:const char append value "퍉"
-data modify storage hangul:const char append value "퍊"
-data modify storage hangul:const char append value "퍋"
-data modify storage hangul:const char append value "퍌"
-data modify storage hangul:const char append value "퍍"
-data modify storage hangul:const char append value "퍎"
-data modify storage hangul:const char append value "퍏"
-data modify storage hangul:const char append value "퍐"
-data modify storage hangul:const char append value "퍑"
-data modify storage hangul:const char append value "퍒"
-data modify storage hangul:const char append value "퍓"
-data modify storage hangul:const char append value "퍔"
-data modify storage hangul:const char append value "퍕"
-data modify storage hangul:const char append value "퍖"
-data modify storage hangul:const char append value "퍗"
-data modify storage hangul:const char append value "퍘"
-data modify storage hangul:const char append value "퍙"
-data modify storage hangul:const char append value "퍚"
-data modify storage hangul:const char append value "퍛"
-data modify storage hangul:const char append value "퍜"
-data modify storage hangul:const char append value "퍝"
-data modify storage hangul:const char append value "퍞"
-data modify storage hangul:const char append value "퍟"
-data modify storage hangul:const char append value "퍠"
-data modify storage hangul:const char append value "퍡"
-data modify storage hangul:const char append value "퍢"
-data modify storage hangul:const char append value "퍣"
-data modify storage hangul:const char append value "퍤"
-data modify storage hangul:const char append value "퍥"
-data modify storage hangul:const char append value "퍦"
-data modify storage hangul:const char append value "퍧"
-data modify storage hangul:const char append value "퍨"
-data modify storage hangul:const char append value "퍩"
-data modify storage hangul:const char append value "퍪"
-data modify storage hangul:const char append value "퍫"
-data modify storage hangul:const char append value "퍬"
-data modify storage hangul:const char append value "퍭"
-data modify storage hangul:const char append value "퍮"
-data modify storage hangul:const char append value "퍯"
-data modify storage hangul:const char append value "퍰"
-data modify storage hangul:const char append value "퍱"
-data modify storage hangul:const char append value "퍲"
-data modify storage hangul:const char append value "퍳"
-data modify storage hangul:const char append value "퍴"
-data modify storage hangul:const char append value "퍵"
-data modify storage hangul:const char append value "퍶"
-data modify storage hangul:const char append value "퍷"
-data modify storage hangul:const char append value "퍸"
-data modify storage hangul:const char append value "퍹"
-data modify storage hangul:const char append value "퍺"
-data modify storage hangul:const char append value "퍻"
-data modify storage hangul:const char append value "퍼"
-data modify storage hangul:const char append value "퍽"
-data modify storage hangul:const char append value "퍾"
-data modify storage hangul:const char append value "퍿"
-data modify storage hangul:const char append value "펀"
-data modify storage hangul:const char append value "펁"
-data modify storage hangul:const char append value "펂"
-data modify storage hangul:const char append value "펃"
-data modify storage hangul:const char append value "펄"
-data modify storage hangul:const char append value "펅"
-data modify storage hangul:const char append value "펆"
-data modify storage hangul:const char append value "펇"
-data modify storage hangul:const char append value "펈"
-data modify storage hangul:const char append value "펉"
-data modify storage hangul:const char append value "펊"
-data modify storage hangul:const char append value "펋"
-data modify storage hangul:const char append value "펌"
-data modify storage hangul:const char append value "펍"
-data modify storage hangul:const char append value "펎"
-data modify storage hangul:const char append value "펏"
-data modify storage hangul:const char append value "펐"
-data modify storage hangul:const char append value "펑"
-data modify storage hangul:const char append value "펒"
-data modify storage hangul:const char append value "펓"
-data modify storage hangul:const char append value "펔"
-data modify storage hangul:const char append value "펕"
-data modify storage hangul:const char append value "펖"
-data modify storage hangul:const char append value "펗"
-data modify storage hangul:const char append value "페"
-data modify storage hangul:const char append value "펙"
-data modify storage hangul:const char append value "펚"
-data modify storage hangul:const char append value "펛"
-data modify storage hangul:const char append value "펜"
-data modify storage hangul:const char append value "펝"
-data modify storage hangul:const char append value "펞"
-data modify storage hangul:const char append value "펟"
-data modify storage hangul:const char append value "펠"
-data modify storage hangul:const char append value "펡"
-data modify storage hangul:const char append value "펢"
-data modify storage hangul:const char append value "펣"
-data modify storage hangul:const char append value "펤"
-data modify storage hangul:const char append value "펥"
-data modify storage hangul:const char append value "펦"
-data modify storage hangul:const char append value "펧"
-data modify storage hangul:const char append value "펨"
-data modify storage hangul:const char append value "펩"
-data modify storage hangul:const char append value "펪"
-data modify storage hangul:const char append value "펫"
-data modify storage hangul:const char append value "펬"
-data modify storage hangul:const char append value "펭"
-data modify storage hangul:const char append value "펮"
-data modify storage hangul:const char append value "펯"
-data modify storage hangul:const char append value "펰"
-data modify storage hangul:const char append value "펱"
-data modify storage hangul:const char append value "펲"
-data modify storage hangul:const char append value "펳"
-data modify storage hangul:const char append value "펴"
-data modify storage hangul:const char append value "펵"
-data modify storage hangul:const char append value "펶"
-data modify storage hangul:const char append value "펷"
-data modify storage hangul:const char append value "편"
-data modify storage hangul:const char append value "펹"
-data modify storage hangul:const char append value "펺"
-data modify storage hangul:const char append value "펻"
-data modify storage hangul:const char append value "펼"
-data modify storage hangul:const char append value "펽"
-data modify storage hangul:const char append value "펾"
-data modify storage hangul:const char append value "펿"
-data modify storage hangul:const char append value "폀"
-data modify storage hangul:const char append value "폁"
-data modify storage hangul:const char append value "폂"
-data modify storage hangul:const char append value "폃"
-data modify storage hangul:const char append value "폄"
-data modify storage hangul:const char append value "폅"
-data modify storage hangul:const char append value "폆"
-data modify storage hangul:const char append value "폇"
-data modify storage hangul:const char append value "폈"
-data modify storage hangul:const char append value "평"
-data modify storage hangul:const char append value "폊"
-data modify storage hangul:const char append value "폋"
-data modify storage hangul:const char append value "폌"
-data modify storage hangul:const char append value "폍"
-data modify storage hangul:const char append value "폎"
-data modify storage hangul:const char append value "폏"
-data modify storage hangul:const char append value "폐"
-data modify storage hangul:const char append value "폑"
-data modify storage hangul:const char append value "폒"
-data modify storage hangul:const char append value "폓"
-data modify storage hangul:const char append value "폔"
-data modify storage hangul:const char append value "폕"
-data modify storage hangul:const char append value "폖"
-data modify storage hangul:const char append value "폗"
-data modify storage hangul:const char append value "폘"
-data modify storage hangul:const char append value "폙"
-data modify storage hangul:const char append value "폚"
-data modify storage hangul:const char append value "폛"
-data modify storage hangul:const char append value "폜"
-data modify storage hangul:const char append value "폝"
-data modify storage hangul:const char append value "폞"
-data modify storage hangul:const char append value "폟"
-data modify storage hangul:const char append value "폠"
-data modify storage hangul:const char append value "폡"
-data modify storage hangul:const char append value "폢"
-data modify storage hangul:const char append value "폣"
-data modify storage hangul:const char append value "폤"
-data modify storage hangul:const char append value "폥"
-data modify storage hangul:const char append value "폦"
-data modify storage hangul:const char append value "폧"
-data modify storage hangul:const char append value "폨"
-data modify storage hangul:const char append value "폩"
-data modify storage hangul:const char append value "폪"
-data modify storage hangul:const char append value "폫"
-data modify storage hangul:const char append value "포"
-data modify storage hangul:const char append value "폭"
-data modify storage hangul:const char append value "폮"
-data modify storage hangul:const char append value "폯"
-data modify storage hangul:const char append value "폰"
-data modify storage hangul:const char append value "폱"
-data modify storage hangul:const char append value "폲"
-data modify storage hangul:const char append value "폳"
-data modify storage hangul:const char append value "폴"
-data modify storage hangul:const char append value "폵"
-data modify storage hangul:const char append value "폶"
-data modify storage hangul:const char append value "폷"
-data modify storage hangul:const char append value "폸"
-data modify storage hangul:const char append value "폹"
-data modify storage hangul:const char append value "폺"
-data modify storage hangul:const char append value "폻"
-data modify storage hangul:const char append value "폼"
-data modify storage hangul:const char append value "폽"
-data modify storage hangul:const char append value "폾"
-data modify storage hangul:const char append value "폿"
-data modify storage hangul:const char append value "퐀"
-data modify storage hangul:const char append value "퐁"
-data modify storage hangul:const char append value "퐂"
-data modify storage hangul:const char append value "퐃"
-data modify storage hangul:const char append value "퐄"
-data modify storage hangul:const char append value "퐅"
-data modify storage hangul:const char append value "퐆"
-data modify storage hangul:const char append value "퐇"
-data modify storage hangul:const char append value "퐈"
-data modify storage hangul:const char append value "퐉"
-data modify storage hangul:const char append value "퐊"
-data modify storage hangul:const char append value "퐋"
-data modify storage hangul:const char append value "퐌"
-data modify storage hangul:const char append value "퐍"
-data modify storage hangul:const char append value "퐎"
-data modify storage hangul:const char append value "퐏"
-data modify storage hangul:const char append value "퐐"
-data modify storage hangul:const char append value "퐑"
-data modify storage hangul:const char append value "퐒"
-data modify storage hangul:const char append value "퐓"
-data modify storage hangul:const char append value "퐔"
-data modify storage hangul:const char append value "퐕"
-data modify storage hangul:const char append value "퐖"
-data modify storage hangul:const char append value "퐗"
-data modify storage hangul:const char append value "퐘"
-data modify storage hangul:const char append value "퐙"
-data modify storage hangul:const char append value "퐚"
-data modify storage hangul:const char append value "퐛"
-data modify storage hangul:const char append value "퐜"
-data modify storage hangul:const char append value "퐝"
-data modify storage hangul:const char append value "퐞"
-data modify storage hangul:const char append value "퐟"
-data modify storage hangul:const char append value "퐠"
-data modify storage hangul:const char append value "퐡"
-data modify storage hangul:const char append value "퐢"
-data modify storage hangul:const char append value "퐣"
-data modify storage hangul:const char append value "퐤"
-data modify storage hangul:const char append value "퐥"
-data modify storage hangul:const char append value "퐦"
-data modify storage hangul:const char append value "퐧"
-data modify storage hangul:const char append value "퐨"
-data modify storage hangul:const char append value "퐩"
-data modify storage hangul:const char append value "퐪"
-data modify storage hangul:const char append value "퐫"
-data modify storage hangul:const char append value "퐬"
-data modify storage hangul:const char append value "퐭"
-data modify storage hangul:const char append value "퐮"
-data modify storage hangul:const char append value "퐯"
-data modify storage hangul:const char append value "퐰"
-data modify storage hangul:const char append value "퐱"
-data modify storage hangul:const char append value "퐲"
-data modify storage hangul:const char append value "퐳"
-data modify storage hangul:const char append value "퐴"
-data modify storage hangul:const char append value "퐵"
-data modify storage hangul:const char append value "퐶"
-data modify storage hangul:const char append value "퐷"
-data modify storage hangul:const char append value "퐸"
-data modify storage hangul:const char append value "퐹"
-data modify storage hangul:const char append value "퐺"
-data modify storage hangul:const char append value "퐻"
-data modify storage hangul:const char append value "퐼"
-data modify storage hangul:const char append value "퐽"
-data modify storage hangul:const char append value "퐾"
-data modify storage hangul:const char append value "퐿"
-data modify storage hangul:const char append value "푀"
-data modify storage hangul:const char append value "푁"
-data modify storage hangul:const char append value "푂"
-data modify storage hangul:const char append value "푃"
-data modify storage hangul:const char append value "푄"
-data modify storage hangul:const char append value "푅"
-data modify storage hangul:const char append value "푆"
-data modify storage hangul:const char append value "푇"
-data modify storage hangul:const char append value "푈"
-data modify storage hangul:const char append value "푉"
-data modify storage hangul:const char append value "푊"
-data modify storage hangul:const char append value "푋"
-data modify storage hangul:const char append value "푌"
-data modify storage hangul:const char append value "푍"
-data modify storage hangul:const char append value "푎"
-data modify storage hangul:const char append value "푏"
-data modify storage hangul:const char append value "푐"
-data modify storage hangul:const char append value "푑"
-data modify storage hangul:const char append value "푒"
-data modify storage hangul:const char append value "푓"
-data modify storage hangul:const char append value "푔"
-data modify storage hangul:const char append value "푕"
-data modify storage hangul:const char append value "푖"
-data modify storage hangul:const char append value "푗"
-data modify storage hangul:const char append value "푘"
-data modify storage hangul:const char append value "푙"
-data modify storage hangul:const char append value "푚"
-data modify storage hangul:const char append value "푛"
-data modify storage hangul:const char append value "표"
-data modify storage hangul:const char append value "푝"
-data modify storage hangul:const char append value "푞"
-data modify storage hangul:const char append value "푟"
-data modify storage hangul:const char append value "푠"
-data modify storage hangul:const char append value "푡"
-data modify storage hangul:const char append value "푢"
-data modify storage hangul:const char append value "푣"
-data modify storage hangul:const char append value "푤"
-data modify storage hangul:const char append value "푥"
-data modify storage hangul:const char append value "푦"
-data modify storage hangul:const char append value "푧"
-data modify storage hangul:const char append value "푨"
-data modify storage hangul:const char append value "푩"
-data modify storage hangul:const char append value "푪"
-data modify storage hangul:const char append value "푫"
-data modify storage hangul:const char append value "푬"
-data modify storage hangul:const char append value "푭"
-data modify storage hangul:const char append value "푮"
-data modify storage hangul:const char append value "푯"
-data modify storage hangul:const char append value "푰"
-data modify storage hangul:const char append value "푱"
-data modify storage hangul:const char append value "푲"
-data modify storage hangul:const char append value "푳"
-data modify storage hangul:const char append value "푴"
-data modify storage hangul:const char append value "푵"
-data modify storage hangul:const char append value "푶"
-data modify storage hangul:const char append value "푷"
-data modify storage hangul:const char append value "푸"
-data modify storage hangul:const char append value "푹"
-data modify storage hangul:const char append value "푺"
-data modify storage hangul:const char append value "푻"
-data modify storage hangul:const char append value "푼"
-data modify storage hangul:const char append value "푽"
-data modify storage hangul:const char append value "푾"
-data modify storage hangul:const char append value "푿"
-data modify storage hangul:const char append value "풀"
-data modify storage hangul:const char append value "풁"
-data modify storage hangul:const char append value "풂"
-data modify storage hangul:const char append value "풃"
-data modify storage hangul:const char append value "풄"
-data modify storage hangul:const char append value "풅"
-data modify storage hangul:const char append value "풆"
-data modify storage hangul:const char append value "풇"
-data modify storage hangul:const char append value "품"
-data modify storage hangul:const char append value "풉"
-data modify storage hangul:const char append value "풊"
-data modify storage hangul:const char append value "풋"
-data modify storage hangul:const char append value "풌"
-data modify storage hangul:const char append value "풍"
-data modify storage hangul:const char append value "풎"
-data modify storage hangul:const char append value "풏"
-data modify storage hangul:const char append value "풐"
-data modify storage hangul:const char append value "풑"
-data modify storage hangul:const char append value "풒"
-data modify storage hangul:const char append value "풓"
-data modify storage hangul:const char append value "풔"
-data modify storage hangul:const char append value "풕"
-data modify storage hangul:const char append value "풖"
-data modify storage hangul:const char append value "풗"
-data modify storage hangul:const char append value "풘"
-data modify storage hangul:const char append value "풙"
-data modify storage hangul:const char append value "풚"
-data modify storage hangul:const char append value "풛"
-data modify storage hangul:const char append value "풜"
-data modify storage hangul:const char append value "풝"
-data modify storage hangul:const char append value "풞"
-data modify storage hangul:const char append value "풟"
-data modify storage hangul:const char append value "풠"
-data modify storage hangul:const char append value "풡"
-data modify storage hangul:const char append value "풢"
-data modify storage hangul:const char append value "풣"
-data modify storage hangul:const char append value "풤"
-data modify storage hangul:const char append value "풥"
-data modify storage hangul:const char append value "풦"
-data modify storage hangul:const char append value "풧"
-data modify storage hangul:const char append value "풨"
-data modify storage hangul:const char append value "풩"
-data modify storage hangul:const char append value "풪"
-data modify storage hangul:const char append value "풫"
-data modify storage hangul:const char append value "풬"
-data modify storage hangul:const char append value "풭"
-data modify storage hangul:const char append value "풮"
-data modify storage hangul:const char append value "풯"
-data modify storage hangul:const char append value "풰"
-data modify storage hangul:const char append value "풱"
-data modify storage hangul:const char append value "풲"
-data modify storage hangul:const char append value "풳"
-data modify storage hangul:const char append value "풴"
-data modify storage hangul:const char append value "풵"
-data modify storage hangul:const char append value "풶"
-data modify storage hangul:const char append value "풷"
-data modify storage hangul:const char append value "풸"
-data modify storage hangul:const char append value "풹"
-data modify storage hangul:const char append value "풺"
-data modify storage hangul:const char append value "풻"
-data modify storage hangul:const char append value "풼"
-data modify storage hangul:const char append value "풽"
-data modify storage hangul:const char append value "풾"
-data modify storage hangul:const char append value "풿"
-data modify storage hangul:const char append value "퓀"
-data modify storage hangul:const char append value "퓁"
-data modify storage hangul:const char append value "퓂"
-data modify storage hangul:const char append value "퓃"
-data modify storage hangul:const char append value "퓄"
-data modify storage hangul:const char append value "퓅"
-data modify storage hangul:const char append value "퓆"
-data modify storage hangul:const char append value "퓇"
-data modify storage hangul:const char append value "퓈"
-data modify storage hangul:const char append value "퓉"
-data modify storage hangul:const char append value "퓊"
-data modify storage hangul:const char append value "퓋"
-data modify storage hangul:const char append value "퓌"
-data modify storage hangul:const char append value "퓍"
-data modify storage hangul:const char append value "퓎"
-data modify storage hangul:const char append value "퓏"
-data modify storage hangul:const char append value "퓐"
-data modify storage hangul:const char append value "퓑"
-data modify storage hangul:const char append value "퓒"
-data modify storage hangul:const char append value "퓓"
-data modify storage hangul:const char append value "퓔"
-data modify storage hangul:const char append value "퓕"
-data modify storage hangul:const char append value "퓖"
-data modify storage hangul:const char append value "퓗"
-data modify storage hangul:const char append value "퓘"
-data modify storage hangul:const char append value "퓙"
-data modify storage hangul:const char append value "퓚"
-data modify storage hangul:const char append value "퓛"
-data modify storage hangul:const char append value "퓜"
-data modify storage hangul:const char append value "퓝"
-data modify storage hangul:const char append value "퓞"
-data modify storage hangul:const char append value "퓟"
-data modify storage hangul:const char append value "퓠"
-data modify storage hangul:const char append value "퓡"
-data modify storage hangul:const char append value "퓢"
-data modify storage hangul:const char append value "퓣"
-data modify storage hangul:const char append value "퓤"
-data modify storage hangul:const char append value "퓥"
-data modify storage hangul:const char append value "퓦"
-data modify storage hangul:const char append value "퓧"
-data modify storage hangul:const char append value "퓨"
-data modify storage hangul:const char append value "퓩"
-data modify storage hangul:const char append value "퓪"
-data modify storage hangul:const char append value "퓫"
-data modify storage hangul:const char append value "퓬"
-data modify storage hangul:const char append value "퓭"
-data modify storage hangul:const char append value "퓮"
-data modify storage hangul:const char append value "퓯"
-data modify storage hangul:const char append value "퓰"
-data modify storage hangul:const char append value "퓱"
-data modify storage hangul:const char append value "퓲"
-data modify storage hangul:const char append value "퓳"
-data modify storage hangul:const char append value "퓴"
-data modify storage hangul:const char append value "퓵"
-data modify storage hangul:const char append value "퓶"
-data modify storage hangul:const char append value "퓷"
-data modify storage hangul:const char append value "퓸"
-data modify storage hangul:const char append value "퓹"
-data modify storage hangul:const char append value "퓺"
-data modify storage hangul:const char append value "퓻"
-data modify storage hangul:const char append value "퓼"
-data modify storage hangul:const char append value "퓽"
-data modify storage hangul:const char append value "퓾"
-data modify storage hangul:const char append value "퓿"
-data modify storage hangul:const char append value "픀"
-data modify storage hangul:const char append value "픁"
-data modify storage hangul:const char append value "픂"
-data modify storage hangul:const char append value "픃"
-data modify storage hangul:const char append value "프"
-data modify storage hangul:const char append value "픅"
-data modify storage hangul:const char append value "픆"
-data modify storage hangul:const char append value "픇"
-data modify storage hangul:const char append value "픈"
-data modify storage hangul:const char append value "픉"
-data modify storage hangul:const char append value "픊"
-data modify storage hangul:const char append value "픋"
-data modify storage hangul:const char append value "플"
-data modify storage hangul:const char append value "픍"
-data modify storage hangul:const char append value "픎"
-data modify storage hangul:const char append value "픏"
-data modify storage hangul:const char append value "픐"
-data modify storage hangul:const char append value "픑"
-data modify storage hangul:const char append value "픒"
-data modify storage hangul:const char append value "픓"
-data modify storage hangul:const char append value "픔"
-data modify storage hangul:const char append value "픕"
-data modify storage hangul:const char append value "픖"
-data modify storage hangul:const char append value "픗"
-data modify storage hangul:const char append value "픘"
-data modify storage hangul:const char append value "픙"
-data modify storage hangul:const char append value "픚"
-data modify storage hangul:const char append value "픛"
-data modify storage hangul:const char append value "픜"
-data modify storage hangul:const char append value "픝"
-data modify storage hangul:const char append value "픞"
-data modify storage hangul:const char append value "픟"
-data modify storage hangul:const char append value "픠"
-data modify storage hangul:const char append value "픡"
-data modify storage hangul:const char append value "픢"
-data modify storage hangul:const char append value "픣"
-data modify storage hangul:const char append value "픤"
-data modify storage hangul:const char append value "픥"
-data modify storage hangul:const char append value "픦"
-data modify storage hangul:const char append value "픧"
-data modify storage hangul:const char append value "픨"
-data modify storage hangul:const char append value "픩"
-data modify storage hangul:const char append value "픪"
-data modify storage hangul:const char append value "픫"
-data modify storage hangul:const char append value "픬"
-data modify storage hangul:const char append value "픭"
-data modify storage hangul:const char append value "픮"
-data modify storage hangul:const char append value "픯"
-data modify storage hangul:const char append value "픰"
-data modify storage hangul:const char append value "픱"
-data modify storage hangul:const char append value "픲"
-data modify storage hangul:const char append value "픳"
-data modify storage hangul:const char append value "픴"
-data modify storage hangul:const char append value "픵"
-data modify storage hangul:const char append value "픶"
-data modify storage hangul:const char append value "픷"
-data modify storage hangul:const char append value "픸"
-data modify storage hangul:const char append value "픹"
-data modify storage hangul:const char append value "픺"
-data modify storage hangul:const char append value "픻"
-data modify storage hangul:const char append value "피"
-data modify storage hangul:const char append value "픽"
-data modify storage hangul:const char append value "픾"
-data modify storage hangul:const char append value "픿"
-data modify storage hangul:const char append value "핀"
-data modify storage hangul:const char append value "핁"
-data modify storage hangul:const char append value "핂"
-data modify storage hangul:const char append value "핃"
-data modify storage hangul:const char append value "필"
-data modify storage hangul:const char append value "핅"
-data modify storage hangul:const char append value "핆"
-data modify storage hangul:const char append value "핇"
-data modify storage hangul:const char append value "핈"
-data modify storage hangul:const char append value "핉"
-data modify storage hangul:const char append value "핊"
-data modify storage hangul:const char append value "핋"
-data modify storage hangul:const char append value "핌"
-data modify storage hangul:const char append value "핍"
-data modify storage hangul:const char append value "핎"
-data modify storage hangul:const char append value "핏"
-data modify storage hangul:const char append value "핐"
-data modify storage hangul:const char append value "핑"
-data modify storage hangul:const char append value "핒"
-data modify storage hangul:const char append value "핓"
-data modify storage hangul:const char append value "핔"
-data modify storage hangul:const char append value "핕"
-data modify storage hangul:const char append value "핖"
-data modify storage hangul:const char append value "핗"
-data modify storage hangul:const char append value "하"
-data modify storage hangul:const char append value "학"
-data modify storage hangul:const char append value "핚"
-data modify storage hangul:const char append value "핛"
-data modify storage hangul:const char append value "한"
-data modify storage hangul:const char append value "핝"
-data modify storage hangul:const char append value "핞"
-data modify storage hangul:const char append value "핟"
-data modify storage hangul:const char append value "할"
-data modify storage hangul:const char append value "핡"
-data modify storage hangul:const char append value "핢"
-data modify storage hangul:const char append value "핣"
-data modify storage hangul:const char append value "핤"
-data modify storage hangul:const char append value "핥"
-data modify storage hangul:const char append value "핦"
-data modify storage hangul:const char append value "핧"
-data modify storage hangul:const char append value "함"
-data modify storage hangul:const char append value "합"
-data modify storage hangul:const char append value "핪"
-data modify storage hangul:const char append value "핫"
-data modify storage hangul:const char append value "핬"
-data modify storage hangul:const char append value "항"
-data modify storage hangul:const char append value "핮"
-data modify storage hangul:const char append value "핯"
-data modify storage hangul:const char append value "핰"
-data modify storage hangul:const char append value "핱"
-data modify storage hangul:const char append value "핲"
-data modify storage hangul:const char append value "핳"
-data modify storage hangul:const char append value "해"
-data modify storage hangul:const char append value "핵"
-data modify storage hangul:const char append value "핶"
-data modify storage hangul:const char append value "핷"
-data modify storage hangul:const char append value "핸"
-data modify storage hangul:const char append value "핹"
-data modify storage hangul:const char append value "핺"
-data modify storage hangul:const char append value "핻"
-data modify storage hangul:const char append value "핼"
-data modify storage hangul:const char append value "핽"
-data modify storage hangul:const char append value "핾"
-data modify storage hangul:const char append value "핿"
-data modify storage hangul:const char append value "햀"
-data modify storage hangul:const char append value "햁"
-data modify storage hangul:const char append value "햂"
-data modify storage hangul:const char append value "햃"
-data modify storage hangul:const char append value "햄"
-data modify storage hangul:const char append value "햅"
-data modify storage hangul:const char append value "햆"
-data modify storage hangul:const char append value "햇"
-data modify storage hangul:const char append value "했"
-data modify storage hangul:const char append value "행"
-data modify storage hangul:const char append value "햊"
-data modify storage hangul:const char append value "햋"
-data modify storage hangul:const char append value "햌"
-data modify storage hangul:const char append value "햍"
-data modify storage hangul:const char append value "햎"
-data modify storage hangul:const char append value "햏"
-data modify storage hangul:const char append value "햐"
-data modify storage hangul:const char append value "햑"
-data modify storage hangul:const char append value "햒"
-data modify storage hangul:const char append value "햓"
-data modify storage hangul:const char append value "햔"
-data modify storage hangul:const char append value "햕"
-data modify storage hangul:const char append value "햖"
-data modify storage hangul:const char append value "햗"
-data modify storage hangul:const char append value "햘"
-data modify storage hangul:const char append value "햙"
-data modify storage hangul:const char append value "햚"
-data modify storage hangul:const char append value "햛"
-data modify storage hangul:const char append value "햜"
-data modify storage hangul:const char append value "햝"
-data modify storage hangul:const char append value "햞"
-data modify storage hangul:const char append value "햟"
-data modify storage hangul:const char append value "햠"
-data modify storage hangul:const char append value "햡"
-data modify storage hangul:const char append value "햢"
-data modify storage hangul:const char append value "햣"
-data modify storage hangul:const char append value "햤"
-data modify storage hangul:const char append value "향"
-data modify storage hangul:const char append value "햦"
-data modify storage hangul:const char append value "햧"
-data modify storage hangul:const char append value "햨"
-data modify storage hangul:const char append value "햩"
-data modify storage hangul:const char append value "햪"
-data modify storage hangul:const char append value "햫"
-data modify storage hangul:const char append value "햬"
-data modify storage hangul:const char append value "햭"
-data modify storage hangul:const char append value "햮"
-data modify storage hangul:const char append value "햯"
-data modify storage hangul:const char append value "햰"
-data modify storage hangul:const char append value "햱"
-data modify storage hangul:const char append value "햲"
-data modify storage hangul:const char append value "햳"
-data modify storage hangul:const char append value "햴"
-data modify storage hangul:const char append value "햵"
-data modify storage hangul:const char append value "햶"
-data modify storage hangul:const char append value "햷"
-data modify storage hangul:const char append value "햸"
-data modify storage hangul:const char append value "햹"
-data modify storage hangul:const char append value "햺"
-data modify storage hangul:const char append value "햻"
-data modify storage hangul:const char append value "햼"
-data modify storage hangul:const char append value "햽"
-data modify storage hangul:const char append value "햾"
-data modify storage hangul:const char append value "햿"
-data modify storage hangul:const char append value "헀"
-data modify storage hangul:const char append value "헁"
-data modify storage hangul:const char append value "헂"
-data modify storage hangul:const char append value "헃"
-data modify storage hangul:const char append value "헄"
-data modify storage hangul:const char append value "헅"
-data modify storage hangul:const char append value "헆"
-data modify storage hangul:const char append value "헇"
-data modify storage hangul:const char append value "허"
-data modify storage hangul:const char append value "헉"
-data modify storage hangul:const char append value "헊"
-data modify storage hangul:const char append value "헋"
-data modify storage hangul:const char append value "헌"
-data modify storage hangul:const char append value "헍"
-data modify storage hangul:const char append value "헎"
-data modify storage hangul:const char append value "헏"
-data modify storage hangul:const char append value "헐"
-data modify storage hangul:const char append value "헑"
-data modify storage hangul:const char append value "헒"
-data modify storage hangul:const char append value "헓"
-data modify storage hangul:const char append value "헔"
-data modify storage hangul:const char append value "헕"
-data modify storage hangul:const char append value "헖"
-data modify storage hangul:const char append value "헗"
-data modify storage hangul:const char append value "험"
-data modify storage hangul:const char append value "헙"
-data modify storage hangul:const char append value "헚"
-data modify storage hangul:const char append value "헛"
-data modify storage hangul:const char append value "헜"
-data modify storage hangul:const char append value "헝"
-data modify storage hangul:const char append value "헞"
-data modify storage hangul:const char append value "헟"
-data modify storage hangul:const char append value "헠"
-data modify storage hangul:const char append value "헡"
-data modify storage hangul:const char append value "헢"
-data modify storage hangul:const char append value "헣"
-data modify storage hangul:const char append value "헤"
-data modify storage hangul:const char append value "헥"
-data modify storage hangul:const char append value "헦"
-data modify storage hangul:const char append value "헧"
-data modify storage hangul:const char append value "헨"
-data modify storage hangul:const char append value "헩"
-data modify storage hangul:const char append value "헪"
-data modify storage hangul:const char append value "헫"
-data modify storage hangul:const char append value "헬"
-data modify storage hangul:const char append value "헭"
-data modify storage hangul:const char append value "헮"
-data modify storage hangul:const char append value "헯"
-data modify storage hangul:const char append value "헰"
-data modify storage hangul:const char append value "헱"
-data modify storage hangul:const char append value "헲"
-data modify storage hangul:const char append value "헳"
-data modify storage hangul:const char append value "헴"
-data modify storage hangul:const char append value "헵"
-data modify storage hangul:const char append value "헶"
-data modify storage hangul:const char append value "헷"
-data modify storage hangul:const char append value "헸"
-data modify storage hangul:const char append value "헹"
-data modify storage hangul:const char append value "헺"
-data modify storage hangul:const char append value "헻"
-data modify storage hangul:const char append value "헼"
-data modify storage hangul:const char append value "헽"
-data modify storage hangul:const char append value "헾"
-data modify storage hangul:const char append value "헿"
-data modify storage hangul:const char append value "혀"
-data modify storage hangul:const char append value "혁"
-data modify storage hangul:const char append value "혂"
-data modify storage hangul:const char append value "혃"
-data modify storage hangul:const char append value "현"
-data modify storage hangul:const char append value "혅"
-data modify storage hangul:const char append value "혆"
-data modify storage hangul:const char append value "혇"
-data modify storage hangul:const char append value "혈"
-data modify storage hangul:const char append value "혉"
-data modify storage hangul:const char append value "혊"
-data modify storage hangul:const char append value "혋"
-data modify storage hangul:const char append value "혌"
-data modify storage hangul:const char append value "혍"
-data modify storage hangul:const char append value "혎"
-data modify storage hangul:const char append value "혏"
-data modify storage hangul:const char append value "혐"
-data modify storage hangul:const char append value "협"
-data modify storage hangul:const char append value "혒"
-data modify storage hangul:const char append value "혓"
-data modify storage hangul:const char append value "혔"
-data modify storage hangul:const char append value "형"
-data modify storage hangul:const char append value "혖"
-data modify storage hangul:const char append value "혗"
-data modify storage hangul:const char append value "혘"
-data modify storage hangul:const char append value "혙"
-data modify storage hangul:const char append value "혚"
-data modify storage hangul:const char append value "혛"
-data modify storage hangul:const char append value "혜"
-data modify storage hangul:const char append value "혝"
-data modify storage hangul:const char append value "혞"
-data modify storage hangul:const char append value "혟"
-data modify storage hangul:const char append value "혠"
-data modify storage hangul:const char append value "혡"
-data modify storage hangul:const char append value "혢"
-data modify storage hangul:const char append value "혣"
-data modify storage hangul:const char append value "혤"
-data modify storage hangul:const char append value "혥"
-data modify storage hangul:const char append value "혦"
-data modify storage hangul:const char append value "혧"
-data modify storage hangul:const char append value "혨"
-data modify storage hangul:const char append value "혩"
-data modify storage hangul:const char append value "혪"
-data modify storage hangul:const char append value "혫"
-data modify storage hangul:const char append value "혬"
-data modify storage hangul:const char append value "혭"
-data modify storage hangul:const char append value "혮"
-data modify storage hangul:const char append value "혯"
-data modify storage hangul:const char append value "혰"
-data modify storage hangul:const char append value "혱"
-data modify storage hangul:const char append value "혲"
-data modify storage hangul:const char append value "혳"
-data modify storage hangul:const char append value "혴"
-data modify storage hangul:const char append value "혵"
-data modify storage hangul:const char append value "혶"
-data modify storage hangul:const char append value "혷"
-data modify storage hangul:const char append value "호"
-data modify storage hangul:const char append value "혹"
-data modify storage hangul:const char append value "혺"
-data modify storage hangul:const char append value "혻"
-data modify storage hangul:const char append value "혼"
-data modify storage hangul:const char append value "혽"
-data modify storage hangul:const char append value "혾"
-data modify storage hangul:const char append value "혿"
-data modify storage hangul:const char append value "홀"
-data modify storage hangul:const char append value "홁"
-data modify storage hangul:const char append value "홂"
-data modify storage hangul:const char append value "홃"
-data modify storage hangul:const char append value "홄"
-data modify storage hangul:const char append value "홅"
-data modify storage hangul:const char append value "홆"
-data modify storage hangul:const char append value "홇"
-data modify storage hangul:const char append value "홈"
-data modify storage hangul:const char append value "홉"
-data modify storage hangul:const char append value "홊"
-data modify storage hangul:const char append value "홋"
-data modify storage hangul:const char append value "홌"
-data modify storage hangul:const char append value "홍"
-data modify storage hangul:const char append value "홎"
-data modify storage hangul:const char append value "홏"
-data modify storage hangul:const char append value "홐"
-data modify storage hangul:const char append value "홑"
-data modify storage hangul:const char append value "홒"
-data modify storage hangul:const char append value "홓"
-data modify storage hangul:const char append value "화"
-data modify storage hangul:const char append value "확"
-data modify storage hangul:const char append value "홖"
-data modify storage hangul:const char append value "홗"
-data modify storage hangul:const char append value "환"
-data modify storage hangul:const char append value "홙"
-data modify storage hangul:const char append value "홚"
-data modify storage hangul:const char append value "홛"
-data modify storage hangul:const char append value "활"
-data modify storage hangul:const char append value "홝"
-data modify storage hangul:const char append value "홞"
-data modify storage hangul:const char append value "홟"
-data modify storage hangul:const char append value "홠"
-data modify storage hangul:const char append value "홡"
-data modify storage hangul:const char append value "홢"
-data modify storage hangul:const char append value "홣"
-data modify storage hangul:const char append value "홤"
-data modify storage hangul:const char append value "홥"
-data modify storage hangul:const char append value "홦"
-data modify storage hangul:const char append value "홧"
-data modify storage hangul:const char append value "홨"
-data modify storage hangul:const char append value "황"
-data modify storage hangul:const char append value "홪"
-data modify storage hangul:const char append value "홫"
-data modify storage hangul:const char append value "홬"
-data modify storage hangul:const char append value "홭"
-data modify storage hangul:const char append value "홮"
-data modify storage hangul:const char append value "홯"
-data modify storage hangul:const char append value "홰"
-data modify storage hangul:const char append value "홱"
-data modify storage hangul:const char append value "홲"
-data modify storage hangul:const char append value "홳"
-data modify storage hangul:const char append value "홴"
-data modify storage hangul:const char append value "홵"
-data modify storage hangul:const char append value "홶"
-data modify storage hangul:const char append value "홷"
-data modify storage hangul:const char append value "홸"
-data modify storage hangul:const char append value "홹"
-data modify storage hangul:const char append value "홺"
-data modify storage hangul:const char append value "홻"
-data modify storage hangul:const char append value "홼"
-data modify storage hangul:const char append value "홽"
-data modify storage hangul:const char append value "홾"
-data modify storage hangul:const char append value "홿"
-data modify storage hangul:const char append value "횀"
-data modify storage hangul:const char append value "횁"
-data modify storage hangul:const char append value "횂"
-data modify storage hangul:const char append value "횃"
-data modify storage hangul:const char append value "횄"
-data modify storage hangul:const char append value "횅"
-data modify storage hangul:const char append value "횆"
-data modify storage hangul:const char append value "횇"
-data modify storage hangul:const char append value "횈"
-data modify storage hangul:const char append value "횉"
-data modify storage hangul:const char append value "횊"
-data modify storage hangul:const char append value "횋"
-data modify storage hangul:const char append value "회"
-data modify storage hangul:const char append value "획"
-data modify storage hangul:const char append value "횎"
-data modify storage hangul:const char append value "횏"
-data modify storage hangul:const char append value "횐"
-data modify storage hangul:const char append value "횑"
-data modify storage hangul:const char append value "횒"
-data modify storage hangul:const char append value "횓"
-data modify storage hangul:const char append value "횔"
-data modify storage hangul:const char append value "횕"
-data modify storage hangul:const char append value "횖"
-data modify storage hangul:const char append value "횗"
-data modify storage hangul:const char append value "횘"
-data modify storage hangul:const char append value "횙"
-data modify storage hangul:const char append value "횚"
-data modify storage hangul:const char append value "횛"
-data modify storage hangul:const char append value "횜"
-data modify storage hangul:const char append value "횝"
-data modify storage hangul:const char append value "횞"
-data modify storage hangul:const char append value "횟"
-data modify storage hangul:const char append value "횠"
-data modify storage hangul:const char append value "횡"
-data modify storage hangul:const char append value "횢"
-data modify storage hangul:const char append value "횣"
-data modify storage hangul:const char append value "횤"
-data modify storage hangul:const char append value "횥"
-data modify storage hangul:const char append value "횦"
-data modify storage hangul:const char append value "횧"
-data modify storage hangul:const char append value "효"
-data modify storage hangul:const char append value "횩"
-data modify storage hangul:const char append value "횪"
-data modify storage hangul:const char append value "횫"
-data modify storage hangul:const char append value "횬"
-data modify storage hangul:const char append value "횭"
-data modify storage hangul:const char append value "횮"
-data modify storage hangul:const char append value "횯"
-data modify storage hangul:const char append value "횰"
-data modify storage hangul:const char append value "횱"
-data modify storage hangul:const char append value "횲"
-data modify storage hangul:const char append value "횳"
-data modify storage hangul:const char append value "횴"
-data modify storage hangul:const char append value "횵"
-data modify storage hangul:const char append value "횶"
-data modify storage hangul:const char append value "횷"
-data modify storage hangul:const char append value "횸"
-data modify storage hangul:const char append value "횹"
-data modify storage hangul:const char append value "횺"
-data modify storage hangul:const char append value "횻"
-data modify storage hangul:const char append value "횼"
-data modify storage hangul:const char append value "횽"
-data modify storage hangul:const char append value "횾"
-data modify storage hangul:const char append value "횿"
-data modify storage hangul:const char append value "훀"
-data modify storage hangul:const char append value "훁"
-data modify storage hangul:const char append value "훂"
-data modify storage hangul:const char append value "훃"
-data modify storage hangul:const char append value "후"
-data modify storage hangul:const char append value "훅"
-data modify storage hangul:const char append value "훆"
-data modify storage hangul:const char append value "훇"
-data modify storage hangul:const char append value "훈"
-data modify storage hangul:const char append value "훉"
-data modify storage hangul:const char append value "훊"
-data modify storage hangul:const char append value "훋"
-data modify storage hangul:const char append value "훌"
-data modify storage hangul:const char append value "훍"
-data modify storage hangul:const char append value "훎"
-data modify storage hangul:const char append value "훏"
-data modify storage hangul:const char append value "훐"
-data modify storage hangul:const char append value "훑"
-data modify storage hangul:const char append value "훒"
-data modify storage hangul:const char append value "훓"
-data modify storage hangul:const char append value "훔"
-data modify storage hangul:const char append value "훕"
-data modify storage hangul:const char append value "훖"
-data modify storage hangul:const char append value "훗"
-data modify storage hangul:const char append value "훘"
-data modify storage hangul:const char append value "훙"
-data modify storage hangul:const char append value "훚"
-data modify storage hangul:const char append value "훛"
-data modify storage hangul:const char append value "훜"
-data modify storage hangul:const char append value "훝"
-data modify storage hangul:const char append value "훞"
-data modify storage hangul:const char append value "훟"
-data modify storage hangul:const char append value "훠"
-data modify storage hangul:const char append value "훡"
-data modify storage hangul:const char append value "훢"
-data modify storage hangul:const char append value "훣"
-data modify storage hangul:const char append value "훤"
-data modify storage hangul:const char append value "훥"
-data modify storage hangul:const char append value "훦"
-data modify storage hangul:const char append value "훧"
-data modify storage hangul:const char append value "훨"
-data modify storage hangul:const char append value "훩"
-data modify storage hangul:const char append value "훪"
-data modify storage hangul:const char append value "훫"
-data modify storage hangul:const char append value "훬"
-data modify storage hangul:const char append value "훭"
-data modify storage hangul:const char append value "훮"
-data modify storage hangul:const char append value "훯"
-data modify storage hangul:const char append value "훰"
-data modify storage hangul:const char append value "훱"
-data modify storage hangul:const char append value "훲"
-data modify storage hangul:const char append value "훳"
-data modify storage hangul:const char append value "훴"
-data modify storage hangul:const char append value "훵"
-data modify storage hangul:const char append value "훶"
-data modify storage hangul:const char append value "훷"
-data modify storage hangul:const char append value "훸"
-data modify storage hangul:const char append value "훹"
-data modify storage hangul:const char append value "훺"
-data modify storage hangul:const char append value "훻"
-data modify storage hangul:const char append value "훼"
-data modify storage hangul:const char append value "훽"
-data modify storage hangul:const char append value "훾"
-data modify storage hangul:const char append value "훿"
-data modify storage hangul:const char append value "휀"
-data modify storage hangul:const char append value "휁"
-data modify storage hangul:const char append value "휂"
-data modify storage hangul:const char append value "휃"
-data modify storage hangul:const char append value "휄"
-data modify storage hangul:const char append value "휅"
-data modify storage hangul:const char append value "휆"
-data modify storage hangul:const char append value "휇"
-data modify storage hangul:const char append value "휈"
-data modify storage hangul:const char append value "휉"
-data modify storage hangul:const char append value "휊"
-data modify storage hangul:const char append value "휋"
-data modify storage hangul:const char append value "휌"
-data modify storage hangul:const char append value "휍"
-data modify storage hangul:const char append value "휎"
-data modify storage hangul:const char append value "휏"
-data modify storage hangul:const char append value "휐"
-data modify storage hangul:const char append value "휑"
-data modify storage hangul:const char append value "휒"
-data modify storage hangul:const char append value "휓"
-data modify storage hangul:const char append value "휔"
-data modify storage hangul:const char append value "휕"
-data modify storage hangul:const char append value "휖"
-data modify storage hangul:const char append value "휗"
-data modify storage hangul:const char append value "휘"
-data modify storage hangul:const char append value "휙"
-data modify storage hangul:const char append value "휚"
-data modify storage hangul:const char append value "휛"
-data modify storage hangul:const char append value "휜"
-data modify storage hangul:const char append value "휝"
-data modify storage hangul:const char append value "휞"
-data modify storage hangul:const char append value "휟"
-data modify storage hangul:const char append value "휠"
-data modify storage hangul:const char append value "휡"
-data modify storage hangul:const char append value "휢"
-data modify storage hangul:const char append value "휣"
-data modify storage hangul:const char append value "휤"
-data modify storage hangul:const char append value "휥"
-data modify storage hangul:const char append value "휦"
-data modify storage hangul:const char append value "휧"
-data modify storage hangul:const char append value "휨"
-data modify storage hangul:const char append value "휩"
-data modify storage hangul:const char append value "휪"
-data modify storage hangul:const char append value "휫"
-data modify storage hangul:const char append value "휬"
-data modify storage hangul:const char append value "휭"
-data modify storage hangul:const char append value "휮"
-data modify storage hangul:const char append value "휯"
-data modify storage hangul:const char append value "휰"
-data modify storage hangul:const char append value "휱"
-data modify storage hangul:const char append value "휲"
-data modify storage hangul:const char append value "휳"
-data modify storage hangul:const char append value "휴"
-data modify storage hangul:const char append value "휵"
-data modify storage hangul:const char append value "휶"
-data modify storage hangul:const char append value "휷"
-data modify storage hangul:const char append value "휸"
-data modify storage hangul:const char append value "휹"
-data modify storage hangul:const char append value "휺"
-data modify storage hangul:const char append value "휻"
-data modify storage hangul:const char append value "휼"
-data modify storage hangul:const char append value "휽"
-data modify storage hangul:const char append value "휾"
-data modify storage hangul:const char append value "휿"
-data modify storage hangul:const char append value "흀"
-data modify storage hangul:const char append value "흁"
-data modify storage hangul:const char append value "흂"
-data modify storage hangul:const char append value "흃"
-data modify storage hangul:const char append value "흄"
-data modify storage hangul:const char append value "흅"
-data modify storage hangul:const char append value "흆"
-data modify storage hangul:const char append value "흇"
-data modify storage hangul:const char append value "흈"
-data modify storage hangul:const char append value "흉"
-data modify storage hangul:const char append value "흊"
-data modify storage hangul:const char append value "흋"
-data modify storage hangul:const char append value "흌"
-data modify storage hangul:const char append value "흍"
-data modify storage hangul:const char append value "흎"
-data modify storage hangul:const char append value "흏"
-data modify storage hangul:const char append value "흐"
-data modify storage hangul:const char append value "흑"
-data modify storage hangul:const char append value "흒"
-data modify storage hangul:const char append value "흓"
-data modify storage hangul:const char append value "흔"
-data modify storage hangul:const char append value "흕"
-data modify storage hangul:const char append value "흖"
-data modify storage hangul:const char append value "흗"
-data modify storage hangul:const char append value "흘"
-data modify storage hangul:const char append value "흙"
-data modify storage hangul:const char append value "흚"
-data modify storage hangul:const char append value "흛"
-data modify storage hangul:const char append value "흜"
-data modify storage hangul:const char append value "흝"
-data modify storage hangul:const char append value "흞"
-data modify storage hangul:const char append value "흟"
-data modify storage hangul:const char append value "흠"
-data modify storage hangul:const char append value "흡"
-data modify storage hangul:const char append value "흢"
-data modify storage hangul:const char append value "흣"
-data modify storage hangul:const char append value "흤"
-data modify storage hangul:const char append value "흥"
-data modify storage hangul:const char append value "흦"
-data modify storage hangul:const char append value "흧"
-data modify storage hangul:const char append value "흨"
-data modify storage hangul:const char append value "흩"
-data modify storage hangul:const char append value "흪"
-data modify storage hangul:const char append value "흫"
-data modify storage hangul:const char append value "희"
-data modify storage hangul:const char append value "흭"
-data modify storage hangul:const char append value "흮"
-data modify storage hangul:const char append value "흯"
-data modify storage hangul:const char append value "흰"
-data modify storage hangul:const char append value "흱"
-data modify storage hangul:const char append value "흲"
-data modify storage hangul:const char append value "흳"
-data modify storage hangul:const char append value "흴"
-data modify storage hangul:const char append value "흵"
-data modify storage hangul:const char append value "흶"
-data modify storage hangul:const char append value "흷"
-data modify storage hangul:const char append value "흸"
-data modify storage hangul:const char append value "흹"
-data modify storage hangul:const char append value "흺"
-data modify storage hangul:const char append value "흻"
-data modify storage hangul:const char append value "흼"
-data modify storage hangul:const char append value "흽"
-data modify storage hangul:const char append value "흾"
-data modify storage hangul:const char append value "흿"
-data modify storage hangul:const char append value "힀"
-data modify storage hangul:const char append value "힁"
-data modify storage hangul:const char append value "힂"
-data modify storage hangul:const char append value "힃"
-data modify storage hangul:const char append value "힄"
-data modify storage hangul:const char append value "힅"
-data modify storage hangul:const char append value "힆"
-data modify storage hangul:const char append value "힇"
+data modify storage hangul:const char set value { \
+    0: "가", \
+    1: "각", \
+    2: "갂", \
+    3: "갃", \
+    4: "간", \
+    5: "갅", \
+    6: "갆", \
+    7: "갇", \
+    8: "갈", \
+    9: "갉", \
+    10: "갊", \
+    11: "갋", \
+    12: "갌", \
+    13: "갍", \
+    14: "갎", \
+    15: "갏", \
+    16: "감", \
+    17: "갑", \
+    18: "값", \
+    19: "갓", \
+    20: "갔", \
+    21: "강", \
+    22: "갖", \
+    23: "갗", \
+    24: "갘", \
+    25: "같", \
+    26: "갚", \
+    27: "갛", \
+    28: "개", \
+    29: "객", \
+    30: "갞", \
+    31: "갟", \
+    32: "갠", \
+    33: "갡", \
+    34: "갢", \
+    35: "갣", \
+    36: "갤", \
+    37: "갥", \
+    38: "갦", \
+    39: "갧", \
+    40: "갨", \
+    41: "갩", \
+    42: "갪", \
+    43: "갫", \
+    44: "갬", \
+    45: "갭", \
+    46: "갮", \
+    47: "갯", \
+    48: "갰", \
+    49: "갱", \
+    50: "갲", \
+    51: "갳", \
+    52: "갴", \
+    53: "갵", \
+    54: "갶", \
+    55: "갷", \
+    56: "갸", \
+    57: "갹", \
+    58: "갺", \
+    59: "갻", \
+    60: "갼", \
+    61: "갽", \
+    62: "갾", \
+    63: "갿", \
+    64: "걀", \
+    65: "걁", \
+    66: "걂", \
+    67: "걃", \
+    68: "걄", \
+    69: "걅", \
+    70: "걆", \
+    71: "걇", \
+    72: "걈", \
+    73: "걉", \
+    74: "걊", \
+    75: "걋", \
+    76: "걌", \
+    77: "걍", \
+    78: "걎", \
+    79: "걏", \
+    80: "걐", \
+    81: "걑", \
+    82: "걒", \
+    83: "걓", \
+    84: "걔", \
+    85: "걕", \
+    86: "걖", \
+    87: "걗", \
+    88: "걘", \
+    89: "걙", \
+    90: "걚", \
+    91: "걛", \
+    92: "걜", \
+    93: "걝", \
+    94: "걞", \
+    95: "걟", \
+    96: "걠", \
+    97: "걡", \
+    98: "걢", \
+    99: "걣", \
+    100: "걤", \
+    101: "걥", \
+    102: "걦", \
+    103: "걧", \
+    104: "걨", \
+    105: "걩", \
+    106: "걪", \
+    107: "걫", \
+    108: "걬", \
+    109: "걭", \
+    110: "걮", \
+    111: "걯", \
+    112: "거", \
+    113: "걱", \
+    114: "걲", \
+    115: "걳", \
+    116: "건", \
+    117: "걵", \
+    118: "걶", \
+    119: "걷", \
+    120: "걸", \
+    121: "걹", \
+    122: "걺", \
+    123: "걻", \
+    124: "걼", \
+    125: "걽", \
+    126: "걾", \
+    127: "걿", \
+    128: "검", \
+    129: "겁", \
+    130: "겂", \
+    131: "것", \
+    132: "겄", \
+    133: "겅", \
+    134: "겆", \
+    135: "겇", \
+    136: "겈", \
+    137: "겉", \
+    138: "겊", \
+    139: "겋", \
+    140: "게", \
+    141: "겍", \
+    142: "겎", \
+    143: "겏", \
+    144: "겐", \
+    145: "겑", \
+    146: "겒", \
+    147: "겓", \
+    148: "겔", \
+    149: "겕", \
+    150: "겖", \
+    151: "겗", \
+    152: "겘", \
+    153: "겙", \
+    154: "겚", \
+    155: "겛", \
+    156: "겜", \
+    157: "겝", \
+    158: "겞", \
+    159: "겟", \
+    160: "겠", \
+    161: "겡", \
+    162: "겢", \
+    163: "겣", \
+    164: "겤", \
+    165: "겥", \
+    166: "겦", \
+    167: "겧", \
+    168: "겨", \
+    169: "격", \
+    170: "겪", \
+    171: "겫", \
+    172: "견", \
+    173: "겭", \
+    174: "겮", \
+    175: "겯", \
+    176: "결", \
+    177: "겱", \
+    178: "겲", \
+    179: "겳", \
+    180: "겴", \
+    181: "겵", \
+    182: "겶", \
+    183: "겷", \
+    184: "겸", \
+    185: "겹", \
+    186: "겺", \
+    187: "겻", \
+    188: "겼", \
+    189: "경", \
+    190: "겾", \
+    191: "겿", \
+    192: "곀", \
+    193: "곁", \
+    194: "곂", \
+    195: "곃", \
+    196: "계", \
+    197: "곅", \
+    198: "곆", \
+    199: "곇", \
+    200: "곈", \
+    201: "곉", \
+    202: "곊", \
+    203: "곋", \
+    204: "곌", \
+    205: "곍", \
+    206: "곎", \
+    207: "곏", \
+    208: "곐", \
+    209: "곑", \
+    210: "곒", \
+    211: "곓", \
+    212: "곔", \
+    213: "곕", \
+    214: "곖", \
+    215: "곗", \
+    216: "곘", \
+    217: "곙", \
+    218: "곚", \
+    219: "곛", \
+    220: "곜", \
+    221: "곝", \
+    222: "곞", \
+    223: "곟", \
+    224: "고", \
+    225: "곡", \
+    226: "곢", \
+    227: "곣", \
+    228: "곤", \
+    229: "곥", \
+    230: "곦", \
+    231: "곧", \
+    232: "골", \
+    233: "곩", \
+    234: "곪", \
+    235: "곫", \
+    236: "곬", \
+    237: "곭", \
+    238: "곮", \
+    239: "곯", \
+    240: "곰", \
+    241: "곱", \
+    242: "곲", \
+    243: "곳", \
+    244: "곴", \
+    245: "공", \
+    246: "곶", \
+    247: "곷", \
+    248: "곸", \
+    249: "곹", \
+    250: "곺", \
+    251: "곻", \
+    252: "과", \
+    253: "곽", \
+    254: "곾", \
+    255: "곿", \
+    256: "관", \
+    257: "괁", \
+    258: "괂", \
+    259: "괃", \
+    260: "괄", \
+    261: "괅", \
+    262: "괆", \
+    263: "괇", \
+    264: "괈", \
+    265: "괉", \
+    266: "괊", \
+    267: "괋", \
+    268: "괌", \
+    269: "괍", \
+    270: "괎", \
+    271: "괏", \
+    272: "괐", \
+    273: "광", \
+    274: "괒", \
+    275: "괓", \
+    276: "괔", \
+    277: "괕", \
+    278: "괖", \
+    279: "괗", \
+    280: "괘", \
+    281: "괙", \
+    282: "괚", \
+    283: "괛", \
+    284: "괜", \
+    285: "괝", \
+    286: "괞", \
+    287: "괟", \
+    288: "괠", \
+    289: "괡", \
+    290: "괢", \
+    291: "괣", \
+    292: "괤", \
+    293: "괥", \
+    294: "괦", \
+    295: "괧", \
+    296: "괨", \
+    297: "괩", \
+    298: "괪", \
+    299: "괫", \
+    300: "괬", \
+    301: "괭", \
+    302: "괮", \
+    303: "괯", \
+    304: "괰", \
+    305: "괱", \
+    306: "괲", \
+    307: "괳", \
+    308: "괴", \
+    309: "괵", \
+    310: "괶", \
+    311: "괷", \
+    312: "괸", \
+    313: "괹", \
+    314: "괺", \
+    315: "괻", \
+    316: "괼", \
+    317: "괽", \
+    318: "괾", \
+    319: "괿", \
+    320: "굀", \
+    321: "굁", \
+    322: "굂", \
+    323: "굃", \
+    324: "굄", \
+    325: "굅", \
+    326: "굆", \
+    327: "굇", \
+    328: "굈", \
+    329: "굉", \
+    330: "굊", \
+    331: "굋", \
+    332: "굌", \
+    333: "굍", \
+    334: "굎", \
+    335: "굏", \
+    336: "교", \
+    337: "굑", \
+    338: "굒", \
+    339: "굓", \
+    340: "굔", \
+    341: "굕", \
+    342: "굖", \
+    343: "굗", \
+    344: "굘", \
+    345: "굙", \
+    346: "굚", \
+    347: "굛", \
+    348: "굜", \
+    349: "굝", \
+    350: "굞", \
+    351: "굟", \
+    352: "굠", \
+    353: "굡", \
+    354: "굢", \
+    355: "굣", \
+    356: "굤", \
+    357: "굥", \
+    358: "굦", \
+    359: "굧", \
+    360: "굨", \
+    361: "굩", \
+    362: "굪", \
+    363: "굫", \
+    364: "구", \
+    365: "국", \
+    366: "굮", \
+    367: "굯", \
+    368: "군", \
+    369: "굱", \
+    370: "굲", \
+    371: "굳", \
+    372: "굴", \
+    373: "굵", \
+    374: "굶", \
+    375: "굷", \
+    376: "굸", \
+    377: "굹", \
+    378: "굺", \
+    379: "굻", \
+    380: "굼", \
+    381: "굽", \
+    382: "굾", \
+    383: "굿", \
+    384: "궀", \
+    385: "궁", \
+    386: "궂", \
+    387: "궃", \
+    388: "궄", \
+    389: "궅", \
+    390: "궆", \
+    391: "궇", \
+    392: "궈", \
+    393: "궉", \
+    394: "궊", \
+    395: "궋", \
+    396: "권", \
+    397: "궍", \
+    398: "궎", \
+    399: "궏", \
+    400: "궐", \
+    401: "궑", \
+    402: "궒", \
+    403: "궓", \
+    404: "궔", \
+    405: "궕", \
+    406: "궖", \
+    407: "궗", \
+    408: "궘", \
+    409: "궙", \
+    410: "궚", \
+    411: "궛", \
+    412: "궜", \
+    413: "궝", \
+    414: "궞", \
+    415: "궟", \
+    416: "궠", \
+    417: "궡", \
+    418: "궢", \
+    419: "궣", \
+    420: "궤", \
+    421: "궥", \
+    422: "궦", \
+    423: "궧", \
+    424: "궨", \
+    425: "궩", \
+    426: "궪", \
+    427: "궫", \
+    428: "궬", \
+    429: "궭", \
+    430: "궮", \
+    431: "궯", \
+    432: "궰", \
+    433: "궱", \
+    434: "궲", \
+    435: "궳", \
+    436: "궴", \
+    437: "궵", \
+    438: "궶", \
+    439: "궷", \
+    440: "궸", \
+    441: "궹", \
+    442: "궺", \
+    443: "궻", \
+    444: "궼", \
+    445: "궽", \
+    446: "궾", \
+    447: "궿", \
+    448: "귀", \
+    449: "귁", \
+    450: "귂", \
+    451: "귃", \
+    452: "귄", \
+    453: "귅", \
+    454: "귆", \
+    455: "귇", \
+    456: "귈", \
+    457: "귉", \
+    458: "귊", \
+    459: "귋", \
+    460: "귌", \
+    461: "귍", \
+    462: "귎", \
+    463: "귏", \
+    464: "귐", \
+    465: "귑", \
+    466: "귒", \
+    467: "귓", \
+    468: "귔", \
+    469: "귕", \
+    470: "귖", \
+    471: "귗", \
+    472: "귘", \
+    473: "귙", \
+    474: "귚", \
+    475: "귛", \
+    476: "규", \
+    477: "귝", \
+    478: "귞", \
+    479: "귟", \
+    480: "균", \
+    481: "귡", \
+    482: "귢", \
+    483: "귣", \
+    484: "귤", \
+    485: "귥", \
+    486: "귦", \
+    487: "귧", \
+    488: "귨", \
+    489: "귩", \
+    490: "귪", \
+    491: "귫", \
+    492: "귬", \
+    493: "귭", \
+    494: "귮", \
+    495: "귯", \
+    496: "귰", \
+    497: "귱", \
+    498: "귲", \
+    499: "귳", \
+    500: "귴", \
+    501: "귵", \
+    502: "귶", \
+    503: "귷", \
+    504: "그", \
+    505: "극", \
+    506: "귺", \
+    507: "귻", \
+    508: "근", \
+    509: "귽", \
+    510: "귾", \
+    511: "귿", \
+    512: "글", \
+    513: "긁", \
+    514: "긂", \
+    515: "긃", \
+    516: "긄", \
+    517: "긅", \
+    518: "긆", \
+    519: "긇", \
+    520: "금", \
+    521: "급", \
+    522: "긊", \
+    523: "긋", \
+    524: "긌", \
+    525: "긍", \
+    526: "긎", \
+    527: "긏", \
+    528: "긐", \
+    529: "긑", \
+    530: "긒", \
+    531: "긓", \
+    532: "긔", \
+    533: "긕", \
+    534: "긖", \
+    535: "긗", \
+    536: "긘", \
+    537: "긙", \
+    538: "긚", \
+    539: "긛", \
+    540: "긜", \
+    541: "긝", \
+    542: "긞", \
+    543: "긟", \
+    544: "긠", \
+    545: "긡", \
+    546: "긢", \
+    547: "긣", \
+    548: "긤", \
+    549: "긥", \
+    550: "긦", \
+    551: "긧", \
+    552: "긨", \
+    553: "긩", \
+    554: "긪", \
+    555: "긫", \
+    556: "긬", \
+    557: "긭", \
+    558: "긮", \
+    559: "긯", \
+    560: "기", \
+    561: "긱", \
+    562: "긲", \
+    563: "긳", \
+    564: "긴", \
+    565: "긵", \
+    566: "긶", \
+    567: "긷", \
+    568: "길", \
+    569: "긹", \
+    570: "긺", \
+    571: "긻", \
+    572: "긼", \
+    573: "긽", \
+    574: "긾", \
+    575: "긿", \
+    576: "김", \
+    577: "깁", \
+    578: "깂", \
+    579: "깃", \
+    580: "깄", \
+    581: "깅", \
+    582: "깆", \
+    583: "깇", \
+    584: "깈", \
+    585: "깉", \
+    586: "깊", \
+    587: "깋", \
+    588: "까", \
+    589: "깍", \
+    590: "깎", \
+    591: "깏", \
+    592: "깐", \
+    593: "깑", \
+    594: "깒", \
+    595: "깓", \
+    596: "깔", \
+    597: "깕", \
+    598: "깖", \
+    599: "깗", \
+    600: "깘", \
+    601: "깙", \
+    602: "깚", \
+    603: "깛", \
+    604: "깜", \
+    605: "깝", \
+    606: "깞", \
+    607: "깟", \
+    608: "깠", \
+    609: "깡", \
+    610: "깢", \
+    611: "깣", \
+    612: "깤", \
+    613: "깥", \
+    614: "깦", \
+    615: "깧", \
+    616: "깨", \
+    617: "깩", \
+    618: "깪", \
+    619: "깫", \
+    620: "깬", \
+    621: "깭", \
+    622: "깮", \
+    623: "깯", \
+    624: "깰", \
+    625: "깱", \
+    626: "깲", \
+    627: "깳", \
+    628: "깴", \
+    629: "깵", \
+    630: "깶", \
+    631: "깷", \
+    632: "깸", \
+    633: "깹", \
+    634: "깺", \
+    635: "깻", \
+    636: "깼", \
+    637: "깽", \
+    638: "깾", \
+    639: "깿", \
+    640: "꺀", \
+    641: "꺁", \
+    642: "꺂", \
+    643: "꺃", \
+    644: "꺄", \
+    645: "꺅", \
+    646: "꺆", \
+    647: "꺇", \
+    648: "꺈", \
+    649: "꺉", \
+    650: "꺊", \
+    651: "꺋", \
+    652: "꺌", \
+    653: "꺍", \
+    654: "꺎", \
+    655: "꺏", \
+    656: "꺐", \
+    657: "꺑", \
+    658: "꺒", \
+    659: "꺓", \
+    660: "꺔", \
+    661: "꺕", \
+    662: "꺖", \
+    663: "꺗", \
+    664: "꺘", \
+    665: "꺙", \
+    666: "꺚", \
+    667: "꺛", \
+    668: "꺜", \
+    669: "꺝", \
+    670: "꺞", \
+    671: "꺟", \
+    672: "꺠", \
+    673: "꺡", \
+    674: "꺢", \
+    675: "꺣", \
+    676: "꺤", \
+    677: "꺥", \
+    678: "꺦", \
+    679: "꺧", \
+    680: "꺨", \
+    681: "꺩", \
+    682: "꺪", \
+    683: "꺫", \
+    684: "꺬", \
+    685: "꺭", \
+    686: "꺮", \
+    687: "꺯", \
+    688: "꺰", \
+    689: "꺱", \
+    690: "꺲", \
+    691: "꺳", \
+    692: "꺴", \
+    693: "꺵", \
+    694: "꺶", \
+    695: "꺷", \
+    696: "꺸", \
+    697: "꺹", \
+    698: "꺺", \
+    699: "꺻", \
+    700: "꺼", \
+    701: "꺽", \
+    702: "꺾", \
+    703: "꺿", \
+    704: "껀", \
+    705: "껁", \
+    706: "껂", \
+    707: "껃", \
+    708: "껄", \
+    709: "껅", \
+    710: "껆", \
+    711: "껇", \
+    712: "껈", \
+    713: "껉", \
+    714: "껊", \
+    715: "껋", \
+    716: "껌", \
+    717: "껍", \
+    718: "껎", \
+    719: "껏", \
+    720: "껐", \
+    721: "껑", \
+    722: "껒", \
+    723: "껓", \
+    724: "껔", \
+    725: "껕", \
+    726: "껖", \
+    727: "껗", \
+    728: "께", \
+    729: "껙", \
+    730: "껚", \
+    731: "껛", \
+    732: "껜", \
+    733: "껝", \
+    734: "껞", \
+    735: "껟", \
+    736: "껠", \
+    737: "껡", \
+    738: "껢", \
+    739: "껣", \
+    740: "껤", \
+    741: "껥", \
+    742: "껦", \
+    743: "껧", \
+    744: "껨", \
+    745: "껩", \
+    746: "껪", \
+    747: "껫", \
+    748: "껬", \
+    749: "껭", \
+    750: "껮", \
+    751: "껯", \
+    752: "껰", \
+    753: "껱", \
+    754: "껲", \
+    755: "껳", \
+    756: "껴", \
+    757: "껵", \
+    758: "껶", \
+    759: "껷", \
+    760: "껸", \
+    761: "껹", \
+    762: "껺", \
+    763: "껻", \
+    764: "껼", \
+    765: "껽", \
+    766: "껾", \
+    767: "껿", \
+    768: "꼀", \
+    769: "꼁", \
+    770: "꼂", \
+    771: "꼃", \
+    772: "꼄", \
+    773: "꼅", \
+    774: "꼆", \
+    775: "꼇", \
+    776: "꼈", \
+    777: "꼉", \
+    778: "꼊", \
+    779: "꼋", \
+    780: "꼌", \
+    781: "꼍", \
+    782: "꼎", \
+    783: "꼏", \
+    784: "꼐", \
+    785: "꼑", \
+    786: "꼒", \
+    787: "꼓", \
+    788: "꼔", \
+    789: "꼕", \
+    790: "꼖", \
+    791: "꼗", \
+    792: "꼘", \
+    793: "꼙", \
+    794: "꼚", \
+    795: "꼛", \
+    796: "꼜", \
+    797: "꼝", \
+    798: "꼞", \
+    799: "꼟", \
+    800: "꼠", \
+    801: "꼡", \
+    802: "꼢", \
+    803: "꼣", \
+    804: "꼤", \
+    805: "꼥", \
+    806: "꼦", \
+    807: "꼧", \
+    808: "꼨", \
+    809: "꼩", \
+    810: "꼪", \
+    811: "꼫", \
+    812: "꼬", \
+    813: "꼭", \
+    814: "꼮", \
+    815: "꼯", \
+    816: "꼰", \
+    817: "꼱", \
+    818: "꼲", \
+    819: "꼳", \
+    820: "꼴", \
+    821: "꼵", \
+    822: "꼶", \
+    823: "꼷", \
+    824: "꼸", \
+    825: "꼹", \
+    826: "꼺", \
+    827: "꼻", \
+    828: "꼼", \
+    829: "꼽", \
+    830: "꼾", \
+    831: "꼿", \
+    832: "꽀", \
+    833: "꽁", \
+    834: "꽂", \
+    835: "꽃", \
+    836: "꽄", \
+    837: "꽅", \
+    838: "꽆", \
+    839: "꽇", \
+    840: "꽈", \
+    841: "꽉", \
+    842: "꽊", \
+    843: "꽋", \
+    844: "꽌", \
+    845: "꽍", \
+    846: "꽎", \
+    847: "꽏", \
+    848: "꽐", \
+    849: "꽑", \
+    850: "꽒", \
+    851: "꽓", \
+    852: "꽔", \
+    853: "꽕", \
+    854: "꽖", \
+    855: "꽗", \
+    856: "꽘", \
+    857: "꽙", \
+    858: "꽚", \
+    859: "꽛", \
+    860: "꽜", \
+    861: "꽝", \
+    862: "꽞", \
+    863: "꽟", \
+    864: "꽠", \
+    865: "꽡", \
+    866: "꽢", \
+    867: "꽣", \
+    868: "꽤", \
+    869: "꽥", \
+    870: "꽦", \
+    871: "꽧", \
+    872: "꽨", \
+    873: "꽩", \
+    874: "꽪", \
+    875: "꽫", \
+    876: "꽬", \
+    877: "꽭", \
+    878: "꽮", \
+    879: "꽯", \
+    880: "꽰", \
+    881: "꽱", \
+    882: "꽲", \
+    883: "꽳", \
+    884: "꽴", \
+    885: "꽵", \
+    886: "꽶", \
+    887: "꽷", \
+    888: "꽸", \
+    889: "꽹", \
+    890: "꽺", \
+    891: "꽻", \
+    892: "꽼", \
+    893: "꽽", \
+    894: "꽾", \
+    895: "꽿", \
+    896: "꾀", \
+    897: "꾁", \
+    898: "꾂", \
+    899: "꾃", \
+    900: "꾄", \
+    901: "꾅", \
+    902: "꾆", \
+    903: "꾇", \
+    904: "꾈", \
+    905: "꾉", \
+    906: "꾊", \
+    907: "꾋", \
+    908: "꾌", \
+    909: "꾍", \
+    910: "꾎", \
+    911: "꾏", \
+    912: "꾐", \
+    913: "꾑", \
+    914: "꾒", \
+    915: "꾓", \
+    916: "꾔", \
+    917: "꾕", \
+    918: "꾖", \
+    919: "꾗", \
+    920: "꾘", \
+    921: "꾙", \
+    922: "꾚", \
+    923: "꾛", \
+    924: "꾜", \
+    925: "꾝", \
+    926: "꾞", \
+    927: "꾟", \
+    928: "꾠", \
+    929: "꾡", \
+    930: "꾢", \
+    931: "꾣", \
+    932: "꾤", \
+    933: "꾥", \
+    934: "꾦", \
+    935: "꾧", \
+    936: "꾨", \
+    937: "꾩", \
+    938: "꾪", \
+    939: "꾫", \
+    940: "꾬", \
+    941: "꾭", \
+    942: "꾮", \
+    943: "꾯", \
+    944: "꾰", \
+    945: "꾱", \
+    946: "꾲", \
+    947: "꾳", \
+    948: "꾴", \
+    949: "꾵", \
+    950: "꾶", \
+    951: "꾷", \
+    952: "꾸", \
+    953: "꾹", \
+    954: "꾺", \
+    955: "꾻", \
+    956: "꾼", \
+    957: "꾽", \
+    958: "꾾", \
+    959: "꾿", \
+    960: "꿀", \
+    961: "꿁", \
+    962: "꿂", \
+    963: "꿃", \
+    964: "꿄", \
+    965: "꿅", \
+    966: "꿆", \
+    967: "꿇", \
+    968: "꿈", \
+    969: "꿉", \
+    970: "꿊", \
+    971: "꿋", \
+    972: "꿌", \
+    973: "꿍", \
+    974: "꿎", \
+    975: "꿏", \
+    976: "꿐", \
+    977: "꿑", \
+    978: "꿒", \
+    979: "꿓", \
+    980: "꿔", \
+    981: "꿕", \
+    982: "꿖", \
+    983: "꿗", \
+    984: "꿘", \
+    985: "꿙", \
+    986: "꿚", \
+    987: "꿛", \
+    988: "꿜", \
+    989: "꿝", \
+    990: "꿞", \
+    991: "꿟", \
+    992: "꿠", \
+    993: "꿡", \
+    994: "꿢", \
+    995: "꿣", \
+    996: "꿤", \
+    997: "꿥", \
+    998: "꿦", \
+    999: "꿧", \
+    1000: "꿨", \
+    1001: "꿩", \
+    1002: "꿪", \
+    1003: "꿫", \
+    1004: "꿬", \
+    1005: "꿭", \
+    1006: "꿮", \
+    1007: "꿯", \
+    1008: "꿰", \
+    1009: "꿱", \
+    1010: "꿲", \
+    1011: "꿳", \
+    1012: "꿴", \
+    1013: "꿵", \
+    1014: "꿶", \
+    1015: "꿷", \
+    1016: "꿸", \
+    1017: "꿹", \
+    1018: "꿺", \
+    1019: "꿻", \
+    1020: "꿼", \
+    1021: "꿽", \
+    1022: "꿾", \
+    1023: "꿿", \
+    1024: "뀀", \
+    1025: "뀁", \
+    1026: "뀂", \
+    1027: "뀃", \
+    1028: "뀄", \
+    1029: "뀅", \
+    1030: "뀆", \
+    1031: "뀇", \
+    1032: "뀈", \
+    1033: "뀉", \
+    1034: "뀊", \
+    1035: "뀋", \
+    1036: "뀌", \
+    1037: "뀍", \
+    1038: "뀎", \
+    1039: "뀏", \
+    1040: "뀐", \
+    1041: "뀑", \
+    1042: "뀒", \
+    1043: "뀓", \
+    1044: "뀔", \
+    1045: "뀕", \
+    1046: "뀖", \
+    1047: "뀗", \
+    1048: "뀘", \
+    1049: "뀙", \
+    1050: "뀚", \
+    1051: "뀛", \
+    1052: "뀜", \
+    1053: "뀝", \
+    1054: "뀞", \
+    1055: "뀟", \
+    1056: "뀠", \
+    1057: "뀡", \
+    1058: "뀢", \
+    1059: "뀣", \
+    1060: "뀤", \
+    1061: "뀥", \
+    1062: "뀦", \
+    1063: "뀧", \
+    1064: "뀨", \
+    1065: "뀩", \
+    1066: "뀪", \
+    1067: "뀫", \
+    1068: "뀬", \
+    1069: "뀭", \
+    1070: "뀮", \
+    1071: "뀯", \
+    1072: "뀰", \
+    1073: "뀱", \
+    1074: "뀲", \
+    1075: "뀳", \
+    1076: "뀴", \
+    1077: "뀵", \
+    1078: "뀶", \
+    1079: "뀷", \
+    1080: "뀸", \
+    1081: "뀹", \
+    1082: "뀺", \
+    1083: "뀻", \
+    1084: "뀼", \
+    1085: "뀽", \
+    1086: "뀾", \
+    1087: "뀿", \
+    1088: "끀", \
+    1089: "끁", \
+    1090: "끂", \
+    1091: "끃", \
+    1092: "끄", \
+    1093: "끅", \
+    1094: "끆", \
+    1095: "끇", \
+    1096: "끈", \
+    1097: "끉", \
+    1098: "끊", \
+    1099: "끋", \
+    1100: "끌", \
+    1101: "끍", \
+    1102: "끎", \
+    1103: "끏", \
+    1104: "끐", \
+    1105: "끑", \
+    1106: "끒", \
+    1107: "끓", \
+    1108: "끔", \
+    1109: "끕", \
+    1110: "끖", \
+    1111: "끗", \
+    1112: "끘", \
+    1113: "끙", \
+    1114: "끚", \
+    1115: "끛", \
+    1116: "끜", \
+    1117: "끝", \
+    1118: "끞", \
+    1119: "끟", \
+    1120: "끠", \
+    1121: "끡", \
+    1122: "끢", \
+    1123: "끣", \
+    1124: "끤", \
+    1125: "끥", \
+    1126: "끦", \
+    1127: "끧", \
+    1128: "끨", \
+    1129: "끩", \
+    1130: "끪", \
+    1131: "끫", \
+    1132: "끬", \
+    1133: "끭", \
+    1134: "끮", \
+    1135: "끯", \
+    1136: "끰", \
+    1137: "끱", \
+    1138: "끲", \
+    1139: "끳", \
+    1140: "끴", \
+    1141: "끵", \
+    1142: "끶", \
+    1143: "끷", \
+    1144: "끸", \
+    1145: "끹", \
+    1146: "끺", \
+    1147: "끻", \
+    1148: "끼", \
+    1149: "끽", \
+    1150: "끾", \
+    1151: "끿", \
+    1152: "낀", \
+    1153: "낁", \
+    1154: "낂", \
+    1155: "낃", \
+    1156: "낄", \
+    1157: "낅", \
+    1158: "낆", \
+    1159: "낇", \
+    1160: "낈", \
+    1161: "낉", \
+    1162: "낊", \
+    1163: "낋", \
+    1164: "낌", \
+    1165: "낍", \
+    1166: "낎", \
+    1167: "낏", \
+    1168: "낐", \
+    1169: "낑", \
+    1170: "낒", \
+    1171: "낓", \
+    1172: "낔", \
+    1173: "낕", \
+    1174: "낖", \
+    1175: "낗", \
+    1176: "나", \
+    1177: "낙", \
+    1178: "낚", \
+    1179: "낛", \
+    1180: "난", \
+    1181: "낝", \
+    1182: "낞", \
+    1183: "낟", \
+    1184: "날", \
+    1185: "낡", \
+    1186: "낢", \
+    1187: "낣", \
+    1188: "낤", \
+    1189: "낥", \
+    1190: "낦", \
+    1191: "낧", \
+    1192: "남", \
+    1193: "납", \
+    1194: "낪", \
+    1195: "낫", \
+    1196: "났", \
+    1197: "낭", \
+    1198: "낮", \
+    1199: "낯", \
+    1200: "낰", \
+    1201: "낱", \
+    1202: "낲", \
+    1203: "낳", \
+    1204: "내", \
+    1205: "낵", \
+    1206: "낶", \
+    1207: "낷", \
+    1208: "낸", \
+    1209: "낹", \
+    1210: "낺", \
+    1211: "낻", \
+    1212: "낼", \
+    1213: "낽", \
+    1214: "낾", \
+    1215: "낿", \
+    1216: "냀", \
+    1217: "냁", \
+    1218: "냂", \
+    1219: "냃", \
+    1220: "냄", \
+    1221: "냅", \
+    1222: "냆", \
+    1223: "냇", \
+    1224: "냈", \
+    1225: "냉", \
+    1226: "냊", \
+    1227: "냋", \
+    1228: "냌", \
+    1229: "냍", \
+    1230: "냎", \
+    1231: "냏", \
+    1232: "냐", \
+    1233: "냑", \
+    1234: "냒", \
+    1235: "냓", \
+    1236: "냔", \
+    1237: "냕", \
+    1238: "냖", \
+    1239: "냗", \
+    1240: "냘", \
+    1241: "냙", \
+    1242: "냚", \
+    1243: "냛", \
+    1244: "냜", \
+    1245: "냝", \
+    1246: "냞", \
+    1247: "냟", \
+    1248: "냠", \
+    1249: "냡", \
+    1250: "냢", \
+    1251: "냣", \
+    1252: "냤", \
+    1253: "냥", \
+    1254: "냦", \
+    1255: "냧", \
+    1256: "냨", \
+    1257: "냩", \
+    1258: "냪", \
+    1259: "냫", \
+    1260: "냬", \
+    1261: "냭", \
+    1262: "냮", \
+    1263: "냯", \
+    1264: "냰", \
+    1265: "냱", \
+    1266: "냲", \
+    1267: "냳", \
+    1268: "냴", \
+    1269: "냵", \
+    1270: "냶", \
+    1271: "냷", \
+    1272: "냸", \
+    1273: "냹", \
+    1274: "냺", \
+    1275: "냻", \
+    1276: "냼", \
+    1277: "냽", \
+    1278: "냾", \
+    1279: "냿", \
+    1280: "넀", \
+    1281: "넁", \
+    1282: "넂", \
+    1283: "넃", \
+    1284: "넄", \
+    1285: "넅", \
+    1286: "넆", \
+    1287: "넇", \
+    1288: "너", \
+    1289: "넉", \
+    1290: "넊", \
+    1291: "넋", \
+    1292: "넌", \
+    1293: "넍", \
+    1294: "넎", \
+    1295: "넏", \
+    1296: "널", \
+    1297: "넑", \
+    1298: "넒", \
+    1299: "넓", \
+    1300: "넔", \
+    1301: "넕", \
+    1302: "넖", \
+    1303: "넗", \
+    1304: "넘", \
+    1305: "넙", \
+    1306: "넚", \
+    1307: "넛", \
+    1308: "넜", \
+    1309: "넝", \
+    1310: "넞", \
+    1311: "넟", \
+    1312: "넠", \
+    1313: "넡", \
+    1314: "넢", \
+    1315: "넣", \
+    1316: "네", \
+    1317: "넥", \
+    1318: "넦", \
+    1319: "넧", \
+    1320: "넨", \
+    1321: "넩", \
+    1322: "넪", \
+    1323: "넫", \
+    1324: "넬", \
+    1325: "넭", \
+    1326: "넮", \
+    1327: "넯", \
+    1328: "넰", \
+    1329: "넱", \
+    1330: "넲", \
+    1331: "넳", \
+    1332: "넴", \
+    1333: "넵", \
+    1334: "넶", \
+    1335: "넷", \
+    1336: "넸", \
+    1337: "넹", \
+    1338: "넺", \
+    1339: "넻", \
+    1340: "넼", \
+    1341: "넽", \
+    1342: "넾", \
+    1343: "넿", \
+    1344: "녀", \
+    1345: "녁", \
+    1346: "녂", \
+    1347: "녃", \
+    1348: "년", \
+    1349: "녅", \
+    1350: "녆", \
+    1351: "녇", \
+    1352: "녈", \
+    1353: "녉", \
+    1354: "녊", \
+    1355: "녋", \
+    1356: "녌", \
+    1357: "녍", \
+    1358: "녎", \
+    1359: "녏", \
+    1360: "념", \
+    1361: "녑", \
+    1362: "녒", \
+    1363: "녓", \
+    1364: "녔", \
+    1365: "녕", \
+    1366: "녖", \
+    1367: "녗", \
+    1368: "녘", \
+    1369: "녙", \
+    1370: "녚", \
+    1371: "녛", \
+    1372: "녜", \
+    1373: "녝", \
+    1374: "녞", \
+    1375: "녟", \
+    1376: "녠", \
+    1377: "녡", \
+    1378: "녢", \
+    1379: "녣", \
+    1380: "녤", \
+    1381: "녥", \
+    1382: "녦", \
+    1383: "녧", \
+    1384: "녨", \
+    1385: "녩", \
+    1386: "녪", \
+    1387: "녫", \
+    1388: "녬", \
+    1389: "녭", \
+    1390: "녮", \
+    1391: "녯", \
+    1392: "녰", \
+    1393: "녱", \
+    1394: "녲", \
+    1395: "녳", \
+    1396: "녴", \
+    1397: "녵", \
+    1398: "녶", \
+    1399: "녷", \
+    1400: "노", \
+    1401: "녹", \
+    1402: "녺", \
+    1403: "녻", \
+    1404: "논", \
+    1405: "녽", \
+    1406: "녾", \
+    1407: "녿", \
+    1408: "놀", \
+    1409: "놁", \
+    1410: "놂", \
+    1411: "놃", \
+    1412: "놄", \
+    1413: "놅", \
+    1414: "놆", \
+    1415: "놇", \
+    1416: "놈", \
+    1417: "놉", \
+    1418: "놊", \
+    1419: "놋", \
+    1420: "놌", \
+    1421: "농", \
+    1422: "놎", \
+    1423: "놏", \
+    1424: "놐", \
+    1425: "놑", \
+    1426: "높", \
+    1427: "놓", \
+    1428: "놔", \
+    1429: "놕", \
+    1430: "놖", \
+    1431: "놗", \
+    1432: "놘", \
+    1433: "놙", \
+    1434: "놚", \
+    1435: "놛", \
+    1436: "놜", \
+    1437: "놝", \
+    1438: "놞", \
+    1439: "놟", \
+    1440: "놠", \
+    1441: "놡", \
+    1442: "놢", \
+    1443: "놣", \
+    1444: "놤", \
+    1445: "놥", \
+    1446: "놦", \
+    1447: "놧", \
+    1448: "놨", \
+    1449: "놩", \
+    1450: "놪", \
+    1451: "놫", \
+    1452: "놬", \
+    1453: "놭", \
+    1454: "놮", \
+    1455: "놯", \
+    1456: "놰", \
+    1457: "놱", \
+    1458: "놲", \
+    1459: "놳", \
+    1460: "놴", \
+    1461: "놵", \
+    1462: "놶", \
+    1463: "놷", \
+    1464: "놸", \
+    1465: "놹", \
+    1466: "놺", \
+    1467: "놻", \
+    1468: "놼", \
+    1469: "놽", \
+    1470: "놾", \
+    1471: "놿", \
+    1472: "뇀", \
+    1473: "뇁", \
+    1474: "뇂", \
+    1475: "뇃", \
+    1476: "뇄", \
+    1477: "뇅", \
+    1478: "뇆", \
+    1479: "뇇", \
+    1480: "뇈", \
+    1481: "뇉", \
+    1482: "뇊", \
+    1483: "뇋", \
+    1484: "뇌", \
+    1485: "뇍", \
+    1486: "뇎", \
+    1487: "뇏", \
+    1488: "뇐", \
+    1489: "뇑", \
+    1490: "뇒", \
+    1491: "뇓", \
+    1492: "뇔", \
+    1493: "뇕", \
+    1494: "뇖", \
+    1495: "뇗", \
+    1496: "뇘", \
+    1497: "뇙", \
+    1498: "뇚", \
+    1499: "뇛", \
+    1500: "뇜", \
+    1501: "뇝", \
+    1502: "뇞", \
+    1503: "뇟", \
+    1504: "뇠", \
+    1505: "뇡", \
+    1506: "뇢", \
+    1507: "뇣", \
+    1508: "뇤", \
+    1509: "뇥", \
+    1510: "뇦", \
+    1511: "뇧", \
+    1512: "뇨", \
+    1513: "뇩", \
+    1514: "뇪", \
+    1515: "뇫", \
+    1516: "뇬", \
+    1517: "뇭", \
+    1518: "뇮", \
+    1519: "뇯", \
+    1520: "뇰", \
+    1521: "뇱", \
+    1522: "뇲", \
+    1523: "뇳", \
+    1524: "뇴", \
+    1525: "뇵", \
+    1526: "뇶", \
+    1527: "뇷", \
+    1528: "뇸", \
+    1529: "뇹", \
+    1530: "뇺", \
+    1531: "뇻", \
+    1532: "뇼", \
+    1533: "뇽", \
+    1534: "뇾", \
+    1535: "뇿", \
+    1536: "눀", \
+    1537: "눁", \
+    1538: "눂", \
+    1539: "눃", \
+    1540: "누", \
+    1541: "눅", \
+    1542: "눆", \
+    1543: "눇", \
+    1544: "눈", \
+    1545: "눉", \
+    1546: "눊", \
+    1547: "눋", \
+    1548: "눌", \
+    1549: "눍", \
+    1550: "눎", \
+    1551: "눏", \
+    1552: "눐", \
+    1553: "눑", \
+    1554: "눒", \
+    1555: "눓", \
+    1556: "눔", \
+    1557: "눕", \
+    1558: "눖", \
+    1559: "눗", \
+    1560: "눘", \
+    1561: "눙", \
+    1562: "눚", \
+    1563: "눛", \
+    1564: "눜", \
+    1565: "눝", \
+    1566: "눞", \
+    1567: "눟", \
+    1568: "눠", \
+    1569: "눡", \
+    1570: "눢", \
+    1571: "눣", \
+    1572: "눤", \
+    1573: "눥", \
+    1574: "눦", \
+    1575: "눧", \
+    1576: "눨", \
+    1577: "눩", \
+    1578: "눪", \
+    1579: "눫", \
+    1580: "눬", \
+    1581: "눭", \
+    1582: "눮", \
+    1583: "눯", \
+    1584: "눰", \
+    1585: "눱", \
+    1586: "눲", \
+    1587: "눳", \
+    1588: "눴", \
+    1589: "눵", \
+    1590: "눶", \
+    1591: "눷", \
+    1592: "눸", \
+    1593: "눹", \
+    1594: "눺", \
+    1595: "눻", \
+    1596: "눼", \
+    1597: "눽", \
+    1598: "눾", \
+    1599: "눿", \
+    1600: "뉀", \
+    1601: "뉁", \
+    1602: "뉂", \
+    1603: "뉃", \
+    1604: "뉄", \
+    1605: "뉅", \
+    1606: "뉆", \
+    1607: "뉇", \
+    1608: "뉈", \
+    1609: "뉉", \
+    1610: "뉊", \
+    1611: "뉋", \
+    1612: "뉌", \
+    1613: "뉍", \
+    1614: "뉎", \
+    1615: "뉏", \
+    1616: "뉐", \
+    1617: "뉑", \
+    1618: "뉒", \
+    1619: "뉓", \
+    1620: "뉔", \
+    1621: "뉕", \
+    1622: "뉖", \
+    1623: "뉗", \
+    1624: "뉘", \
+    1625: "뉙", \
+    1626: "뉚", \
+    1627: "뉛", \
+    1628: "뉜", \
+    1629: "뉝", \
+    1630: "뉞", \
+    1631: "뉟", \
+    1632: "뉠", \
+    1633: "뉡", \
+    1634: "뉢", \
+    1635: "뉣", \
+    1636: "뉤", \
+    1637: "뉥", \
+    1638: "뉦", \
+    1639: "뉧", \
+    1640: "뉨", \
+    1641: "뉩", \
+    1642: "뉪", \
+    1643: "뉫", \
+    1644: "뉬", \
+    1645: "뉭", \
+    1646: "뉮", \
+    1647: "뉯", \
+    1648: "뉰", \
+    1649: "뉱", \
+    1650: "뉲", \
+    1651: "뉳", \
+    1652: "뉴", \
+    1653: "뉵", \
+    1654: "뉶", \
+    1655: "뉷", \
+    1656: "뉸", \
+    1657: "뉹", \
+    1658: "뉺", \
+    1659: "뉻", \
+    1660: "뉼", \
+    1661: "뉽", \
+    1662: "뉾", \
+    1663: "뉿", \
+    1664: "늀", \
+    1665: "늁", \
+    1666: "늂", \
+    1667: "늃", \
+    1668: "늄", \
+    1669: "늅", \
+    1670: "늆", \
+    1671: "늇", \
+    1672: "늈", \
+    1673: "늉", \
+    1674: "늊", \
+    1675: "늋", \
+    1676: "늌", \
+    1677: "늍", \
+    1678: "늎", \
+    1679: "늏", \
+    1680: "느", \
+    1681: "늑", \
+    1682: "늒", \
+    1683: "늓", \
+    1684: "는", \
+    1685: "늕", \
+    1686: "늖", \
+    1687: "늗", \
+    1688: "늘", \
+    1689: "늙", \
+    1690: "늚", \
+    1691: "늛", \
+    1692: "늜", \
+    1693: "늝", \
+    1694: "늞", \
+    1695: "늟", \
+    1696: "늠", \
+    1697: "늡", \
+    1698: "늢", \
+    1699: "늣", \
+    1700: "늤", \
+    1701: "능", \
+    1702: "늦", \
+    1703: "늧", \
+    1704: "늨", \
+    1705: "늩", \
+    1706: "늪", \
+    1707: "늫", \
+    1708: "늬", \
+    1709: "늭", \
+    1710: "늮", \
+    1711: "늯", \
+    1712: "늰", \
+    1713: "늱", \
+    1714: "늲", \
+    1715: "늳", \
+    1716: "늴", \
+    1717: "늵", \
+    1718: "늶", \
+    1719: "늷", \
+    1720: "늸", \
+    1721: "늹", \
+    1722: "늺", \
+    1723: "늻", \
+    1724: "늼", \
+    1725: "늽", \
+    1726: "늾", \
+    1727: "늿", \
+    1728: "닀", \
+    1729: "닁", \
+    1730: "닂", \
+    1731: "닃", \
+    1732: "닄", \
+    1733: "닅", \
+    1734: "닆", \
+    1735: "닇", \
+    1736: "니", \
+    1737: "닉", \
+    1738: "닊", \
+    1739: "닋", \
+    1740: "닌", \
+    1741: "닍", \
+    1742: "닎", \
+    1743: "닏", \
+    1744: "닐", \
+    1745: "닑", \
+    1746: "닒", \
+    1747: "닓", \
+    1748: "닔", \
+    1749: "닕", \
+    1750: "닖", \
+    1751: "닗", \
+    1752: "님", \
+    1753: "닙", \
+    1754: "닚", \
+    1755: "닛", \
+    1756: "닜", \
+    1757: "닝", \
+    1758: "닞", \
+    1759: "닟", \
+    1760: "닠", \
+    1761: "닡", \
+    1762: "닢", \
+    1763: "닣", \
+    1764: "다", \
+    1765: "닥", \
+    1766: "닦", \
+    1767: "닧", \
+    1768: "단", \
+    1769: "닩", \
+    1770: "닪", \
+    1771: "닫", \
+    1772: "달", \
+    1773: "닭", \
+    1774: "닮", \
+    1775: "닯", \
+    1776: "닰", \
+    1777: "닱", \
+    1778: "닲", \
+    1779: "닳", \
+    1780: "담", \
+    1781: "답", \
+    1782: "닶", \
+    1783: "닷", \
+    1784: "닸", \
+    1785: "당", \
+    1786: "닺", \
+    1787: "닻", \
+    1788: "닼", \
+    1789: "닽", \
+    1790: "닾", \
+    1791: "닿", \
+    1792: "대", \
+    1793: "댁", \
+    1794: "댂", \
+    1795: "댃", \
+    1796: "댄", \
+    1797: "댅", \
+    1798: "댆", \
+    1799: "댇", \
+    1800: "댈", \
+    1801: "댉", \
+    1802: "댊", \
+    1803: "댋", \
+    1804: "댌", \
+    1805: "댍", \
+    1806: "댎", \
+    1807: "댏", \
+    1808: "댐", \
+    1809: "댑", \
+    1810: "댒", \
+    1811: "댓", \
+    1812: "댔", \
+    1813: "댕", \
+    1814: "댖", \
+    1815: "댗", \
+    1816: "댘", \
+    1817: "댙", \
+    1818: "댚", \
+    1819: "댛", \
+    1820: "댜", \
+    1821: "댝", \
+    1822: "댞", \
+    1823: "댟", \
+    1824: "댠", \
+    1825: "댡", \
+    1826: "댢", \
+    1827: "댣", \
+    1828: "댤", \
+    1829: "댥", \
+    1830: "댦", \
+    1831: "댧", \
+    1832: "댨", \
+    1833: "댩", \
+    1834: "댪", \
+    1835: "댫", \
+    1836: "댬", \
+    1837: "댭", \
+    1838: "댮", \
+    1839: "댯", \
+    1840: "댰", \
+    1841: "댱", \
+    1842: "댲", \
+    1843: "댳", \
+    1844: "댴", \
+    1845: "댵", \
+    1846: "댶", \
+    1847: "댷", \
+    1848: "댸", \
+    1849: "댹", \
+    1850: "댺", \
+    1851: "댻", \
+    1852: "댼", \
+    1853: "댽", \
+    1854: "댾", \
+    1855: "댿", \
+    1856: "덀", \
+    1857: "덁", \
+    1858: "덂", \
+    1859: "덃", \
+    1860: "덄", \
+    1861: "덅", \
+    1862: "덆", \
+    1863: "덇", \
+    1864: "덈", \
+    1865: "덉", \
+    1866: "덊", \
+    1867: "덋", \
+    1868: "덌", \
+    1869: "덍", \
+    1870: "덎", \
+    1871: "덏", \
+    1872: "덐", \
+    1873: "덑", \
+    1874: "덒", \
+    1875: "덓", \
+    1876: "더", \
+    1877: "덕", \
+    1878: "덖", \
+    1879: "덗", \
+    1880: "던", \
+    1881: "덙", \
+    1882: "덚", \
+    1883: "덛", \
+    1884: "덜", \
+    1885: "덝", \
+    1886: "덞", \
+    1887: "덟", \
+    1888: "덠", \
+    1889: "덡", \
+    1890: "덢", \
+    1891: "덣", \
+    1892: "덤", \
+    1893: "덥", \
+    1894: "덦", \
+    1895: "덧", \
+    1896: "덨", \
+    1897: "덩", \
+    1898: "덪", \
+    1899: "덫", \
+    1900: "덬", \
+    1901: "덭", \
+    1902: "덮", \
+    1903: "덯", \
+    1904: "데", \
+    1905: "덱", \
+    1906: "덲", \
+    1907: "덳", \
+    1908: "덴", \
+    1909: "덵", \
+    1910: "덶", \
+    1911: "덷", \
+    1912: "델", \
+    1913: "덹", \
+    1914: "덺", \
+    1915: "덻", \
+    1916: "덼", \
+    1917: "덽", \
+    1918: "덾", \
+    1919: "덿", \
+    1920: "뎀", \
+    1921: "뎁", \
+    1922: "뎂", \
+    1923: "뎃", \
+    1924: "뎄", \
+    1925: "뎅", \
+    1926: "뎆", \
+    1927: "뎇", \
+    1928: "뎈", \
+    1929: "뎉", \
+    1930: "뎊", \
+    1931: "뎋", \
+    1932: "뎌", \
+    1933: "뎍", \
+    1934: "뎎", \
+    1935: "뎏", \
+    1936: "뎐", \
+    1937: "뎑", \
+    1938: "뎒", \
+    1939: "뎓", \
+    1940: "뎔", \
+    1941: "뎕", \
+    1942: "뎖", \
+    1943: "뎗", \
+    1944: "뎘", \
+    1945: "뎙", \
+    1946: "뎚", \
+    1947: "뎛", \
+    1948: "뎜", \
+    1949: "뎝", \
+    1950: "뎞", \
+    1951: "뎟", \
+    1952: "뎠", \
+    1953: "뎡", \
+    1954: "뎢", \
+    1955: "뎣", \
+    1956: "뎤", \
+    1957: "뎥", \
+    1958: "뎦", \
+    1959: "뎧", \
+    1960: "뎨", \
+    1961: "뎩", \
+    1962: "뎪", \
+    1963: "뎫", \
+    1964: "뎬", \
+    1965: "뎭", \
+    1966: "뎮", \
+    1967: "뎯", \
+    1968: "뎰", \
+    1969: "뎱", \
+    1970: "뎲", \
+    1971: "뎳", \
+    1972: "뎴", \
+    1973: "뎵", \
+    1974: "뎶", \
+    1975: "뎷", \
+    1976: "뎸", \
+    1977: "뎹", \
+    1978: "뎺", \
+    1979: "뎻", \
+    1980: "뎼", \
+    1981: "뎽", \
+    1982: "뎾", \
+    1983: "뎿", \
+    1984: "돀", \
+    1985: "돁", \
+    1986: "돂", \
+    1987: "돃", \
+    1988: "도", \
+    1989: "독", \
+    1990: "돆", \
+    1991: "돇", \
+    1992: "돈", \
+    1993: "돉", \
+    1994: "돊", \
+    1995: "돋", \
+    1996: "돌", \
+    1997: "돍", \
+    1998: "돎", \
+    1999: "돏", \
+    2000: "돐", \
+    2001: "돑", \
+    2002: "돒", \
+    2003: "돓", \
+    2004: "돔", \
+    2005: "돕", \
+    2006: "돖", \
+    2007: "돗", \
+    2008: "돘", \
+    2009: "동", \
+    2010: "돚", \
+    2011: "돛", \
+    2012: "돜", \
+    2013: "돝", \
+    2014: "돞", \
+    2015: "돟", \
+    2016: "돠", \
+    2017: "돡", \
+    2018: "돢", \
+    2019: "돣", \
+    2020: "돤", \
+    2021: "돥", \
+    2022: "돦", \
+    2023: "돧", \
+    2024: "돨", \
+    2025: "돩", \
+    2026: "돪", \
+    2027: "돫", \
+    2028: "돬", \
+    2029: "돭", \
+    2030: "돮", \
+    2031: "돯", \
+    2032: "돰", \
+    2033: "돱", \
+    2034: "돲", \
+    2035: "돳", \
+    2036: "돴", \
+    2037: "돵", \
+    2038: "돶", \
+    2039: "돷", \
+    2040: "돸", \
+    2041: "돹", \
+    2042: "돺", \
+    2043: "돻", \
+    2044: "돼", \
+    2045: "돽", \
+    2046: "돾", \
+    2047: "돿", \
+    2048: "됀", \
+    2049: "됁", \
+    2050: "됂", \
+    2051: "됃", \
+    2052: "됄", \
+    2053: "됅", \
+    2054: "됆", \
+    2055: "됇", \
+    2056: "됈", \
+    2057: "됉", \
+    2058: "됊", \
+    2059: "됋", \
+    2060: "됌", \
+    2061: "됍", \
+    2062: "됎", \
+    2063: "됏", \
+    2064: "됐", \
+    2065: "됑", \
+    2066: "됒", \
+    2067: "됓", \
+    2068: "됔", \
+    2069: "됕", \
+    2070: "됖", \
+    2071: "됗", \
+    2072: "되", \
+    2073: "됙", \
+    2074: "됚", \
+    2075: "됛", \
+    2076: "된", \
+    2077: "됝", \
+    2078: "됞", \
+    2079: "됟", \
+    2080: "될", \
+    2081: "됡", \
+    2082: "됢", \
+    2083: "됣", \
+    2084: "됤", \
+    2085: "됥", \
+    2086: "됦", \
+    2087: "됧", \
+    2088: "됨", \
+    2089: "됩", \
+    2090: "됪", \
+    2091: "됫", \
+    2092: "됬", \
+    2093: "됭", \
+    2094: "됮", \
+    2095: "됯", \
+    2096: "됰", \
+    2097: "됱", \
+    2098: "됲", \
+    2099: "됳", \
+    2100: "됴", \
+    2101: "됵", \
+    2102: "됶", \
+    2103: "됷", \
+    2104: "됸", \
+    2105: "됹", \
+    2106: "됺", \
+    2107: "됻", \
+    2108: "됼", \
+    2109: "됽", \
+    2110: "됾", \
+    2111: "됿", \
+    2112: "둀", \
+    2113: "둁", \
+    2114: "둂", \
+    2115: "둃", \
+    2116: "둄", \
+    2117: "둅", \
+    2118: "둆", \
+    2119: "둇", \
+    2120: "둈", \
+    2121: "둉", \
+    2122: "둊", \
+    2123: "둋", \
+    2124: "둌", \
+    2125: "둍", \
+    2126: "둎", \
+    2127: "둏", \
+    2128: "두", \
+    2129: "둑", \
+    2130: "둒", \
+    2131: "둓", \
+    2132: "둔", \
+    2133: "둕", \
+    2134: "둖", \
+    2135: "둗", \
+    2136: "둘", \
+    2137: "둙", \
+    2138: "둚", \
+    2139: "둛", \
+    2140: "둜", \
+    2141: "둝", \
+    2142: "둞", \
+    2143: "둟", \
+    2144: "둠", \
+    2145: "둡", \
+    2146: "둢", \
+    2147: "둣", \
+    2148: "둤", \
+    2149: "둥", \
+    2150: "둦", \
+    2151: "둧", \
+    2152: "둨", \
+    2153: "둩", \
+    2154: "둪", \
+    2155: "둫", \
+    2156: "둬", \
+    2157: "둭", \
+    2158: "둮", \
+    2159: "둯", \
+    2160: "둰", \
+    2161: "둱", \
+    2162: "둲", \
+    2163: "둳", \
+    2164: "둴", \
+    2165: "둵", \
+    2166: "둶", \
+    2167: "둷", \
+    2168: "둸", \
+    2169: "둹", \
+    2170: "둺", \
+    2171: "둻", \
+    2172: "둼", \
+    2173: "둽", \
+    2174: "둾", \
+    2175: "둿", \
+    2176: "뒀", \
+    2177: "뒁", \
+    2178: "뒂", \
+    2179: "뒃", \
+    2180: "뒄", \
+    2181: "뒅", \
+    2182: "뒆", \
+    2183: "뒇", \
+    2184: "뒈", \
+    2185: "뒉", \
+    2186: "뒊", \
+    2187: "뒋", \
+    2188: "뒌", \
+    2189: "뒍", \
+    2190: "뒎", \
+    2191: "뒏", \
+    2192: "뒐", \
+    2193: "뒑", \
+    2194: "뒒", \
+    2195: "뒓", \
+    2196: "뒔", \
+    2197: "뒕", \
+    2198: "뒖", \
+    2199: "뒗", \
+    2200: "뒘", \
+    2201: "뒙", \
+    2202: "뒚", \
+    2203: "뒛", \
+    2204: "뒜", \
+    2205: "뒝", \
+    2206: "뒞", \
+    2207: "뒟", \
+    2208: "뒠", \
+    2209: "뒡", \
+    2210: "뒢", \
+    2211: "뒣", \
+    2212: "뒤", \
+    2213: "뒥", \
+    2214: "뒦", \
+    2215: "뒧", \
+    2216: "뒨", \
+    2217: "뒩", \
+    2218: "뒪", \
+    2219: "뒫", \
+    2220: "뒬", \
+    2221: "뒭", \
+    2222: "뒮", \
+    2223: "뒯", \
+    2224: "뒰", \
+    2225: "뒱", \
+    2226: "뒲", \
+    2227: "뒳", \
+    2228: "뒴", \
+    2229: "뒵", \
+    2230: "뒶", \
+    2231: "뒷", \
+    2232: "뒸", \
+    2233: "뒹", \
+    2234: "뒺", \
+    2235: "뒻", \
+    2236: "뒼", \
+    2237: "뒽", \
+    2238: "뒾", \
+    2239: "뒿", \
+    2240: "듀", \
+    2241: "듁", \
+    2242: "듂", \
+    2243: "듃", \
+    2244: "듄", \
+    2245: "듅", \
+    2246: "듆", \
+    2247: "듇", \
+    2248: "듈", \
+    2249: "듉", \
+    2250: "듊", \
+    2251: "듋", \
+    2252: "듌", \
+    2253: "듍", \
+    2254: "듎", \
+    2255: "듏", \
+    2256: "듐", \
+    2257: "듑", \
+    2258: "듒", \
+    2259: "듓", \
+    2260: "듔", \
+    2261: "듕", \
+    2262: "듖", \
+    2263: "듗", \
+    2264: "듘", \
+    2265: "듙", \
+    2266: "듚", \
+    2267: "듛", \
+    2268: "드", \
+    2269: "득", \
+    2270: "듞", \
+    2271: "듟", \
+    2272: "든", \
+    2273: "듡", \
+    2274: "듢", \
+    2275: "듣", \
+    2276: "들", \
+    2277: "듥", \
+    2278: "듦", \
+    2279: "듧", \
+    2280: "듨", \
+    2281: "듩", \
+    2282: "듪", \
+    2283: "듫", \
+    2284: "듬", \
+    2285: "듭", \
+    2286: "듮", \
+    2287: "듯", \
+    2288: "듰", \
+    2289: "등", \
+    2290: "듲", \
+    2291: "듳", \
+    2292: "듴", \
+    2293: "듵", \
+    2294: "듶", \
+    2295: "듷", \
+    2296: "듸", \
+    2297: "듹", \
+    2298: "듺", \
+    2299: "듻", \
+    2300: "듼", \
+    2301: "듽", \
+    2302: "듾", \
+    2303: "듿", \
+    2304: "딀", \
+    2305: "딁", \
+    2306: "딂", \
+    2307: "딃", \
+    2308: "딄", \
+    2309: "딅", \
+    2310: "딆", \
+    2311: "딇", \
+    2312: "딈", \
+    2313: "딉", \
+    2314: "딊", \
+    2315: "딋", \
+    2316: "딌", \
+    2317: "딍", \
+    2318: "딎", \
+    2319: "딏", \
+    2320: "딐", \
+    2321: "딑", \
+    2322: "딒", \
+    2323: "딓", \
+    2324: "디", \
+    2325: "딕", \
+    2326: "딖", \
+    2327: "딗", \
+    2328: "딘", \
+    2329: "딙", \
+    2330: "딚", \
+    2331: "딛", \
+    2332: "딜", \
+    2333: "딝", \
+    2334: "딞", \
+    2335: "딟", \
+    2336: "딠", \
+    2337: "딡", \
+    2338: "딢", \
+    2339: "딣", \
+    2340: "딤", \
+    2341: "딥", \
+    2342: "딦", \
+    2343: "딧", \
+    2344: "딨", \
+    2345: "딩", \
+    2346: "딪", \
+    2347: "딫", \
+    2348: "딬", \
+    2349: "딭", \
+    2350: "딮", \
+    2351: "딯", \
+    2352: "따", \
+    2353: "딱", \
+    2354: "딲", \
+    2355: "딳", \
+    2356: "딴", \
+    2357: "딵", \
+    2358: "딶", \
+    2359: "딷", \
+    2360: "딸", \
+    2361: "딹", \
+    2362: "딺", \
+    2363: "딻", \
+    2364: "딼", \
+    2365: "딽", \
+    2366: "딾", \
+    2367: "딿", \
+    2368: "땀", \
+    2369: "땁", \
+    2370: "땂", \
+    2371: "땃", \
+    2372: "땄", \
+    2373: "땅", \
+    2374: "땆", \
+    2375: "땇", \
+    2376: "땈", \
+    2377: "땉", \
+    2378: "땊", \
+    2379: "땋", \
+    2380: "때", \
+    2381: "땍", \
+    2382: "땎", \
+    2383: "땏", \
+    2384: "땐", \
+    2385: "땑", \
+    2386: "땒", \
+    2387: "땓", \
+    2388: "땔", \
+    2389: "땕", \
+    2390: "땖", \
+    2391: "땗", \
+    2392: "땘", \
+    2393: "땙", \
+    2394: "땚", \
+    2395: "땛", \
+    2396: "땜", \
+    2397: "땝", \
+    2398: "땞", \
+    2399: "땟", \
+    2400: "땠", \
+    2401: "땡", \
+    2402: "땢", \
+    2403: "땣", \
+    2404: "땤", \
+    2405: "땥", \
+    2406: "땦", \
+    2407: "땧", \
+    2408: "땨", \
+    2409: "땩", \
+    2410: "땪", \
+    2411: "땫", \
+    2412: "땬", \
+    2413: "땭", \
+    2414: "땮", \
+    2415: "땯", \
+    2416: "땰", \
+    2417: "땱", \
+    2418: "땲", \
+    2419: "땳", \
+    2420: "땴", \
+    2421: "땵", \
+    2422: "땶", \
+    2423: "땷", \
+    2424: "땸", \
+    2425: "땹", \
+    2426: "땺", \
+    2427: "땻", \
+    2428: "땼", \
+    2429: "땽", \
+    2430: "땾", \
+    2431: "땿", \
+    2432: "떀", \
+    2433: "떁", \
+    2434: "떂", \
+    2435: "떃", \
+    2436: "떄", \
+    2437: "떅", \
+    2438: "떆", \
+    2439: "떇", \
+    2440: "떈", \
+    2441: "떉", \
+    2442: "떊", \
+    2443: "떋", \
+    2444: "떌", \
+    2445: "떍", \
+    2446: "떎", \
+    2447: "떏", \
+    2448: "떐", \
+    2449: "떑", \
+    2450: "떒", \
+    2451: "떓", \
+    2452: "떔", \
+    2453: "떕", \
+    2454: "떖", \
+    2455: "떗", \
+    2456: "떘", \
+    2457: "떙", \
+    2458: "떚", \
+    2459: "떛", \
+    2460: "떜", \
+    2461: "떝", \
+    2462: "떞", \
+    2463: "떟", \
+    2464: "떠", \
+    2465: "떡", \
+    2466: "떢", \
+    2467: "떣", \
+    2468: "떤", \
+    2469: "떥", \
+    2470: "떦", \
+    2471: "떧", \
+    2472: "떨", \
+    2473: "떩", \
+    2474: "떪", \
+    2475: "떫", \
+    2476: "떬", \
+    2477: "떭", \
+    2478: "떮", \
+    2479: "떯", \
+    2480: "떰", \
+    2481: "떱", \
+    2482: "떲", \
+    2483: "떳", \
+    2484: "떴", \
+    2485: "떵", \
+    2486: "떶", \
+    2487: "떷", \
+    2488: "떸", \
+    2489: "떹", \
+    2490: "떺", \
+    2491: "떻", \
+    2492: "떼", \
+    2493: "떽", \
+    2494: "떾", \
+    2495: "떿", \
+    2496: "뗀", \
+    2497: "뗁", \
+    2498: "뗂", \
+    2499: "뗃", \
+    2500: "뗄", \
+    2501: "뗅", \
+    2502: "뗆", \
+    2503: "뗇", \
+    2504: "뗈", \
+    2505: "뗉", \
+    2506: "뗊", \
+    2507: "뗋", \
+    2508: "뗌", \
+    2509: "뗍", \
+    2510: "뗎", \
+    2511: "뗏", \
+    2512: "뗐", \
+    2513: "뗑", \
+    2514: "뗒", \
+    2515: "뗓", \
+    2516: "뗔", \
+    2517: "뗕", \
+    2518: "뗖", \
+    2519: "뗗", \
+    2520: "뗘", \
+    2521: "뗙", \
+    2522: "뗚", \
+    2523: "뗛", \
+    2524: "뗜", \
+    2525: "뗝", \
+    2526: "뗞", \
+    2527: "뗟", \
+    2528: "뗠", \
+    2529: "뗡", \
+    2530: "뗢", \
+    2531: "뗣", \
+    2532: "뗤", \
+    2533: "뗥", \
+    2534: "뗦", \
+    2535: "뗧", \
+    2536: "뗨", \
+    2537: "뗩", \
+    2538: "뗪", \
+    2539: "뗫", \
+    2540: "뗬", \
+    2541: "뗭", \
+    2542: "뗮", \
+    2543: "뗯", \
+    2544: "뗰", \
+    2545: "뗱", \
+    2546: "뗲", \
+    2547: "뗳", \
+    2548: "뗴", \
+    2549: "뗵", \
+    2550: "뗶", \
+    2551: "뗷", \
+    2552: "뗸", \
+    2553: "뗹", \
+    2554: "뗺", \
+    2555: "뗻", \
+    2556: "뗼", \
+    2557: "뗽", \
+    2558: "뗾", \
+    2559: "뗿", \
+    2560: "똀", \
+    2561: "똁", \
+    2562: "똂", \
+    2563: "똃", \
+    2564: "똄", \
+    2565: "똅", \
+    2566: "똆", \
+    2567: "똇", \
+    2568: "똈", \
+    2569: "똉", \
+    2570: "똊", \
+    2571: "똋", \
+    2572: "똌", \
+    2573: "똍", \
+    2574: "똎", \
+    2575: "똏", \
+    2576: "또", \
+    2577: "똑", \
+    2578: "똒", \
+    2579: "똓", \
+    2580: "똔", \
+    2581: "똕", \
+    2582: "똖", \
+    2583: "똗", \
+    2584: "똘", \
+    2585: "똙", \
+    2586: "똚", \
+    2587: "똛", \
+    2588: "똜", \
+    2589: "똝", \
+    2590: "똞", \
+    2591: "똟", \
+    2592: "똠", \
+    2593: "똡", \
+    2594: "똢", \
+    2595: "똣", \
+    2596: "똤", \
+    2597: "똥", \
+    2598: "똦", \
+    2599: "똧", \
+    2600: "똨", \
+    2601: "똩", \
+    2602: "똪", \
+    2603: "똫", \
+    2604: "똬", \
+    2605: "똭", \
+    2606: "똮", \
+    2607: "똯", \
+    2608: "똰", \
+    2609: "똱", \
+    2610: "똲", \
+    2611: "똳", \
+    2612: "똴", \
+    2613: "똵", \
+    2614: "똶", \
+    2615: "똷", \
+    2616: "똸", \
+    2617: "똹", \
+    2618: "똺", \
+    2619: "똻", \
+    2620: "똼", \
+    2621: "똽", \
+    2622: "똾", \
+    2623: "똿", \
+    2624: "뙀", \
+    2625: "뙁", \
+    2626: "뙂", \
+    2627: "뙃", \
+    2628: "뙄", \
+    2629: "뙅", \
+    2630: "뙆", \
+    2631: "뙇", \
+    2632: "뙈", \
+    2633: "뙉", \
+    2634: "뙊", \
+    2635: "뙋", \
+    2636: "뙌", \
+    2637: "뙍", \
+    2638: "뙎", \
+    2639: "뙏", \
+    2640: "뙐", \
+    2641: "뙑", \
+    2642: "뙒", \
+    2643: "뙓", \
+    2644: "뙔", \
+    2645: "뙕", \
+    2646: "뙖", \
+    2647: "뙗", \
+    2648: "뙘", \
+    2649: "뙙", \
+    2650: "뙚", \
+    2651: "뙛", \
+    2652: "뙜", \
+    2653: "뙝", \
+    2654: "뙞", \
+    2655: "뙟", \
+    2656: "뙠", \
+    2657: "뙡", \
+    2658: "뙢", \
+    2659: "뙣", \
+    2660: "뙤", \
+    2661: "뙥", \
+    2662: "뙦", \
+    2663: "뙧", \
+    2664: "뙨", \
+    2665: "뙩", \
+    2666: "뙪", \
+    2667: "뙫", \
+    2668: "뙬", \
+    2669: "뙭", \
+    2670: "뙮", \
+    2671: "뙯", \
+    2672: "뙰", \
+    2673: "뙱", \
+    2674: "뙲", \
+    2675: "뙳", \
+    2676: "뙴", \
+    2677: "뙵", \
+    2678: "뙶", \
+    2679: "뙷", \
+    2680: "뙸", \
+    2681: "뙹", \
+    2682: "뙺", \
+    2683: "뙻", \
+    2684: "뙼", \
+    2685: "뙽", \
+    2686: "뙾", \
+    2687: "뙿", \
+    2688: "뚀", \
+    2689: "뚁", \
+    2690: "뚂", \
+    2691: "뚃", \
+    2692: "뚄", \
+    2693: "뚅", \
+    2694: "뚆", \
+    2695: "뚇", \
+    2696: "뚈", \
+    2697: "뚉", \
+    2698: "뚊", \
+    2699: "뚋", \
+    2700: "뚌", \
+    2701: "뚍", \
+    2702: "뚎", \
+    2703: "뚏", \
+    2704: "뚐", \
+    2705: "뚑", \
+    2706: "뚒", \
+    2707: "뚓", \
+    2708: "뚔", \
+    2709: "뚕", \
+    2710: "뚖", \
+    2711: "뚗", \
+    2712: "뚘", \
+    2713: "뚙", \
+    2714: "뚚", \
+    2715: "뚛", \
+    2716: "뚜", \
+    2717: "뚝", \
+    2718: "뚞", \
+    2719: "뚟", \
+    2720: "뚠", \
+    2721: "뚡", \
+    2722: "뚢", \
+    2723: "뚣", \
+    2724: "뚤", \
+    2725: "뚥", \
+    2726: "뚦", \
+    2727: "뚧", \
+    2728: "뚨", \
+    2729: "뚩", \
+    2730: "뚪", \
+    2731: "뚫", \
+    2732: "뚬", \
+    2733: "뚭", \
+    2734: "뚮", \
+    2735: "뚯", \
+    2736: "뚰", \
+    2737: "뚱", \
+    2738: "뚲", \
+    2739: "뚳", \
+    2740: "뚴", \
+    2741: "뚵", \
+    2742: "뚶", \
+    2743: "뚷", \
+    2744: "뚸", \
+    2745: "뚹", \
+    2746: "뚺", \
+    2747: "뚻", \
+    2748: "뚼", \
+    2749: "뚽", \
+    2750: "뚾", \
+    2751: "뚿", \
+    2752: "뛀", \
+    2753: "뛁", \
+    2754: "뛂", \
+    2755: "뛃", \
+    2756: "뛄", \
+    2757: "뛅", \
+    2758: "뛆", \
+    2759: "뛇", \
+    2760: "뛈", \
+    2761: "뛉", \
+    2762: "뛊", \
+    2763: "뛋", \
+    2764: "뛌", \
+    2765: "뛍", \
+    2766: "뛎", \
+    2767: "뛏", \
+    2768: "뛐", \
+    2769: "뛑", \
+    2770: "뛒", \
+    2771: "뛓", \
+    2772: "뛔", \
+    2773: "뛕", \
+    2774: "뛖", \
+    2775: "뛗", \
+    2776: "뛘", \
+    2777: "뛙", \
+    2778: "뛚", \
+    2779: "뛛", \
+    2780: "뛜", \
+    2781: "뛝", \
+    2782: "뛞", \
+    2783: "뛟", \
+    2784: "뛠", \
+    2785: "뛡", \
+    2786: "뛢", \
+    2787: "뛣", \
+    2788: "뛤", \
+    2789: "뛥", \
+    2790: "뛦", \
+    2791: "뛧", \
+    2792: "뛨", \
+    2793: "뛩", \
+    2794: "뛪", \
+    2795: "뛫", \
+    2796: "뛬", \
+    2797: "뛭", \
+    2798: "뛮", \
+    2799: "뛯", \
+    2800: "뛰", \
+    2801: "뛱", \
+    2802: "뛲", \
+    2803: "뛳", \
+    2804: "뛴", \
+    2805: "뛵", \
+    2806: "뛶", \
+    2807: "뛷", \
+    2808: "뛸", \
+    2809: "뛹", \
+    2810: "뛺", \
+    2811: "뛻", \
+    2812: "뛼", \
+    2813: "뛽", \
+    2814: "뛾", \
+    2815: "뛿", \
+    2816: "뜀", \
+    2817: "뜁", \
+    2818: "뜂", \
+    2819: "뜃", \
+    2820: "뜄", \
+    2821: "뜅", \
+    2822: "뜆", \
+    2823: "뜇", \
+    2824: "뜈", \
+    2825: "뜉", \
+    2826: "뜊", \
+    2827: "뜋", \
+    2828: "뜌", \
+    2829: "뜍", \
+    2830: "뜎", \
+    2831: "뜏", \
+    2832: "뜐", \
+    2833: "뜑", \
+    2834: "뜒", \
+    2835: "뜓", \
+    2836: "뜔", \
+    2837: "뜕", \
+    2838: "뜖", \
+    2839: "뜗", \
+    2840: "뜘", \
+    2841: "뜙", \
+    2842: "뜚", \
+    2843: "뜛", \
+    2844: "뜜", \
+    2845: "뜝", \
+    2846: "뜞", \
+    2847: "뜟", \
+    2848: "뜠", \
+    2849: "뜡", \
+    2850: "뜢", \
+    2851: "뜣", \
+    2852: "뜤", \
+    2853: "뜥", \
+    2854: "뜦", \
+    2855: "뜧", \
+    2856: "뜨", \
+    2857: "뜩", \
+    2858: "뜪", \
+    2859: "뜫", \
+    2860: "뜬", \
+    2861: "뜭", \
+    2862: "뜮", \
+    2863: "뜯", \
+    2864: "뜰", \
+    2865: "뜱", \
+    2866: "뜲", \
+    2867: "뜳", \
+    2868: "뜴", \
+    2869: "뜵", \
+    2870: "뜶", \
+    2871: "뜷", \
+    2872: "뜸", \
+    2873: "뜹", \
+    2874: "뜺", \
+    2875: "뜻", \
+    2876: "뜼", \
+    2877: "뜽", \
+    2878: "뜾", \
+    2879: "뜿", \
+    2880: "띀", \
+    2881: "띁", \
+    2882: "띂", \
+    2883: "띃", \
+    2884: "띄", \
+    2885: "띅", \
+    2886: "띆", \
+    2887: "띇", \
+    2888: "띈", \
+    2889: "띉", \
+    2890: "띊", \
+    2891: "띋", \
+    2892: "띌", \
+    2893: "띍", \
+    2894: "띎", \
+    2895: "띏", \
+    2896: "띐", \
+    2897: "띑", \
+    2898: "띒", \
+    2899: "띓", \
+    2900: "띔", \
+    2901: "띕", \
+    2902: "띖", \
+    2903: "띗", \
+    2904: "띘", \
+    2905: "띙", \
+    2906: "띚", \
+    2907: "띛", \
+    2908: "띜", \
+    2909: "띝", \
+    2910: "띞", \
+    2911: "띟", \
+    2912: "띠", \
+    2913: "띡", \
+    2914: "띢", \
+    2915: "띣", \
+    2916: "띤", \
+    2917: "띥", \
+    2918: "띦", \
+    2919: "띧", \
+    2920: "띨", \
+    2921: "띩", \
+    2922: "띪", \
+    2923: "띫", \
+    2924: "띬", \
+    2925: "띭", \
+    2926: "띮", \
+    2927: "띯", \
+    2928: "띰", \
+    2929: "띱", \
+    2930: "띲", \
+    2931: "띳", \
+    2932: "띴", \
+    2933: "띵", \
+    2934: "띶", \
+    2935: "띷", \
+    2936: "띸", \
+    2937: "띹", \
+    2938: "띺", \
+    2939: "띻", \
+    2940: "라", \
+    2941: "락", \
+    2942: "띾", \
+    2943: "띿", \
+    2944: "란", \
+    2945: "랁", \
+    2946: "랂", \
+    2947: "랃", \
+    2948: "랄", \
+    2949: "랅", \
+    2950: "랆", \
+    2951: "랇", \
+    2952: "랈", \
+    2953: "랉", \
+    2954: "랊", \
+    2955: "랋", \
+    2956: "람", \
+    2957: "랍", \
+    2958: "랎", \
+    2959: "랏", \
+    2960: "랐", \
+    2961: "랑", \
+    2962: "랒", \
+    2963: "랓", \
+    2964: "랔", \
+    2965: "랕", \
+    2966: "랖", \
+    2967: "랗", \
+    2968: "래", \
+    2969: "랙", \
+    2970: "랚", \
+    2971: "랛", \
+    2972: "랜", \
+    2973: "랝", \
+    2974: "랞", \
+    2975: "랟", \
+    2976: "랠", \
+    2977: "랡", \
+    2978: "랢", \
+    2979: "랣", \
+    2980: "랤", \
+    2981: "랥", \
+    2982: "랦", \
+    2983: "랧", \
+    2984: "램", \
+    2985: "랩", \
+    2986: "랪", \
+    2987: "랫", \
+    2988: "랬", \
+    2989: "랭", \
+    2990: "랮", \
+    2991: "랯", \
+    2992: "랰", \
+    2993: "랱", \
+    2994: "랲", \
+    2995: "랳", \
+    2996: "랴", \
+    2997: "략", \
+    2998: "랶", \
+    2999: "랷", \
+    3000: "랸", \
+    3001: "랹", \
+    3002: "랺", \
+    3003: "랻", \
+    3004: "랼", \
+    3005: "랽", \
+    3006: "랾", \
+    3007: "랿", \
+    3008: "럀", \
+    3009: "럁", \
+    3010: "럂", \
+    3011: "럃", \
+    3012: "럄", \
+    3013: "럅", \
+    3014: "럆", \
+    3015: "럇", \
+    3016: "럈", \
+    3017: "량", \
+    3018: "럊", \
+    3019: "럋", \
+    3020: "럌", \
+    3021: "럍", \
+    3022: "럎", \
+    3023: "럏", \
+    3024: "럐", \
+    3025: "럑", \
+    3026: "럒", \
+    3027: "럓", \
+    3028: "럔", \
+    3029: "럕", \
+    3030: "럖", \
+    3031: "럗", \
+    3032: "럘", \
+    3033: "럙", \
+    3034: "럚", \
+    3035: "럛", \
+    3036: "럜", \
+    3037: "럝", \
+    3038: "럞", \
+    3039: "럟", \
+    3040: "럠", \
+    3041: "럡", \
+    3042: "럢", \
+    3043: "럣", \
+    3044: "럤", \
+    3045: "럥", \
+    3046: "럦", \
+    3047: "럧", \
+    3048: "럨", \
+    3049: "럩", \
+    3050: "럪", \
+    3051: "럫", \
+    3052: "러", \
+    3053: "럭", \
+    3054: "럮", \
+    3055: "럯", \
+    3056: "런", \
+    3057: "럱", \
+    3058: "럲", \
+    3059: "럳", \
+    3060: "럴", \
+    3061: "럵", \
+    3062: "럶", \
+    3063: "럷", \
+    3064: "럸", \
+    3065: "럹", \
+    3066: "럺", \
+    3067: "럻", \
+    3068: "럼", \
+    3069: "럽", \
+    3070: "럾", \
+    3071: "럿", \
+    3072: "렀", \
+    3073: "렁", \
+    3074: "렂", \
+    3075: "렃", \
+    3076: "렄", \
+    3077: "렅", \
+    3078: "렆", \
+    3079: "렇", \
+    3080: "레", \
+    3081: "렉", \
+    3082: "렊", \
+    3083: "렋", \
+    3084: "렌", \
+    3085: "렍", \
+    3086: "렎", \
+    3087: "렏", \
+    3088: "렐", \
+    3089: "렑", \
+    3090: "렒", \
+    3091: "렓", \
+    3092: "렔", \
+    3093: "렕", \
+    3094: "렖", \
+    3095: "렗", \
+    3096: "렘", \
+    3097: "렙", \
+    3098: "렚", \
+    3099: "렛", \
+    3100: "렜", \
+    3101: "렝", \
+    3102: "렞", \
+    3103: "렟", \
+    3104: "렠", \
+    3105: "렡", \
+    3106: "렢", \
+    3107: "렣", \
+    3108: "려", \
+    3109: "력", \
+    3110: "렦", \
+    3111: "렧", \
+    3112: "련", \
+    3113: "렩", \
+    3114: "렪", \
+    3115: "렫", \
+    3116: "렬", \
+    3117: "렭", \
+    3118: "렮", \
+    3119: "렯", \
+    3120: "렰", \
+    3121: "렱", \
+    3122: "렲", \
+    3123: "렳", \
+    3124: "렴", \
+    3125: "렵", \
+    3126: "렶", \
+    3127: "렷", \
+    3128: "렸", \
+    3129: "령", \
+    3130: "렺", \
+    3131: "렻", \
+    3132: "렼", \
+    3133: "렽", \
+    3134: "렾", \
+    3135: "렿", \
+    3136: "례", \
+    3137: "롁", \
+    3138: "롂", \
+    3139: "롃", \
+    3140: "롄", \
+    3141: "롅", \
+    3142: "롆", \
+    3143: "롇", \
+    3144: "롈", \
+    3145: "롉", \
+    3146: "롊", \
+    3147: "롋", \
+    3148: "롌", \
+    3149: "롍", \
+    3150: "롎", \
+    3151: "롏", \
+    3152: "롐", \
+    3153: "롑", \
+    3154: "롒", \
+    3155: "롓", \
+    3156: "롔", \
+    3157: "롕", \
+    3158: "롖", \
+    3159: "롗", \
+    3160: "롘", \
+    3161: "롙", \
+    3162: "롚", \
+    3163: "롛", \
+    3164: "로", \
+    3165: "록", \
+    3166: "롞", \
+    3167: "롟", \
+    3168: "론", \
+    3169: "롡", \
+    3170: "롢", \
+    3171: "롣", \
+    3172: "롤", \
+    3173: "롥", \
+    3174: "롦", \
+    3175: "롧", \
+    3176: "롨", \
+    3177: "롩", \
+    3178: "롪", \
+    3179: "롫", \
+    3180: "롬", \
+    3181: "롭", \
+    3182: "롮", \
+    3183: "롯", \
+    3184: "롰", \
+    3185: "롱", \
+    3186: "롲", \
+    3187: "롳", \
+    3188: "롴", \
+    3189: "롵", \
+    3190: "롶", \
+    3191: "롷", \
+    3192: "롸", \
+    3193: "롹", \
+    3194: "롺", \
+    3195: "롻", \
+    3196: "롼", \
+    3197: "롽", \
+    3198: "롾", \
+    3199: "롿", \
+    3200: "뢀", \
+    3201: "뢁", \
+    3202: "뢂", \
+    3203: "뢃", \
+    3204: "뢄", \
+    3205: "뢅", \
+    3206: "뢆", \
+    3207: "뢇", \
+    3208: "뢈", \
+    3209: "뢉", \
+    3210: "뢊", \
+    3211: "뢋", \
+    3212: "뢌", \
+    3213: "뢍", \
+    3214: "뢎", \
+    3215: "뢏", \
+    3216: "뢐", \
+    3217: "뢑", \
+    3218: "뢒", \
+    3219: "뢓", \
+    3220: "뢔", \
+    3221: "뢕", \
+    3222: "뢖", \
+    3223: "뢗", \
+    3224: "뢘", \
+    3225: "뢙", \
+    3226: "뢚", \
+    3227: "뢛", \
+    3228: "뢜", \
+    3229: "뢝", \
+    3230: "뢞", \
+    3231: "뢟", \
+    3232: "뢠", \
+    3233: "뢡", \
+    3234: "뢢", \
+    3235: "뢣", \
+    3236: "뢤", \
+    3237: "뢥", \
+    3238: "뢦", \
+    3239: "뢧", \
+    3240: "뢨", \
+    3241: "뢩", \
+    3242: "뢪", \
+    3243: "뢫", \
+    3244: "뢬", \
+    3245: "뢭", \
+    3246: "뢮", \
+    3247: "뢯", \
+    3248: "뢰", \
+    3249: "뢱", \
+    3250: "뢲", \
+    3251: "뢳", \
+    3252: "뢴", \
+    3253: "뢵", \
+    3254: "뢶", \
+    3255: "뢷", \
+    3256: "뢸", \
+    3257: "뢹", \
+    3258: "뢺", \
+    3259: "뢻", \
+    3260: "뢼", \
+    3261: "뢽", \
+    3262: "뢾", \
+    3263: "뢿", \
+    3264: "룀", \
+    3265: "룁", \
+    3266: "룂", \
+    3267: "룃", \
+    3268: "룄", \
+    3269: "룅", \
+    3270: "룆", \
+    3271: "룇", \
+    3272: "룈", \
+    3273: "룉", \
+    3274: "룊", \
+    3275: "룋", \
+    3276: "료", \
+    3277: "룍", \
+    3278: "룎", \
+    3279: "룏", \
+    3280: "룐", \
+    3281: "룑", \
+    3282: "룒", \
+    3283: "룓", \
+    3284: "룔", \
+    3285: "룕", \
+    3286: "룖", \
+    3287: "룗", \
+    3288: "룘", \
+    3289: "룙", \
+    3290: "룚", \
+    3291: "룛", \
+    3292: "룜", \
+    3293: "룝", \
+    3294: "룞", \
+    3295: "룟", \
+    3296: "룠", \
+    3297: "룡", \
+    3298: "룢", \
+    3299: "룣", \
+    3300: "룤", \
+    3301: "룥", \
+    3302: "룦", \
+    3303: "룧", \
+    3304: "루", \
+    3305: "룩", \
+    3306: "룪", \
+    3307: "룫", \
+    3308: "룬", \
+    3309: "룭", \
+    3310: "룮", \
+    3311: "룯", \
+    3312: "룰", \
+    3313: "룱", \
+    3314: "룲", \
+    3315: "룳", \
+    3316: "룴", \
+    3317: "룵", \
+    3318: "룶", \
+    3319: "룷", \
+    3320: "룸", \
+    3321: "룹", \
+    3322: "룺", \
+    3323: "룻", \
+    3324: "룼", \
+    3325: "룽", \
+    3326: "룾", \
+    3327: "룿", \
+    3328: "뤀", \
+    3329: "뤁", \
+    3330: "뤂", \
+    3331: "뤃", \
+    3332: "뤄", \
+    3333: "뤅", \
+    3334: "뤆", \
+    3335: "뤇", \
+    3336: "뤈", \
+    3337: "뤉", \
+    3338: "뤊", \
+    3339: "뤋", \
+    3340: "뤌", \
+    3341: "뤍", \
+    3342: "뤎", \
+    3343: "뤏", \
+    3344: "뤐", \
+    3345: "뤑", \
+    3346: "뤒", \
+    3347: "뤓", \
+    3348: "뤔", \
+    3349: "뤕", \
+    3350: "뤖", \
+    3351: "뤗", \
+    3352: "뤘", \
+    3353: "뤙", \
+    3354: "뤚", \
+    3355: "뤛", \
+    3356: "뤜", \
+    3357: "뤝", \
+    3358: "뤞", \
+    3359: "뤟", \
+    3360: "뤠", \
+    3361: "뤡", \
+    3362: "뤢", \
+    3363: "뤣", \
+    3364: "뤤", \
+    3365: "뤥", \
+    3366: "뤦", \
+    3367: "뤧", \
+    3368: "뤨", \
+    3369: "뤩", \
+    3370: "뤪", \
+    3371: "뤫", \
+    3372: "뤬", \
+    3373: "뤭", \
+    3374: "뤮", \
+    3375: "뤯", \
+    3376: "뤰", \
+    3377: "뤱", \
+    3378: "뤲", \
+    3379: "뤳", \
+    3380: "뤴", \
+    3381: "뤵", \
+    3382: "뤶", \
+    3383: "뤷", \
+    3384: "뤸", \
+    3385: "뤹", \
+    3386: "뤺", \
+    3387: "뤻", \
+    3388: "뤼", \
+    3389: "뤽", \
+    3390: "뤾", \
+    3391: "뤿", \
+    3392: "륀", \
+    3393: "륁", \
+    3394: "륂", \
+    3395: "륃", \
+    3396: "륄", \
+    3397: "륅", \
+    3398: "륆", \
+    3399: "륇", \
+    3400: "륈", \
+    3401: "륉", \
+    3402: "륊", \
+    3403: "륋", \
+    3404: "륌", \
+    3405: "륍", \
+    3406: "륎", \
+    3407: "륏", \
+    3408: "륐", \
+    3409: "륑", \
+    3410: "륒", \
+    3411: "륓", \
+    3412: "륔", \
+    3413: "륕", \
+    3414: "륖", \
+    3415: "륗", \
+    3416: "류", \
+    3417: "륙", \
+    3418: "륚", \
+    3419: "륛", \
+    3420: "륜", \
+    3421: "륝", \
+    3422: "륞", \
+    3423: "륟", \
+    3424: "률", \
+    3425: "륡", \
+    3426: "륢", \
+    3427: "륣", \
+    3428: "륤", \
+    3429: "륥", \
+    3430: "륦", \
+    3431: "륧", \
+    3432: "륨", \
+    3433: "륩", \
+    3434: "륪", \
+    3435: "륫", \
+    3436: "륬", \
+    3437: "륭", \
+    3438: "륮", \
+    3439: "륯", \
+    3440: "륰", \
+    3441: "륱", \
+    3442: "륲", \
+    3443: "륳", \
+    3444: "르", \
+    3445: "륵", \
+    3446: "륶", \
+    3447: "륷", \
+    3448: "른", \
+    3449: "륹", \
+    3450: "륺", \
+    3451: "륻", \
+    3452: "를", \
+    3453: "륽", \
+    3454: "륾", \
+    3455: "륿", \
+    3456: "릀", \
+    3457: "릁", \
+    3458: "릂", \
+    3459: "릃", \
+    3460: "름", \
+    3461: "릅", \
+    3462: "릆", \
+    3463: "릇", \
+    3464: "릈", \
+    3465: "릉", \
+    3466: "릊", \
+    3467: "릋", \
+    3468: "릌", \
+    3469: "릍", \
+    3470: "릎", \
+    3471: "릏", \
+    3472: "릐", \
+    3473: "릑", \
+    3474: "릒", \
+    3475: "릓", \
+    3476: "릔", \
+    3477: "릕", \
+    3478: "릖", \
+    3479: "릗", \
+    3480: "릘", \
+    3481: "릙", \
+    3482: "릚", \
+    3483: "릛", \
+    3484: "릜", \
+    3485: "릝", \
+    3486: "릞", \
+    3487: "릟", \
+    3488: "릠", \
+    3489: "릡", \
+    3490: "릢", \
+    3491: "릣", \
+    3492: "릤", \
+    3493: "릥", \
+    3494: "릦", \
+    3495: "릧", \
+    3496: "릨", \
+    3497: "릩", \
+    3498: "릪", \
+    3499: "릫", \
+    3500: "리", \
+    3501: "릭", \
+    3502: "릮", \
+    3503: "릯", \
+    3504: "린", \
+    3505: "릱", \
+    3506: "릲", \
+    3507: "릳", \
+    3508: "릴", \
+    3509: "릵", \
+    3510: "릶", \
+    3511: "릷", \
+    3512: "릸", \
+    3513: "릹", \
+    3514: "릺", \
+    3515: "릻", \
+    3516: "림", \
+    3517: "립", \
+    3518: "릾", \
+    3519: "릿", \
+    3520: "맀", \
+    3521: "링", \
+    3522: "맂", \
+    3523: "맃", \
+    3524: "맄", \
+    3525: "맅", \
+    3526: "맆", \
+    3527: "맇", \
+    3528: "마", \
+    3529: "막", \
+    3530: "맊", \
+    3531: "맋", \
+    3532: "만", \
+    3533: "맍", \
+    3534: "많", \
+    3535: "맏", \
+    3536: "말", \
+    3537: "맑", \
+    3538: "맒", \
+    3539: "맓", \
+    3540: "맔", \
+    3541: "맕", \
+    3542: "맖", \
+    3543: "맗", \
+    3544: "맘", \
+    3545: "맙", \
+    3546: "맚", \
+    3547: "맛", \
+    3548: "맜", \
+    3549: "망", \
+    3550: "맞", \
+    3551: "맟", \
+    3552: "맠", \
+    3553: "맡", \
+    3554: "맢", \
+    3555: "맣", \
+    3556: "매", \
+    3557: "맥", \
+    3558: "맦", \
+    3559: "맧", \
+    3560: "맨", \
+    3561: "맩", \
+    3562: "맪", \
+    3563: "맫", \
+    3564: "맬", \
+    3565: "맭", \
+    3566: "맮", \
+    3567: "맯", \
+    3568: "맰", \
+    3569: "맱", \
+    3570: "맲", \
+    3571: "맳", \
+    3572: "맴", \
+    3573: "맵", \
+    3574: "맶", \
+    3575: "맷", \
+    3576: "맸", \
+    3577: "맹", \
+    3578: "맺", \
+    3579: "맻", \
+    3580: "맼", \
+    3581: "맽", \
+    3582: "맾", \
+    3583: "맿", \
+    3584: "먀", \
+    3585: "먁", \
+    3586: "먂", \
+    3587: "먃", \
+    3588: "먄", \
+    3589: "먅", \
+    3590: "먆", \
+    3591: "먇", \
+    3592: "먈", \
+    3593: "먉", \
+    3594: "먊", \
+    3595: "먋", \
+    3596: "먌", \
+    3597: "먍", \
+    3598: "먎", \
+    3599: "먏", \
+    3600: "먐", \
+    3601: "먑", \
+    3602: "먒", \
+    3603: "먓", \
+    3604: "먔", \
+    3605: "먕", \
+    3606: "먖", \
+    3607: "먗", \
+    3608: "먘", \
+    3609: "먙", \
+    3610: "먚", \
+    3611: "먛", \
+    3612: "먜", \
+    3613: "먝", \
+    3614: "먞", \
+    3615: "먟", \
+    3616: "먠", \
+    3617: "먡", \
+    3618: "먢", \
+    3619: "먣", \
+    3620: "먤", \
+    3621: "먥", \
+    3622: "먦", \
+    3623: "먧", \
+    3624: "먨", \
+    3625: "먩", \
+    3626: "먪", \
+    3627: "먫", \
+    3628: "먬", \
+    3629: "먭", \
+    3630: "먮", \
+    3631: "먯", \
+    3632: "먰", \
+    3633: "먱", \
+    3634: "먲", \
+    3635: "먳", \
+    3636: "먴", \
+    3637: "먵", \
+    3638: "먶", \
+    3639: "먷", \
+    3640: "머", \
+    3641: "먹", \
+    3642: "먺", \
+    3643: "먻", \
+    3644: "먼", \
+    3645: "먽", \
+    3646: "먾", \
+    3647: "먿", \
+    3648: "멀", \
+    3649: "멁", \
+    3650: "멂", \
+    3651: "멃", \
+    3652: "멄", \
+    3653: "멅", \
+    3654: "멆", \
+    3655: "멇", \
+    3656: "멈", \
+    3657: "멉", \
+    3658: "멊", \
+    3659: "멋", \
+    3660: "멌", \
+    3661: "멍", \
+    3662: "멎", \
+    3663: "멏", \
+    3664: "멐", \
+    3665: "멑", \
+    3666: "멒", \
+    3667: "멓", \
+    3668: "메", \
+    3669: "멕", \
+    3670: "멖", \
+    3671: "멗", \
+    3672: "멘", \
+    3673: "멙", \
+    3674: "멚", \
+    3675: "멛", \
+    3676: "멜", \
+    3677: "멝", \
+    3678: "멞", \
+    3679: "멟", \
+    3680: "멠", \
+    3681: "멡", \
+    3682: "멢", \
+    3683: "멣", \
+    3684: "멤", \
+    3685: "멥", \
+    3686: "멦", \
+    3687: "멧", \
+    3688: "멨", \
+    3689: "멩", \
+    3690: "멪", \
+    3691: "멫", \
+    3692: "멬", \
+    3693: "멭", \
+    3694: "멮", \
+    3695: "멯", \
+    3696: "며", \
+    3697: "멱", \
+    3698: "멲", \
+    3699: "멳", \
+    3700: "면", \
+    3701: "멵", \
+    3702: "멶", \
+    3703: "멷", \
+    3704: "멸", \
+    3705: "멹", \
+    3706: "멺", \
+    3707: "멻", \
+    3708: "멼", \
+    3709: "멽", \
+    3710: "멾", \
+    3711: "멿", \
+    3712: "몀", \
+    3713: "몁", \
+    3714: "몂", \
+    3715: "몃", \
+    3716: "몄", \
+    3717: "명", \
+    3718: "몆", \
+    3719: "몇", \
+    3720: "몈", \
+    3721: "몉", \
+    3722: "몊", \
+    3723: "몋", \
+    3724: "몌", \
+    3725: "몍", \
+    3726: "몎", \
+    3727: "몏", \
+    3728: "몐", \
+    3729: "몑", \
+    3730: "몒", \
+    3731: "몓", \
+    3732: "몔", \
+    3733: "몕", \
+    3734: "몖", \
+    3735: "몗", \
+    3736: "몘", \
+    3737: "몙", \
+    3738: "몚", \
+    3739: "몛", \
+    3740: "몜", \
+    3741: "몝", \
+    3742: "몞", \
+    3743: "몟", \
+    3744: "몠", \
+    3745: "몡", \
+    3746: "몢", \
+    3747: "몣", \
+    3748: "몤", \
+    3749: "몥", \
+    3750: "몦", \
+    3751: "몧", \
+    3752: "모", \
+    3753: "목", \
+    3754: "몪", \
+    3755: "몫", \
+    3756: "몬", \
+    3757: "몭", \
+    3758: "몮", \
+    3759: "몯", \
+    3760: "몰", \
+    3761: "몱", \
+    3762: "몲", \
+    3763: "몳", \
+    3764: "몴", \
+    3765: "몵", \
+    3766: "몶", \
+    3767: "몷", \
+    3768: "몸", \
+    3769: "몹", \
+    3770: "몺", \
+    3771: "못", \
+    3772: "몼", \
+    3773: "몽", \
+    3774: "몾", \
+    3775: "몿", \
+    3776: "뫀", \
+    3777: "뫁", \
+    3778: "뫂", \
+    3779: "뫃", \
+    3780: "뫄", \
+    3781: "뫅", \
+    3782: "뫆", \
+    3783: "뫇", \
+    3784: "뫈", \
+    3785: "뫉", \
+    3786: "뫊", \
+    3787: "뫋", \
+    3788: "뫌", \
+    3789: "뫍", \
+    3790: "뫎", \
+    3791: "뫏", \
+    3792: "뫐", \
+    3793: "뫑", \
+    3794: "뫒", \
+    3795: "뫓", \
+    3796: "뫔", \
+    3797: "뫕", \
+    3798: "뫖", \
+    3799: "뫗", \
+    3800: "뫘", \
+    3801: "뫙", \
+    3802: "뫚", \
+    3803: "뫛", \
+    3804: "뫜", \
+    3805: "뫝", \
+    3806: "뫞", \
+    3807: "뫟", \
+    3808: "뫠", \
+    3809: "뫡", \
+    3810: "뫢", \
+    3811: "뫣", \
+    3812: "뫤", \
+    3813: "뫥", \
+    3814: "뫦", \
+    3815: "뫧", \
+    3816: "뫨", \
+    3817: "뫩", \
+    3818: "뫪", \
+    3819: "뫫", \
+    3820: "뫬", \
+    3821: "뫭", \
+    3822: "뫮", \
+    3823: "뫯", \
+    3824: "뫰", \
+    3825: "뫱", \
+    3826: "뫲", \
+    3827: "뫳", \
+    3828: "뫴", \
+    3829: "뫵", \
+    3830: "뫶", \
+    3831: "뫷", \
+    3832: "뫸", \
+    3833: "뫹", \
+    3834: "뫺", \
+    3835: "뫻", \
+    3836: "뫼", \
+    3837: "뫽", \
+    3838: "뫾", \
+    3839: "뫿", \
+    3840: "묀", \
+    3841: "묁", \
+    3842: "묂", \
+    3843: "묃", \
+    3844: "묄", \
+    3845: "묅", \
+    3846: "묆", \
+    3847: "묇", \
+    3848: "묈", \
+    3849: "묉", \
+    3850: "묊", \
+    3851: "묋", \
+    3852: "묌", \
+    3853: "묍", \
+    3854: "묎", \
+    3855: "묏", \
+    3856: "묐", \
+    3857: "묑", \
+    3858: "묒", \
+    3859: "묓", \
+    3860: "묔", \
+    3861: "묕", \
+    3862: "묖", \
+    3863: "묗", \
+    3864: "묘", \
+    3865: "묙", \
+    3866: "묚", \
+    3867: "묛", \
+    3868: "묜", \
+    3869: "묝", \
+    3870: "묞", \
+    3871: "묟", \
+    3872: "묠", \
+    3873: "묡", \
+    3874: "묢", \
+    3875: "묣", \
+    3876: "묤", \
+    3877: "묥", \
+    3878: "묦", \
+    3879: "묧", \
+    3880: "묨", \
+    3881: "묩", \
+    3882: "묪", \
+    3883: "묫", \
+    3884: "묬", \
+    3885: "묭", \
+    3886: "묮", \
+    3887: "묯", \
+    3888: "묰", \
+    3889: "묱", \
+    3890: "묲", \
+    3891: "묳", \
+    3892: "무", \
+    3893: "묵", \
+    3894: "묶", \
+    3895: "묷", \
+    3896: "문", \
+    3897: "묹", \
+    3898: "묺", \
+    3899: "묻", \
+    3900: "물", \
+    3901: "묽", \
+    3902: "묾", \
+    3903: "묿", \
+    3904: "뭀", \
+    3905: "뭁", \
+    3906: "뭂", \
+    3907: "뭃", \
+    3908: "뭄", \
+    3909: "뭅", \
+    3910: "뭆", \
+    3911: "뭇", \
+    3912: "뭈", \
+    3913: "뭉", \
+    3914: "뭊", \
+    3915: "뭋", \
+    3916: "뭌", \
+    3917: "뭍", \
+    3918: "뭎", \
+    3919: "뭏", \
+    3920: "뭐", \
+    3921: "뭑", \
+    3922: "뭒", \
+    3923: "뭓", \
+    3924: "뭔", \
+    3925: "뭕", \
+    3926: "뭖", \
+    3927: "뭗", \
+    3928: "뭘", \
+    3929: "뭙", \
+    3930: "뭚", \
+    3931: "뭛", \
+    3932: "뭜", \
+    3933: "뭝", \
+    3934: "뭞", \
+    3935: "뭟", \
+    3936: "뭠", \
+    3937: "뭡", \
+    3938: "뭢", \
+    3939: "뭣", \
+    3940: "뭤", \
+    3941: "뭥", \
+    3942: "뭦", \
+    3943: "뭧", \
+    3944: "뭨", \
+    3945: "뭩", \
+    3946: "뭪", \
+    3947: "뭫", \
+    3948: "뭬", \
+    3949: "뭭", \
+    3950: "뭮", \
+    3951: "뭯", \
+    3952: "뭰", \
+    3953: "뭱", \
+    3954: "뭲", \
+    3955: "뭳", \
+    3956: "뭴", \
+    3957: "뭵", \
+    3958: "뭶", \
+    3959: "뭷", \
+    3960: "뭸", \
+    3961: "뭹", \
+    3962: "뭺", \
+    3963: "뭻", \
+    3964: "뭼", \
+    3965: "뭽", \
+    3966: "뭾", \
+    3967: "뭿", \
+    3968: "뮀", \
+    3969: "뮁", \
+    3970: "뮂", \
+    3971: "뮃", \
+    3972: "뮄", \
+    3973: "뮅", \
+    3974: "뮆", \
+    3975: "뮇", \
+    3976: "뮈", \
+    3977: "뮉", \
+    3978: "뮊", \
+    3979: "뮋", \
+    3980: "뮌", \
+    3981: "뮍", \
+    3982: "뮎", \
+    3983: "뮏", \
+    3984: "뮐", \
+    3985: "뮑", \
+    3986: "뮒", \
+    3987: "뮓", \
+    3988: "뮔", \
+    3989: "뮕", \
+    3990: "뮖", \
+    3991: "뮗", \
+    3992: "뮘", \
+    3993: "뮙", \
+    3994: "뮚", \
+    3995: "뮛", \
+    3996: "뮜", \
+    3997: "뮝", \
+    3998: "뮞", \
+    3999: "뮟", \
+    4000: "뮠", \
+    4001: "뮡", \
+    4002: "뮢", \
+    4003: "뮣", \
+    4004: "뮤", \
+    4005: "뮥", \
+    4006: "뮦", \
+    4007: "뮧", \
+    4008: "뮨", \
+    4009: "뮩", \
+    4010: "뮪", \
+    4011: "뮫", \
+    4012: "뮬", \
+    4013: "뮭", \
+    4014: "뮮", \
+    4015: "뮯", \
+    4016: "뮰", \
+    4017: "뮱", \
+    4018: "뮲", \
+    4019: "뮳", \
+    4020: "뮴", \
+    4021: "뮵", \
+    4022: "뮶", \
+    4023: "뮷", \
+    4024: "뮸", \
+    4025: "뮹", \
+    4026: "뮺", \
+    4027: "뮻", \
+    4028: "뮼", \
+    4029: "뮽", \
+    4030: "뮾", \
+    4031: "뮿", \
+    4032: "므", \
+    4033: "믁", \
+    4034: "믂", \
+    4035: "믃", \
+    4036: "믄", \
+    4037: "믅", \
+    4038: "믆", \
+    4039: "믇", \
+    4040: "믈", \
+    4041: "믉", \
+    4042: "믊", \
+    4043: "믋", \
+    4044: "믌", \
+    4045: "믍", \
+    4046: "믎", \
+    4047: "믏", \
+    4048: "믐", \
+    4049: "믑", \
+    4050: "믒", \
+    4051: "믓", \
+    4052: "믔", \
+    4053: "믕", \
+    4054: "믖", \
+    4055: "믗", \
+    4056: "믘", \
+    4057: "믙", \
+    4058: "믚", \
+    4059: "믛", \
+    4060: "믜", \
+    4061: "믝", \
+    4062: "믞", \
+    4063: "믟", \
+    4064: "믠", \
+    4065: "믡", \
+    4066: "믢", \
+    4067: "믣", \
+    4068: "믤", \
+    4069: "믥", \
+    4070: "믦", \
+    4071: "믧", \
+    4072: "믨", \
+    4073: "믩", \
+    4074: "믪", \
+    4075: "믫", \
+    4076: "믬", \
+    4077: "믭", \
+    4078: "믮", \
+    4079: "믯", \
+    4080: "믰", \
+    4081: "믱", \
+    4082: "믲", \
+    4083: "믳", \
+    4084: "믴", \
+    4085: "믵", \
+    4086: "믶", \
+    4087: "믷", \
+    4088: "미", \
+    4089: "믹", \
+    4090: "믺", \
+    4091: "믻", \
+    4092: "민", \
+    4093: "믽", \
+    4094: "믾", \
+    4095: "믿", \
+    4096: "밀", \
+    4097: "밁", \
+    4098: "밂", \
+    4099: "밃", \
+    4100: "밄", \
+    4101: "밅", \
+    4102: "밆", \
+    4103: "밇", \
+    4104: "밈", \
+    4105: "밉", \
+    4106: "밊", \
+    4107: "밋", \
+    4108: "밌", \
+    4109: "밍", \
+    4110: "밎", \
+    4111: "및", \
+    4112: "밐", \
+    4113: "밑", \
+    4114: "밒", \
+    4115: "밓", \
+    4116: "바", \
+    4117: "박", \
+    4118: "밖", \
+    4119: "밗", \
+    4120: "반", \
+    4121: "밙", \
+    4122: "밚", \
+    4123: "받", \
+    4124: "발", \
+    4125: "밝", \
+    4126: "밞", \
+    4127: "밟", \
+    4128: "밠", \
+    4129: "밡", \
+    4130: "밢", \
+    4131: "밣", \
+    4132: "밤", \
+    4133: "밥", \
+    4134: "밦", \
+    4135: "밧", \
+    4136: "밨", \
+    4137: "방", \
+    4138: "밪", \
+    4139: "밫", \
+    4140: "밬", \
+    4141: "밭", \
+    4142: "밮", \
+    4143: "밯", \
+    4144: "배", \
+    4145: "백", \
+    4146: "밲", \
+    4147: "밳", \
+    4148: "밴", \
+    4149: "밵", \
+    4150: "밶", \
+    4151: "밷", \
+    4152: "밸", \
+    4153: "밹", \
+    4154: "밺", \
+    4155: "밻", \
+    4156: "밼", \
+    4157: "밽", \
+    4158: "밾", \
+    4159: "밿", \
+    4160: "뱀", \
+    4161: "뱁", \
+    4162: "뱂", \
+    4163: "뱃", \
+    4164: "뱄", \
+    4165: "뱅", \
+    4166: "뱆", \
+    4167: "뱇", \
+    4168: "뱈", \
+    4169: "뱉", \
+    4170: "뱊", \
+    4171: "뱋", \
+    4172: "뱌", \
+    4173: "뱍", \
+    4174: "뱎", \
+    4175: "뱏", \
+    4176: "뱐", \
+    4177: "뱑", \
+    4178: "뱒", \
+    4179: "뱓", \
+    4180: "뱔", \
+    4181: "뱕", \
+    4182: "뱖", \
+    4183: "뱗", \
+    4184: "뱘", \
+    4185: "뱙", \
+    4186: "뱚", \
+    4187: "뱛", \
+    4188: "뱜", \
+    4189: "뱝", \
+    4190: "뱞", \
+    4191: "뱟", \
+    4192: "뱠", \
+    4193: "뱡", \
+    4194: "뱢", \
+    4195: "뱣", \
+    4196: "뱤", \
+    4197: "뱥", \
+    4198: "뱦", \
+    4199: "뱧", \
+    4200: "뱨", \
+    4201: "뱩", \
+    4202: "뱪", \
+    4203: "뱫", \
+    4204: "뱬", \
+    4205: "뱭", \
+    4206: "뱮", \
+    4207: "뱯", \
+    4208: "뱰", \
+    4209: "뱱", \
+    4210: "뱲", \
+    4211: "뱳", \
+    4212: "뱴", \
+    4213: "뱵", \
+    4214: "뱶", \
+    4215: "뱷", \
+    4216: "뱸", \
+    4217: "뱹", \
+    4218: "뱺", \
+    4219: "뱻", \
+    4220: "뱼", \
+    4221: "뱽", \
+    4222: "뱾", \
+    4223: "뱿", \
+    4224: "벀", \
+    4225: "벁", \
+    4226: "벂", \
+    4227: "벃", \
+    4228: "버", \
+    4229: "벅", \
+    4230: "벆", \
+    4231: "벇", \
+    4232: "번", \
+    4233: "벉", \
+    4234: "벊", \
+    4235: "벋", \
+    4236: "벌", \
+    4237: "벍", \
+    4238: "벎", \
+    4239: "벏", \
+    4240: "벐", \
+    4241: "벑", \
+    4242: "벒", \
+    4243: "벓", \
+    4244: "범", \
+    4245: "법", \
+    4246: "벖", \
+    4247: "벗", \
+    4248: "벘", \
+    4249: "벙", \
+    4250: "벚", \
+    4251: "벛", \
+    4252: "벜", \
+    4253: "벝", \
+    4254: "벞", \
+    4255: "벟", \
+    4256: "베", \
+    4257: "벡", \
+    4258: "벢", \
+    4259: "벣", \
+    4260: "벤", \
+    4261: "벥", \
+    4262: "벦", \
+    4263: "벧", \
+    4264: "벨", \
+    4265: "벩", \
+    4266: "벪", \
+    4267: "벫", \
+    4268: "벬", \
+    4269: "벭", \
+    4270: "벮", \
+    4271: "벯", \
+    4272: "벰", \
+    4273: "벱", \
+    4274: "벲", \
+    4275: "벳", \
+    4276: "벴", \
+    4277: "벵", \
+    4278: "벶", \
+    4279: "벷", \
+    4280: "벸", \
+    4281: "벹", \
+    4282: "벺", \
+    4283: "벻", \
+    4284: "벼", \
+    4285: "벽", \
+    4286: "벾", \
+    4287: "벿", \
+    4288: "변", \
+    4289: "볁", \
+    4290: "볂", \
+    4291: "볃", \
+    4292: "별", \
+    4293: "볅", \
+    4294: "볆", \
+    4295: "볇", \
+    4296: "볈", \
+    4297: "볉", \
+    4298: "볊", \
+    4299: "볋", \
+    4300: "볌", \
+    4301: "볍", \
+    4302: "볎", \
+    4303: "볏", \
+    4304: "볐", \
+    4305: "병", \
+    4306: "볒", \
+    4307: "볓", \
+    4308: "볔", \
+    4309: "볕", \
+    4310: "볖", \
+    4311: "볗", \
+    4312: "볘", \
+    4313: "볙", \
+    4314: "볚", \
+    4315: "볛", \
+    4316: "볜", \
+    4317: "볝", \
+    4318: "볞", \
+    4319: "볟", \
+    4320: "볠", \
+    4321: "볡", \
+    4322: "볢", \
+    4323: "볣", \
+    4324: "볤", \
+    4325: "볥", \
+    4326: "볦", \
+    4327: "볧", \
+    4328: "볨", \
+    4329: "볩", \
+    4330: "볪", \
+    4331: "볫", \
+    4332: "볬", \
+    4333: "볭", \
+    4334: "볮", \
+    4335: "볯", \
+    4336: "볰", \
+    4337: "볱", \
+    4338: "볲", \
+    4339: "볳", \
+    4340: "보", \
+    4341: "복", \
+    4342: "볶", \
+    4343: "볷", \
+    4344: "본", \
+    4345: "볹", \
+    4346: "볺", \
+    4347: "볻", \
+    4348: "볼", \
+    4349: "볽", \
+    4350: "볾", \
+    4351: "볿", \
+    4352: "봀", \
+    4353: "봁", \
+    4354: "봂", \
+    4355: "봃", \
+    4356: "봄", \
+    4357: "봅", \
+    4358: "봆", \
+    4359: "봇", \
+    4360: "봈", \
+    4361: "봉", \
+    4362: "봊", \
+    4363: "봋", \
+    4364: "봌", \
+    4365: "봍", \
+    4366: "봎", \
+    4367: "봏", \
+    4368: "봐", \
+    4369: "봑", \
+    4370: "봒", \
+    4371: "봓", \
+    4372: "봔", \
+    4373: "봕", \
+    4374: "봖", \
+    4375: "봗", \
+    4376: "봘", \
+    4377: "봙", \
+    4378: "봚", \
+    4379: "봛", \
+    4380: "봜", \
+    4381: "봝", \
+    4382: "봞", \
+    4383: "봟", \
+    4384: "봠", \
+    4385: "봡", \
+    4386: "봢", \
+    4387: "봣", \
+    4388: "봤", \
+    4389: "봥", \
+    4390: "봦", \
+    4391: "봧", \
+    4392: "봨", \
+    4393: "봩", \
+    4394: "봪", \
+    4395: "봫", \
+    4396: "봬", \
+    4397: "봭", \
+    4398: "봮", \
+    4399: "봯", \
+    4400: "봰", \
+    4401: "봱", \
+    4402: "봲", \
+    4403: "봳", \
+    4404: "봴", \
+    4405: "봵", \
+    4406: "봶", \
+    4407: "봷", \
+    4408: "봸", \
+    4409: "봹", \
+    4410: "봺", \
+    4411: "봻", \
+    4412: "봼", \
+    4413: "봽", \
+    4414: "봾", \
+    4415: "봿", \
+    4416: "뵀", \
+    4417: "뵁", \
+    4418: "뵂", \
+    4419: "뵃", \
+    4420: "뵄", \
+    4421: "뵅", \
+    4422: "뵆", \
+    4423: "뵇", \
+    4424: "뵈", \
+    4425: "뵉", \
+    4426: "뵊", \
+    4427: "뵋", \
+    4428: "뵌", \
+    4429: "뵍", \
+    4430: "뵎", \
+    4431: "뵏", \
+    4432: "뵐", \
+    4433: "뵑", \
+    4434: "뵒", \
+    4435: "뵓", \
+    4436: "뵔", \
+    4437: "뵕", \
+    4438: "뵖", \
+    4439: "뵗", \
+    4440: "뵘", \
+    4441: "뵙", \
+    4442: "뵚", \
+    4443: "뵛", \
+    4444: "뵜", \
+    4445: "뵝", \
+    4446: "뵞", \
+    4447: "뵟", \
+    4448: "뵠", \
+    4449: "뵡", \
+    4450: "뵢", \
+    4451: "뵣", \
+    4452: "뵤", \
+    4453: "뵥", \
+    4454: "뵦", \
+    4455: "뵧", \
+    4456: "뵨", \
+    4457: "뵩", \
+    4458: "뵪", \
+    4459: "뵫", \
+    4460: "뵬", \
+    4461: "뵭", \
+    4462: "뵮", \
+    4463: "뵯", \
+    4464: "뵰", \
+    4465: "뵱", \
+    4466: "뵲", \
+    4467: "뵳", \
+    4468: "뵴", \
+    4469: "뵵", \
+    4470: "뵶", \
+    4471: "뵷", \
+    4472: "뵸", \
+    4473: "뵹", \
+    4474: "뵺", \
+    4475: "뵻", \
+    4476: "뵼", \
+    4477: "뵽", \
+    4478: "뵾", \
+    4479: "뵿", \
+    4480: "부", \
+    4481: "북", \
+    4482: "붂", \
+    4483: "붃", \
+    4484: "분", \
+    4485: "붅", \
+    4486: "붆", \
+    4487: "붇", \
+    4488: "불", \
+    4489: "붉", \
+    4490: "붊", \
+    4491: "붋", \
+    4492: "붌", \
+    4493: "붍", \
+    4494: "붎", \
+    4495: "붏", \
+    4496: "붐", \
+    4497: "붑", \
+    4498: "붒", \
+    4499: "붓", \
+    4500: "붔", \
+    4501: "붕", \
+    4502: "붖", \
+    4503: "붗", \
+    4504: "붘", \
+    4505: "붙", \
+    4506: "붚", \
+    4507: "붛", \
+    4508: "붜", \
+    4509: "붝", \
+    4510: "붞", \
+    4511: "붟", \
+    4512: "붠", \
+    4513: "붡", \
+    4514: "붢", \
+    4515: "붣", \
+    4516: "붤", \
+    4517: "붥", \
+    4518: "붦", \
+    4519: "붧", \
+    4520: "붨", \
+    4521: "붩", \
+    4522: "붪", \
+    4523: "붫", \
+    4524: "붬", \
+    4525: "붭", \
+    4526: "붮", \
+    4527: "붯", \
+    4528: "붰", \
+    4529: "붱", \
+    4530: "붲", \
+    4531: "붳", \
+    4532: "붴", \
+    4533: "붵", \
+    4534: "붶", \
+    4535: "붷", \
+    4536: "붸", \
+    4537: "붹", \
+    4538: "붺", \
+    4539: "붻", \
+    4540: "붼", \
+    4541: "붽", \
+    4542: "붾", \
+    4543: "붿", \
+    4544: "뷀", \
+    4545: "뷁", \
+    4546: "뷂", \
+    4547: "뷃", \
+    4548: "뷄", \
+    4549: "뷅", \
+    4550: "뷆", \
+    4551: "뷇", \
+    4552: "뷈", \
+    4553: "뷉", \
+    4554: "뷊", \
+    4555: "뷋", \
+    4556: "뷌", \
+    4557: "뷍", \
+    4558: "뷎", \
+    4559: "뷏", \
+    4560: "뷐", \
+    4561: "뷑", \
+    4562: "뷒", \
+    4563: "뷓", \
+    4564: "뷔", \
+    4565: "뷕", \
+    4566: "뷖", \
+    4567: "뷗", \
+    4568: "뷘", \
+    4569: "뷙", \
+    4570: "뷚", \
+    4571: "뷛", \
+    4572: "뷜", \
+    4573: "뷝", \
+    4574: "뷞", \
+    4575: "뷟", \
+    4576: "뷠", \
+    4577: "뷡", \
+    4578: "뷢", \
+    4579: "뷣", \
+    4580: "뷤", \
+    4581: "뷥", \
+    4582: "뷦", \
+    4583: "뷧", \
+    4584: "뷨", \
+    4585: "뷩", \
+    4586: "뷪", \
+    4587: "뷫", \
+    4588: "뷬", \
+    4589: "뷭", \
+    4590: "뷮", \
+    4591: "뷯", \
+    4592: "뷰", \
+    4593: "뷱", \
+    4594: "뷲", \
+    4595: "뷳", \
+    4596: "뷴", \
+    4597: "뷵", \
+    4598: "뷶", \
+    4599: "뷷", \
+    4600: "뷸", \
+    4601: "뷹", \
+    4602: "뷺", \
+    4603: "뷻", \
+    4604: "뷼", \
+    4605: "뷽", \
+    4606: "뷾", \
+    4607: "뷿", \
+    4608: "븀", \
+    4609: "븁", \
+    4610: "븂", \
+    4611: "븃", \
+    4612: "븄", \
+    4613: "븅", \
+    4614: "븆", \
+    4615: "븇", \
+    4616: "븈", \
+    4617: "븉", \
+    4618: "븊", \
+    4619: "븋", \
+    4620: "브", \
+    4621: "븍", \
+    4622: "븎", \
+    4623: "븏", \
+    4624: "븐", \
+    4625: "븑", \
+    4626: "븒", \
+    4627: "븓", \
+    4628: "블", \
+    4629: "븕", \
+    4630: "븖", \
+    4631: "븗", \
+    4632: "븘", \
+    4633: "븙", \
+    4634: "븚", \
+    4635: "븛", \
+    4636: "븜", \
+    4637: "븝", \
+    4638: "븞", \
+    4639: "븟", \
+    4640: "븠", \
+    4641: "븡", \
+    4642: "븢", \
+    4643: "븣", \
+    4644: "븤", \
+    4645: "븥", \
+    4646: "븦", \
+    4647: "븧", \
+    4648: "븨", \
+    4649: "븩", \
+    4650: "븪", \
+    4651: "븫", \
+    4652: "븬", \
+    4653: "븭", \
+    4654: "븮", \
+    4655: "븯", \
+    4656: "븰", \
+    4657: "븱", \
+    4658: "븲", \
+    4659: "븳", \
+    4660: "븴", \
+    4661: "븵", \
+    4662: "븶", \
+    4663: "븷", \
+    4664: "븸", \
+    4665: "븹", \
+    4666: "븺", \
+    4667: "븻", \
+    4668: "븼", \
+    4669: "븽", \
+    4670: "븾", \
+    4671: "븿", \
+    4672: "빀", \
+    4673: "빁", \
+    4674: "빂", \
+    4675: "빃", \
+    4676: "비", \
+    4677: "빅", \
+    4678: "빆", \
+    4679: "빇", \
+    4680: "빈", \
+    4681: "빉", \
+    4682: "빊", \
+    4683: "빋", \
+    4684: "빌", \
+    4685: "빍", \
+    4686: "빎", \
+    4687: "빏", \
+    4688: "빐", \
+    4689: "빑", \
+    4690: "빒", \
+    4691: "빓", \
+    4692: "빔", \
+    4693: "빕", \
+    4694: "빖", \
+    4695: "빗", \
+    4696: "빘", \
+    4697: "빙", \
+    4698: "빚", \
+    4699: "빛", \
+    4700: "빜", \
+    4701: "빝", \
+    4702: "빞", \
+    4703: "빟", \
+    4704: "빠", \
+    4705: "빡", \
+    4706: "빢", \
+    4707: "빣", \
+    4708: "빤", \
+    4709: "빥", \
+    4710: "빦", \
+    4711: "빧", \
+    4712: "빨", \
+    4713: "빩", \
+    4714: "빪", \
+    4715: "빫", \
+    4716: "빬", \
+    4717: "빭", \
+    4718: "빮", \
+    4719: "빯", \
+    4720: "빰", \
+    4721: "빱", \
+    4722: "빲", \
+    4723: "빳", \
+    4724: "빴", \
+    4725: "빵", \
+    4726: "빶", \
+    4727: "빷", \
+    4728: "빸", \
+    4729: "빹", \
+    4730: "빺", \
+    4731: "빻", \
+    4732: "빼", \
+    4733: "빽", \
+    4734: "빾", \
+    4735: "빿", \
+    4736: "뺀", \
+    4737: "뺁", \
+    4738: "뺂", \
+    4739: "뺃", \
+    4740: "뺄", \
+    4741: "뺅", \
+    4742: "뺆", \
+    4743: "뺇", \
+    4744: "뺈", \
+    4745: "뺉", \
+    4746: "뺊", \
+    4747: "뺋", \
+    4748: "뺌", \
+    4749: "뺍", \
+    4750: "뺎", \
+    4751: "뺏", \
+    4752: "뺐", \
+    4753: "뺑", \
+    4754: "뺒", \
+    4755: "뺓", \
+    4756: "뺔", \
+    4757: "뺕", \
+    4758: "뺖", \
+    4759: "뺗", \
+    4760: "뺘", \
+    4761: "뺙", \
+    4762: "뺚", \
+    4763: "뺛", \
+    4764: "뺜", \
+    4765: "뺝", \
+    4766: "뺞", \
+    4767: "뺟", \
+    4768: "뺠", \
+    4769: "뺡", \
+    4770: "뺢", \
+    4771: "뺣", \
+    4772: "뺤", \
+    4773: "뺥", \
+    4774: "뺦", \
+    4775: "뺧", \
+    4776: "뺨", \
+    4777: "뺩", \
+    4778: "뺪", \
+    4779: "뺫", \
+    4780: "뺬", \
+    4781: "뺭", \
+    4782: "뺮", \
+    4783: "뺯", \
+    4784: "뺰", \
+    4785: "뺱", \
+    4786: "뺲", \
+    4787: "뺳", \
+    4788: "뺴", \
+    4789: "뺵", \
+    4790: "뺶", \
+    4791: "뺷", \
+    4792: "뺸", \
+    4793: "뺹", \
+    4794: "뺺", \
+    4795: "뺻", \
+    4796: "뺼", \
+    4797: "뺽", \
+    4798: "뺾", \
+    4799: "뺿", \
+    4800: "뻀", \
+    4801: "뻁", \
+    4802: "뻂", \
+    4803: "뻃", \
+    4804: "뻄", \
+    4805: "뻅", \
+    4806: "뻆", \
+    4807: "뻇", \
+    4808: "뻈", \
+    4809: "뻉", \
+    4810: "뻊", \
+    4811: "뻋", \
+    4812: "뻌", \
+    4813: "뻍", \
+    4814: "뻎", \
+    4815: "뻏", \
+    4816: "뻐", \
+    4817: "뻑", \
+    4818: "뻒", \
+    4819: "뻓", \
+    4820: "뻔", \
+    4821: "뻕", \
+    4822: "뻖", \
+    4823: "뻗", \
+    4824: "뻘", \
+    4825: "뻙", \
+    4826: "뻚", \
+    4827: "뻛", \
+    4828: "뻜", \
+    4829: "뻝", \
+    4830: "뻞", \
+    4831: "뻟", \
+    4832: "뻠", \
+    4833: "뻡", \
+    4834: "뻢", \
+    4835: "뻣", \
+    4836: "뻤", \
+    4837: "뻥", \
+    4838: "뻦", \
+    4839: "뻧", \
+    4840: "뻨", \
+    4841: "뻩", \
+    4842: "뻪", \
+    4843: "뻫", \
+    4844: "뻬", \
+    4845: "뻭", \
+    4846: "뻮", \
+    4847: "뻯", \
+    4848: "뻰", \
+    4849: "뻱", \
+    4850: "뻲", \
+    4851: "뻳", \
+    4852: "뻴", \
+    4853: "뻵", \
+    4854: "뻶", \
+    4855: "뻷", \
+    4856: "뻸", \
+    4857: "뻹", \
+    4858: "뻺", \
+    4859: "뻻", \
+    4860: "뻼", \
+    4861: "뻽", \
+    4862: "뻾", \
+    4863: "뻿", \
+    4864: "뼀", \
+    4865: "뼁", \
+    4866: "뼂", \
+    4867: "뼃", \
+    4868: "뼄", \
+    4869: "뼅", \
+    4870: "뼆", \
+    4871: "뼇", \
+    4872: "뼈", \
+    4873: "뼉", \
+    4874: "뼊", \
+    4875: "뼋", \
+    4876: "뼌", \
+    4877: "뼍", \
+    4878: "뼎", \
+    4879: "뼏", \
+    4880: "뼐", \
+    4881: "뼑", \
+    4882: "뼒", \
+    4883: "뼓", \
+    4884: "뼔", \
+    4885: "뼕", \
+    4886: "뼖", \
+    4887: "뼗", \
+    4888: "뼘", \
+    4889: "뼙", \
+    4890: "뼚", \
+    4891: "뼛", \
+    4892: "뼜", \
+    4893: "뼝", \
+    4894: "뼞", \
+    4895: "뼟", \
+    4896: "뼠", \
+    4897: "뼡", \
+    4898: "뼢", \
+    4899: "뼣", \
+    4900: "뼤", \
+    4901: "뼥", \
+    4902: "뼦", \
+    4903: "뼧", \
+    4904: "뼨", \
+    4905: "뼩", \
+    4906: "뼪", \
+    4907: "뼫", \
+    4908: "뼬", \
+    4909: "뼭", \
+    4910: "뼮", \
+    4911: "뼯", \
+    4912: "뼰", \
+    4913: "뼱", \
+    4914: "뼲", \
+    4915: "뼳", \
+    4916: "뼴", \
+    4917: "뼵", \
+    4918: "뼶", \
+    4919: "뼷", \
+    4920: "뼸", \
+    4921: "뼹", \
+    4922: "뼺", \
+    4923: "뼻", \
+    4924: "뼼", \
+    4925: "뼽", \
+    4926: "뼾", \
+    4927: "뼿", \
+    4928: "뽀", \
+    4929: "뽁", \
+    4930: "뽂", \
+    4931: "뽃", \
+    4932: "뽄", \
+    4933: "뽅", \
+    4934: "뽆", \
+    4935: "뽇", \
+    4936: "뽈", \
+    4937: "뽉", \
+    4938: "뽊", \
+    4939: "뽋", \
+    4940: "뽌", \
+    4941: "뽍", \
+    4942: "뽎", \
+    4943: "뽏", \
+    4944: "뽐", \
+    4945: "뽑", \
+    4946: "뽒", \
+    4947: "뽓", \
+    4948: "뽔", \
+    4949: "뽕", \
+    4950: "뽖", \
+    4951: "뽗", \
+    4952: "뽘", \
+    4953: "뽙", \
+    4954: "뽚", \
+    4955: "뽛", \
+    4956: "뽜", \
+    4957: "뽝", \
+    4958: "뽞", \
+    4959: "뽟", \
+    4960: "뽠", \
+    4961: "뽡", \
+    4962: "뽢", \
+    4963: "뽣", \
+    4964: "뽤", \
+    4965: "뽥", \
+    4966: "뽦", \
+    4967: "뽧", \
+    4968: "뽨", \
+    4969: "뽩", \
+    4970: "뽪", \
+    4971: "뽫", \
+    4972: "뽬", \
+    4973: "뽭", \
+    4974: "뽮", \
+    4975: "뽯", \
+    4976: "뽰", \
+    4977: "뽱", \
+    4978: "뽲", \
+    4979: "뽳", \
+    4980: "뽴", \
+    4981: "뽵", \
+    4982: "뽶", \
+    4983: "뽷", \
+    4984: "뽸", \
+    4985: "뽹", \
+    4986: "뽺", \
+    4987: "뽻", \
+    4988: "뽼", \
+    4989: "뽽", \
+    4990: "뽾", \
+    4991: "뽿", \
+    4992: "뾀", \
+    4993: "뾁", \
+    4994: "뾂", \
+    4995: "뾃", \
+    4996: "뾄", \
+    4997: "뾅", \
+    4998: "뾆", \
+    4999: "뾇", \
+    5000: "뾈", \
+    5001: "뾉", \
+    5002: "뾊", \
+    5003: "뾋", \
+    5004: "뾌", \
+    5005: "뾍", \
+    5006: "뾎", \
+    5007: "뾏", \
+    5008: "뾐", \
+    5009: "뾑", \
+    5010: "뾒", \
+    5011: "뾓", \
+    5012: "뾔", \
+    5013: "뾕", \
+    5014: "뾖", \
+    5015: "뾗", \
+    5016: "뾘", \
+    5017: "뾙", \
+    5018: "뾚", \
+    5019: "뾛", \
+    5020: "뾜", \
+    5021: "뾝", \
+    5022: "뾞", \
+    5023: "뾟", \
+    5024: "뾠", \
+    5025: "뾡", \
+    5026: "뾢", \
+    5027: "뾣", \
+    5028: "뾤", \
+    5029: "뾥", \
+    5030: "뾦", \
+    5031: "뾧", \
+    5032: "뾨", \
+    5033: "뾩", \
+    5034: "뾪", \
+    5035: "뾫", \
+    5036: "뾬", \
+    5037: "뾭", \
+    5038: "뾮", \
+    5039: "뾯", \
+    5040: "뾰", \
+    5041: "뾱", \
+    5042: "뾲", \
+    5043: "뾳", \
+    5044: "뾴", \
+    5045: "뾵", \
+    5046: "뾶", \
+    5047: "뾷", \
+    5048: "뾸", \
+    5049: "뾹", \
+    5050: "뾺", \
+    5051: "뾻", \
+    5052: "뾼", \
+    5053: "뾽", \
+    5054: "뾾", \
+    5055: "뾿", \
+    5056: "뿀", \
+    5057: "뿁", \
+    5058: "뿂", \
+    5059: "뿃", \
+    5060: "뿄", \
+    5061: "뿅", \
+    5062: "뿆", \
+    5063: "뿇", \
+    5064: "뿈", \
+    5065: "뿉", \
+    5066: "뿊", \
+    5067: "뿋", \
+    5068: "뿌", \
+    5069: "뿍", \
+    5070: "뿎", \
+    5071: "뿏", \
+    5072: "뿐", \
+    5073: "뿑", \
+    5074: "뿒", \
+    5075: "뿓", \
+    5076: "뿔", \
+    5077: "뿕", \
+    5078: "뿖", \
+    5079: "뿗", \
+    5080: "뿘", \
+    5081: "뿙", \
+    5082: "뿚", \
+    5083: "뿛", \
+    5084: "뿜", \
+    5085: "뿝", \
+    5086: "뿞", \
+    5087: "뿟", \
+    5088: "뿠", \
+    5089: "뿡", \
+    5090: "뿢", \
+    5091: "뿣", \
+    5092: "뿤", \
+    5093: "뿥", \
+    5094: "뿦", \
+    5095: "뿧", \
+    5096: "뿨", \
+    5097: "뿩", \
+    5098: "뿪", \
+    5099: "뿫", \
+    5100: "뿬", \
+    5101: "뿭", \
+    5102: "뿮", \
+    5103: "뿯", \
+    5104: "뿰", \
+    5105: "뿱", \
+    5106: "뿲", \
+    5107: "뿳", \
+    5108: "뿴", \
+    5109: "뿵", \
+    5110: "뿶", \
+    5111: "뿷", \
+    5112: "뿸", \
+    5113: "뿹", \
+    5114: "뿺", \
+    5115: "뿻", \
+    5116: "뿼", \
+    5117: "뿽", \
+    5118: "뿾", \
+    5119: "뿿", \
+    5120: "쀀", \
+    5121: "쀁", \
+    5122: "쀂", \
+    5123: "쀃", \
+    5124: "쀄", \
+    5125: "쀅", \
+    5126: "쀆", \
+    5127: "쀇", \
+    5128: "쀈", \
+    5129: "쀉", \
+    5130: "쀊", \
+    5131: "쀋", \
+    5132: "쀌", \
+    5133: "쀍", \
+    5134: "쀎", \
+    5135: "쀏", \
+    5136: "쀐", \
+    5137: "쀑", \
+    5138: "쀒", \
+    5139: "쀓", \
+    5140: "쀔", \
+    5141: "쀕", \
+    5142: "쀖", \
+    5143: "쀗", \
+    5144: "쀘", \
+    5145: "쀙", \
+    5146: "쀚", \
+    5147: "쀛", \
+    5148: "쀜", \
+    5149: "쀝", \
+    5150: "쀞", \
+    5151: "쀟", \
+    5152: "쀠", \
+    5153: "쀡", \
+    5154: "쀢", \
+    5155: "쀣", \
+    5156: "쀤", \
+    5157: "쀥", \
+    5158: "쀦", \
+    5159: "쀧", \
+    5160: "쀨", \
+    5161: "쀩", \
+    5162: "쀪", \
+    5163: "쀫", \
+    5164: "쀬", \
+    5165: "쀭", \
+    5166: "쀮", \
+    5167: "쀯", \
+    5168: "쀰", \
+    5169: "쀱", \
+    5170: "쀲", \
+    5171: "쀳", \
+    5172: "쀴", \
+    5173: "쀵", \
+    5174: "쀶", \
+    5175: "쀷", \
+    5176: "쀸", \
+    5177: "쀹", \
+    5178: "쀺", \
+    5179: "쀻", \
+    5180: "쀼", \
+    5181: "쀽", \
+    5182: "쀾", \
+    5183: "쀿", \
+    5184: "쁀", \
+    5185: "쁁", \
+    5186: "쁂", \
+    5187: "쁃", \
+    5188: "쁄", \
+    5189: "쁅", \
+    5190: "쁆", \
+    5191: "쁇", \
+    5192: "쁈", \
+    5193: "쁉", \
+    5194: "쁊", \
+    5195: "쁋", \
+    5196: "쁌", \
+    5197: "쁍", \
+    5198: "쁎", \
+    5199: "쁏", \
+    5200: "쁐", \
+    5201: "쁑", \
+    5202: "쁒", \
+    5203: "쁓", \
+    5204: "쁔", \
+    5205: "쁕", \
+    5206: "쁖", \
+    5207: "쁗", \
+    5208: "쁘", \
+    5209: "쁙", \
+    5210: "쁚", \
+    5211: "쁛", \
+    5212: "쁜", \
+    5213: "쁝", \
+    5214: "쁞", \
+    5215: "쁟", \
+    5216: "쁠", \
+    5217: "쁡", \
+    5218: "쁢", \
+    5219: "쁣", \
+    5220: "쁤", \
+    5221: "쁥", \
+    5222: "쁦", \
+    5223: "쁧", \
+    5224: "쁨", \
+    5225: "쁩", \
+    5226: "쁪", \
+    5227: "쁫", \
+    5228: "쁬", \
+    5229: "쁭", \
+    5230: "쁮", \
+    5231: "쁯", \
+    5232: "쁰", \
+    5233: "쁱", \
+    5234: "쁲", \
+    5235: "쁳", \
+    5236: "쁴", \
+    5237: "쁵", \
+    5238: "쁶", \
+    5239: "쁷", \
+    5240: "쁸", \
+    5241: "쁹", \
+    5242: "쁺", \
+    5243: "쁻", \
+    5244: "쁼", \
+    5245: "쁽", \
+    5246: "쁾", \
+    5247: "쁿", \
+    5248: "삀", \
+    5249: "삁", \
+    5250: "삂", \
+    5251: "삃", \
+    5252: "삄", \
+    5253: "삅", \
+    5254: "삆", \
+    5255: "삇", \
+    5256: "삈", \
+    5257: "삉", \
+    5258: "삊", \
+    5259: "삋", \
+    5260: "삌", \
+    5261: "삍", \
+    5262: "삎", \
+    5263: "삏", \
+    5264: "삐", \
+    5265: "삑", \
+    5266: "삒", \
+    5267: "삓", \
+    5268: "삔", \
+    5269: "삕", \
+    5270: "삖", \
+    5271: "삗", \
+    5272: "삘", \
+    5273: "삙", \
+    5274: "삚", \
+    5275: "삛", \
+    5276: "삜", \
+    5277: "삝", \
+    5278: "삞", \
+    5279: "삟", \
+    5280: "삠", \
+    5281: "삡", \
+    5282: "삢", \
+    5283: "삣", \
+    5284: "삤", \
+    5285: "삥", \
+    5286: "삦", \
+    5287: "삧", \
+    5288: "삨", \
+    5289: "삩", \
+    5290: "삪", \
+    5291: "삫", \
+    5292: "사", \
+    5293: "삭", \
+    5294: "삮", \
+    5295: "삯", \
+    5296: "산", \
+    5297: "삱", \
+    5298: "삲", \
+    5299: "삳", \
+    5300: "살", \
+    5301: "삵", \
+    5302: "삶", \
+    5303: "삷", \
+    5304: "삸", \
+    5305: "삹", \
+    5306: "삺", \
+    5307: "삻", \
+    5308: "삼", \
+    5309: "삽", \
+    5310: "삾", \
+    5311: "삿", \
+    5312: "샀", \
+    5313: "상", \
+    5314: "샂", \
+    5315: "샃", \
+    5316: "샄", \
+    5317: "샅", \
+    5318: "샆", \
+    5319: "샇", \
+    5320: "새", \
+    5321: "색", \
+    5322: "샊", \
+    5323: "샋", \
+    5324: "샌", \
+    5325: "샍", \
+    5326: "샎", \
+    5327: "샏", \
+    5328: "샐", \
+    5329: "샑", \
+    5330: "샒", \
+    5331: "샓", \
+    5332: "샔", \
+    5333: "샕", \
+    5334: "샖", \
+    5335: "샗", \
+    5336: "샘", \
+    5337: "샙", \
+    5338: "샚", \
+    5339: "샛", \
+    5340: "샜", \
+    5341: "생", \
+    5342: "샞", \
+    5343: "샟", \
+    5344: "샠", \
+    5345: "샡", \
+    5346: "샢", \
+    5347: "샣", \
+    5348: "샤", \
+    5349: "샥", \
+    5350: "샦", \
+    5351: "샧", \
+    5352: "샨", \
+    5353: "샩", \
+    5354: "샪", \
+    5355: "샫", \
+    5356: "샬", \
+    5357: "샭", \
+    5358: "샮", \
+    5359: "샯", \
+    5360: "샰", \
+    5361: "샱", \
+    5362: "샲", \
+    5363: "샳", \
+    5364: "샴", \
+    5365: "샵", \
+    5366: "샶", \
+    5367: "샷", \
+    5368: "샸", \
+    5369: "샹", \
+    5370: "샺", \
+    5371: "샻", \
+    5372: "샼", \
+    5373: "샽", \
+    5374: "샾", \
+    5375: "샿", \
+    5376: "섀", \
+    5377: "섁", \
+    5378: "섂", \
+    5379: "섃", \
+    5380: "섄", \
+    5381: "섅", \
+    5382: "섆", \
+    5383: "섇", \
+    5384: "섈", \
+    5385: "섉", \
+    5386: "섊", \
+    5387: "섋", \
+    5388: "섌", \
+    5389: "섍", \
+    5390: "섎", \
+    5391: "섏", \
+    5392: "섐", \
+    5393: "섑", \
+    5394: "섒", \
+    5395: "섓", \
+    5396: "섔", \
+    5397: "섕", \
+    5398: "섖", \
+    5399: "섗", \
+    5400: "섘", \
+    5401: "섙", \
+    5402: "섚", \
+    5403: "섛", \
+    5404: "서", \
+    5405: "석", \
+    5406: "섞", \
+    5407: "섟", \
+    5408: "선", \
+    5409: "섡", \
+    5410: "섢", \
+    5411: "섣", \
+    5412: "설", \
+    5413: "섥", \
+    5414: "섦", \
+    5415: "섧", \
+    5416: "섨", \
+    5417: "섩", \
+    5418: "섪", \
+    5419: "섫", \
+    5420: "섬", \
+    5421: "섭", \
+    5422: "섮", \
+    5423: "섯", \
+    5424: "섰", \
+    5425: "성", \
+    5426: "섲", \
+    5427: "섳", \
+    5428: "섴", \
+    5429: "섵", \
+    5430: "섶", \
+    5431: "섷", \
+    5432: "세", \
+    5433: "섹", \
+    5434: "섺", \
+    5435: "섻", \
+    5436: "센", \
+    5437: "섽", \
+    5438: "섾", \
+    5439: "섿", \
+    5440: "셀", \
+    5441: "셁", \
+    5442: "셂", \
+    5443: "셃", \
+    5444: "셄", \
+    5445: "셅", \
+    5446: "셆", \
+    5447: "셇", \
+    5448: "셈", \
+    5449: "셉", \
+    5450: "셊", \
+    5451: "셋", \
+    5452: "셌", \
+    5453: "셍", \
+    5454: "셎", \
+    5455: "셏", \
+    5456: "셐", \
+    5457: "셑", \
+    5458: "셒", \
+    5459: "셓", \
+    5460: "셔", \
+    5461: "셕", \
+    5462: "셖", \
+    5463: "셗", \
+    5464: "션", \
+    5465: "셙", \
+    5466: "셚", \
+    5467: "셛", \
+    5468: "셜", \
+    5469: "셝", \
+    5470: "셞", \
+    5471: "셟", \
+    5472: "셠", \
+    5473: "셡", \
+    5474: "셢", \
+    5475: "셣", \
+    5476: "셤", \
+    5477: "셥", \
+    5478: "셦", \
+    5479: "셧", \
+    5480: "셨", \
+    5481: "셩", \
+    5482: "셪", \
+    5483: "셫", \
+    5484: "셬", \
+    5485: "셭", \
+    5486: "셮", \
+    5487: "셯", \
+    5488: "셰", \
+    5489: "셱", \
+    5490: "셲", \
+    5491: "셳", \
+    5492: "셴", \
+    5493: "셵", \
+    5494: "셶", \
+    5495: "셷", \
+    5496: "셸", \
+    5497: "셹", \
+    5498: "셺", \
+    5499: "셻", \
+    5500: "셼", \
+    5501: "셽", \
+    5502: "셾", \
+    5503: "셿", \
+    5504: "솀", \
+    5505: "솁", \
+    5506: "솂", \
+    5507: "솃", \
+    5508: "솄", \
+    5509: "솅", \
+    5510: "솆", \
+    5511: "솇", \
+    5512: "솈", \
+    5513: "솉", \
+    5514: "솊", \
+    5515: "솋", \
+    5516: "소", \
+    5517: "속", \
+    5518: "솎", \
+    5519: "솏", \
+    5520: "손", \
+    5521: "솑", \
+    5522: "솒", \
+    5523: "솓", \
+    5524: "솔", \
+    5525: "솕", \
+    5526: "솖", \
+    5527: "솗", \
+    5528: "솘", \
+    5529: "솙", \
+    5530: "솚", \
+    5531: "솛", \
+    5532: "솜", \
+    5533: "솝", \
+    5534: "솞", \
+    5535: "솟", \
+    5536: "솠", \
+    5537: "송", \
+    5538: "솢", \
+    5539: "솣", \
+    5540: "솤", \
+    5541: "솥", \
+    5542: "솦", \
+    5543: "솧", \
+    5544: "솨", \
+    5545: "솩", \
+    5546: "솪", \
+    5547: "솫", \
+    5548: "솬", \
+    5549: "솭", \
+    5550: "솮", \
+    5551: "솯", \
+    5552: "솰", \
+    5553: "솱", \
+    5554: "솲", \
+    5555: "솳", \
+    5556: "솴", \
+    5557: "솵", \
+    5558: "솶", \
+    5559: "솷", \
+    5560: "솸", \
+    5561: "솹", \
+    5562: "솺", \
+    5563: "솻", \
+    5564: "솼", \
+    5565: "솽", \
+    5566: "솾", \
+    5567: "솿", \
+    5568: "쇀", \
+    5569: "쇁", \
+    5570: "쇂", \
+    5571: "쇃", \
+    5572: "쇄", \
+    5573: "쇅", \
+    5574: "쇆", \
+    5575: "쇇", \
+    5576: "쇈", \
+    5577: "쇉", \
+    5578: "쇊", \
+    5579: "쇋", \
+    5580: "쇌", \
+    5581: "쇍", \
+    5582: "쇎", \
+    5583: "쇏", \
+    5584: "쇐", \
+    5585: "쇑", \
+    5586: "쇒", \
+    5587: "쇓", \
+    5588: "쇔", \
+    5589: "쇕", \
+    5590: "쇖", \
+    5591: "쇗", \
+    5592: "쇘", \
+    5593: "쇙", \
+    5594: "쇚", \
+    5595: "쇛", \
+    5596: "쇜", \
+    5597: "쇝", \
+    5598: "쇞", \
+    5599: "쇟", \
+    5600: "쇠", \
+    5601: "쇡", \
+    5602: "쇢", \
+    5603: "쇣", \
+    5604: "쇤", \
+    5605: "쇥", \
+    5606: "쇦", \
+    5607: "쇧", \
+    5608: "쇨", \
+    5609: "쇩", \
+    5610: "쇪", \
+    5611: "쇫", \
+    5612: "쇬", \
+    5613: "쇭", \
+    5614: "쇮", \
+    5615: "쇯", \
+    5616: "쇰", \
+    5617: "쇱", \
+    5618: "쇲", \
+    5619: "쇳", \
+    5620: "쇴", \
+    5621: "쇵", \
+    5622: "쇶", \
+    5623: "쇷", \
+    5624: "쇸", \
+    5625: "쇹", \
+    5626: "쇺", \
+    5627: "쇻", \
+    5628: "쇼", \
+    5629: "쇽", \
+    5630: "쇾", \
+    5631: "쇿", \
+    5632: "숀", \
+    5633: "숁", \
+    5634: "숂", \
+    5635: "숃", \
+    5636: "숄", \
+    5637: "숅", \
+    5638: "숆", \
+    5639: "숇", \
+    5640: "숈", \
+    5641: "숉", \
+    5642: "숊", \
+    5643: "숋", \
+    5644: "숌", \
+    5645: "숍", \
+    5646: "숎", \
+    5647: "숏", \
+    5648: "숐", \
+    5649: "숑", \
+    5650: "숒", \
+    5651: "숓", \
+    5652: "숔", \
+    5653: "숕", \
+    5654: "숖", \
+    5655: "숗", \
+    5656: "수", \
+    5657: "숙", \
+    5658: "숚", \
+    5659: "숛", \
+    5660: "순", \
+    5661: "숝", \
+    5662: "숞", \
+    5663: "숟", \
+    5664: "술", \
+    5665: "숡", \
+    5666: "숢", \
+    5667: "숣", \
+    5668: "숤", \
+    5669: "숥", \
+    5670: "숦", \
+    5671: "숧", \
+    5672: "숨", \
+    5673: "숩", \
+    5674: "숪", \
+    5675: "숫", \
+    5676: "숬", \
+    5677: "숭", \
+    5678: "숮", \
+    5679: "숯", \
+    5680: "숰", \
+    5681: "숱", \
+    5682: "숲", \
+    5683: "숳", \
+    5684: "숴", \
+    5685: "숵", \
+    5686: "숶", \
+    5687: "숷", \
+    5688: "숸", \
+    5689: "숹", \
+    5690: "숺", \
+    5691: "숻", \
+    5692: "숼", \
+    5693: "숽", \
+    5694: "숾", \
+    5695: "숿", \
+    5696: "쉀", \
+    5697: "쉁", \
+    5698: "쉂", \
+    5699: "쉃", \
+    5700: "쉄", \
+    5701: "쉅", \
+    5702: "쉆", \
+    5703: "쉇", \
+    5704: "쉈", \
+    5705: "쉉", \
+    5706: "쉊", \
+    5707: "쉋", \
+    5708: "쉌", \
+    5709: "쉍", \
+    5710: "쉎", \
+    5711: "쉏", \
+    5712: "쉐", \
+    5713: "쉑", \
+    5714: "쉒", \
+    5715: "쉓", \
+    5716: "쉔", \
+    5717: "쉕", \
+    5718: "쉖", \
+    5719: "쉗", \
+    5720: "쉘", \
+    5721: "쉙", \
+    5722: "쉚", \
+    5723: "쉛", \
+    5724: "쉜", \
+    5725: "쉝", \
+    5726: "쉞", \
+    5727: "쉟", \
+    5728: "쉠", \
+    5729: "쉡", \
+    5730: "쉢", \
+    5731: "쉣", \
+    5732: "쉤", \
+    5733: "쉥", \
+    5734: "쉦", \
+    5735: "쉧", \
+    5736: "쉨", \
+    5737: "쉩", \
+    5738: "쉪", \
+    5739: "쉫", \
+    5740: "쉬", \
+    5741: "쉭", \
+    5742: "쉮", \
+    5743: "쉯", \
+    5744: "쉰", \
+    5745: "쉱", \
+    5746: "쉲", \
+    5747: "쉳", \
+    5748: "쉴", \
+    5749: "쉵", \
+    5750: "쉶", \
+    5751: "쉷", \
+    5752: "쉸", \
+    5753: "쉹", \
+    5754: "쉺", \
+    5755: "쉻", \
+    5756: "쉼", \
+    5757: "쉽", \
+    5758: "쉾", \
+    5759: "쉿", \
+    5760: "슀", \
+    5761: "슁", \
+    5762: "슂", \
+    5763: "슃", \
+    5764: "슄", \
+    5765: "슅", \
+    5766: "슆", \
+    5767: "슇", \
+    5768: "슈", \
+    5769: "슉", \
+    5770: "슊", \
+    5771: "슋", \
+    5772: "슌", \
+    5773: "슍", \
+    5774: "슎", \
+    5775: "슏", \
+    5776: "슐", \
+    5777: "슑", \
+    5778: "슒", \
+    5779: "슓", \
+    5780: "슔", \
+    5781: "슕", \
+    5782: "슖", \
+    5783: "슗", \
+    5784: "슘", \
+    5785: "슙", \
+    5786: "슚", \
+    5787: "슛", \
+    5788: "슜", \
+    5789: "슝", \
+    5790: "슞", \
+    5791: "슟", \
+    5792: "슠", \
+    5793: "슡", \
+    5794: "슢", \
+    5795: "슣", \
+    5796: "스", \
+    5797: "슥", \
+    5798: "슦", \
+    5799: "슧", \
+    5800: "슨", \
+    5801: "슩", \
+    5802: "슪", \
+    5803: "슫", \
+    5804: "슬", \
+    5805: "슭", \
+    5806: "슮", \
+    5807: "슯", \
+    5808: "슰", \
+    5809: "슱", \
+    5810: "슲", \
+    5811: "슳", \
+    5812: "슴", \
+    5813: "습", \
+    5814: "슶", \
+    5815: "슷", \
+    5816: "슸", \
+    5817: "승", \
+    5818: "슺", \
+    5819: "슻", \
+    5820: "슼", \
+    5821: "슽", \
+    5822: "슾", \
+    5823: "슿", \
+    5824: "싀", \
+    5825: "싁", \
+    5826: "싂", \
+    5827: "싃", \
+    5828: "싄", \
+    5829: "싅", \
+    5830: "싆", \
+    5831: "싇", \
+    5832: "싈", \
+    5833: "싉", \
+    5834: "싊", \
+    5835: "싋", \
+    5836: "싌", \
+    5837: "싍", \
+    5838: "싎", \
+    5839: "싏", \
+    5840: "싐", \
+    5841: "싑", \
+    5842: "싒", \
+    5843: "싓", \
+    5844: "싔", \
+    5845: "싕", \
+    5846: "싖", \
+    5847: "싗", \
+    5848: "싘", \
+    5849: "싙", \
+    5850: "싚", \
+    5851: "싛", \
+    5852: "시", \
+    5853: "식", \
+    5854: "싞", \
+    5855: "싟", \
+    5856: "신", \
+    5857: "싡", \
+    5858: "싢", \
+    5859: "싣", \
+    5860: "실", \
+    5861: "싥", \
+    5862: "싦", \
+    5863: "싧", \
+    5864: "싨", \
+    5865: "싩", \
+    5866: "싪", \
+    5867: "싫", \
+    5868: "심", \
+    5869: "십", \
+    5870: "싮", \
+    5871: "싯", \
+    5872: "싰", \
+    5873: "싱", \
+    5874: "싲", \
+    5875: "싳", \
+    5876: "싴", \
+    5877: "싵", \
+    5878: "싶", \
+    5879: "싷", \
+    5880: "싸", \
+    5881: "싹", \
+    5882: "싺", \
+    5883: "싻", \
+    5884: "싼", \
+    5885: "싽", \
+    5886: "싾", \
+    5887: "싿", \
+    5888: "쌀", \
+    5889: "쌁", \
+    5890: "쌂", \
+    5891: "쌃", \
+    5892: "쌄", \
+    5893: "쌅", \
+    5894: "쌆", \
+    5895: "쌇", \
+    5896: "쌈", \
+    5897: "쌉", \
+    5898: "쌊", \
+    5899: "쌋", \
+    5900: "쌌", \
+    5901: "쌍", \
+    5902: "쌎", \
+    5903: "쌏", \
+    5904: "쌐", \
+    5905: "쌑", \
+    5906: "쌒", \
+    5907: "쌓", \
+    5908: "쌔", \
+    5909: "쌕", \
+    5910: "쌖", \
+    5911: "쌗", \
+    5912: "쌘", \
+    5913: "쌙", \
+    5914: "쌚", \
+    5915: "쌛", \
+    5916: "쌜", \
+    5917: "쌝", \
+    5918: "쌞", \
+    5919: "쌟", \
+    5920: "쌠", \
+    5921: "쌡", \
+    5922: "쌢", \
+    5923: "쌣", \
+    5924: "쌤", \
+    5925: "쌥", \
+    5926: "쌦", \
+    5927: "쌧", \
+    5928: "쌨", \
+    5929: "쌩", \
+    5930: "쌪", \
+    5931: "쌫", \
+    5932: "쌬", \
+    5933: "쌭", \
+    5934: "쌮", \
+    5935: "쌯", \
+    5936: "쌰", \
+    5937: "쌱", \
+    5938: "쌲", \
+    5939: "쌳", \
+    5940: "쌴", \
+    5941: "쌵", \
+    5942: "쌶", \
+    5943: "쌷", \
+    5944: "쌸", \
+    5945: "쌹", \
+    5946: "쌺", \
+    5947: "쌻", \
+    5948: "쌼", \
+    5949: "쌽", \
+    5950: "쌾", \
+    5951: "쌿", \
+    5952: "썀", \
+    5953: "썁", \
+    5954: "썂", \
+    5955: "썃", \
+    5956: "썄", \
+    5957: "썅", \
+    5958: "썆", \
+    5959: "썇", \
+    5960: "썈", \
+    5961: "썉", \
+    5962: "썊", \
+    5963: "썋", \
+    5964: "썌", \
+    5965: "썍", \
+    5966: "썎", \
+    5967: "썏", \
+    5968: "썐", \
+    5969: "썑", \
+    5970: "썒", \
+    5971: "썓", \
+    5972: "썔", \
+    5973: "썕", \
+    5974: "썖", \
+    5975: "썗", \
+    5976: "썘", \
+    5977: "썙", \
+    5978: "썚", \
+    5979: "썛", \
+    5980: "썜", \
+    5981: "썝", \
+    5982: "썞", \
+    5983: "썟", \
+    5984: "썠", \
+    5985: "썡", \
+    5986: "썢", \
+    5987: "썣", \
+    5988: "썤", \
+    5989: "썥", \
+    5990: "썦", \
+    5991: "썧", \
+    5992: "써", \
+    5993: "썩", \
+    5994: "썪", \
+    5995: "썫", \
+    5996: "썬", \
+    5997: "썭", \
+    5998: "썮", \
+    5999: "썯", \
+    6000: "썰", \
+    6001: "썱", \
+    6002: "썲", \
+    6003: "썳", \
+    6004: "썴", \
+    6005: "썵", \
+    6006: "썶", \
+    6007: "썷", \
+    6008: "썸", \
+    6009: "썹", \
+    6010: "썺", \
+    6011: "썻", \
+    6012: "썼", \
+    6013: "썽", \
+    6014: "썾", \
+    6015: "썿", \
+    6016: "쎀", \
+    6017: "쎁", \
+    6018: "쎂", \
+    6019: "쎃", \
+    6020: "쎄", \
+    6021: "쎅", \
+    6022: "쎆", \
+    6023: "쎇", \
+    6024: "쎈", \
+    6025: "쎉", \
+    6026: "쎊", \
+    6027: "쎋", \
+    6028: "쎌", \
+    6029: "쎍", \
+    6030: "쎎", \
+    6031: "쎏", \
+    6032: "쎐", \
+    6033: "쎑", \
+    6034: "쎒", \
+    6035: "쎓", \
+    6036: "쎔", \
+    6037: "쎕", \
+    6038: "쎖", \
+    6039: "쎗", \
+    6040: "쎘", \
+    6041: "쎙", \
+    6042: "쎚", \
+    6043: "쎛", \
+    6044: "쎜", \
+    6045: "쎝", \
+    6046: "쎞", \
+    6047: "쎟", \
+    6048: "쎠", \
+    6049: "쎡", \
+    6050: "쎢", \
+    6051: "쎣", \
+    6052: "쎤", \
+    6053: "쎥", \
+    6054: "쎦", \
+    6055: "쎧", \
+    6056: "쎨", \
+    6057: "쎩", \
+    6058: "쎪", \
+    6059: "쎫", \
+    6060: "쎬", \
+    6061: "쎭", \
+    6062: "쎮", \
+    6063: "쎯", \
+    6064: "쎰", \
+    6065: "쎱", \
+    6066: "쎲", \
+    6067: "쎳", \
+    6068: "쎴", \
+    6069: "쎵", \
+    6070: "쎶", \
+    6071: "쎷", \
+    6072: "쎸", \
+    6073: "쎹", \
+    6074: "쎺", \
+    6075: "쎻", \
+    6076: "쎼", \
+    6077: "쎽", \
+    6078: "쎾", \
+    6079: "쎿", \
+    6080: "쏀", \
+    6081: "쏁", \
+    6082: "쏂", \
+    6083: "쏃", \
+    6084: "쏄", \
+    6085: "쏅", \
+    6086: "쏆", \
+    6087: "쏇", \
+    6088: "쏈", \
+    6089: "쏉", \
+    6090: "쏊", \
+    6091: "쏋", \
+    6092: "쏌", \
+    6093: "쏍", \
+    6094: "쏎", \
+    6095: "쏏", \
+    6096: "쏐", \
+    6097: "쏑", \
+    6098: "쏒", \
+    6099: "쏓", \
+    6100: "쏔", \
+    6101: "쏕", \
+    6102: "쏖", \
+    6103: "쏗", \
+    6104: "쏘", \
+    6105: "쏙", \
+    6106: "쏚", \
+    6107: "쏛", \
+    6108: "쏜", \
+    6109: "쏝", \
+    6110: "쏞", \
+    6111: "쏟", \
+    6112: "쏠", \
+    6113: "쏡", \
+    6114: "쏢", \
+    6115: "쏣", \
+    6116: "쏤", \
+    6117: "쏥", \
+    6118: "쏦", \
+    6119: "쏧", \
+    6120: "쏨", \
+    6121: "쏩", \
+    6122: "쏪", \
+    6123: "쏫", \
+    6124: "쏬", \
+    6125: "쏭", \
+    6126: "쏮", \
+    6127: "쏯", \
+    6128: "쏰", \
+    6129: "쏱", \
+    6130: "쏲", \
+    6131: "쏳", \
+    6132: "쏴", \
+    6133: "쏵", \
+    6134: "쏶", \
+    6135: "쏷", \
+    6136: "쏸", \
+    6137: "쏹", \
+    6138: "쏺", \
+    6139: "쏻", \
+    6140: "쏼", \
+    6141: "쏽", \
+    6142: "쏾", \
+    6143: "쏿", \
+    6144: "쐀", \
+    6145: "쐁", \
+    6146: "쐂", \
+    6147: "쐃", \
+    6148: "쐄", \
+    6149: "쐅", \
+    6150: "쐆", \
+    6151: "쐇", \
+    6152: "쐈", \
+    6153: "쐉", \
+    6154: "쐊", \
+    6155: "쐋", \
+    6156: "쐌", \
+    6157: "쐍", \
+    6158: "쐎", \
+    6159: "쐏", \
+    6160: "쐐", \
+    6161: "쐑", \
+    6162: "쐒", \
+    6163: "쐓", \
+    6164: "쐔", \
+    6165: "쐕", \
+    6166: "쐖", \
+    6167: "쐗", \
+    6168: "쐘", \
+    6169: "쐙", \
+    6170: "쐚", \
+    6171: "쐛", \
+    6172: "쐜", \
+    6173: "쐝", \
+    6174: "쐞", \
+    6175: "쐟", \
+    6176: "쐠", \
+    6177: "쐡", \
+    6178: "쐢", \
+    6179: "쐣", \
+    6180: "쐤", \
+    6181: "쐥", \
+    6182: "쐦", \
+    6183: "쐧", \
+    6184: "쐨", \
+    6185: "쐩", \
+    6186: "쐪", \
+    6187: "쐫", \
+    6188: "쐬", \
+    6189: "쐭", \
+    6190: "쐮", \
+    6191: "쐯", \
+    6192: "쐰", \
+    6193: "쐱", \
+    6194: "쐲", \
+    6195: "쐳", \
+    6196: "쐴", \
+    6197: "쐵", \
+    6198: "쐶", \
+    6199: "쐷", \
+    6200: "쐸", \
+    6201: "쐹", \
+    6202: "쐺", \
+    6203: "쐻", \
+    6204: "쐼", \
+    6205: "쐽", \
+    6206: "쐾", \
+    6207: "쐿", \
+    6208: "쑀", \
+    6209: "쑁", \
+    6210: "쑂", \
+    6211: "쑃", \
+    6212: "쑄", \
+    6213: "쑅", \
+    6214: "쑆", \
+    6215: "쑇", \
+    6216: "쑈", \
+    6217: "쑉", \
+    6218: "쑊", \
+    6219: "쑋", \
+    6220: "쑌", \
+    6221: "쑍", \
+    6222: "쑎", \
+    6223: "쑏", \
+    6224: "쑐", \
+    6225: "쑑", \
+    6226: "쑒", \
+    6227: "쑓", \
+    6228: "쑔", \
+    6229: "쑕", \
+    6230: "쑖", \
+    6231: "쑗", \
+    6232: "쑘", \
+    6233: "쑙", \
+    6234: "쑚", \
+    6235: "쑛", \
+    6236: "쑜", \
+    6237: "쑝", \
+    6238: "쑞", \
+    6239: "쑟", \
+    6240: "쑠", \
+    6241: "쑡", \
+    6242: "쑢", \
+    6243: "쑣", \
+    6244: "쑤", \
+    6245: "쑥", \
+    6246: "쑦", \
+    6247: "쑧", \
+    6248: "쑨", \
+    6249: "쑩", \
+    6250: "쑪", \
+    6251: "쑫", \
+    6252: "쑬", \
+    6253: "쑭", \
+    6254: "쑮", \
+    6255: "쑯", \
+    6256: "쑰", \
+    6257: "쑱", \
+    6258: "쑲", \
+    6259: "쑳", \
+    6260: "쑴", \
+    6261: "쑵", \
+    6262: "쑶", \
+    6263: "쑷", \
+    6264: "쑸", \
+    6265: "쑹", \
+    6266: "쑺", \
+    6267: "쑻", \
+    6268: "쑼", \
+    6269: "쑽", \
+    6270: "쑾", \
+    6271: "쑿", \
+    6272: "쒀", \
+    6273: "쒁", \
+    6274: "쒂", \
+    6275: "쒃", \
+    6276: "쒄", \
+    6277: "쒅", \
+    6278: "쒆", \
+    6279: "쒇", \
+    6280: "쒈", \
+    6281: "쒉", \
+    6282: "쒊", \
+    6283: "쒋", \
+    6284: "쒌", \
+    6285: "쒍", \
+    6286: "쒎", \
+    6287: "쒏", \
+    6288: "쒐", \
+    6289: "쒑", \
+    6290: "쒒", \
+    6291: "쒓", \
+    6292: "쒔", \
+    6293: "쒕", \
+    6294: "쒖", \
+    6295: "쒗", \
+    6296: "쒘", \
+    6297: "쒙", \
+    6298: "쒚", \
+    6299: "쒛", \
+    6300: "쒜", \
+    6301: "쒝", \
+    6302: "쒞", \
+    6303: "쒟", \
+    6304: "쒠", \
+    6305: "쒡", \
+    6306: "쒢", \
+    6307: "쒣", \
+    6308: "쒤", \
+    6309: "쒥", \
+    6310: "쒦", \
+    6311: "쒧", \
+    6312: "쒨", \
+    6313: "쒩", \
+    6314: "쒪", \
+    6315: "쒫", \
+    6316: "쒬", \
+    6317: "쒭", \
+    6318: "쒮", \
+    6319: "쒯", \
+    6320: "쒰", \
+    6321: "쒱", \
+    6322: "쒲", \
+    6323: "쒳", \
+    6324: "쒴", \
+    6325: "쒵", \
+    6326: "쒶", \
+    6327: "쒷", \
+    6328: "쒸", \
+    6329: "쒹", \
+    6330: "쒺", \
+    6331: "쒻", \
+    6332: "쒼", \
+    6333: "쒽", \
+    6334: "쒾", \
+    6335: "쒿", \
+    6336: "쓀", \
+    6337: "쓁", \
+    6338: "쓂", \
+    6339: "쓃", \
+    6340: "쓄", \
+    6341: "쓅", \
+    6342: "쓆", \
+    6343: "쓇", \
+    6344: "쓈", \
+    6345: "쓉", \
+    6346: "쓊", \
+    6347: "쓋", \
+    6348: "쓌", \
+    6349: "쓍", \
+    6350: "쓎", \
+    6351: "쓏", \
+    6352: "쓐", \
+    6353: "쓑", \
+    6354: "쓒", \
+    6355: "쓓", \
+    6356: "쓔", \
+    6357: "쓕", \
+    6358: "쓖", \
+    6359: "쓗", \
+    6360: "쓘", \
+    6361: "쓙", \
+    6362: "쓚", \
+    6363: "쓛", \
+    6364: "쓜", \
+    6365: "쓝", \
+    6366: "쓞", \
+    6367: "쓟", \
+    6368: "쓠", \
+    6369: "쓡", \
+    6370: "쓢", \
+    6371: "쓣", \
+    6372: "쓤", \
+    6373: "쓥", \
+    6374: "쓦", \
+    6375: "쓧", \
+    6376: "쓨", \
+    6377: "쓩", \
+    6378: "쓪", \
+    6379: "쓫", \
+    6380: "쓬", \
+    6381: "쓭", \
+    6382: "쓮", \
+    6383: "쓯", \
+    6384: "쓰", \
+    6385: "쓱", \
+    6386: "쓲", \
+    6387: "쓳", \
+    6388: "쓴", \
+    6389: "쓵", \
+    6390: "쓶", \
+    6391: "쓷", \
+    6392: "쓸", \
+    6393: "쓹", \
+    6394: "쓺", \
+    6395: "쓻", \
+    6396: "쓼", \
+    6397: "쓽", \
+    6398: "쓾", \
+    6399: "쓿", \
+    6400: "씀", \
+    6401: "씁", \
+    6402: "씂", \
+    6403: "씃", \
+    6404: "씄", \
+    6405: "씅", \
+    6406: "씆", \
+    6407: "씇", \
+    6408: "씈", \
+    6409: "씉", \
+    6410: "씊", \
+    6411: "씋", \
+    6412: "씌", \
+    6413: "씍", \
+    6414: "씎", \
+    6415: "씏", \
+    6416: "씐", \
+    6417: "씑", \
+    6418: "씒", \
+    6419: "씓", \
+    6420: "씔", \
+    6421: "씕", \
+    6422: "씖", \
+    6423: "씗", \
+    6424: "씘", \
+    6425: "씙", \
+    6426: "씚", \
+    6427: "씛", \
+    6428: "씜", \
+    6429: "씝", \
+    6430: "씞", \
+    6431: "씟", \
+    6432: "씠", \
+    6433: "씡", \
+    6434: "씢", \
+    6435: "씣", \
+    6436: "씤", \
+    6437: "씥", \
+    6438: "씦", \
+    6439: "씧", \
+    6440: "씨", \
+    6441: "씩", \
+    6442: "씪", \
+    6443: "씫", \
+    6444: "씬", \
+    6445: "씭", \
+    6446: "씮", \
+    6447: "씯", \
+    6448: "씰", \
+    6449: "씱", \
+    6450: "씲", \
+    6451: "씳", \
+    6452: "씴", \
+    6453: "씵", \
+    6454: "씶", \
+    6455: "씷", \
+    6456: "씸", \
+    6457: "씹", \
+    6458: "씺", \
+    6459: "씻", \
+    6460: "씼", \
+    6461: "씽", \
+    6462: "씾", \
+    6463: "씿", \
+    6464: "앀", \
+    6465: "앁", \
+    6466: "앂", \
+    6467: "앃", \
+    6468: "아", \
+    6469: "악", \
+    6470: "앆", \
+    6471: "앇", \
+    6472: "안", \
+    6473: "앉", \
+    6474: "않", \
+    6475: "앋", \
+    6476: "알", \
+    6477: "앍", \
+    6478: "앎", \
+    6479: "앏", \
+    6480: "앐", \
+    6481: "앑", \
+    6482: "앒", \
+    6483: "앓", \
+    6484: "암", \
+    6485: "압", \
+    6486: "앖", \
+    6487: "앗", \
+    6488: "았", \
+    6489: "앙", \
+    6490: "앚", \
+    6491: "앛", \
+    6492: "앜", \
+    6493: "앝", \
+    6494: "앞", \
+    6495: "앟", \
+    6496: "애", \
+    6497: "액", \
+    6498: "앢", \
+    6499: "앣", \
+    6500: "앤", \
+    6501: "앥", \
+    6502: "앦", \
+    6503: "앧", \
+    6504: "앨", \
+    6505: "앩", \
+    6506: "앪", \
+    6507: "앫", \
+    6508: "앬", \
+    6509: "앭", \
+    6510: "앮", \
+    6511: "앯", \
+    6512: "앰", \
+    6513: "앱", \
+    6514: "앲", \
+    6515: "앳", \
+    6516: "앴", \
+    6517: "앵", \
+    6518: "앶", \
+    6519: "앷", \
+    6520: "앸", \
+    6521: "앹", \
+    6522: "앺", \
+    6523: "앻", \
+    6524: "야", \
+    6525: "약", \
+    6526: "앾", \
+    6527: "앿", \
+    6528: "얀", \
+    6529: "얁", \
+    6530: "얂", \
+    6531: "얃", \
+    6532: "얄", \
+    6533: "얅", \
+    6534: "얆", \
+    6535: "얇", \
+    6536: "얈", \
+    6537: "얉", \
+    6538: "얊", \
+    6539: "얋", \
+    6540: "얌", \
+    6541: "얍", \
+    6542: "얎", \
+    6543: "얏", \
+    6544: "얐", \
+    6545: "양", \
+    6546: "얒", \
+    6547: "얓", \
+    6548: "얔", \
+    6549: "얕", \
+    6550: "얖", \
+    6551: "얗", \
+    6552: "얘", \
+    6553: "얙", \
+    6554: "얚", \
+    6555: "얛", \
+    6556: "얜", \
+    6557: "얝", \
+    6558: "얞", \
+    6559: "얟", \
+    6560: "얠", \
+    6561: "얡", \
+    6562: "얢", \
+    6563: "얣", \
+    6564: "얤", \
+    6565: "얥", \
+    6566: "얦", \
+    6567: "얧", \
+    6568: "얨", \
+    6569: "얩", \
+    6570: "얪", \
+    6571: "얫", \
+    6572: "얬", \
+    6573: "얭", \
+    6574: "얮", \
+    6575: "얯", \
+    6576: "얰", \
+    6577: "얱", \
+    6578: "얲", \
+    6579: "얳", \
+    6580: "어", \
+    6581: "억", \
+    6582: "얶", \
+    6583: "얷", \
+    6584: "언", \
+    6585: "얹", \
+    6586: "얺", \
+    6587: "얻", \
+    6588: "얼", \
+    6589: "얽", \
+    6590: "얾", \
+    6591: "얿", \
+    6592: "엀", \
+    6593: "엁", \
+    6594: "엂", \
+    6595: "엃", \
+    6596: "엄", \
+    6597: "업", \
+    6598: "없", \
+    6599: "엇", \
+    6600: "었", \
+    6601: "엉", \
+    6602: "엊", \
+    6603: "엋", \
+    6604: "엌", \
+    6605: "엍", \
+    6606: "엎", \
+    6607: "엏", \
+    6608: "에", \
+    6609: "엑", \
+    6610: "엒", \
+    6611: "엓", \
+    6612: "엔", \
+    6613: "엕", \
+    6614: "엖", \
+    6615: "엗", \
+    6616: "엘", \
+    6617: "엙", \
+    6618: "엚", \
+    6619: "엛", \
+    6620: "엜", \
+    6621: "엝", \
+    6622: "엞", \
+    6623: "엟", \
+    6624: "엠", \
+    6625: "엡", \
+    6626: "엢", \
+    6627: "엣", \
+    6628: "엤", \
+    6629: "엥", \
+    6630: "엦", \
+    6631: "엧", \
+    6632: "엨", \
+    6633: "엩", \
+    6634: "엪", \
+    6635: "엫", \
+    6636: "여", \
+    6637: "역", \
+    6638: "엮", \
+    6639: "엯", \
+    6640: "연", \
+    6641: "엱", \
+    6642: "엲", \
+    6643: "엳", \
+    6644: "열", \
+    6645: "엵", \
+    6646: "엶", \
+    6647: "엷", \
+    6648: "엸", \
+    6649: "엹", \
+    6650: "엺", \
+    6651: "엻", \
+    6652: "염", \
+    6653: "엽", \
+    6654: "엾", \
+    6655: "엿", \
+    6656: "였", \
+    6657: "영", \
+    6658: "옂", \
+    6659: "옃", \
+    6660: "옄", \
+    6661: "옅", \
+    6662: "옆", \
+    6663: "옇", \
+    6664: "예", \
+    6665: "옉", \
+    6666: "옊", \
+    6667: "옋", \
+    6668: "옌", \
+    6669: "옍", \
+    6670: "옎", \
+    6671: "옏", \
+    6672: "옐", \
+    6673: "옑", \
+    6674: "옒", \
+    6675: "옓", \
+    6676: "옔", \
+    6677: "옕", \
+    6678: "옖", \
+    6679: "옗", \
+    6680: "옘", \
+    6681: "옙", \
+    6682: "옚", \
+    6683: "옛", \
+    6684: "옜", \
+    6685: "옝", \
+    6686: "옞", \
+    6687: "옟", \
+    6688: "옠", \
+    6689: "옡", \
+    6690: "옢", \
+    6691: "옣", \
+    6692: "오", \
+    6693: "옥", \
+    6694: "옦", \
+    6695: "옧", \
+    6696: "온", \
+    6697: "옩", \
+    6698: "옪", \
+    6699: "옫", \
+    6700: "올", \
+    6701: "옭", \
+    6702: "옮", \
+    6703: "옯", \
+    6704: "옰", \
+    6705: "옱", \
+    6706: "옲", \
+    6707: "옳", \
+    6708: "옴", \
+    6709: "옵", \
+    6710: "옶", \
+    6711: "옷", \
+    6712: "옸", \
+    6713: "옹", \
+    6714: "옺", \
+    6715: "옻", \
+    6716: "옼", \
+    6717: "옽", \
+    6718: "옾", \
+    6719: "옿", \
+    6720: "와", \
+    6721: "왁", \
+    6722: "왂", \
+    6723: "왃", \
+    6724: "완", \
+    6725: "왅", \
+    6726: "왆", \
+    6727: "왇", \
+    6728: "왈", \
+    6729: "왉", \
+    6730: "왊", \
+    6731: "왋", \
+    6732: "왌", \
+    6733: "왍", \
+    6734: "왎", \
+    6735: "왏", \
+    6736: "왐", \
+    6737: "왑", \
+    6738: "왒", \
+    6739: "왓", \
+    6740: "왔", \
+    6741: "왕", \
+    6742: "왖", \
+    6743: "왗", \
+    6744: "왘", \
+    6745: "왙", \
+    6746: "왚", \
+    6747: "왛", \
+    6748: "왜", \
+    6749: "왝", \
+    6750: "왞", \
+    6751: "왟", \
+    6752: "왠", \
+    6753: "왡", \
+    6754: "왢", \
+    6755: "왣", \
+    6756: "왤", \
+    6757: "왥", \
+    6758: "왦", \
+    6759: "왧", \
+    6760: "왨", \
+    6761: "왩", \
+    6762: "왪", \
+    6763: "왫", \
+    6764: "왬", \
+    6765: "왭", \
+    6766: "왮", \
+    6767: "왯", \
+    6768: "왰", \
+    6769: "왱", \
+    6770: "왲", \
+    6771: "왳", \
+    6772: "왴", \
+    6773: "왵", \
+    6774: "왶", \
+    6775: "왷", \
+    6776: "외", \
+    6777: "왹", \
+    6778: "왺", \
+    6779: "왻", \
+    6780: "왼", \
+    6781: "왽", \
+    6782: "왾", \
+    6783: "왿", \
+    6784: "욀", \
+    6785: "욁", \
+    6786: "욂", \
+    6787: "욃", \
+    6788: "욄", \
+    6789: "욅", \
+    6790: "욆", \
+    6791: "욇", \
+    6792: "욈", \
+    6793: "욉", \
+    6794: "욊", \
+    6795: "욋", \
+    6796: "욌", \
+    6797: "욍", \
+    6798: "욎", \
+    6799: "욏", \
+    6800: "욐", \
+    6801: "욑", \
+    6802: "욒", \
+    6803: "욓", \
+    6804: "요", \
+    6805: "욕", \
+    6806: "욖", \
+    6807: "욗", \
+    6808: "욘", \
+    6809: "욙", \
+    6810: "욚", \
+    6811: "욛", \
+    6812: "욜", \
+    6813: "욝", \
+    6814: "욞", \
+    6815: "욟", \
+    6816: "욠", \
+    6817: "욡", \
+    6818: "욢", \
+    6819: "욣", \
+    6820: "욤", \
+    6821: "욥", \
+    6822: "욦", \
+    6823: "욧", \
+    6824: "욨", \
+    6825: "용", \
+    6826: "욪", \
+    6827: "욫", \
+    6828: "욬", \
+    6829: "욭", \
+    6830: "욮", \
+    6831: "욯", \
+    6832: "우", \
+    6833: "욱", \
+    6834: "욲", \
+    6835: "욳", \
+    6836: "운", \
+    6837: "욵", \
+    6838: "욶", \
+    6839: "욷", \
+    6840: "울", \
+    6841: "욹", \
+    6842: "욺", \
+    6843: "욻", \
+    6844: "욼", \
+    6845: "욽", \
+    6846: "욾", \
+    6847: "욿", \
+    6848: "움", \
+    6849: "웁", \
+    6850: "웂", \
+    6851: "웃", \
+    6852: "웄", \
+    6853: "웅", \
+    6854: "웆", \
+    6855: "웇", \
+    6856: "웈", \
+    6857: "웉", \
+    6858: "웊", \
+    6859: "웋", \
+    6860: "워", \
+    6861: "웍", \
+    6862: "웎", \
+    6863: "웏", \
+    6864: "원", \
+    6865: "웑", \
+    6866: "웒", \
+    6867: "웓", \
+    6868: "월", \
+    6869: "웕", \
+    6870: "웖", \
+    6871: "웗", \
+    6872: "웘", \
+    6873: "웙", \
+    6874: "웚", \
+    6875: "웛", \
+    6876: "웜", \
+    6877: "웝", \
+    6878: "웞", \
+    6879: "웟", \
+    6880: "웠", \
+    6881: "웡", \
+    6882: "웢", \
+    6883: "웣", \
+    6884: "웤", \
+    6885: "웥", \
+    6886: "웦", \
+    6887: "웧", \
+    6888: "웨", \
+    6889: "웩", \
+    6890: "웪", \
+    6891: "웫", \
+    6892: "웬", \
+    6893: "웭", \
+    6894: "웮", \
+    6895: "웯", \
+    6896: "웰", \
+    6897: "웱", \
+    6898: "웲", \
+    6899: "웳", \
+    6900: "웴", \
+    6901: "웵", \
+    6902: "웶", \
+    6903: "웷", \
+    6904: "웸", \
+    6905: "웹", \
+    6906: "웺", \
+    6907: "웻", \
+    6908: "웼", \
+    6909: "웽", \
+    6910: "웾", \
+    6911: "웿", \
+    6912: "윀", \
+    6913: "윁", \
+    6914: "윂", \
+    6915: "윃", \
+    6916: "위", \
+    6917: "윅", \
+    6918: "윆", \
+    6919: "윇", \
+    6920: "윈", \
+    6921: "윉", \
+    6922: "윊", \
+    6923: "윋", \
+    6924: "윌", \
+    6925: "윍", \
+    6926: "윎", \
+    6927: "윏", \
+    6928: "윐", \
+    6929: "윑", \
+    6930: "윒", \
+    6931: "윓", \
+    6932: "윔", \
+    6933: "윕", \
+    6934: "윖", \
+    6935: "윗", \
+    6936: "윘", \
+    6937: "윙", \
+    6938: "윚", \
+    6939: "윛", \
+    6940: "윜", \
+    6941: "윝", \
+    6942: "윞", \
+    6943: "윟", \
+    6944: "유", \
+    6945: "육", \
+    6946: "윢", \
+    6947: "윣", \
+    6948: "윤", \
+    6949: "윥", \
+    6950: "윦", \
+    6951: "윧", \
+    6952: "율", \
+    6953: "윩", \
+    6954: "윪", \
+    6955: "윫", \
+    6956: "윬", \
+    6957: "윭", \
+    6958: "윮", \
+    6959: "윯", \
+    6960: "윰", \
+    6961: "윱", \
+    6962: "윲", \
+    6963: "윳", \
+    6964: "윴", \
+    6965: "융", \
+    6966: "윶", \
+    6967: "윷", \
+    6968: "윸", \
+    6969: "윹", \
+    6970: "윺", \
+    6971: "윻", \
+    6972: "으", \
+    6973: "윽", \
+    6974: "윾", \
+    6975: "윿", \
+    6976: "은", \
+    6977: "읁", \
+    6978: "읂", \
+    6979: "읃", \
+    6980: "을", \
+    6981: "읅", \
+    6982: "읆", \
+    6983: "읇", \
+    6984: "읈", \
+    6985: "읉", \
+    6986: "읊", \
+    6987: "읋", \
+    6988: "음", \
+    6989: "읍", \
+    6990: "읎", \
+    6991: "읏", \
+    6992: "읐", \
+    6993: "응", \
+    6994: "읒", \
+    6995: "읓", \
+    6996: "읔", \
+    6997: "읕", \
+    6998: "읖", \
+    6999: "읗", \
+    7000: "의", \
+    7001: "읙", \
+    7002: "읚", \
+    7003: "읛", \
+    7004: "읜", \
+    7005: "읝", \
+    7006: "읞", \
+    7007: "읟", \
+    7008: "읠", \
+    7009: "읡", \
+    7010: "읢", \
+    7011: "읣", \
+    7012: "읤", \
+    7013: "읥", \
+    7014: "읦", \
+    7015: "읧", \
+    7016: "읨", \
+    7017: "읩", \
+    7018: "읪", \
+    7019: "읫", \
+    7020: "읬", \
+    7021: "읭", \
+    7022: "읮", \
+    7023: "읯", \
+    7024: "읰", \
+    7025: "읱", \
+    7026: "읲", \
+    7027: "읳", \
+    7028: "이", \
+    7029: "익", \
+    7030: "읶", \
+    7031: "읷", \
+    7032: "인", \
+    7033: "읹", \
+    7034: "읺", \
+    7035: "읻", \
+    7036: "일", \
+    7037: "읽", \
+    7038: "읾", \
+    7039: "읿", \
+    7040: "잀", \
+    7041: "잁", \
+    7042: "잂", \
+    7043: "잃", \
+    7044: "임", \
+    7045: "입", \
+    7046: "잆", \
+    7047: "잇", \
+    7048: "있", \
+    7049: "잉", \
+    7050: "잊", \
+    7051: "잋", \
+    7052: "잌", \
+    7053: "잍", \
+    7054: "잎", \
+    7055: "잏", \
+    7056: "자", \
+    7057: "작", \
+    7058: "잒", \
+    7059: "잓", \
+    7060: "잔", \
+    7061: "잕", \
+    7062: "잖", \
+    7063: "잗", \
+    7064: "잘", \
+    7065: "잙", \
+    7066: "잚", \
+    7067: "잛", \
+    7068: "잜", \
+    7069: "잝", \
+    7070: "잞", \
+    7071: "잟", \
+    7072: "잠", \
+    7073: "잡", \
+    7074: "잢", \
+    7075: "잣", \
+    7076: "잤", \
+    7077: "장", \
+    7078: "잦", \
+    7079: "잧", \
+    7080: "잨", \
+    7081: "잩", \
+    7082: "잪", \
+    7083: "잫", \
+    7084: "재", \
+    7085: "잭", \
+    7086: "잮", \
+    7087: "잯", \
+    7088: "잰", \
+    7089: "잱", \
+    7090: "잲", \
+    7091: "잳", \
+    7092: "잴", \
+    7093: "잵", \
+    7094: "잶", \
+    7095: "잷", \
+    7096: "잸", \
+    7097: "잹", \
+    7098: "잺", \
+    7099: "잻", \
+    7100: "잼", \
+    7101: "잽", \
+    7102: "잾", \
+    7103: "잿", \
+    7104: "쟀", \
+    7105: "쟁", \
+    7106: "쟂", \
+    7107: "쟃", \
+    7108: "쟄", \
+    7109: "쟅", \
+    7110: "쟆", \
+    7111: "쟇", \
+    7112: "쟈", \
+    7113: "쟉", \
+    7114: "쟊", \
+    7115: "쟋", \
+    7116: "쟌", \
+    7117: "쟍", \
+    7118: "쟎", \
+    7119: "쟏", \
+    7120: "쟐", \
+    7121: "쟑", \
+    7122: "쟒", \
+    7123: "쟓", \
+    7124: "쟔", \
+    7125: "쟕", \
+    7126: "쟖", \
+    7127: "쟗", \
+    7128: "쟘", \
+    7129: "쟙", \
+    7130: "쟚", \
+    7131: "쟛", \
+    7132: "쟜", \
+    7133: "쟝", \
+    7134: "쟞", \
+    7135: "쟟", \
+    7136: "쟠", \
+    7137: "쟡", \
+    7138: "쟢", \
+    7139: "쟣", \
+    7140: "쟤", \
+    7141: "쟥", \
+    7142: "쟦", \
+    7143: "쟧", \
+    7144: "쟨", \
+    7145: "쟩", \
+    7146: "쟪", \
+    7147: "쟫", \
+    7148: "쟬", \
+    7149: "쟭", \
+    7150: "쟮", \
+    7151: "쟯", \
+    7152: "쟰", \
+    7153: "쟱", \
+    7154: "쟲", \
+    7155: "쟳", \
+    7156: "쟴", \
+    7157: "쟵", \
+    7158: "쟶", \
+    7159: "쟷", \
+    7160: "쟸", \
+    7161: "쟹", \
+    7162: "쟺", \
+    7163: "쟻", \
+    7164: "쟼", \
+    7165: "쟽", \
+    7166: "쟾", \
+    7167: "쟿", \
+    7168: "저", \
+    7169: "적", \
+    7170: "젂", \
+    7171: "젃", \
+    7172: "전", \
+    7173: "젅", \
+    7174: "젆", \
+    7175: "젇", \
+    7176: "절", \
+    7177: "젉", \
+    7178: "젊", \
+    7179: "젋", \
+    7180: "젌", \
+    7181: "젍", \
+    7182: "젎", \
+    7183: "젏", \
+    7184: "점", \
+    7185: "접", \
+    7186: "젒", \
+    7187: "젓", \
+    7188: "젔", \
+    7189: "정", \
+    7190: "젖", \
+    7191: "젗", \
+    7192: "젘", \
+    7193: "젙", \
+    7194: "젚", \
+    7195: "젛", \
+    7196: "제", \
+    7197: "젝", \
+    7198: "젞", \
+    7199: "젟", \
+    7200: "젠", \
+    7201: "젡", \
+    7202: "젢", \
+    7203: "젣", \
+    7204: "젤", \
+    7205: "젥", \
+    7206: "젦", \
+    7207: "젧", \
+    7208: "젨", \
+    7209: "젩", \
+    7210: "젪", \
+    7211: "젫", \
+    7212: "젬", \
+    7213: "젭", \
+    7214: "젮", \
+    7215: "젯", \
+    7216: "젰", \
+    7217: "젱", \
+    7218: "젲", \
+    7219: "젳", \
+    7220: "젴", \
+    7221: "젵", \
+    7222: "젶", \
+    7223: "젷", \
+    7224: "져", \
+    7225: "젹", \
+    7226: "젺", \
+    7227: "젻", \
+    7228: "젼", \
+    7229: "젽", \
+    7230: "젾", \
+    7231: "젿", \
+    7232: "졀", \
+    7233: "졁", \
+    7234: "졂", \
+    7235: "졃", \
+    7236: "졄", \
+    7237: "졅", \
+    7238: "졆", \
+    7239: "졇", \
+    7240: "졈", \
+    7241: "졉", \
+    7242: "졊", \
+    7243: "졋", \
+    7244: "졌", \
+    7245: "졍", \
+    7246: "졎", \
+    7247: "졏", \
+    7248: "졐", \
+    7249: "졑", \
+    7250: "졒", \
+    7251: "졓", \
+    7252: "졔", \
+    7253: "졕", \
+    7254: "졖", \
+    7255: "졗", \
+    7256: "졘", \
+    7257: "졙", \
+    7258: "졚", \
+    7259: "졛", \
+    7260: "졜", \
+    7261: "졝", \
+    7262: "졞", \
+    7263: "졟", \
+    7264: "졠", \
+    7265: "졡", \
+    7266: "졢", \
+    7267: "졣", \
+    7268: "졤", \
+    7269: "졥", \
+    7270: "졦", \
+    7271: "졧", \
+    7272: "졨", \
+    7273: "졩", \
+    7274: "졪", \
+    7275: "졫", \
+    7276: "졬", \
+    7277: "졭", \
+    7278: "졮", \
+    7279: "졯", \
+    7280: "조", \
+    7281: "족", \
+    7282: "졲", \
+    7283: "졳", \
+    7284: "존", \
+    7285: "졵", \
+    7286: "졶", \
+    7287: "졷", \
+    7288: "졸", \
+    7289: "졹", \
+    7290: "졺", \
+    7291: "졻", \
+    7292: "졼", \
+    7293: "졽", \
+    7294: "졾", \
+    7295: "졿", \
+    7296: "좀", \
+    7297: "좁", \
+    7298: "좂", \
+    7299: "좃", \
+    7300: "좄", \
+    7301: "종", \
+    7302: "좆", \
+    7303: "좇", \
+    7304: "좈", \
+    7305: "좉", \
+    7306: "좊", \
+    7307: "좋", \
+    7308: "좌", \
+    7309: "좍", \
+    7310: "좎", \
+    7311: "좏", \
+    7312: "좐", \
+    7313: "좑", \
+    7314: "좒", \
+    7315: "좓", \
+    7316: "좔", \
+    7317: "좕", \
+    7318: "좖", \
+    7319: "좗", \
+    7320: "좘", \
+    7321: "좙", \
+    7322: "좚", \
+    7323: "좛", \
+    7324: "좜", \
+    7325: "좝", \
+    7326: "좞", \
+    7327: "좟", \
+    7328: "좠", \
+    7329: "좡", \
+    7330: "좢", \
+    7331: "좣", \
+    7332: "좤", \
+    7333: "좥", \
+    7334: "좦", \
+    7335: "좧", \
+    7336: "좨", \
+    7337: "좩", \
+    7338: "좪", \
+    7339: "좫", \
+    7340: "좬", \
+    7341: "좭", \
+    7342: "좮", \
+    7343: "좯", \
+    7344: "좰", \
+    7345: "좱", \
+    7346: "좲", \
+    7347: "좳", \
+    7348: "좴", \
+    7349: "좵", \
+    7350: "좶", \
+    7351: "좷", \
+    7352: "좸", \
+    7353: "좹", \
+    7354: "좺", \
+    7355: "좻", \
+    7356: "좼", \
+    7357: "좽", \
+    7358: "좾", \
+    7359: "좿", \
+    7360: "죀", \
+    7361: "죁", \
+    7362: "죂", \
+    7363: "죃", \
+    7364: "죄", \
+    7365: "죅", \
+    7366: "죆", \
+    7367: "죇", \
+    7368: "죈", \
+    7369: "죉", \
+    7370: "죊", \
+    7371: "죋", \
+    7372: "죌", \
+    7373: "죍", \
+    7374: "죎", \
+    7375: "죏", \
+    7376: "죐", \
+    7377: "죑", \
+    7378: "죒", \
+    7379: "죓", \
+    7380: "죔", \
+    7381: "죕", \
+    7382: "죖", \
+    7383: "죗", \
+    7384: "죘", \
+    7385: "죙", \
+    7386: "죚", \
+    7387: "죛", \
+    7388: "죜", \
+    7389: "죝", \
+    7390: "죞", \
+    7391: "죟", \
+    7392: "죠", \
+    7393: "죡", \
+    7394: "죢", \
+    7395: "죣", \
+    7396: "죤", \
+    7397: "죥", \
+    7398: "죦", \
+    7399: "죧", \
+    7400: "죨", \
+    7401: "죩", \
+    7402: "죪", \
+    7403: "죫", \
+    7404: "죬", \
+    7405: "죭", \
+    7406: "죮", \
+    7407: "죯", \
+    7408: "죰", \
+    7409: "죱", \
+    7410: "죲", \
+    7411: "죳", \
+    7412: "죴", \
+    7413: "죵", \
+    7414: "죶", \
+    7415: "죷", \
+    7416: "죸", \
+    7417: "죹", \
+    7418: "죺", \
+    7419: "죻", \
+    7420: "주", \
+    7421: "죽", \
+    7422: "죾", \
+    7423: "죿", \
+    7424: "준", \
+    7425: "줁", \
+    7426: "줂", \
+    7427: "줃", \
+    7428: "줄", \
+    7429: "줅", \
+    7430: "줆", \
+    7431: "줇", \
+    7432: "줈", \
+    7433: "줉", \
+    7434: "줊", \
+    7435: "줋", \
+    7436: "줌", \
+    7437: "줍", \
+    7438: "줎", \
+    7439: "줏", \
+    7440: "줐", \
+    7441: "중", \
+    7442: "줒", \
+    7443: "줓", \
+    7444: "줔", \
+    7445: "줕", \
+    7446: "줖", \
+    7447: "줗", \
+    7448: "줘", \
+    7449: "줙", \
+    7450: "줚", \
+    7451: "줛", \
+    7452: "줜", \
+    7453: "줝", \
+    7454: "줞", \
+    7455: "줟", \
+    7456: "줠", \
+    7457: "줡", \
+    7458: "줢", \
+    7459: "줣", \
+    7460: "줤", \
+    7461: "줥", \
+    7462: "줦", \
+    7463: "줧", \
+    7464: "줨", \
+    7465: "줩", \
+    7466: "줪", \
+    7467: "줫", \
+    7468: "줬", \
+    7469: "줭", \
+    7470: "줮", \
+    7471: "줯", \
+    7472: "줰", \
+    7473: "줱", \
+    7474: "줲", \
+    7475: "줳", \
+    7476: "줴", \
+    7477: "줵", \
+    7478: "줶", \
+    7479: "줷", \
+    7480: "줸", \
+    7481: "줹", \
+    7482: "줺", \
+    7483: "줻", \
+    7484: "줼", \
+    7485: "줽", \
+    7486: "줾", \
+    7487: "줿", \
+    7488: "쥀", \
+    7489: "쥁", \
+    7490: "쥂", \
+    7491: "쥃", \
+    7492: "쥄", \
+    7493: "쥅", \
+    7494: "쥆", \
+    7495: "쥇", \
+    7496: "쥈", \
+    7497: "쥉", \
+    7498: "쥊", \
+    7499: "쥋", \
+    7500: "쥌", \
+    7501: "쥍", \
+    7502: "쥎", \
+    7503: "쥏", \
+    7504: "쥐", \
+    7505: "쥑", \
+    7506: "쥒", \
+    7507: "쥓", \
+    7508: "쥔", \
+    7509: "쥕", \
+    7510: "쥖", \
+    7511: "쥗", \
+    7512: "쥘", \
+    7513: "쥙", \
+    7514: "쥚", \
+    7515: "쥛", \
+    7516: "쥜", \
+    7517: "쥝", \
+    7518: "쥞", \
+    7519: "쥟", \
+    7520: "쥠", \
+    7521: "쥡", \
+    7522: "쥢", \
+    7523: "쥣", \
+    7524: "쥤", \
+    7525: "쥥", \
+    7526: "쥦", \
+    7527: "쥧", \
+    7528: "쥨", \
+    7529: "쥩", \
+    7530: "쥪", \
+    7531: "쥫", \
+    7532: "쥬", \
+    7533: "쥭", \
+    7534: "쥮", \
+    7535: "쥯", \
+    7536: "쥰", \
+    7537: "쥱", \
+    7538: "쥲", \
+    7539: "쥳", \
+    7540: "쥴", \
+    7541: "쥵", \
+    7542: "쥶", \
+    7543: "쥷", \
+    7544: "쥸", \
+    7545: "쥹", \
+    7546: "쥺", \
+    7547: "쥻", \
+    7548: "쥼", \
+    7549: "쥽", \
+    7550: "쥾", \
+    7551: "쥿", \
+    7552: "즀", \
+    7553: "즁", \
+    7554: "즂", \
+    7555: "즃", \
+    7556: "즄", \
+    7557: "즅", \
+    7558: "즆", \
+    7559: "즇", \
+    7560: "즈", \
+    7561: "즉", \
+    7562: "즊", \
+    7563: "즋", \
+    7564: "즌", \
+    7565: "즍", \
+    7566: "즎", \
+    7567: "즏", \
+    7568: "즐", \
+    7569: "즑", \
+    7570: "즒", \
+    7571: "즓", \
+    7572: "즔", \
+    7573: "즕", \
+    7574: "즖", \
+    7575: "즗", \
+    7576: "즘", \
+    7577: "즙", \
+    7578: "즚", \
+    7579: "즛", \
+    7580: "즜", \
+    7581: "증", \
+    7582: "즞", \
+    7583: "즟", \
+    7584: "즠", \
+    7585: "즡", \
+    7586: "즢", \
+    7587: "즣", \
+    7588: "즤", \
+    7589: "즥", \
+    7590: "즦", \
+    7591: "즧", \
+    7592: "즨", \
+    7593: "즩", \
+    7594: "즪", \
+    7595: "즫", \
+    7596: "즬", \
+    7597: "즭", \
+    7598: "즮", \
+    7599: "즯", \
+    7600: "즰", \
+    7601: "즱", \
+    7602: "즲", \
+    7603: "즳", \
+    7604: "즴", \
+    7605: "즵", \
+    7606: "즶", \
+    7607: "즷", \
+    7608: "즸", \
+    7609: "즹", \
+    7610: "즺", \
+    7611: "즻", \
+    7612: "즼", \
+    7613: "즽", \
+    7614: "즾", \
+    7615: "즿", \
+    7616: "지", \
+    7617: "직", \
+    7618: "짂", \
+    7619: "짃", \
+    7620: "진", \
+    7621: "짅", \
+    7622: "짆", \
+    7623: "짇", \
+    7624: "질", \
+    7625: "짉", \
+    7626: "짊", \
+    7627: "짋", \
+    7628: "짌", \
+    7629: "짍", \
+    7630: "짎", \
+    7631: "짏", \
+    7632: "짐", \
+    7633: "집", \
+    7634: "짒", \
+    7635: "짓", \
+    7636: "짔", \
+    7637: "징", \
+    7638: "짖", \
+    7639: "짗", \
+    7640: "짘", \
+    7641: "짙", \
+    7642: "짚", \
+    7643: "짛", \
+    7644: "짜", \
+    7645: "짝", \
+    7646: "짞", \
+    7647: "짟", \
+    7648: "짠", \
+    7649: "짡", \
+    7650: "짢", \
+    7651: "짣", \
+    7652: "짤", \
+    7653: "짥", \
+    7654: "짦", \
+    7655: "짧", \
+    7656: "짨", \
+    7657: "짩", \
+    7658: "짪", \
+    7659: "짫", \
+    7660: "짬", \
+    7661: "짭", \
+    7662: "짮", \
+    7663: "짯", \
+    7664: "짰", \
+    7665: "짱", \
+    7666: "짲", \
+    7667: "짳", \
+    7668: "짴", \
+    7669: "짵", \
+    7670: "짶", \
+    7671: "짷", \
+    7672: "째", \
+    7673: "짹", \
+    7674: "짺", \
+    7675: "짻", \
+    7676: "짼", \
+    7677: "짽", \
+    7678: "짾", \
+    7679: "짿", \
+    7680: "쨀", \
+    7681: "쨁", \
+    7682: "쨂", \
+    7683: "쨃", \
+    7684: "쨄", \
+    7685: "쨅", \
+    7686: "쨆", \
+    7687: "쨇", \
+    7688: "쨈", \
+    7689: "쨉", \
+    7690: "쨊", \
+    7691: "쨋", \
+    7692: "쨌", \
+    7693: "쨍", \
+    7694: "쨎", \
+    7695: "쨏", \
+    7696: "쨐", \
+    7697: "쨑", \
+    7698: "쨒", \
+    7699: "쨓", \
+    7700: "쨔", \
+    7701: "쨕", \
+    7702: "쨖", \
+    7703: "쨗", \
+    7704: "쨘", \
+    7705: "쨙", \
+    7706: "쨚", \
+    7707: "쨛", \
+    7708: "쨜", \
+    7709: "쨝", \
+    7710: "쨞", \
+    7711: "쨟", \
+    7712: "쨠", \
+    7713: "쨡", \
+    7714: "쨢", \
+    7715: "쨣", \
+    7716: "쨤", \
+    7717: "쨥", \
+    7718: "쨦", \
+    7719: "쨧", \
+    7720: "쨨", \
+    7721: "쨩", \
+    7722: "쨪", \
+    7723: "쨫", \
+    7724: "쨬", \
+    7725: "쨭", \
+    7726: "쨮", \
+    7727: "쨯", \
+    7728: "쨰", \
+    7729: "쨱", \
+    7730: "쨲", \
+    7731: "쨳", \
+    7732: "쨴", \
+    7733: "쨵", \
+    7734: "쨶", \
+    7735: "쨷", \
+    7736: "쨸", \
+    7737: "쨹", \
+    7738: "쨺", \
+    7739: "쨻", \
+    7740: "쨼", \
+    7741: "쨽", \
+    7742: "쨾", \
+    7743: "쨿", \
+    7744: "쩀", \
+    7745: "쩁", \
+    7746: "쩂", \
+    7747: "쩃", \
+    7748: "쩄", \
+    7749: "쩅", \
+    7750: "쩆", \
+    7751: "쩇", \
+    7752: "쩈", \
+    7753: "쩉", \
+    7754: "쩊", \
+    7755: "쩋", \
+    7756: "쩌", \
+    7757: "쩍", \
+    7758: "쩎", \
+    7759: "쩏", \
+    7760: "쩐", \
+    7761: "쩑", \
+    7762: "쩒", \
+    7763: "쩓", \
+    7764: "쩔", \
+    7765: "쩕", \
+    7766: "쩖", \
+    7767: "쩗", \
+    7768: "쩘", \
+    7769: "쩙", \
+    7770: "쩚", \
+    7771: "쩛", \
+    7772: "쩜", \
+    7773: "쩝", \
+    7774: "쩞", \
+    7775: "쩟", \
+    7776: "쩠", \
+    7777: "쩡", \
+    7778: "쩢", \
+    7779: "쩣", \
+    7780: "쩤", \
+    7781: "쩥", \
+    7782: "쩦", \
+    7783: "쩧", \
+    7784: "쩨", \
+    7785: "쩩", \
+    7786: "쩪", \
+    7787: "쩫", \
+    7788: "쩬", \
+    7789: "쩭", \
+    7790: "쩮", \
+    7791: "쩯", \
+    7792: "쩰", \
+    7793: "쩱", \
+    7794: "쩲", \
+    7795: "쩳", \
+    7796: "쩴", \
+    7797: "쩵", \
+    7798: "쩶", \
+    7799: "쩷", \
+    7800: "쩸", \
+    7801: "쩹", \
+    7802: "쩺", \
+    7803: "쩻", \
+    7804: "쩼", \
+    7805: "쩽", \
+    7806: "쩾", \
+    7807: "쩿", \
+    7808: "쪀", \
+    7809: "쪁", \
+    7810: "쪂", \
+    7811: "쪃", \
+    7812: "쪄", \
+    7813: "쪅", \
+    7814: "쪆", \
+    7815: "쪇", \
+    7816: "쪈", \
+    7817: "쪉", \
+    7818: "쪊", \
+    7819: "쪋", \
+    7820: "쪌", \
+    7821: "쪍", \
+    7822: "쪎", \
+    7823: "쪏", \
+    7824: "쪐", \
+    7825: "쪑", \
+    7826: "쪒", \
+    7827: "쪓", \
+    7828: "쪔", \
+    7829: "쪕", \
+    7830: "쪖", \
+    7831: "쪗", \
+    7832: "쪘", \
+    7833: "쪙", \
+    7834: "쪚", \
+    7835: "쪛", \
+    7836: "쪜", \
+    7837: "쪝", \
+    7838: "쪞", \
+    7839: "쪟", \
+    7840: "쪠", \
+    7841: "쪡", \
+    7842: "쪢", \
+    7843: "쪣", \
+    7844: "쪤", \
+    7845: "쪥", \
+    7846: "쪦", \
+    7847: "쪧", \
+    7848: "쪨", \
+    7849: "쪩", \
+    7850: "쪪", \
+    7851: "쪫", \
+    7852: "쪬", \
+    7853: "쪭", \
+    7854: "쪮", \
+    7855: "쪯", \
+    7856: "쪰", \
+    7857: "쪱", \
+    7858: "쪲", \
+    7859: "쪳", \
+    7860: "쪴", \
+    7861: "쪵", \
+    7862: "쪶", \
+    7863: "쪷", \
+    7864: "쪸", \
+    7865: "쪹", \
+    7866: "쪺", \
+    7867: "쪻", \
+    7868: "쪼", \
+    7869: "쪽", \
+    7870: "쪾", \
+    7871: "쪿", \
+    7872: "쫀", \
+    7873: "쫁", \
+    7874: "쫂", \
+    7875: "쫃", \
+    7876: "쫄", \
+    7877: "쫅", \
+    7878: "쫆", \
+    7879: "쫇", \
+    7880: "쫈", \
+    7881: "쫉", \
+    7882: "쫊", \
+    7883: "쫋", \
+    7884: "쫌", \
+    7885: "쫍", \
+    7886: "쫎", \
+    7887: "쫏", \
+    7888: "쫐", \
+    7889: "쫑", \
+    7890: "쫒", \
+    7891: "쫓", \
+    7892: "쫔", \
+    7893: "쫕", \
+    7894: "쫖", \
+    7895: "쫗", \
+    7896: "쫘", \
+    7897: "쫙", \
+    7898: "쫚", \
+    7899: "쫛", \
+    7900: "쫜", \
+    7901: "쫝", \
+    7902: "쫞", \
+    7903: "쫟", \
+    7904: "쫠", \
+    7905: "쫡", \
+    7906: "쫢", \
+    7907: "쫣", \
+    7908: "쫤", \
+    7909: "쫥", \
+    7910: "쫦", \
+    7911: "쫧", \
+    7912: "쫨", \
+    7913: "쫩", \
+    7914: "쫪", \
+    7915: "쫫", \
+    7916: "쫬", \
+    7917: "쫭", \
+    7918: "쫮", \
+    7919: "쫯", \
+    7920: "쫰", \
+    7921: "쫱", \
+    7922: "쫲", \
+    7923: "쫳", \
+    7924: "쫴", \
+    7925: "쫵", \
+    7926: "쫶", \
+    7927: "쫷", \
+    7928: "쫸", \
+    7929: "쫹", \
+    7930: "쫺", \
+    7931: "쫻", \
+    7932: "쫼", \
+    7933: "쫽", \
+    7934: "쫾", \
+    7935: "쫿", \
+    7936: "쬀", \
+    7937: "쬁", \
+    7938: "쬂", \
+    7939: "쬃", \
+    7940: "쬄", \
+    7941: "쬅", \
+    7942: "쬆", \
+    7943: "쬇", \
+    7944: "쬈", \
+    7945: "쬉", \
+    7946: "쬊", \
+    7947: "쬋", \
+    7948: "쬌", \
+    7949: "쬍", \
+    7950: "쬎", \
+    7951: "쬏", \
+    7952: "쬐", \
+    7953: "쬑", \
+    7954: "쬒", \
+    7955: "쬓", \
+    7956: "쬔", \
+    7957: "쬕", \
+    7958: "쬖", \
+    7959: "쬗", \
+    7960: "쬘", \
+    7961: "쬙", \
+    7962: "쬚", \
+    7963: "쬛", \
+    7964: "쬜", \
+    7965: "쬝", \
+    7966: "쬞", \
+    7967: "쬟", \
+    7968: "쬠", \
+    7969: "쬡", \
+    7970: "쬢", \
+    7971: "쬣", \
+    7972: "쬤", \
+    7973: "쬥", \
+    7974: "쬦", \
+    7975: "쬧", \
+    7976: "쬨", \
+    7977: "쬩", \
+    7978: "쬪", \
+    7979: "쬫", \
+    7980: "쬬", \
+    7981: "쬭", \
+    7982: "쬮", \
+    7983: "쬯", \
+    7984: "쬰", \
+    7985: "쬱", \
+    7986: "쬲", \
+    7987: "쬳", \
+    7988: "쬴", \
+    7989: "쬵", \
+    7990: "쬶", \
+    7991: "쬷", \
+    7992: "쬸", \
+    7993: "쬹", \
+    7994: "쬺", \
+    7995: "쬻", \
+    7996: "쬼", \
+    7997: "쬽", \
+    7998: "쬾", \
+    7999: "쬿", \
+    8000: "쭀", \
+    8001: "쭁", \
+    8002: "쭂", \
+    8003: "쭃", \
+    8004: "쭄", \
+    8005: "쭅", \
+    8006: "쭆", \
+    8007: "쭇", \
+    8008: "쭈", \
+    8009: "쭉", \
+    8010: "쭊", \
+    8011: "쭋", \
+    8012: "쭌", \
+    8013: "쭍", \
+    8014: "쭎", \
+    8015: "쭏", \
+    8016: "쭐", \
+    8017: "쭑", \
+    8018: "쭒", \
+    8019: "쭓", \
+    8020: "쭔", \
+    8021: "쭕", \
+    8022: "쭖", \
+    8023: "쭗", \
+    8024: "쭘", \
+    8025: "쭙", \
+    8026: "쭚", \
+    8027: "쭛", \
+    8028: "쭜", \
+    8029: "쭝", \
+    8030: "쭞", \
+    8031: "쭟", \
+    8032: "쭠", \
+    8033: "쭡", \
+    8034: "쭢", \
+    8035: "쭣", \
+    8036: "쭤", \
+    8037: "쭥", \
+    8038: "쭦", \
+    8039: "쭧", \
+    8040: "쭨", \
+    8041: "쭩", \
+    8042: "쭪", \
+    8043: "쭫", \
+    8044: "쭬", \
+    8045: "쭭", \
+    8046: "쭮", \
+    8047: "쭯", \
+    8048: "쭰", \
+    8049: "쭱", \
+    8050: "쭲", \
+    8051: "쭳", \
+    8052: "쭴", \
+    8053: "쭵", \
+    8054: "쭶", \
+    8055: "쭷", \
+    8056: "쭸", \
+    8057: "쭹", \
+    8058: "쭺", \
+    8059: "쭻", \
+    8060: "쭼", \
+    8061: "쭽", \
+    8062: "쭾", \
+    8063: "쭿", \
+    8064: "쮀", \
+    8065: "쮁", \
+    8066: "쮂", \
+    8067: "쮃", \
+    8068: "쮄", \
+    8069: "쮅", \
+    8070: "쮆", \
+    8071: "쮇", \
+    8072: "쮈", \
+    8073: "쮉", \
+    8074: "쮊", \
+    8075: "쮋", \
+    8076: "쮌", \
+    8077: "쮍", \
+    8078: "쮎", \
+    8079: "쮏", \
+    8080: "쮐", \
+    8081: "쮑", \
+    8082: "쮒", \
+    8083: "쮓", \
+    8084: "쮔", \
+    8085: "쮕", \
+    8086: "쮖", \
+    8087: "쮗", \
+    8088: "쮘", \
+    8089: "쮙", \
+    8090: "쮚", \
+    8091: "쮛", \
+    8092: "쮜", \
+    8093: "쮝", \
+    8094: "쮞", \
+    8095: "쮟", \
+    8096: "쮠", \
+    8097: "쮡", \
+    8098: "쮢", \
+    8099: "쮣", \
+    8100: "쮤", \
+    8101: "쮥", \
+    8102: "쮦", \
+    8103: "쮧", \
+    8104: "쮨", \
+    8105: "쮩", \
+    8106: "쮪", \
+    8107: "쮫", \
+    8108: "쮬", \
+    8109: "쮭", \
+    8110: "쮮", \
+    8111: "쮯", \
+    8112: "쮰", \
+    8113: "쮱", \
+    8114: "쮲", \
+    8115: "쮳", \
+    8116: "쮴", \
+    8117: "쮵", \
+    8118: "쮶", \
+    8119: "쮷", \
+    8120: "쮸", \
+    8121: "쮹", \
+    8122: "쮺", \
+    8123: "쮻", \
+    8124: "쮼", \
+    8125: "쮽", \
+    8126: "쮾", \
+    8127: "쮿", \
+    8128: "쯀", \
+    8129: "쯁", \
+    8130: "쯂", \
+    8131: "쯃", \
+    8132: "쯄", \
+    8133: "쯅", \
+    8134: "쯆", \
+    8135: "쯇", \
+    8136: "쯈", \
+    8137: "쯉", \
+    8138: "쯊", \
+    8139: "쯋", \
+    8140: "쯌", \
+    8141: "쯍", \
+    8142: "쯎", \
+    8143: "쯏", \
+    8144: "쯐", \
+    8145: "쯑", \
+    8146: "쯒", \
+    8147: "쯓", \
+    8148: "쯔", \
+    8149: "쯕", \
+    8150: "쯖", \
+    8151: "쯗", \
+    8152: "쯘", \
+    8153: "쯙", \
+    8154: "쯚", \
+    8155: "쯛", \
+    8156: "쯜", \
+    8157: "쯝", \
+    8158: "쯞", \
+    8159: "쯟", \
+    8160: "쯠", \
+    8161: "쯡", \
+    8162: "쯢", \
+    8163: "쯣", \
+    8164: "쯤", \
+    8165: "쯥", \
+    8166: "쯦", \
+    8167: "쯧", \
+    8168: "쯨", \
+    8169: "쯩", \
+    8170: "쯪", \
+    8171: "쯫", \
+    8172: "쯬", \
+    8173: "쯭", \
+    8174: "쯮", \
+    8175: "쯯", \
+    8176: "쯰", \
+    8177: "쯱", \
+    8178: "쯲", \
+    8179: "쯳", \
+    8180: "쯴", \
+    8181: "쯵", \
+    8182: "쯶", \
+    8183: "쯷", \
+    8184: "쯸", \
+    8185: "쯹", \
+    8186: "쯺", \
+    8187: "쯻", \
+    8188: "쯼", \
+    8189: "쯽", \
+    8190: "쯾", \
+    8191: "쯿", \
+    8192: "찀", \
+    8193: "찁", \
+    8194: "찂", \
+    8195: "찃", \
+    8196: "찄", \
+    8197: "찅", \
+    8198: "찆", \
+    8199: "찇", \
+    8200: "찈", \
+    8201: "찉", \
+    8202: "찊", \
+    8203: "찋", \
+    8204: "찌", \
+    8205: "찍", \
+    8206: "찎", \
+    8207: "찏", \
+    8208: "찐", \
+    8209: "찑", \
+    8210: "찒", \
+    8211: "찓", \
+    8212: "찔", \
+    8213: "찕", \
+    8214: "찖", \
+    8215: "찗", \
+    8216: "찘", \
+    8217: "찙", \
+    8218: "찚", \
+    8219: "찛", \
+    8220: "찜", \
+    8221: "찝", \
+    8222: "찞", \
+    8223: "찟", \
+    8224: "찠", \
+    8225: "찡", \
+    8226: "찢", \
+    8227: "찣", \
+    8228: "찤", \
+    8229: "찥", \
+    8230: "찦", \
+    8231: "찧", \
+    8232: "차", \
+    8233: "착", \
+    8234: "찪", \
+    8235: "찫", \
+    8236: "찬", \
+    8237: "찭", \
+    8238: "찮", \
+    8239: "찯", \
+    8240: "찰", \
+    8241: "찱", \
+    8242: "찲", \
+    8243: "찳", \
+    8244: "찴", \
+    8245: "찵", \
+    8246: "찶", \
+    8247: "찷", \
+    8248: "참", \
+    8249: "찹", \
+    8250: "찺", \
+    8251: "찻", \
+    8252: "찼", \
+    8253: "창", \
+    8254: "찾", \
+    8255: "찿", \
+    8256: "챀", \
+    8257: "챁", \
+    8258: "챂", \
+    8259: "챃", \
+    8260: "채", \
+    8261: "책", \
+    8262: "챆", \
+    8263: "챇", \
+    8264: "챈", \
+    8265: "챉", \
+    8266: "챊", \
+    8267: "챋", \
+    8268: "챌", \
+    8269: "챍", \
+    8270: "챎", \
+    8271: "챏", \
+    8272: "챐", \
+    8273: "챑", \
+    8274: "챒", \
+    8275: "챓", \
+    8276: "챔", \
+    8277: "챕", \
+    8278: "챖", \
+    8279: "챗", \
+    8280: "챘", \
+    8281: "챙", \
+    8282: "챚", \
+    8283: "챛", \
+    8284: "챜", \
+    8285: "챝", \
+    8286: "챞", \
+    8287: "챟", \
+    8288: "챠", \
+    8289: "챡", \
+    8290: "챢", \
+    8291: "챣", \
+    8292: "챤", \
+    8293: "챥", \
+    8294: "챦", \
+    8295: "챧", \
+    8296: "챨", \
+    8297: "챩", \
+    8298: "챪", \
+    8299: "챫", \
+    8300: "챬", \
+    8301: "챭", \
+    8302: "챮", \
+    8303: "챯", \
+    8304: "챰", \
+    8305: "챱", \
+    8306: "챲", \
+    8307: "챳", \
+    8308: "챴", \
+    8309: "챵", \
+    8310: "챶", \
+    8311: "챷", \
+    8312: "챸", \
+    8313: "챹", \
+    8314: "챺", \
+    8315: "챻", \
+    8316: "챼", \
+    8317: "챽", \
+    8318: "챾", \
+    8319: "챿", \
+    8320: "첀", \
+    8321: "첁", \
+    8322: "첂", \
+    8323: "첃", \
+    8324: "첄", \
+    8325: "첅", \
+    8326: "첆", \
+    8327: "첇", \
+    8328: "첈", \
+    8329: "첉", \
+    8330: "첊", \
+    8331: "첋", \
+    8332: "첌", \
+    8333: "첍", \
+    8334: "첎", \
+    8335: "첏", \
+    8336: "첐", \
+    8337: "첑", \
+    8338: "첒", \
+    8339: "첓", \
+    8340: "첔", \
+    8341: "첕", \
+    8342: "첖", \
+    8343: "첗", \
+    8344: "처", \
+    8345: "척", \
+    8346: "첚", \
+    8347: "첛", \
+    8348: "천", \
+    8349: "첝", \
+    8350: "첞", \
+    8351: "첟", \
+    8352: "철", \
+    8353: "첡", \
+    8354: "첢", \
+    8355: "첣", \
+    8356: "첤", \
+    8357: "첥", \
+    8358: "첦", \
+    8359: "첧", \
+    8360: "첨", \
+    8361: "첩", \
+    8362: "첪", \
+    8363: "첫", \
+    8364: "첬", \
+    8365: "청", \
+    8366: "첮", \
+    8367: "첯", \
+    8368: "첰", \
+    8369: "첱", \
+    8370: "첲", \
+    8371: "첳", \
+    8372: "체", \
+    8373: "첵", \
+    8374: "첶", \
+    8375: "첷", \
+    8376: "첸", \
+    8377: "첹", \
+    8378: "첺", \
+    8379: "첻", \
+    8380: "첼", \
+    8381: "첽", \
+    8382: "첾", \
+    8383: "첿", \
+    8384: "쳀", \
+    8385: "쳁", \
+    8386: "쳂", \
+    8387: "쳃", \
+    8388: "쳄", \
+    8389: "쳅", \
+    8390: "쳆", \
+    8391: "쳇", \
+    8392: "쳈", \
+    8393: "쳉", \
+    8394: "쳊", \
+    8395: "쳋", \
+    8396: "쳌", \
+    8397: "쳍", \
+    8398: "쳎", \
+    8399: "쳏", \
+    8400: "쳐", \
+    8401: "쳑", \
+    8402: "쳒", \
+    8403: "쳓", \
+    8404: "쳔", \
+    8405: "쳕", \
+    8406: "쳖", \
+    8407: "쳗", \
+    8408: "쳘", \
+    8409: "쳙", \
+    8410: "쳚", \
+    8411: "쳛", \
+    8412: "쳜", \
+    8413: "쳝", \
+    8414: "쳞", \
+    8415: "쳟", \
+    8416: "쳠", \
+    8417: "쳡", \
+    8418: "쳢", \
+    8419: "쳣", \
+    8420: "쳤", \
+    8421: "쳥", \
+    8422: "쳦", \
+    8423: "쳧", \
+    8424: "쳨", \
+    8425: "쳩", \
+    8426: "쳪", \
+    8427: "쳫", \
+    8428: "쳬", \
+    8429: "쳭", \
+    8430: "쳮", \
+    8431: "쳯", \
+    8432: "쳰", \
+    8433: "쳱", \
+    8434: "쳲", \
+    8435: "쳳", \
+    8436: "쳴", \
+    8437: "쳵", \
+    8438: "쳶", \
+    8439: "쳷", \
+    8440: "쳸", \
+    8441: "쳹", \
+    8442: "쳺", \
+    8443: "쳻", \
+    8444: "쳼", \
+    8445: "쳽", \
+    8446: "쳾", \
+    8447: "쳿", \
+    8448: "촀", \
+    8449: "촁", \
+    8450: "촂", \
+    8451: "촃", \
+    8452: "촄", \
+    8453: "촅", \
+    8454: "촆", \
+    8455: "촇", \
+    8456: "초", \
+    8457: "촉", \
+    8458: "촊", \
+    8459: "촋", \
+    8460: "촌", \
+    8461: "촍", \
+    8462: "촎", \
+    8463: "촏", \
+    8464: "촐", \
+    8465: "촑", \
+    8466: "촒", \
+    8467: "촓", \
+    8468: "촔", \
+    8469: "촕", \
+    8470: "촖", \
+    8471: "촗", \
+    8472: "촘", \
+    8473: "촙", \
+    8474: "촚", \
+    8475: "촛", \
+    8476: "촜", \
+    8477: "총", \
+    8478: "촞", \
+    8479: "촟", \
+    8480: "촠", \
+    8481: "촡", \
+    8482: "촢", \
+    8483: "촣", \
+    8484: "촤", \
+    8485: "촥", \
+    8486: "촦", \
+    8487: "촧", \
+    8488: "촨", \
+    8489: "촩", \
+    8490: "촪", \
+    8491: "촫", \
+    8492: "촬", \
+    8493: "촭", \
+    8494: "촮", \
+    8495: "촯", \
+    8496: "촰", \
+    8497: "촱", \
+    8498: "촲", \
+    8499: "촳", \
+    8500: "촴", \
+    8501: "촵", \
+    8502: "촶", \
+    8503: "촷", \
+    8504: "촸", \
+    8505: "촹", \
+    8506: "촺", \
+    8507: "촻", \
+    8508: "촼", \
+    8509: "촽", \
+    8510: "촾", \
+    8511: "촿", \
+    8512: "쵀", \
+    8513: "쵁", \
+    8514: "쵂", \
+    8515: "쵃", \
+    8516: "쵄", \
+    8517: "쵅", \
+    8518: "쵆", \
+    8519: "쵇", \
+    8520: "쵈", \
+    8521: "쵉", \
+    8522: "쵊", \
+    8523: "쵋", \
+    8524: "쵌", \
+    8525: "쵍", \
+    8526: "쵎", \
+    8527: "쵏", \
+    8528: "쵐", \
+    8529: "쵑", \
+    8530: "쵒", \
+    8531: "쵓", \
+    8532: "쵔", \
+    8533: "쵕", \
+    8534: "쵖", \
+    8535: "쵗", \
+    8536: "쵘", \
+    8537: "쵙", \
+    8538: "쵚", \
+    8539: "쵛", \
+    8540: "최", \
+    8541: "쵝", \
+    8542: "쵞", \
+    8543: "쵟", \
+    8544: "쵠", \
+    8545: "쵡", \
+    8546: "쵢", \
+    8547: "쵣", \
+    8548: "쵤", \
+    8549: "쵥", \
+    8550: "쵦", \
+    8551: "쵧", \
+    8552: "쵨", \
+    8553: "쵩", \
+    8554: "쵪", \
+    8555: "쵫", \
+    8556: "쵬", \
+    8557: "쵭", \
+    8558: "쵮", \
+    8559: "쵯", \
+    8560: "쵰", \
+    8561: "쵱", \
+    8562: "쵲", \
+    8563: "쵳", \
+    8564: "쵴", \
+    8565: "쵵", \
+    8566: "쵶", \
+    8567: "쵷", \
+    8568: "쵸", \
+    8569: "쵹", \
+    8570: "쵺", \
+    8571: "쵻", \
+    8572: "쵼", \
+    8573: "쵽", \
+    8574: "쵾", \
+    8575: "쵿", \
+    8576: "춀", \
+    8577: "춁", \
+    8578: "춂", \
+    8579: "춃", \
+    8580: "춄", \
+    8581: "춅", \
+    8582: "춆", \
+    8583: "춇", \
+    8584: "춈", \
+    8585: "춉", \
+    8586: "춊", \
+    8587: "춋", \
+    8588: "춌", \
+    8589: "춍", \
+    8590: "춎", \
+    8591: "춏", \
+    8592: "춐", \
+    8593: "춑", \
+    8594: "춒", \
+    8595: "춓", \
+    8596: "추", \
+    8597: "축", \
+    8598: "춖", \
+    8599: "춗", \
+    8600: "춘", \
+    8601: "춙", \
+    8602: "춚", \
+    8603: "춛", \
+    8604: "출", \
+    8605: "춝", \
+    8606: "춞", \
+    8607: "춟", \
+    8608: "춠", \
+    8609: "춡", \
+    8610: "춢", \
+    8611: "춣", \
+    8612: "춤", \
+    8613: "춥", \
+    8614: "춦", \
+    8615: "춧", \
+    8616: "춨", \
+    8617: "충", \
+    8618: "춪", \
+    8619: "춫", \
+    8620: "춬", \
+    8621: "춭", \
+    8622: "춮", \
+    8623: "춯", \
+    8624: "춰", \
+    8625: "춱", \
+    8626: "춲", \
+    8627: "춳", \
+    8628: "춴", \
+    8629: "춵", \
+    8630: "춶", \
+    8631: "춷", \
+    8632: "춸", \
+    8633: "춹", \
+    8634: "춺", \
+    8635: "춻", \
+    8636: "춼", \
+    8637: "춽", \
+    8638: "춾", \
+    8639: "춿", \
+    8640: "췀", \
+    8641: "췁", \
+    8642: "췂", \
+    8643: "췃", \
+    8644: "췄", \
+    8645: "췅", \
+    8646: "췆", \
+    8647: "췇", \
+    8648: "췈", \
+    8649: "췉", \
+    8650: "췊", \
+    8651: "췋", \
+    8652: "췌", \
+    8653: "췍", \
+    8654: "췎", \
+    8655: "췏", \
+    8656: "췐", \
+    8657: "췑", \
+    8658: "췒", \
+    8659: "췓", \
+    8660: "췔", \
+    8661: "췕", \
+    8662: "췖", \
+    8663: "췗", \
+    8664: "췘", \
+    8665: "췙", \
+    8666: "췚", \
+    8667: "췛", \
+    8668: "췜", \
+    8669: "췝", \
+    8670: "췞", \
+    8671: "췟", \
+    8672: "췠", \
+    8673: "췡", \
+    8674: "췢", \
+    8675: "췣", \
+    8676: "췤", \
+    8677: "췥", \
+    8678: "췦", \
+    8679: "췧", \
+    8680: "취", \
+    8681: "췩", \
+    8682: "췪", \
+    8683: "췫", \
+    8684: "췬", \
+    8685: "췭", \
+    8686: "췮", \
+    8687: "췯", \
+    8688: "췰", \
+    8689: "췱", \
+    8690: "췲", \
+    8691: "췳", \
+    8692: "췴", \
+    8693: "췵", \
+    8694: "췶", \
+    8695: "췷", \
+    8696: "췸", \
+    8697: "췹", \
+    8698: "췺", \
+    8699: "췻", \
+    8700: "췼", \
+    8701: "췽", \
+    8702: "췾", \
+    8703: "췿", \
+    8704: "츀", \
+    8705: "츁", \
+    8706: "츂", \
+    8707: "츃", \
+    8708: "츄", \
+    8709: "츅", \
+    8710: "츆", \
+    8711: "츇", \
+    8712: "츈", \
+    8713: "츉", \
+    8714: "츊", \
+    8715: "츋", \
+    8716: "츌", \
+    8717: "츍", \
+    8718: "츎", \
+    8719: "츏", \
+    8720: "츐", \
+    8721: "츑", \
+    8722: "츒", \
+    8723: "츓", \
+    8724: "츔", \
+    8725: "츕", \
+    8726: "츖", \
+    8727: "츗", \
+    8728: "츘", \
+    8729: "츙", \
+    8730: "츚", \
+    8731: "츛", \
+    8732: "츜", \
+    8733: "츝", \
+    8734: "츞", \
+    8735: "츟", \
+    8736: "츠", \
+    8737: "측", \
+    8738: "츢", \
+    8739: "츣", \
+    8740: "츤", \
+    8741: "츥", \
+    8742: "츦", \
+    8743: "츧", \
+    8744: "츨", \
+    8745: "츩", \
+    8746: "츪", \
+    8747: "츫", \
+    8748: "츬", \
+    8749: "츭", \
+    8750: "츮", \
+    8751: "츯", \
+    8752: "츰", \
+    8753: "츱", \
+    8754: "츲", \
+    8755: "츳", \
+    8756: "츴", \
+    8757: "층", \
+    8758: "츶", \
+    8759: "츷", \
+    8760: "츸", \
+    8761: "츹", \
+    8762: "츺", \
+    8763: "츻", \
+    8764: "츼", \
+    8765: "츽", \
+    8766: "츾", \
+    8767: "츿", \
+    8768: "칀", \
+    8769: "칁", \
+    8770: "칂", \
+    8771: "칃", \
+    8772: "칄", \
+    8773: "칅", \
+    8774: "칆", \
+    8775: "칇", \
+    8776: "칈", \
+    8777: "칉", \
+    8778: "칊", \
+    8779: "칋", \
+    8780: "칌", \
+    8781: "칍", \
+    8782: "칎", \
+    8783: "칏", \
+    8784: "칐", \
+    8785: "칑", \
+    8786: "칒", \
+    8787: "칓", \
+    8788: "칔", \
+    8789: "칕", \
+    8790: "칖", \
+    8791: "칗", \
+    8792: "치", \
+    8793: "칙", \
+    8794: "칚", \
+    8795: "칛", \
+    8796: "친", \
+    8797: "칝", \
+    8798: "칞", \
+    8799: "칟", \
+    8800: "칠", \
+    8801: "칡", \
+    8802: "칢", \
+    8803: "칣", \
+    8804: "칤", \
+    8805: "칥", \
+    8806: "칦", \
+    8807: "칧", \
+    8808: "침", \
+    8809: "칩", \
+    8810: "칪", \
+    8811: "칫", \
+    8812: "칬", \
+    8813: "칭", \
+    8814: "칮", \
+    8815: "칯", \
+    8816: "칰", \
+    8817: "칱", \
+    8818: "칲", \
+    8819: "칳", \
+    8820: "카", \
+    8821: "칵", \
+    8822: "칶", \
+    8823: "칷", \
+    8824: "칸", \
+    8825: "칹", \
+    8826: "칺", \
+    8827: "칻", \
+    8828: "칼", \
+    8829: "칽", \
+    8830: "칾", \
+    8831: "칿", \
+    8832: "캀", \
+    8833: "캁", \
+    8834: "캂", \
+    8835: "캃", \
+    8836: "캄", \
+    8837: "캅", \
+    8838: "캆", \
+    8839: "캇", \
+    8840: "캈", \
+    8841: "캉", \
+    8842: "캊", \
+    8843: "캋", \
+    8844: "캌", \
+    8845: "캍", \
+    8846: "캎", \
+    8847: "캏", \
+    8848: "캐", \
+    8849: "캑", \
+    8850: "캒", \
+    8851: "캓", \
+    8852: "캔", \
+    8853: "캕", \
+    8854: "캖", \
+    8855: "캗", \
+    8856: "캘", \
+    8857: "캙", \
+    8858: "캚", \
+    8859: "캛", \
+    8860: "캜", \
+    8861: "캝", \
+    8862: "캞", \
+    8863: "캟", \
+    8864: "캠", \
+    8865: "캡", \
+    8866: "캢", \
+    8867: "캣", \
+    8868: "캤", \
+    8869: "캥", \
+    8870: "캦", \
+    8871: "캧", \
+    8872: "캨", \
+    8873: "캩", \
+    8874: "캪", \
+    8875: "캫", \
+    8876: "캬", \
+    8877: "캭", \
+    8878: "캮", \
+    8879: "캯", \
+    8880: "캰", \
+    8881: "캱", \
+    8882: "캲", \
+    8883: "캳", \
+    8884: "캴", \
+    8885: "캵", \
+    8886: "캶", \
+    8887: "캷", \
+    8888: "캸", \
+    8889: "캹", \
+    8890: "캺", \
+    8891: "캻", \
+    8892: "캼", \
+    8893: "캽", \
+    8894: "캾", \
+    8895: "캿", \
+    8896: "컀", \
+    8897: "컁", \
+    8898: "컂", \
+    8899: "컃", \
+    8900: "컄", \
+    8901: "컅", \
+    8902: "컆", \
+    8903: "컇", \
+    8904: "컈", \
+    8905: "컉", \
+    8906: "컊", \
+    8907: "컋", \
+    8908: "컌", \
+    8909: "컍", \
+    8910: "컎", \
+    8911: "컏", \
+    8912: "컐", \
+    8913: "컑", \
+    8914: "컒", \
+    8915: "컓", \
+    8916: "컔", \
+    8917: "컕", \
+    8918: "컖", \
+    8919: "컗", \
+    8920: "컘", \
+    8921: "컙", \
+    8922: "컚", \
+    8923: "컛", \
+    8924: "컜", \
+    8925: "컝", \
+    8926: "컞", \
+    8927: "컟", \
+    8928: "컠", \
+    8929: "컡", \
+    8930: "컢", \
+    8931: "컣", \
+    8932: "커", \
+    8933: "컥", \
+    8934: "컦", \
+    8935: "컧", \
+    8936: "컨", \
+    8937: "컩", \
+    8938: "컪", \
+    8939: "컫", \
+    8940: "컬", \
+    8941: "컭", \
+    8942: "컮", \
+    8943: "컯", \
+    8944: "컰", \
+    8945: "컱", \
+    8946: "컲", \
+    8947: "컳", \
+    8948: "컴", \
+    8949: "컵", \
+    8950: "컶", \
+    8951: "컷", \
+    8952: "컸", \
+    8953: "컹", \
+    8954: "컺", \
+    8955: "컻", \
+    8956: "컼", \
+    8957: "컽", \
+    8958: "컾", \
+    8959: "컿", \
+    8960: "케", \
+    8961: "켁", \
+    8962: "켂", \
+    8963: "켃", \
+    8964: "켄", \
+    8965: "켅", \
+    8966: "켆", \
+    8967: "켇", \
+    8968: "켈", \
+    8969: "켉", \
+    8970: "켊", \
+    8971: "켋", \
+    8972: "켌", \
+    8973: "켍", \
+    8974: "켎", \
+    8975: "켏", \
+    8976: "켐", \
+    8977: "켑", \
+    8978: "켒", \
+    8979: "켓", \
+    8980: "켔", \
+    8981: "켕", \
+    8982: "켖", \
+    8983: "켗", \
+    8984: "켘", \
+    8985: "켙", \
+    8986: "켚", \
+    8987: "켛", \
+    8988: "켜", \
+    8989: "켝", \
+    8990: "켞", \
+    8991: "켟", \
+    8992: "켠", \
+    8993: "켡", \
+    8994: "켢", \
+    8995: "켣", \
+    8996: "켤", \
+    8997: "켥", \
+    8998: "켦", \
+    8999: "켧", \
+    9000: "켨", \
+    9001: "켩", \
+    9002: "켪", \
+    9003: "켫", \
+    9004: "켬", \
+    9005: "켭", \
+    9006: "켮", \
+    9007: "켯", \
+    9008: "켰", \
+    9009: "켱", \
+    9010: "켲", \
+    9011: "켳", \
+    9012: "켴", \
+    9013: "켵", \
+    9014: "켶", \
+    9015: "켷", \
+    9016: "켸", \
+    9017: "켹", \
+    9018: "켺", \
+    9019: "켻", \
+    9020: "켼", \
+    9021: "켽", \
+    9022: "켾", \
+    9023: "켿", \
+    9024: "콀", \
+    9025: "콁", \
+    9026: "콂", \
+    9027: "콃", \
+    9028: "콄", \
+    9029: "콅", \
+    9030: "콆", \
+    9031: "콇", \
+    9032: "콈", \
+    9033: "콉", \
+    9034: "콊", \
+    9035: "콋", \
+    9036: "콌", \
+    9037: "콍", \
+    9038: "콎", \
+    9039: "콏", \
+    9040: "콐", \
+    9041: "콑", \
+    9042: "콒", \
+    9043: "콓", \
+    9044: "코", \
+    9045: "콕", \
+    9046: "콖", \
+    9047: "콗", \
+    9048: "콘", \
+    9049: "콙", \
+    9050: "콚", \
+    9051: "콛", \
+    9052: "콜", \
+    9053: "콝", \
+    9054: "콞", \
+    9055: "콟", \
+    9056: "콠", \
+    9057: "콡", \
+    9058: "콢", \
+    9059: "콣", \
+    9060: "콤", \
+    9061: "콥", \
+    9062: "콦", \
+    9063: "콧", \
+    9064: "콨", \
+    9065: "콩", \
+    9066: "콪", \
+    9067: "콫", \
+    9068: "콬", \
+    9069: "콭", \
+    9070: "콮", \
+    9071: "콯", \
+    9072: "콰", \
+    9073: "콱", \
+    9074: "콲", \
+    9075: "콳", \
+    9076: "콴", \
+    9077: "콵", \
+    9078: "콶", \
+    9079: "콷", \
+    9080: "콸", \
+    9081: "콹", \
+    9082: "콺", \
+    9083: "콻", \
+    9084: "콼", \
+    9085: "콽", \
+    9086: "콾", \
+    9087: "콿", \
+    9088: "쾀", \
+    9089: "쾁", \
+    9090: "쾂", \
+    9091: "쾃", \
+    9092: "쾄", \
+    9093: "쾅", \
+    9094: "쾆", \
+    9095: "쾇", \
+    9096: "쾈", \
+    9097: "쾉", \
+    9098: "쾊", \
+    9099: "쾋", \
+    9100: "쾌", \
+    9101: "쾍", \
+    9102: "쾎", \
+    9103: "쾏", \
+    9104: "쾐", \
+    9105: "쾑", \
+    9106: "쾒", \
+    9107: "쾓", \
+    9108: "쾔", \
+    9109: "쾕", \
+    9110: "쾖", \
+    9111: "쾗", \
+    9112: "쾘", \
+    9113: "쾙", \
+    9114: "쾚", \
+    9115: "쾛", \
+    9116: "쾜", \
+    9117: "쾝", \
+    9118: "쾞", \
+    9119: "쾟", \
+    9120: "쾠", \
+    9121: "쾡", \
+    9122: "쾢", \
+    9123: "쾣", \
+    9124: "쾤", \
+    9125: "쾥", \
+    9126: "쾦", \
+    9127: "쾧", \
+    9128: "쾨", \
+    9129: "쾩", \
+    9130: "쾪", \
+    9131: "쾫", \
+    9132: "쾬", \
+    9133: "쾭", \
+    9134: "쾮", \
+    9135: "쾯", \
+    9136: "쾰", \
+    9137: "쾱", \
+    9138: "쾲", \
+    9139: "쾳", \
+    9140: "쾴", \
+    9141: "쾵", \
+    9142: "쾶", \
+    9143: "쾷", \
+    9144: "쾸", \
+    9145: "쾹", \
+    9146: "쾺", \
+    9147: "쾻", \
+    9148: "쾼", \
+    9149: "쾽", \
+    9150: "쾾", \
+    9151: "쾿", \
+    9152: "쿀", \
+    9153: "쿁", \
+    9154: "쿂", \
+    9155: "쿃", \
+    9156: "쿄", \
+    9157: "쿅", \
+    9158: "쿆", \
+    9159: "쿇", \
+    9160: "쿈", \
+    9161: "쿉", \
+    9162: "쿊", \
+    9163: "쿋", \
+    9164: "쿌", \
+    9165: "쿍", \
+    9166: "쿎", \
+    9167: "쿏", \
+    9168: "쿐", \
+    9169: "쿑", \
+    9170: "쿒", \
+    9171: "쿓", \
+    9172: "쿔", \
+    9173: "쿕", \
+    9174: "쿖", \
+    9175: "쿗", \
+    9176: "쿘", \
+    9177: "쿙", \
+    9178: "쿚", \
+    9179: "쿛", \
+    9180: "쿜", \
+    9181: "쿝", \
+    9182: "쿞", \
+    9183: "쿟", \
+    9184: "쿠", \
+    9185: "쿡", \
+    9186: "쿢", \
+    9187: "쿣", \
+    9188: "쿤", \
+    9189: "쿥", \
+    9190: "쿦", \
+    9191: "쿧", \
+    9192: "쿨", \
+    9193: "쿩", \
+    9194: "쿪", \
+    9195: "쿫", \
+    9196: "쿬", \
+    9197: "쿭", \
+    9198: "쿮", \
+    9199: "쿯", \
+    9200: "쿰", \
+    9201: "쿱", \
+    9202: "쿲", \
+    9203: "쿳", \
+    9204: "쿴", \
+    9205: "쿵", \
+    9206: "쿶", \
+    9207: "쿷", \
+    9208: "쿸", \
+    9209: "쿹", \
+    9210: "쿺", \
+    9211: "쿻", \
+    9212: "쿼", \
+    9213: "쿽", \
+    9214: "쿾", \
+    9215: "쿿", \
+    9216: "퀀", \
+    9217: "퀁", \
+    9218: "퀂", \
+    9219: "퀃", \
+    9220: "퀄", \
+    9221: "퀅", \
+    9222: "퀆", \
+    9223: "퀇", \
+    9224: "퀈", \
+    9225: "퀉", \
+    9226: "퀊", \
+    9227: "퀋", \
+    9228: "퀌", \
+    9229: "퀍", \
+    9230: "퀎", \
+    9231: "퀏", \
+    9232: "퀐", \
+    9233: "퀑", \
+    9234: "퀒", \
+    9235: "퀓", \
+    9236: "퀔", \
+    9237: "퀕", \
+    9238: "퀖", \
+    9239: "퀗", \
+    9240: "퀘", \
+    9241: "퀙", \
+    9242: "퀚", \
+    9243: "퀛", \
+    9244: "퀜", \
+    9245: "퀝", \
+    9246: "퀞", \
+    9247: "퀟", \
+    9248: "퀠", \
+    9249: "퀡", \
+    9250: "퀢", \
+    9251: "퀣", \
+    9252: "퀤", \
+    9253: "퀥", \
+    9254: "퀦", \
+    9255: "퀧", \
+    9256: "퀨", \
+    9257: "퀩", \
+    9258: "퀪", \
+    9259: "퀫", \
+    9260: "퀬", \
+    9261: "퀭", \
+    9262: "퀮", \
+    9263: "퀯", \
+    9264: "퀰", \
+    9265: "퀱", \
+    9266: "퀲", \
+    9267: "퀳", \
+    9268: "퀴", \
+    9269: "퀵", \
+    9270: "퀶", \
+    9271: "퀷", \
+    9272: "퀸", \
+    9273: "퀹", \
+    9274: "퀺", \
+    9275: "퀻", \
+    9276: "퀼", \
+    9277: "퀽", \
+    9278: "퀾", \
+    9279: "퀿", \
+    9280: "큀", \
+    9281: "큁", \
+    9282: "큂", \
+    9283: "큃", \
+    9284: "큄", \
+    9285: "큅", \
+    9286: "큆", \
+    9287: "큇", \
+    9288: "큈", \
+    9289: "큉", \
+    9290: "큊", \
+    9291: "큋", \
+    9292: "큌", \
+    9293: "큍", \
+    9294: "큎", \
+    9295: "큏", \
+    9296: "큐", \
+    9297: "큑", \
+    9298: "큒", \
+    9299: "큓", \
+    9300: "큔", \
+    9301: "큕", \
+    9302: "큖", \
+    9303: "큗", \
+    9304: "큘", \
+    9305: "큙", \
+    9306: "큚", \
+    9307: "큛", \
+    9308: "큜", \
+    9309: "큝", \
+    9310: "큞", \
+    9311: "큟", \
+    9312: "큠", \
+    9313: "큡", \
+    9314: "큢", \
+    9315: "큣", \
+    9316: "큤", \
+    9317: "큥", \
+    9318: "큦", \
+    9319: "큧", \
+    9320: "큨", \
+    9321: "큩", \
+    9322: "큪", \
+    9323: "큫", \
+    9324: "크", \
+    9325: "큭", \
+    9326: "큮", \
+    9327: "큯", \
+    9328: "큰", \
+    9329: "큱", \
+    9330: "큲", \
+    9331: "큳", \
+    9332: "클", \
+    9333: "큵", \
+    9334: "큶", \
+    9335: "큷", \
+    9336: "큸", \
+    9337: "큹", \
+    9338: "큺", \
+    9339: "큻", \
+    9340: "큼", \
+    9341: "큽", \
+    9342: "큾", \
+    9343: "큿", \
+    9344: "킀", \
+    9345: "킁", \
+    9346: "킂", \
+    9347: "킃", \
+    9348: "킄", \
+    9349: "킅", \
+    9350: "킆", \
+    9351: "킇", \
+    9352: "킈", \
+    9353: "킉", \
+    9354: "킊", \
+    9355: "킋", \
+    9356: "킌", \
+    9357: "킍", \
+    9358: "킎", \
+    9359: "킏", \
+    9360: "킐", \
+    9361: "킑", \
+    9362: "킒", \
+    9363: "킓", \
+    9364: "킔", \
+    9365: "킕", \
+    9366: "킖", \
+    9367: "킗", \
+    9368: "킘", \
+    9369: "킙", \
+    9370: "킚", \
+    9371: "킛", \
+    9372: "킜", \
+    9373: "킝", \
+    9374: "킞", \
+    9375: "킟", \
+    9376: "킠", \
+    9377: "킡", \
+    9378: "킢", \
+    9379: "킣", \
+    9380: "키", \
+    9381: "킥", \
+    9382: "킦", \
+    9383: "킧", \
+    9384: "킨", \
+    9385: "킩", \
+    9386: "킪", \
+    9387: "킫", \
+    9388: "킬", \
+    9389: "킭", \
+    9390: "킮", \
+    9391: "킯", \
+    9392: "킰", \
+    9393: "킱", \
+    9394: "킲", \
+    9395: "킳", \
+    9396: "킴", \
+    9397: "킵", \
+    9398: "킶", \
+    9399: "킷", \
+    9400: "킸", \
+    9401: "킹", \
+    9402: "킺", \
+    9403: "킻", \
+    9404: "킼", \
+    9405: "킽", \
+    9406: "킾", \
+    9407: "킿", \
+    9408: "타", \
+    9409: "탁", \
+    9410: "탂", \
+    9411: "탃", \
+    9412: "탄", \
+    9413: "탅", \
+    9414: "탆", \
+    9415: "탇", \
+    9416: "탈", \
+    9417: "탉", \
+    9418: "탊", \
+    9419: "탋", \
+    9420: "탌", \
+    9421: "탍", \
+    9422: "탎", \
+    9423: "탏", \
+    9424: "탐", \
+    9425: "탑", \
+    9426: "탒", \
+    9427: "탓", \
+    9428: "탔", \
+    9429: "탕", \
+    9430: "탖", \
+    9431: "탗", \
+    9432: "탘", \
+    9433: "탙", \
+    9434: "탚", \
+    9435: "탛", \
+    9436: "태", \
+    9437: "택", \
+    9438: "탞", \
+    9439: "탟", \
+    9440: "탠", \
+    9441: "탡", \
+    9442: "탢", \
+    9443: "탣", \
+    9444: "탤", \
+    9445: "탥", \
+    9446: "탦", \
+    9447: "탧", \
+    9448: "탨", \
+    9449: "탩", \
+    9450: "탪", \
+    9451: "탫", \
+    9452: "탬", \
+    9453: "탭", \
+    9454: "탮", \
+    9455: "탯", \
+    9456: "탰", \
+    9457: "탱", \
+    9458: "탲", \
+    9459: "탳", \
+    9460: "탴", \
+    9461: "탵", \
+    9462: "탶", \
+    9463: "탷", \
+    9464: "탸", \
+    9465: "탹", \
+    9466: "탺", \
+    9467: "탻", \
+    9468: "탼", \
+    9469: "탽", \
+    9470: "탾", \
+    9471: "탿", \
+    9472: "턀", \
+    9473: "턁", \
+    9474: "턂", \
+    9475: "턃", \
+    9476: "턄", \
+    9477: "턅", \
+    9478: "턆", \
+    9479: "턇", \
+    9480: "턈", \
+    9481: "턉", \
+    9482: "턊", \
+    9483: "턋", \
+    9484: "턌", \
+    9485: "턍", \
+    9486: "턎", \
+    9487: "턏", \
+    9488: "턐", \
+    9489: "턑", \
+    9490: "턒", \
+    9491: "턓", \
+    9492: "턔", \
+    9493: "턕", \
+    9494: "턖", \
+    9495: "턗", \
+    9496: "턘", \
+    9497: "턙", \
+    9498: "턚", \
+    9499: "턛", \
+    9500: "턜", \
+    9501: "턝", \
+    9502: "턞", \
+    9503: "턟", \
+    9504: "턠", \
+    9505: "턡", \
+    9506: "턢", \
+    9507: "턣", \
+    9508: "턤", \
+    9509: "턥", \
+    9510: "턦", \
+    9511: "턧", \
+    9512: "턨", \
+    9513: "턩", \
+    9514: "턪", \
+    9515: "턫", \
+    9516: "턬", \
+    9517: "턭", \
+    9518: "턮", \
+    9519: "턯", \
+    9520: "터", \
+    9521: "턱", \
+    9522: "턲", \
+    9523: "턳", \
+    9524: "턴", \
+    9525: "턵", \
+    9526: "턶", \
+    9527: "턷", \
+    9528: "털", \
+    9529: "턹", \
+    9530: "턺", \
+    9531: "턻", \
+    9532: "턼", \
+    9533: "턽", \
+    9534: "턾", \
+    9535: "턿", \
+    9536: "텀", \
+    9537: "텁", \
+    9538: "텂", \
+    9539: "텃", \
+    9540: "텄", \
+    9541: "텅", \
+    9542: "텆", \
+    9543: "텇", \
+    9544: "텈", \
+    9545: "텉", \
+    9546: "텊", \
+    9547: "텋", \
+    9548: "테", \
+    9549: "텍", \
+    9550: "텎", \
+    9551: "텏", \
+    9552: "텐", \
+    9553: "텑", \
+    9554: "텒", \
+    9555: "텓", \
+    9556: "텔", \
+    9557: "텕", \
+    9558: "텖", \
+    9559: "텗", \
+    9560: "텘", \
+    9561: "텙", \
+    9562: "텚", \
+    9563: "텛", \
+    9564: "템", \
+    9565: "텝", \
+    9566: "텞", \
+    9567: "텟", \
+    9568: "텠", \
+    9569: "텡", \
+    9570: "텢", \
+    9571: "텣", \
+    9572: "텤", \
+    9573: "텥", \
+    9574: "텦", \
+    9575: "텧", \
+    9576: "텨", \
+    9577: "텩", \
+    9578: "텪", \
+    9579: "텫", \
+    9580: "텬", \
+    9581: "텭", \
+    9582: "텮", \
+    9583: "텯", \
+    9584: "텰", \
+    9585: "텱", \
+    9586: "텲", \
+    9587: "텳", \
+    9588: "텴", \
+    9589: "텵", \
+    9590: "텶", \
+    9591: "텷", \
+    9592: "텸", \
+    9593: "텹", \
+    9594: "텺", \
+    9595: "텻", \
+    9596: "텼", \
+    9597: "텽", \
+    9598: "텾", \
+    9599: "텿", \
+    9600: "톀", \
+    9601: "톁", \
+    9602: "톂", \
+    9603: "톃", \
+    9604: "톄", \
+    9605: "톅", \
+    9606: "톆", \
+    9607: "톇", \
+    9608: "톈", \
+    9609: "톉", \
+    9610: "톊", \
+    9611: "톋", \
+    9612: "톌", \
+    9613: "톍", \
+    9614: "톎", \
+    9615: "톏", \
+    9616: "톐", \
+    9617: "톑", \
+    9618: "톒", \
+    9619: "톓", \
+    9620: "톔", \
+    9621: "톕", \
+    9622: "톖", \
+    9623: "톗", \
+    9624: "톘", \
+    9625: "톙", \
+    9626: "톚", \
+    9627: "톛", \
+    9628: "톜", \
+    9629: "톝", \
+    9630: "톞", \
+    9631: "톟", \
+    9632: "토", \
+    9633: "톡", \
+    9634: "톢", \
+    9635: "톣", \
+    9636: "톤", \
+    9637: "톥", \
+    9638: "톦", \
+    9639: "톧", \
+    9640: "톨", \
+    9641: "톩", \
+    9642: "톪", \
+    9643: "톫", \
+    9644: "톬", \
+    9645: "톭", \
+    9646: "톮", \
+    9647: "톯", \
+    9648: "톰", \
+    9649: "톱", \
+    9650: "톲", \
+    9651: "톳", \
+    9652: "톴", \
+    9653: "통", \
+    9654: "톶", \
+    9655: "톷", \
+    9656: "톸", \
+    9657: "톹", \
+    9658: "톺", \
+    9659: "톻", \
+    9660: "톼", \
+    9661: "톽", \
+    9662: "톾", \
+    9663: "톿", \
+    9664: "퇀", \
+    9665: "퇁", \
+    9666: "퇂", \
+    9667: "퇃", \
+    9668: "퇄", \
+    9669: "퇅", \
+    9670: "퇆", \
+    9671: "퇇", \
+    9672: "퇈", \
+    9673: "퇉", \
+    9674: "퇊", \
+    9675: "퇋", \
+    9676: "퇌", \
+    9677: "퇍", \
+    9678: "퇎", \
+    9679: "퇏", \
+    9680: "퇐", \
+    9681: "퇑", \
+    9682: "퇒", \
+    9683: "퇓", \
+    9684: "퇔", \
+    9685: "퇕", \
+    9686: "퇖", \
+    9687: "퇗", \
+    9688: "퇘", \
+    9689: "퇙", \
+    9690: "퇚", \
+    9691: "퇛", \
+    9692: "퇜", \
+    9693: "퇝", \
+    9694: "퇞", \
+    9695: "퇟", \
+    9696: "퇠", \
+    9697: "퇡", \
+    9698: "퇢", \
+    9699: "퇣", \
+    9700: "퇤", \
+    9701: "퇥", \
+    9702: "퇦", \
+    9703: "퇧", \
+    9704: "퇨", \
+    9705: "퇩", \
+    9706: "퇪", \
+    9707: "퇫", \
+    9708: "퇬", \
+    9709: "퇭", \
+    9710: "퇮", \
+    9711: "퇯", \
+    9712: "퇰", \
+    9713: "퇱", \
+    9714: "퇲", \
+    9715: "퇳", \
+    9716: "퇴", \
+    9717: "퇵", \
+    9718: "퇶", \
+    9719: "퇷", \
+    9720: "퇸", \
+    9721: "퇹", \
+    9722: "퇺", \
+    9723: "퇻", \
+    9724: "퇼", \
+    9725: "퇽", \
+    9726: "퇾", \
+    9727: "퇿", \
+    9728: "툀", \
+    9729: "툁", \
+    9730: "툂", \
+    9731: "툃", \
+    9732: "툄", \
+    9733: "툅", \
+    9734: "툆", \
+    9735: "툇", \
+    9736: "툈", \
+    9737: "툉", \
+    9738: "툊", \
+    9739: "툋", \
+    9740: "툌", \
+    9741: "툍", \
+    9742: "툎", \
+    9743: "툏", \
+    9744: "툐", \
+    9745: "툑", \
+    9746: "툒", \
+    9747: "툓", \
+    9748: "툔", \
+    9749: "툕", \
+    9750: "툖", \
+    9751: "툗", \
+    9752: "툘", \
+    9753: "툙", \
+    9754: "툚", \
+    9755: "툛", \
+    9756: "툜", \
+    9757: "툝", \
+    9758: "툞", \
+    9759: "툟", \
+    9760: "툠", \
+    9761: "툡", \
+    9762: "툢", \
+    9763: "툣", \
+    9764: "툤", \
+    9765: "툥", \
+    9766: "툦", \
+    9767: "툧", \
+    9768: "툨", \
+    9769: "툩", \
+    9770: "툪", \
+    9771: "툫", \
+    9772: "투", \
+    9773: "툭", \
+    9774: "툮", \
+    9775: "툯", \
+    9776: "툰", \
+    9777: "툱", \
+    9778: "툲", \
+    9779: "툳", \
+    9780: "툴", \
+    9781: "툵", \
+    9782: "툶", \
+    9783: "툷", \
+    9784: "툸", \
+    9785: "툹", \
+    9786: "툺", \
+    9787: "툻", \
+    9788: "툼", \
+    9789: "툽", \
+    9790: "툾", \
+    9791: "툿", \
+    9792: "퉀", \
+    9793: "퉁", \
+    9794: "퉂", \
+    9795: "퉃", \
+    9796: "퉄", \
+    9797: "퉅", \
+    9798: "퉆", \
+    9799: "퉇", \
+    9800: "퉈", \
+    9801: "퉉", \
+    9802: "퉊", \
+    9803: "퉋", \
+    9804: "퉌", \
+    9805: "퉍", \
+    9806: "퉎", \
+    9807: "퉏", \
+    9808: "퉐", \
+    9809: "퉑", \
+    9810: "퉒", \
+    9811: "퉓", \
+    9812: "퉔", \
+    9813: "퉕", \
+    9814: "퉖", \
+    9815: "퉗", \
+    9816: "퉘", \
+    9817: "퉙", \
+    9818: "퉚", \
+    9819: "퉛", \
+    9820: "퉜", \
+    9821: "퉝", \
+    9822: "퉞", \
+    9823: "퉟", \
+    9824: "퉠", \
+    9825: "퉡", \
+    9826: "퉢", \
+    9827: "퉣", \
+    9828: "퉤", \
+    9829: "퉥", \
+    9830: "퉦", \
+    9831: "퉧", \
+    9832: "퉨", \
+    9833: "퉩", \
+    9834: "퉪", \
+    9835: "퉫", \
+    9836: "퉬", \
+    9837: "퉭", \
+    9838: "퉮", \
+    9839: "퉯", \
+    9840: "퉰", \
+    9841: "퉱", \
+    9842: "퉲", \
+    9843: "퉳", \
+    9844: "퉴", \
+    9845: "퉵", \
+    9846: "퉶", \
+    9847: "퉷", \
+    9848: "퉸", \
+    9849: "퉹", \
+    9850: "퉺", \
+    9851: "퉻", \
+    9852: "퉼", \
+    9853: "퉽", \
+    9854: "퉾", \
+    9855: "퉿", \
+    9856: "튀", \
+    9857: "튁", \
+    9858: "튂", \
+    9859: "튃", \
+    9860: "튄", \
+    9861: "튅", \
+    9862: "튆", \
+    9863: "튇", \
+    9864: "튈", \
+    9865: "튉", \
+    9866: "튊", \
+    9867: "튋", \
+    9868: "튌", \
+    9869: "튍", \
+    9870: "튎", \
+    9871: "튏", \
+    9872: "튐", \
+    9873: "튑", \
+    9874: "튒", \
+    9875: "튓", \
+    9876: "튔", \
+    9877: "튕", \
+    9878: "튖", \
+    9879: "튗", \
+    9880: "튘", \
+    9881: "튙", \
+    9882: "튚", \
+    9883: "튛", \
+    9884: "튜", \
+    9885: "튝", \
+    9886: "튞", \
+    9887: "튟", \
+    9888: "튠", \
+    9889: "튡", \
+    9890: "튢", \
+    9891: "튣", \
+    9892: "튤", \
+    9893: "튥", \
+    9894: "튦", \
+    9895: "튧", \
+    9896: "튨", \
+    9897: "튩", \
+    9898: "튪", \
+    9899: "튫", \
+    9900: "튬", \
+    9901: "튭", \
+    9902: "튮", \
+    9903: "튯", \
+    9904: "튰", \
+    9905: "튱", \
+    9906: "튲", \
+    9907: "튳", \
+    9908: "튴", \
+    9909: "튵", \
+    9910: "튶", \
+    9911: "튷", \
+    9912: "트", \
+    9913: "특", \
+    9914: "튺", \
+    9915: "튻", \
+    9916: "튼", \
+    9917: "튽", \
+    9918: "튾", \
+    9919: "튿", \
+    9920: "틀", \
+    9921: "틁", \
+    9922: "틂", \
+    9923: "틃", \
+    9924: "틄", \
+    9925: "틅", \
+    9926: "틆", \
+    9927: "틇", \
+    9928: "틈", \
+    9929: "틉", \
+    9930: "틊", \
+    9931: "틋", \
+    9932: "틌", \
+    9933: "틍", \
+    9934: "틎", \
+    9935: "틏", \
+    9936: "틐", \
+    9937: "틑", \
+    9938: "틒", \
+    9939: "틓", \
+    9940: "틔", \
+    9941: "틕", \
+    9942: "틖", \
+    9943: "틗", \
+    9944: "틘", \
+    9945: "틙", \
+    9946: "틚", \
+    9947: "틛", \
+    9948: "틜", \
+    9949: "틝", \
+    9950: "틞", \
+    9951: "틟", \
+    9952: "틠", \
+    9953: "틡", \
+    9954: "틢", \
+    9955: "틣", \
+    9956: "틤", \
+    9957: "틥", \
+    9958: "틦", \
+    9959: "틧", \
+    9960: "틨", \
+    9961: "틩", \
+    9962: "틪", \
+    9963: "틫", \
+    9964: "틬", \
+    9965: "틭", \
+    9966: "틮", \
+    9967: "틯", \
+    9968: "티", \
+    9969: "틱", \
+    9970: "틲", \
+    9971: "틳", \
+    9972: "틴", \
+    9973: "틵", \
+    9974: "틶", \
+    9975: "틷", \
+    9976: "틸", \
+    9977: "틹", \
+    9978: "틺", \
+    9979: "틻", \
+    9980: "틼", \
+    9981: "틽", \
+    9982: "틾", \
+    9983: "틿", \
+    9984: "팀", \
+    9985: "팁", \
+    9986: "팂", \
+    9987: "팃", \
+    9988: "팄", \
+    9989: "팅", \
+    9990: "팆", \
+    9991: "팇", \
+    9992: "팈", \
+    9993: "팉", \
+    9994: "팊", \
+    9995: "팋", \
+    9996: "파", \
+    9997: "팍", \
+    9998: "팎", \
+    9999: "팏", \
+    10000: "판", \
+    10001: "팑", \
+    10002: "팒", \
+    10003: "팓", \
+    10004: "팔", \
+    10005: "팕", \
+    10006: "팖", \
+    10007: "팗", \
+    10008: "팘", \
+    10009: "팙", \
+    10010: "팚", \
+    10011: "팛", \
+    10012: "팜", \
+    10013: "팝", \
+    10014: "팞", \
+    10015: "팟", \
+    10016: "팠", \
+    10017: "팡", \
+    10018: "팢", \
+    10019: "팣", \
+    10020: "팤", \
+    10021: "팥", \
+    10022: "팦", \
+    10023: "팧", \
+    10024: "패", \
+    10025: "팩", \
+    10026: "팪", \
+    10027: "팫", \
+    10028: "팬", \
+    10029: "팭", \
+    10030: "팮", \
+    10031: "팯", \
+    10032: "팰", \
+    10033: "팱", \
+    10034: "팲", \
+    10035: "팳", \
+    10036: "팴", \
+    10037: "팵", \
+    10038: "팶", \
+    10039: "팷", \
+    10040: "팸", \
+    10041: "팹", \
+    10042: "팺", \
+    10043: "팻", \
+    10044: "팼", \
+    10045: "팽", \
+    10046: "팾", \
+    10047: "팿", \
+    10048: "퍀", \
+    10049: "퍁", \
+    10050: "퍂", \
+    10051: "퍃", \
+    10052: "퍄", \
+    10053: "퍅", \
+    10054: "퍆", \
+    10055: "퍇", \
+    10056: "퍈", \
+    10057: "퍉", \
+    10058: "퍊", \
+    10059: "퍋", \
+    10060: "퍌", \
+    10061: "퍍", \
+    10062: "퍎", \
+    10063: "퍏", \
+    10064: "퍐", \
+    10065: "퍑", \
+    10066: "퍒", \
+    10067: "퍓", \
+    10068: "퍔", \
+    10069: "퍕", \
+    10070: "퍖", \
+    10071: "퍗", \
+    10072: "퍘", \
+    10073: "퍙", \
+    10074: "퍚", \
+    10075: "퍛", \
+    10076: "퍜", \
+    10077: "퍝", \
+    10078: "퍞", \
+    10079: "퍟", \
+    10080: "퍠", \
+    10081: "퍡", \
+    10082: "퍢", \
+    10083: "퍣", \
+    10084: "퍤", \
+    10085: "퍥", \
+    10086: "퍦", \
+    10087: "퍧", \
+    10088: "퍨", \
+    10089: "퍩", \
+    10090: "퍪", \
+    10091: "퍫", \
+    10092: "퍬", \
+    10093: "퍭", \
+    10094: "퍮", \
+    10095: "퍯", \
+    10096: "퍰", \
+    10097: "퍱", \
+    10098: "퍲", \
+    10099: "퍳", \
+    10100: "퍴", \
+    10101: "퍵", \
+    10102: "퍶", \
+    10103: "퍷", \
+    10104: "퍸", \
+    10105: "퍹", \
+    10106: "퍺", \
+    10107: "퍻", \
+    10108: "퍼", \
+    10109: "퍽", \
+    10110: "퍾", \
+    10111: "퍿", \
+    10112: "펀", \
+    10113: "펁", \
+    10114: "펂", \
+    10115: "펃", \
+    10116: "펄", \
+    10117: "펅", \
+    10118: "펆", \
+    10119: "펇", \
+    10120: "펈", \
+    10121: "펉", \
+    10122: "펊", \
+    10123: "펋", \
+    10124: "펌", \
+    10125: "펍", \
+    10126: "펎", \
+    10127: "펏", \
+    10128: "펐", \
+    10129: "펑", \
+    10130: "펒", \
+    10131: "펓", \
+    10132: "펔", \
+    10133: "펕", \
+    10134: "펖", \
+    10135: "펗", \
+    10136: "페", \
+    10137: "펙", \
+    10138: "펚", \
+    10139: "펛", \
+    10140: "펜", \
+    10141: "펝", \
+    10142: "펞", \
+    10143: "펟", \
+    10144: "펠", \
+    10145: "펡", \
+    10146: "펢", \
+    10147: "펣", \
+    10148: "펤", \
+    10149: "펥", \
+    10150: "펦", \
+    10151: "펧", \
+    10152: "펨", \
+    10153: "펩", \
+    10154: "펪", \
+    10155: "펫", \
+    10156: "펬", \
+    10157: "펭", \
+    10158: "펮", \
+    10159: "펯", \
+    10160: "펰", \
+    10161: "펱", \
+    10162: "펲", \
+    10163: "펳", \
+    10164: "펴", \
+    10165: "펵", \
+    10166: "펶", \
+    10167: "펷", \
+    10168: "편", \
+    10169: "펹", \
+    10170: "펺", \
+    10171: "펻", \
+    10172: "펼", \
+    10173: "펽", \
+    10174: "펾", \
+    10175: "펿", \
+    10176: "폀", \
+    10177: "폁", \
+    10178: "폂", \
+    10179: "폃", \
+    10180: "폄", \
+    10181: "폅", \
+    10182: "폆", \
+    10183: "폇", \
+    10184: "폈", \
+    10185: "평", \
+    10186: "폊", \
+    10187: "폋", \
+    10188: "폌", \
+    10189: "폍", \
+    10190: "폎", \
+    10191: "폏", \
+    10192: "폐", \
+    10193: "폑", \
+    10194: "폒", \
+    10195: "폓", \
+    10196: "폔", \
+    10197: "폕", \
+    10198: "폖", \
+    10199: "폗", \
+    10200: "폘", \
+    10201: "폙", \
+    10202: "폚", \
+    10203: "폛", \
+    10204: "폜", \
+    10205: "폝", \
+    10206: "폞", \
+    10207: "폟", \
+    10208: "폠", \
+    10209: "폡", \
+    10210: "폢", \
+    10211: "폣", \
+    10212: "폤", \
+    10213: "폥", \
+    10214: "폦", \
+    10215: "폧", \
+    10216: "폨", \
+    10217: "폩", \
+    10218: "폪", \
+    10219: "폫", \
+    10220: "포", \
+    10221: "폭", \
+    10222: "폮", \
+    10223: "폯", \
+    10224: "폰", \
+    10225: "폱", \
+    10226: "폲", \
+    10227: "폳", \
+    10228: "폴", \
+    10229: "폵", \
+    10230: "폶", \
+    10231: "폷", \
+    10232: "폸", \
+    10233: "폹", \
+    10234: "폺", \
+    10235: "폻", \
+    10236: "폼", \
+    10237: "폽", \
+    10238: "폾", \
+    10239: "폿", \
+    10240: "퐀", \
+    10241: "퐁", \
+    10242: "퐂", \
+    10243: "퐃", \
+    10244: "퐄", \
+    10245: "퐅", \
+    10246: "퐆", \
+    10247: "퐇", \
+    10248: "퐈", \
+    10249: "퐉", \
+    10250: "퐊", \
+    10251: "퐋", \
+    10252: "퐌", \
+    10253: "퐍", \
+    10254: "퐎", \
+    10255: "퐏", \
+    10256: "퐐", \
+    10257: "퐑", \
+    10258: "퐒", \
+    10259: "퐓", \
+    10260: "퐔", \
+    10261: "퐕", \
+    10262: "퐖", \
+    10263: "퐗", \
+    10264: "퐘", \
+    10265: "퐙", \
+    10266: "퐚", \
+    10267: "퐛", \
+    10268: "퐜", \
+    10269: "퐝", \
+    10270: "퐞", \
+    10271: "퐟", \
+    10272: "퐠", \
+    10273: "퐡", \
+    10274: "퐢", \
+    10275: "퐣", \
+    10276: "퐤", \
+    10277: "퐥", \
+    10278: "퐦", \
+    10279: "퐧", \
+    10280: "퐨", \
+    10281: "퐩", \
+    10282: "퐪", \
+    10283: "퐫", \
+    10284: "퐬", \
+    10285: "퐭", \
+    10286: "퐮", \
+    10287: "퐯", \
+    10288: "퐰", \
+    10289: "퐱", \
+    10290: "퐲", \
+    10291: "퐳", \
+    10292: "퐴", \
+    10293: "퐵", \
+    10294: "퐶", \
+    10295: "퐷", \
+    10296: "퐸", \
+    10297: "퐹", \
+    10298: "퐺", \
+    10299: "퐻", \
+    10300: "퐼", \
+    10301: "퐽", \
+    10302: "퐾", \
+    10303: "퐿", \
+    10304: "푀", \
+    10305: "푁", \
+    10306: "푂", \
+    10307: "푃", \
+    10308: "푄", \
+    10309: "푅", \
+    10310: "푆", \
+    10311: "푇", \
+    10312: "푈", \
+    10313: "푉", \
+    10314: "푊", \
+    10315: "푋", \
+    10316: "푌", \
+    10317: "푍", \
+    10318: "푎", \
+    10319: "푏", \
+    10320: "푐", \
+    10321: "푑", \
+    10322: "푒", \
+    10323: "푓", \
+    10324: "푔", \
+    10325: "푕", \
+    10326: "푖", \
+    10327: "푗", \
+    10328: "푘", \
+    10329: "푙", \
+    10330: "푚", \
+    10331: "푛", \
+    10332: "표", \
+    10333: "푝", \
+    10334: "푞", \
+    10335: "푟", \
+    10336: "푠", \
+    10337: "푡", \
+    10338: "푢", \
+    10339: "푣", \
+    10340: "푤", \
+    10341: "푥", \
+    10342: "푦", \
+    10343: "푧", \
+    10344: "푨", \
+    10345: "푩", \
+    10346: "푪", \
+    10347: "푫", \
+    10348: "푬", \
+    10349: "푭", \
+    10350: "푮", \
+    10351: "푯", \
+    10352: "푰", \
+    10353: "푱", \
+    10354: "푲", \
+    10355: "푳", \
+    10356: "푴", \
+    10357: "푵", \
+    10358: "푶", \
+    10359: "푷", \
+    10360: "푸", \
+    10361: "푹", \
+    10362: "푺", \
+    10363: "푻", \
+    10364: "푼", \
+    10365: "푽", \
+    10366: "푾", \
+    10367: "푿", \
+    10368: "풀", \
+    10369: "풁", \
+    10370: "풂", \
+    10371: "풃", \
+    10372: "풄", \
+    10373: "풅", \
+    10374: "풆", \
+    10375: "풇", \
+    10376: "품", \
+    10377: "풉", \
+    10378: "풊", \
+    10379: "풋", \
+    10380: "풌", \
+    10381: "풍", \
+    10382: "풎", \
+    10383: "풏", \
+    10384: "풐", \
+    10385: "풑", \
+    10386: "풒", \
+    10387: "풓", \
+    10388: "풔", \
+    10389: "풕", \
+    10390: "풖", \
+    10391: "풗", \
+    10392: "풘", \
+    10393: "풙", \
+    10394: "풚", \
+    10395: "풛", \
+    10396: "풜", \
+    10397: "풝", \
+    10398: "풞", \
+    10399: "풟", \
+    10400: "풠", \
+    10401: "풡", \
+    10402: "풢", \
+    10403: "풣", \
+    10404: "풤", \
+    10405: "풥", \
+    10406: "풦", \
+    10407: "풧", \
+    10408: "풨", \
+    10409: "풩", \
+    10410: "풪", \
+    10411: "풫", \
+    10412: "풬", \
+    10413: "풭", \
+    10414: "풮", \
+    10415: "풯", \
+    10416: "풰", \
+    10417: "풱", \
+    10418: "풲", \
+    10419: "풳", \
+    10420: "풴", \
+    10421: "풵", \
+    10422: "풶", \
+    10423: "풷", \
+    10424: "풸", \
+    10425: "풹", \
+    10426: "풺", \
+    10427: "풻", \
+    10428: "풼", \
+    10429: "풽", \
+    10430: "풾", \
+    10431: "풿", \
+    10432: "퓀", \
+    10433: "퓁", \
+    10434: "퓂", \
+    10435: "퓃", \
+    10436: "퓄", \
+    10437: "퓅", \
+    10438: "퓆", \
+    10439: "퓇", \
+    10440: "퓈", \
+    10441: "퓉", \
+    10442: "퓊", \
+    10443: "퓋", \
+    10444: "퓌", \
+    10445: "퓍", \
+    10446: "퓎", \
+    10447: "퓏", \
+    10448: "퓐", \
+    10449: "퓑", \
+    10450: "퓒", \
+    10451: "퓓", \
+    10452: "퓔", \
+    10453: "퓕", \
+    10454: "퓖", \
+    10455: "퓗", \
+    10456: "퓘", \
+    10457: "퓙", \
+    10458: "퓚", \
+    10459: "퓛", \
+    10460: "퓜", \
+    10461: "퓝", \
+    10462: "퓞", \
+    10463: "퓟", \
+    10464: "퓠", \
+    10465: "퓡", \
+    10466: "퓢", \
+    10467: "퓣", \
+    10468: "퓤", \
+    10469: "퓥", \
+    10470: "퓦", \
+    10471: "퓧", \
+    10472: "퓨", \
+    10473: "퓩", \
+    10474: "퓪", \
+    10475: "퓫", \
+    10476: "퓬", \
+    10477: "퓭", \
+    10478: "퓮", \
+    10479: "퓯", \
+    10480: "퓰", \
+    10481: "퓱", \
+    10482: "퓲", \
+    10483: "퓳", \
+    10484: "퓴", \
+    10485: "퓵", \
+    10486: "퓶", \
+    10487: "퓷", \
+    10488: "퓸", \
+    10489: "퓹", \
+    10490: "퓺", \
+    10491: "퓻", \
+    10492: "퓼", \
+    10493: "퓽", \
+    10494: "퓾", \
+    10495: "퓿", \
+    10496: "픀", \
+    10497: "픁", \
+    10498: "픂", \
+    10499: "픃", \
+    10500: "프", \
+    10501: "픅", \
+    10502: "픆", \
+    10503: "픇", \
+    10504: "픈", \
+    10505: "픉", \
+    10506: "픊", \
+    10507: "픋", \
+    10508: "플", \
+    10509: "픍", \
+    10510: "픎", \
+    10511: "픏", \
+    10512: "픐", \
+    10513: "픑", \
+    10514: "픒", \
+    10515: "픓", \
+    10516: "픔", \
+    10517: "픕", \
+    10518: "픖", \
+    10519: "픗", \
+    10520: "픘", \
+    10521: "픙", \
+    10522: "픚", \
+    10523: "픛", \
+    10524: "픜", \
+    10525: "픝", \
+    10526: "픞", \
+    10527: "픟", \
+    10528: "픠", \
+    10529: "픡", \
+    10530: "픢", \
+    10531: "픣", \
+    10532: "픤", \
+    10533: "픥", \
+    10534: "픦", \
+    10535: "픧", \
+    10536: "픨", \
+    10537: "픩", \
+    10538: "픪", \
+    10539: "픫", \
+    10540: "픬", \
+    10541: "픭", \
+    10542: "픮", \
+    10543: "픯", \
+    10544: "픰", \
+    10545: "픱", \
+    10546: "픲", \
+    10547: "픳", \
+    10548: "픴", \
+    10549: "픵", \
+    10550: "픶", \
+    10551: "픷", \
+    10552: "픸", \
+    10553: "픹", \
+    10554: "픺", \
+    10555: "픻", \
+    10556: "피", \
+    10557: "픽", \
+    10558: "픾", \
+    10559: "픿", \
+    10560: "핀", \
+    10561: "핁", \
+    10562: "핂", \
+    10563: "핃", \
+    10564: "필", \
+    10565: "핅", \
+    10566: "핆", \
+    10567: "핇", \
+    10568: "핈", \
+    10569: "핉", \
+    10570: "핊", \
+    10571: "핋", \
+    10572: "핌", \
+    10573: "핍", \
+    10574: "핎", \
+    10575: "핏", \
+    10576: "핐", \
+    10577: "핑", \
+    10578: "핒", \
+    10579: "핓", \
+    10580: "핔", \
+    10581: "핕", \
+    10582: "핖", \
+    10583: "핗", \
+    10584: "하", \
+    10585: "학", \
+    10586: "핚", \
+    10587: "핛", \
+    10588: "한", \
+    10589: "핝", \
+    10590: "핞", \
+    10591: "핟", \
+    10592: "할", \
+    10593: "핡", \
+    10594: "핢", \
+    10595: "핣", \
+    10596: "핤", \
+    10597: "핥", \
+    10598: "핦", \
+    10599: "핧", \
+    10600: "함", \
+    10601: "합", \
+    10602: "핪", \
+    10603: "핫", \
+    10604: "핬", \
+    10605: "항", \
+    10606: "핮", \
+    10607: "핯", \
+    10608: "핰", \
+    10609: "핱", \
+    10610: "핲", \
+    10611: "핳", \
+    10612: "해", \
+    10613: "핵", \
+    10614: "핶", \
+    10615: "핷", \
+    10616: "핸", \
+    10617: "핹", \
+    10618: "핺", \
+    10619: "핻", \
+    10620: "핼", \
+    10621: "핽", \
+    10622: "핾", \
+    10623: "핿", \
+    10624: "햀", \
+    10625: "햁", \
+    10626: "햂", \
+    10627: "햃", \
+    10628: "햄", \
+    10629: "햅", \
+    10630: "햆", \
+    10631: "햇", \
+    10632: "했", \
+    10633: "행", \
+    10634: "햊", \
+    10635: "햋", \
+    10636: "햌", \
+    10637: "햍", \
+    10638: "햎", \
+    10639: "햏", \
+    10640: "햐", \
+    10641: "햑", \
+    10642: "햒", \
+    10643: "햓", \
+    10644: "햔", \
+    10645: "햕", \
+    10646: "햖", \
+    10647: "햗", \
+    10648: "햘", \
+    10649: "햙", \
+    10650: "햚", \
+    10651: "햛", \
+    10652: "햜", \
+    10653: "햝", \
+    10654: "햞", \
+    10655: "햟", \
+    10656: "햠", \
+    10657: "햡", \
+    10658: "햢", \
+    10659: "햣", \
+    10660: "햤", \
+    10661: "향", \
+    10662: "햦", \
+    10663: "햧", \
+    10664: "햨", \
+    10665: "햩", \
+    10666: "햪", \
+    10667: "햫", \
+    10668: "햬", \
+    10669: "햭", \
+    10670: "햮", \
+    10671: "햯", \
+    10672: "햰", \
+    10673: "햱", \
+    10674: "햲", \
+    10675: "햳", \
+    10676: "햴", \
+    10677: "햵", \
+    10678: "햶", \
+    10679: "햷", \
+    10680: "햸", \
+    10681: "햹", \
+    10682: "햺", \
+    10683: "햻", \
+    10684: "햼", \
+    10685: "햽", \
+    10686: "햾", \
+    10687: "햿", \
+    10688: "헀", \
+    10689: "헁", \
+    10690: "헂", \
+    10691: "헃", \
+    10692: "헄", \
+    10693: "헅", \
+    10694: "헆", \
+    10695: "헇", \
+    10696: "허", \
+    10697: "헉", \
+    10698: "헊", \
+    10699: "헋", \
+    10700: "헌", \
+    10701: "헍", \
+    10702: "헎", \
+    10703: "헏", \
+    10704: "헐", \
+    10705: "헑", \
+    10706: "헒", \
+    10707: "헓", \
+    10708: "헔", \
+    10709: "헕", \
+    10710: "헖", \
+    10711: "헗", \
+    10712: "험", \
+    10713: "헙", \
+    10714: "헚", \
+    10715: "헛", \
+    10716: "헜", \
+    10717: "헝", \
+    10718: "헞", \
+    10719: "헟", \
+    10720: "헠", \
+    10721: "헡", \
+    10722: "헢", \
+    10723: "헣", \
+    10724: "헤", \
+    10725: "헥", \
+    10726: "헦", \
+    10727: "헧", \
+    10728: "헨", \
+    10729: "헩", \
+    10730: "헪", \
+    10731: "헫", \
+    10732: "헬", \
+    10733: "헭", \
+    10734: "헮", \
+    10735: "헯", \
+    10736: "헰", \
+    10737: "헱", \
+    10738: "헲", \
+    10739: "헳", \
+    10740: "헴", \
+    10741: "헵", \
+    10742: "헶", \
+    10743: "헷", \
+    10744: "헸", \
+    10745: "헹", \
+    10746: "헺", \
+    10747: "헻", \
+    10748: "헼", \
+    10749: "헽", \
+    10750: "헾", \
+    10751: "헿", \
+    10752: "혀", \
+    10753: "혁", \
+    10754: "혂", \
+    10755: "혃", \
+    10756: "현", \
+    10757: "혅", \
+    10758: "혆", \
+    10759: "혇", \
+    10760: "혈", \
+    10761: "혉", \
+    10762: "혊", \
+    10763: "혋", \
+    10764: "혌", \
+    10765: "혍", \
+    10766: "혎", \
+    10767: "혏", \
+    10768: "혐", \
+    10769: "협", \
+    10770: "혒", \
+    10771: "혓", \
+    10772: "혔", \
+    10773: "형", \
+    10774: "혖", \
+    10775: "혗", \
+    10776: "혘", \
+    10777: "혙", \
+    10778: "혚", \
+    10779: "혛", \
+    10780: "혜", \
+    10781: "혝", \
+    10782: "혞", \
+    10783: "혟", \
+    10784: "혠", \
+    10785: "혡", \
+    10786: "혢", \
+    10787: "혣", \
+    10788: "혤", \
+    10789: "혥", \
+    10790: "혦", \
+    10791: "혧", \
+    10792: "혨", \
+    10793: "혩", \
+    10794: "혪", \
+    10795: "혫", \
+    10796: "혬", \
+    10797: "혭", \
+    10798: "혮", \
+    10799: "혯", \
+    10800: "혰", \
+    10801: "혱", \
+    10802: "혲", \
+    10803: "혳", \
+    10804: "혴", \
+    10805: "혵", \
+    10806: "혶", \
+    10807: "혷", \
+    10808: "호", \
+    10809: "혹", \
+    10810: "혺", \
+    10811: "혻", \
+    10812: "혼", \
+    10813: "혽", \
+    10814: "혾", \
+    10815: "혿", \
+    10816: "홀", \
+    10817: "홁", \
+    10818: "홂", \
+    10819: "홃", \
+    10820: "홄", \
+    10821: "홅", \
+    10822: "홆", \
+    10823: "홇", \
+    10824: "홈", \
+    10825: "홉", \
+    10826: "홊", \
+    10827: "홋", \
+    10828: "홌", \
+    10829: "홍", \
+    10830: "홎", \
+    10831: "홏", \
+    10832: "홐", \
+    10833: "홑", \
+    10834: "홒", \
+    10835: "홓", \
+    10836: "화", \
+    10837: "확", \
+    10838: "홖", \
+    10839: "홗", \
+    10840: "환", \
+    10841: "홙", \
+    10842: "홚", \
+    10843: "홛", \
+    10844: "활", \
+    10845: "홝", \
+    10846: "홞", \
+    10847: "홟", \
+    10848: "홠", \
+    10849: "홡", \
+    10850: "홢", \
+    10851: "홣", \
+    10852: "홤", \
+    10853: "홥", \
+    10854: "홦", \
+    10855: "홧", \
+    10856: "홨", \
+    10857: "황", \
+    10858: "홪", \
+    10859: "홫", \
+    10860: "홬", \
+    10861: "홭", \
+    10862: "홮", \
+    10863: "홯", \
+    10864: "홰", \
+    10865: "홱", \
+    10866: "홲", \
+    10867: "홳", \
+    10868: "홴", \
+    10869: "홵", \
+    10870: "홶", \
+    10871: "홷", \
+    10872: "홸", \
+    10873: "홹", \
+    10874: "홺", \
+    10875: "홻", \
+    10876: "홼", \
+    10877: "홽", \
+    10878: "홾", \
+    10879: "홿", \
+    10880: "횀", \
+    10881: "횁", \
+    10882: "횂", \
+    10883: "횃", \
+    10884: "횄", \
+    10885: "횅", \
+    10886: "횆", \
+    10887: "횇", \
+    10888: "횈", \
+    10889: "횉", \
+    10890: "횊", \
+    10891: "횋", \
+    10892: "회", \
+    10893: "획", \
+    10894: "횎", \
+    10895: "횏", \
+    10896: "횐", \
+    10897: "횑", \
+    10898: "횒", \
+    10899: "횓", \
+    10900: "횔", \
+    10901: "횕", \
+    10902: "횖", \
+    10903: "횗", \
+    10904: "횘", \
+    10905: "횙", \
+    10906: "횚", \
+    10907: "횛", \
+    10908: "횜", \
+    10909: "횝", \
+    10910: "횞", \
+    10911: "횟", \
+    10912: "횠", \
+    10913: "횡", \
+    10914: "횢", \
+    10915: "횣", \
+    10916: "횤", \
+    10917: "횥", \
+    10918: "횦", \
+    10919: "횧", \
+    10920: "효", \
+    10921: "횩", \
+    10922: "횪", \
+    10923: "횫", \
+    10924: "횬", \
+    10925: "횭", \
+    10926: "횮", \
+    10927: "횯", \
+    10928: "횰", \
+    10929: "횱", \
+    10930: "횲", \
+    10931: "횳", \
+    10932: "횴", \
+    10933: "횵", \
+    10934: "횶", \
+    10935: "횷", \
+    10936: "횸", \
+    10937: "횹", \
+    10938: "횺", \
+    10939: "횻", \
+    10940: "횼", \
+    10941: "횽", \
+    10942: "횾", \
+    10943: "횿", \
+    10944: "훀", \
+    10945: "훁", \
+    10946: "훂", \
+    10947: "훃", \
+    10948: "후", \
+    10949: "훅", \
+    10950: "훆", \
+    10951: "훇", \
+    10952: "훈", \
+    10953: "훉", \
+    10954: "훊", \
+    10955: "훋", \
+    10956: "훌", \
+    10957: "훍", \
+    10958: "훎", \
+    10959: "훏", \
+    10960: "훐", \
+    10961: "훑", \
+    10962: "훒", \
+    10963: "훓", \
+    10964: "훔", \
+    10965: "훕", \
+    10966: "훖", \
+    10967: "훗", \
+    10968: "훘", \
+    10969: "훙", \
+    10970: "훚", \
+    10971: "훛", \
+    10972: "훜", \
+    10973: "훝", \
+    10974: "훞", \
+    10975: "훟", \
+    10976: "훠", \
+    10977: "훡", \
+    10978: "훢", \
+    10979: "훣", \
+    10980: "훤", \
+    10981: "훥", \
+    10982: "훦", \
+    10983: "훧", \
+    10984: "훨", \
+    10985: "훩", \
+    10986: "훪", \
+    10987: "훫", \
+    10988: "훬", \
+    10989: "훭", \
+    10990: "훮", \
+    10991: "훯", \
+    10992: "훰", \
+    10993: "훱", \
+    10994: "훲", \
+    10995: "훳", \
+    10996: "훴", \
+    10997: "훵", \
+    10998: "훶", \
+    10999: "훷", \
+    11000: "훸", \
+    11001: "훹", \
+    11002: "훺", \
+    11003: "훻", \
+    11004: "훼", \
+    11005: "훽", \
+    11006: "훾", \
+    11007: "훿", \
+    11008: "휀", \
+    11009: "휁", \
+    11010: "휂", \
+    11011: "휃", \
+    11012: "휄", \
+    11013: "휅", \
+    11014: "휆", \
+    11015: "휇", \
+    11016: "휈", \
+    11017: "휉", \
+    11018: "휊", \
+    11019: "휋", \
+    11020: "휌", \
+    11021: "휍", \
+    11022: "휎", \
+    11023: "휏", \
+    11024: "휐", \
+    11025: "휑", \
+    11026: "휒", \
+    11027: "휓", \
+    11028: "휔", \
+    11029: "휕", \
+    11030: "휖", \
+    11031: "휗", \
+    11032: "휘", \
+    11033: "휙", \
+    11034: "휚", \
+    11035: "휛", \
+    11036: "휜", \
+    11037: "휝", \
+    11038: "휞", \
+    11039: "휟", \
+    11040: "휠", \
+    11041: "휡", \
+    11042: "휢", \
+    11043: "휣", \
+    11044: "휤", \
+    11045: "휥", \
+    11046: "휦", \
+    11047: "휧", \
+    11048: "휨", \
+    11049: "휩", \
+    11050: "휪", \
+    11051: "휫", \
+    11052: "휬", \
+    11053: "휭", \
+    11054: "휮", \
+    11055: "휯", \
+    11056: "휰", \
+    11057: "휱", \
+    11058: "휲", \
+    11059: "휳", \
+    11060: "휴", \
+    11061: "휵", \
+    11062: "휶", \
+    11063: "휷", \
+    11064: "휸", \
+    11065: "휹", \
+    11066: "휺", \
+    11067: "휻", \
+    11068: "휼", \
+    11069: "휽", \
+    11070: "휾", \
+    11071: "휿", \
+    11072: "흀", \
+    11073: "흁", \
+    11074: "흂", \
+    11075: "흃", \
+    11076: "흄", \
+    11077: "흅", \
+    11078: "흆", \
+    11079: "흇", \
+    11080: "흈", \
+    11081: "흉", \
+    11082: "흊", \
+    11083: "흋", \
+    11084: "흌", \
+    11085: "흍", \
+    11086: "흎", \
+    11087: "흏", \
+    11088: "흐", \
+    11089: "흑", \
+    11090: "흒", \
+    11091: "흓", \
+    11092: "흔", \
+    11093: "흕", \
+    11094: "흖", \
+    11095: "흗", \
+    11096: "흘", \
+    11097: "흙", \
+    11098: "흚", \
+    11099: "흛", \
+    11100: "흜", \
+    11101: "흝", \
+    11102: "흞", \
+    11103: "흟", \
+    11104: "흠", \
+    11105: "흡", \
+    11106: "흢", \
+    11107: "흣", \
+    11108: "흤", \
+    11109: "흥", \
+    11110: "흦", \
+    11111: "흧", \
+    11112: "흨", \
+    11113: "흩", \
+    11114: "흪", \
+    11115: "흫", \
+    11116: "희", \
+    11117: "흭", \
+    11118: "흮", \
+    11119: "흯", \
+    11120: "흰", \
+    11121: "흱", \
+    11122: "흲", \
+    11123: "흳", \
+    11124: "흴", \
+    11125: "흵", \
+    11126: "흶", \
+    11127: "흷", \
+    11128: "흸", \
+    11129: "흹", \
+    11130: "흺", \
+    11131: "흻", \
+    11132: "흼", \
+    11133: "흽", \
+    11134: "흾", \
+    11135: "흿", \
+    11136: "힀", \
+    11137: "힁", \
+    11138: "힂", \
+    11139: "힃", \
+    11140: "힄", \
+    11141: "힅", \
+    11142: "힆", \
+    11143: "힇", \
+}
 
 scoreboard players set #is_char_list_built hangul.status 1

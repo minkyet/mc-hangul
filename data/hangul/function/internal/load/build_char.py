@@ -10,3 +10,4 @@ end = ord("힇")
 with open(output_path, "w", encoding="utf-8") as f:
     for code in range(start, end + 1):
         f.write(f"scoreboard players set #{chr(code)} hangul.char {code}\n")
+    f.write(f"\nscoreboard players set #is_built hangul.status 1")

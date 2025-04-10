@@ -24,4 +24,4 @@ data modify storage hangul:temp input.jungseong set from storage hangul: out
 data modify storage hangul:temp input.options set value {}
 function hangul:combine_character with storage hangul:temp input
 
-data remove storage hangul:temp remove_last_alphabet
+# data remove storage hangul:temp remove_last_alphabet

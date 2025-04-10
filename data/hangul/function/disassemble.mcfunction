@@ -19,10 +19,11 @@ $function hangul:internal/utils/split {str:"$(str)"}
 data modify storage hangul:temp disassemble.split_str set from storage hangul: out
 
 ## disassemble characters by iteration
-function hangul:internal/disassemble/iteration
+execute if data storage hangul:temp disassemble.split_str[0] run \
+    function hangul:internal/disassemble/iteration
 
 ## set output
 data modify storage hangul: out set from storage hangul:temp disassemble.result
 
 ## remove temp data
-# data remove storage hangul:temp disassemble
+data remove storage hangul:temp disassemble

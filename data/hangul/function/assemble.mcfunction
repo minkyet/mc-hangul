@@ -13,6 +13,8 @@
 #   /function THIS {array:["ㅁ", "ㅔ", "ㅁ", "ㅣ", "ㄹ", "ㄲ", "ㅗ", "ㅊ"]} # 메밀꽃
 
 $data modify storage hangul:temp assemble set value {array:$(array), result:""}
+execute unless data storage hangul:temp assemble.array[0] run \
+    return run function hangul:internal/assemble/return_blank
 
 # str = join(array)
 data modify storage hangul:temp input.array set from storage hangul:temp assemble.array
@@ -22,11 +24,10 @@ data modify storage hangul:temp assemble.str set from storage hangul: out
 data modify storage hangul:temp input.str set from storage hangul:temp assemble.str
 function hangul:disassemble with storage hangul:temp input
 data modify storage hangul:temp assemble.disassembled set from storage hangul: out
-data modify storage hangul:temp assemble.disassembled_temp set from storage hangul: out
 
-## result = disassembled.reduce(binaryAssemble);
+## result = disassembled.reduce(binaryAssemble)
 function hangul:internal/assemble/loop
 # return result
 data modify storage hangul: out set from storage hangul:temp assemble.result
 
-# data remove storage hangul:temp assemble
+data remove storage hangul:temp assemble

@@ -7,4 +7,4 @@
 # @output
 #   storage hangul: out: string
 
-$data modify storage hangul: out set from storage hangul:const char[$(index)]
+$data modify storage hangul: out set from storage hangul:const char.$(index)

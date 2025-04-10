@@ -21,14 +21,13 @@ $function hangul:disassemble {str:"$(char)"}
 data modify storage hangul:temp remove_last_alphabet.disassembled_last_character set from storage hangul: out
 
 ## if last character not hangul: return ""
-data modify storage hangul:temp input.char set from \
+data remove storage hangul:return input
+data modify storage hangul:return input.is_hangul_alphabet.char set from \
     storage hangul:temp remove_last_alphabet.disassembled_last_character[0]
-execute store success score #is_hangul_alphabet hangul run \
-    function hangul:internal/utils/is_hangul_alphabet with storage hangul:temp input
-execute if score #is_hangul_alphabet hangul matches 0 run \
+execute unless function hangul:internal/return/is_hangul_alphabet run \
     data remove storage hangul:temp remove_last_alphabet
-execute if score #is_hangul_alphabet hangul matches 0 run \
-    return run data modify storage hangul: out set value ""
+execute unless function hangul:internal/return/is_hangul_alphabet run \
+    return run function hangul:internal/remove_last_character/remove_last_alphabet/return_blank
 
 ## last_character_without_last_alphabet = exclude_last_element(disassembled_last_character).rest
 data modify storage hangul:temp input.array set from storage hangul:temp remove_last_alphabet.disassembled_last_character

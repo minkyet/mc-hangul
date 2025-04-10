@@ -112,14 +112,3 @@ data modify storage hangul:const jongseong set value [ \
     {value: "ㅍ", index: 26}, \
     {value: "ㅎ", index: 27} \
 ]
-
-data modify storage hangul:const whitespace set value [ \
-    {value: ""}, \
-    {value: "\u0020"}, \
-    {value: "\u0009"}, \
-    {value: "\u000a"}, \
-    {value: "\u000b"}, \
-    {value: "\u000c"}, \
-    {value: "\u000d"}, \
-    {value: "\u00a0"} \
-]

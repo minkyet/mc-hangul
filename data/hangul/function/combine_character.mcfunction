@@ -15,7 +15,6 @@
 #   /function THIS {choseong:"ㄱ", jungseong:"ㅏ", options:{jongseong:"ㅂㅅ"}}   # 값
 #   /function THIS {choseong:"ㅌ", jungseong:"ㅗ", options:{}}   # 토
 
-data remove storage hangul:temp input
 data modify storage hangul: out set value "[HangulError]: 적절한 문자 조합이 아닙니다."
 
 ## set input
@@ -25,21 +24,15 @@ data modify storage hangul:temp combine_character.jongseong set from storage han
 execute unless data storage hangul:temp combine_character.jongseong run \
     data modify storage hangul:temp combine_character.jongseong set value ""
 
+
 ## check type
-data modify storage hangul:temp input.char set from storage hangul:temp combine_character.choseong
-execute store success score #can_be_choseong hangul run \
-    function hangul:can_be_choseong with storage hangul:temp input
-execute unless score #can_be_choseong hangul matches 1 run return fail
-
-data modify storage hangul:temp input.char set from storage hangul:temp combine_character.jungseong
-execute store success score #can_be_jungseong hangul run \
-    function hangul:can_be_jungseong with storage hangul:temp input
-execute unless score #can_be_jungseong hangul matches 1 run return fail
-
-data modify storage hangul:temp input.char set from storage hangul:temp combine_character.jongseong
-execute store success score #can_be_jongseong hangul run \
-    function hangul:can_be_jongseong with storage hangul:temp input
-execute unless score #can_be_jongseong hangul matches 1 run return fail
+data remove storage hangul:return input
+data modify storage hangul:return input.can_be_choseong.char set from storage hangul:temp combine_character.choseong
+execute unless function hangul:internal/return/can_be_choseong run return fail
+data modify storage hangul:return input.can_be_jungseong.char set from storage hangul:temp combine_character.jungseong
+execute unless function hangul:internal/return/can_be_jungseong run return fail
+data modify storage hangul:return input.can_be_jongseong.char set from storage hangul:temp combine_character.jongseong
+execute unless function hangul:internal/return/can_be_jongseong run return fail
 
 ## code calculation
 # get index

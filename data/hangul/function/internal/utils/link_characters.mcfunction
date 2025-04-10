@@ -14,17 +14,19 @@
 $data modify storage hangul:temp link_characters set value {source:"$(source)", next_char:"$(next_char)"}
 
 ## if is_hangul_alphabet(next_char) == 0: return binary_join(source, next_char)
-data modify storage hangul:temp input.char set from storage hangul:temp link_characters.next_char
-execute store success score #is_hangul_alphabet hangul run \
-    function hangul:internal/utils/is_hangul_alphabet with storage hangul:temp input
-execute if score #is_hangul_alphabet hangul matches 0 run \
-    data remove storage hangul:temp link_characters
-$execute if score #is_hangul_alphabet hangul matches 0 run \
-    return run function hangul:internal/utils/binary_join {str1:"$(source)", str2:"$(next_char)"}
+data modify storage hangul:return input.is_hangul_alphabet.char set from storage hangul:temp link_characters.next_char
+execute unless function hangul:internal/return/is_hangul_alphabet run \
+    return run function hangul:internal/utils/link_characters/return_join
 
-## source_jamo = disassemble(source)
-$function hangul:disassemble {str:"$(source)"}
-data modify storage hangul:temp link_characters.source_jamo set from storage hangul: out
+## source_jamo = ...disassemble_complete_character(source)
+
+$function hangul:disassemble_complete_character {char:"$(source)"}
+data modify storage hangul:temp link_characters.source_jamo set value []
+data modify storage hangul:temp link_characters.source_jamo append from storage hangul: out.choseong
+data modify storage hangul:temp link_characters.source_jamo append string storage hangul: out.jungseong 0 1
+data modify storage hangul:temp link_characters.source_jamo append string storage hangul: out.jungseong 1 2
+data modify storage hangul:temp link_characters.source_jamo append string storage hangul: out.jongseong 0 1
+data modify storage hangul:temp link_characters.source_jamo append string storage hangul: out.jongseong 1 2
 
 ## last_jamo = execlude_last_element(source_jamo).last
 data modify storage hangul:temp input.array set from \

@@ -11,8 +11,6 @@
 #   /function THIS {str:"만두"}     # 0
 #   /function THIS {str:"생닭"}      # 0
 
-data remove storage hangul:temp input
-
 ## get last char
 $data modify storage hangul:temp input.str set value "$(str)"
 data modify storage hangul:temp input.char set string storage hangul:temp input.str -1

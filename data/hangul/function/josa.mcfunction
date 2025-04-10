@@ -32,7 +32,6 @@
 #   와/과: 반대
 #   받침이 'ㄹ'이면서 '로-'조사임: 후자
 
-data remove storage hangul:temp input
 data modify storage hangul: out set value "[HangulError]: 적절한 조사 타입이 아닙니다."
 
 ## get #josa_code

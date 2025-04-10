@@ -13,18 +13,16 @@
 #   /function THIS {source_char:"ㅜ", next_char:"ㅠ"}   # ㅜㅠ
 
 ## vowel + vowel
-$execute store success score #can_be_jungseong hangul run \
-    function hangul:can_be_jungseong {char: "$(source_char)$(next_char)"}
-
-$execute if score #can_be_jungseong hangul matches 1 run \
+$data modify storage hangul:return input.can_be_jungseong set value {char: "$(source_char)$(next_char)"}
+$execute if function hangul:internal/return/can_be_jungseong run \
     return run function hangul:combine_vowels {vowel1:"$(source_char)", vowel2:"$(next_char)"}
 
 ## consonant + vowel
-$execute store success score #can_be_jungseong hangul run \
-    function hangul:can_be_jungseong {char: "$(next_char)"}
-$execute store success score #is_consonant_source hangul run \
-    function hangul:can_be_choseong {char: "$(source_char)"}
-$execute if score #is_consonant_source hangul matches 1 if score #can_be_jungseong hangul matches 1 run \
+$data modify storage hangul:return input.can_be_choseong set value {char: "$(source_char)"}
+$data modify storage hangul:return input.can_be_jungseong set value {char: "$(next_char)"}
+$execute \
+    if function hangul:internal/return/can_be_choseong \
+    if function hangul:internal/return/can_be_jungseong run \
     return run function hangul:combine_character {choseong:"$(source_char)", jungseong:"$(next_char)", options:{}}
 
 ## join
