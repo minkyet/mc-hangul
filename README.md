@@ -30,6 +30,4 @@ API로 제공되는 함수들을 사용하면 `storage hangul: out`에 결과가
 
 mc-hangul은 [MIT License](LICENSE)를 제공합니다.
 
--   출처/라이선스 표기
--   상업적/개인적 이용 가능
--   수정/배포 가능
+[pack.mcmeta](https://github.com/minkyet/mc-hangul/blob/master/pack.mcmeta)의 description이 출처 표기를 대신합니다.
